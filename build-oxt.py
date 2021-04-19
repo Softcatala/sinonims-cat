@@ -51,9 +51,7 @@ def parse_line(line):
 
    cleaned_line = line[(separator+1):]
    cleaned_line = re.sub ('\\\,', ';', cleaned_line)
-   cleaned_line = re.sub (' ?#TODO.*$', '', cleaned_line)
-   cleaned_line = re.sub (',? ?#separar.*$', '', cleaned_line)
-   cleaned_line = re.sub(',? ?\.\.\.*$', '', cleaned_line)
+   cleaned_line = re.sub (' ?#.*$', '', cleaned_line)
    cleaned_line = cleaned_line.replace('NOFEM', '')
    cleaned_line = re.sub('\( ', '(', cleaned_line)
    cleaned_line = re.sub(' \)', ')', cleaned_line)
