@@ -1,0 +1,1 @@
+java -jar /srv/sinonims.jar --config /srv/sinonims.cfg
