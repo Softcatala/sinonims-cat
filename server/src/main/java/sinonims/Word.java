@@ -10,7 +10,7 @@ class Word {
   public Word(String[] w, String femForm) {
     wordString = w[0];
     wordOriginalComment = w[1];
-    wordComment = wordOriginalComment.replaceAll("NOFEM", "").trim();
+    wordComment = wordOriginalComment.replaceAll("NOFEM", "").replaceFirst("FEM [^ ]+\\b","").trim();
     feminineForm = femForm;
   }
 

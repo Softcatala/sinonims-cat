@@ -73,6 +73,7 @@ public class Dictionary {
   private final static Pattern NOUNADJ = Pattern.compile("NCMS.*|A..MS.|V.P..SM.");
   private final static Pattern NOUN = Pattern.compile("NCMS.*");
   private final static Pattern ADJ = Pattern.compile("A..MS.|V.P..SM.");
+  private final static Pattern FEMININE_FORM = Pattern.compile("\\bFEM ([^ ]+)\\b");
 
   private static ThesaurusConfig conf;
 
@@ -483,39 +484,38 @@ public class Dictionary {
         mainDict.put(wlc, l);
       }
       // crea el secondDictIndex per a multiparaules
-      // if (wlc.contains(" ") || wlc.contains("'")) {
       List<String> allForms = getAllForms(wlc);
       // què dius, ara?
       if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-")) {
         String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "");
-        if (secondDictIndex.containsKey(cleanWlc)) {
-          List<String> l = secondDictIndex.get(cleanWlc);
-          l.add(wlc);
-          secondDictIndex.put(cleanWlc, l);
-        } else {
-          List<String> l = new ArrayList<>();
-          l.add(wlc);
-          secondDictIndex.put(cleanWlc, l);
-        }
+        addToSecondDictIndex (cleanWlc, wlc);
       }
       if (allForms.size() > 1) {
         for (String wordPart : allForms) {
           if (stopWords.contains(wordPart)) {
             continue;
           }
-          if (secondDictIndex.containsKey(wordPart)) {
-            List<String> l = secondDictIndex.get(wordPart);
-            l.add(wlc);
-            secondDictIndex.put(wordPart, l);
-          } else {
-            List<String> l = new ArrayList<>();
-            l.add(wlc);
-            secondDictIndex.put(wordPart, l);
-          }
+          addToSecondDictIndex (wordPart, wlc);
         }
+      }
+      // assegura la forma femenina en l'índex
+      if (w.getOriginalComment().contains("FEM") && !w.getOriginalComment().contains("NOFEM")) {
+        addToSecondDictIndex(getFeminineForm(w.wordString, grammarCat, w.getOriginalComment()), wlc);
       }
     }
     return message.toString();
+  }
+  
+  private void addToSecondDictIndex (String indexWord, String targetWord) {
+    if (secondDictIndex.containsKey(indexWord)) {
+      List<String> l = secondDictIndex.get(indexWord);
+      l.add(targetWord);
+      secondDictIndex.put(indexWord, l);
+    } else {
+      List<String> l = new ArrayList<>();
+      l.add(targetWord);
+      secondDictIndex.put(indexWord, l);
+    }
   }
 
   private String[] extractWordComment(String s) {
@@ -545,6 +545,10 @@ public class Dictionary {
     List<String> comments = Arrays.asList(wordComment.split("[ ;:,.]"));
     if (comments.contains("f") || comments.contains("m") || comments.contains("NOFEM")) {
       return "";
+    }
+    Matcher mFem = FEMININE_FORM.matcher(wordComment);
+    if (mFem.find()) {
+      return mFem.group(1);
     }
     // excepció
     if (lemma.equals("mort")) {

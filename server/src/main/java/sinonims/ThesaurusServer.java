@@ -28,10 +28,9 @@ public class ThesaurusServer {
     conf = new ThesaurusConfig(args);
     dict = new Dictionary(conf);
 
-    /*
-     * Response response = dict.getResponse("déu"); Gson gson = new Gson(); String
-     * jsonResponse = gson.toJson(response);
-     */
+//    Response response = dict.getResponse("batllessa");
+//    Gson gson = new Gson();
+//    String jsonResponse = gson.toJson(response);
 
     // log(dict.printAllDict());
     /*
