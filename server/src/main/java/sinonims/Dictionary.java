@@ -73,7 +73,7 @@ public class Dictionary {
   private final static Pattern NOUNADJ = Pattern.compile("NCMS.*|A..MS.|V.P..SM.");
   private final static Pattern NOUN = Pattern.compile("NCMS.*");
   private final static Pattern ADJ = Pattern.compile("A..MS.|V.P..SM.");
-  private final static Pattern FEMININE_FORM = Pattern.compile("\\bFEM ([^ ]+)\\b");
+  private final static Pattern FEMININE_FORM = Pattern.compile("\\bFEM (.+)$");
 
   private static ThesaurusConfig conf;
 
@@ -98,7 +98,8 @@ public class Dictionary {
       "satanització", "sisplau", "snack-bar", "sussú", "terrosset de gel", "teteria", "ting-ting", "universalime",
       "ventís", "vinyeda", "volanda", "xambiteria", "xst", "espàrec", "qui sap quant", "no... sinó", "no... més que",
       "no... excepte", "sia... sia...", "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca",
-      "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega" });
+      "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom",
+      "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -612,6 +613,9 @@ public class Dictionary {
       AnalyzedTokenReadings[] tokens = aSentence.getTokensWithoutWhitespace();
       for (AnalyzedTokenReadings atr : tokens) {
         forms.add(atr.getToken());
+        if (stopWords.contains(atr.getToken())) {
+          continue;
+        }
         for (AnalyzedToken at : atr) {
           String[] synthForms = synth.synthesize(at, "[^V].*", true);
           forms.addAll(Arrays.asList(synthForms));
@@ -667,7 +671,8 @@ public class Dictionary {
               for (Integer j = 0; j < entries.get(i).synonimWords.size(); j++) {
                 Word w = entries.get(i).synonimWords.get(j);
                 w.updateLink(mainDict.get(w.wordString.toLowerCase()).size() > 1);
-                if (w.wordString.equalsIgnoreCase(lemma) && w.getOriginalComment().isEmpty()) {
+                if (w.wordString.equalsIgnoreCase(lemma) && w.wordComment.isEmpty()) {
+                  lemmaComment = w.getOriginalComment();
                   lemmaResult = w.wordString;
                   continue;
                 }
@@ -676,7 +681,7 @@ public class Dictionary {
                 }
                 if (w.getOriginalComment().contains("antònim")) {
                   antonyms.add(w);
-                } else if (w.wordString.equalsIgnoreCase(lemma) && !w.getOriginalComment().isEmpty()) {
+                } else if (w.wordString.equalsIgnoreCase(lemma) && !w.wordComment.isEmpty()) {
                   // si el lema té comentari s'afegeix en la primera posició
                   synonyms.add(0, w);
                   lemmaComment = w.getOriginalComment();
