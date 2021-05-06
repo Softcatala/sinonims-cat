@@ -556,10 +556,6 @@ public class Dictionary {
     if (mFem.find()) {
       return mFem.group(1);
     }
-    // excepció
-    if (lemma.equals("mort")) {
-      return "morta";
-    }
     Pattern p;
     String feminineRegexp;
     if (grammarCat.equals("n")) {
