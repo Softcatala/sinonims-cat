@@ -7,6 +7,7 @@ import java.util.List;
 
 public class Response {
   String searchedWord;
+  String canonical;
   List<String> alternatives;
   List<Result> results;
 
@@ -35,6 +36,26 @@ public class Response {
       synonymEntries.sort(new EntryComparator());
     }
   }
+  
+  public void createCanonicalFrom(String defaultCanonical) {
+    for (Result result: results) {
+      if (result.lemma.equalsIgnoreCase(defaultCanonical)) {
+        canonical = defaultCanonical.toLowerCase();
+        return;
+      }
+    }
+    for (Result result: results) {
+      if (result.lemma.equalsIgnoreCase(searchedWord)) {
+        canonical = result.lemma.toLowerCase();
+        return;
+      }
+    }
+    if (defaultCanonical.isEmpty() && results.size()>0) {
+      canonical = results.get(0).lemma;
+      return;
+    }
+    canonical = defaultCanonical.toLowerCase();
+  }
 
   public void sort() {
     results.sort(new ResultComparator());
@@ -50,6 +71,12 @@ public class Response {
   private class ResultComparator implements Comparator<Result> {
     @Override
     public int compare(Result o1, Result o2) {
+      if (o1.lemma.equalsIgnoreCase(canonical) && !o2.lemma.equalsIgnoreCase(canonical)) {
+        return -150;
+      }
+      if (!o1.lemma.equalsIgnoreCase(canonical) && o2.lemma.equalsIgnoreCase(canonical)) {
+        return 150;
+      }
       if (o1.lemma.length() > o2.lemma.length()) {
         return 100;
       }

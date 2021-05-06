@@ -80,6 +80,7 @@ public class Dictionary {
   private static MorfologikCatalanSpellerRule morfologikRule;
   final private int MAX_SUGGESTIONS = 5;
   final private int MAX_AUTOCOMPLETE = 10;
+  private String firstLemmaFound = "";
 
   // ignore when testing
   private List<String> wordsToIgnore = Arrays.asList(new String[] { "fer un paperàs", "querellador", "barça",
@@ -320,6 +321,7 @@ public class Dictionary {
     }
 
     // search lemma
+    firstLemmaFound = "";
     List<AnalyzedSentence> aSentences = ltCatVal.analyzeText(lowercase);
     for (AnalyzedSentence aSentence : aSentences) {
       AnalyzedTokenReadings[] tokens = aSentence.getTokensWithoutWhitespace();
@@ -330,6 +332,9 @@ public class Dictionary {
         if (atr.isTagged() && !atr.getToken().equalsIgnoreCase("-se") && !atr.getToken().equalsIgnoreCase("'s")) {
           for (AnalyzedToken at : atr) {
             String lemma = at.getLemma();
+            if (firstLemmaFound.isEmpty() && lemma != null) {
+              firstLemmaFound = lemma;
+            }
             if (lemma != null && mainDict.containsKey(lemma)) {
               resultsSet.add(lemma);
             }
@@ -488,14 +493,14 @@ public class Dictionary {
       // què dius, ara?
       if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-")) {
         String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "");
-        addToSecondDictIndex (cleanWlc, wlc);
+        addToSecondDictIndex(cleanWlc, wlc);
       }
       if (allForms.size() > 1) {
         for (String wordPart : allForms) {
           if (stopWords.contains(wordPart)) {
             continue;
           }
-          addToSecondDictIndex (wordPart, wlc);
+          addToSecondDictIndex(wordPart, wlc);
         }
       }
       // assegura la forma femenina en l'índex
@@ -505,8 +510,8 @@ public class Dictionary {
     }
     return message.toString();
   }
-  
-  private void addToSecondDictIndex (String indexWord, String targetWord) {
+
+  private void addToSecondDictIndex(String indexWord, String targetWord) {
     if (secondDictIndex.containsKey(indexWord)) {
       List<String> l = secondDictIndex.get(indexWord);
       l.add(targetWord);
@@ -707,6 +712,7 @@ public class Dictionary {
     if (response.results.size() == 0) {
       log("NOT FOUND: " + searchedWord);
     }
+    response.createCanonicalFrom(firstLemmaFound);
     response.sort();
     return response;
   }
@@ -771,4 +777,5 @@ public class Dictionary {
     }
     return titleCase.toString();
   }
+
 }
