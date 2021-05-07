@@ -667,7 +667,7 @@ public class Dictionary {
               for (Integer j = 0; j < entries.get(i).synonimWords.size(); j++) {
                 Word w = entries.get(i).synonimWords.get(j);
                 w.updateLink(mainDict.get(w.wordString.toLowerCase()).size() > 1);
-                if (w.wordString.equalsIgnoreCase(lemma) && w.wordComment.isEmpty()) {
+                if (w.wordString.equalsIgnoreCase(lemma) && w.wordComment.isEmpty() && !w.getOriginalComment().contains("antònim")) {
                   lemmaComment = w.getOriginalComment();
                   lemmaResult = w.wordString;
                   continue;

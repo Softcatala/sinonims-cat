@@ -28,7 +28,7 @@ public class ThesaurusServer {
     conf = new ThesaurusConfig(args);
     dict = new Dictionary(conf);
 
-//    Response response = dict.getResponse("cuit");
+//    Response response = dict.getResponse("sobrietat");
 //    Gson gson = new Gson();
 //    String jsonResponse = gson.toJson(response);
 
@@ -65,22 +65,32 @@ public class ThesaurusServer {
       apiCall = apiCall.trim();
       log("API call: " + apiCall);
       String[] parts = apiCall.split("/");
+      int code = 200;
       if (parts.length == 2) {
         String jsonResponse = null;
         if (parts[0].equalsIgnoreCase("search")) {
           Response response = dict.getResponse(parts[1]);
           jsonResponse = gson.toJson(response);
+          if (response.results == null || response.results.size() == 0) {
+            code = 404;
+          }
         } else if (parts[0].equalsIgnoreCase("index")) {
           Index index = dict.getIndex(parts[1]);
           jsonResponse = gson.toJson(index);
+          if (index.words == null || index.words.size() == 0) {
+            code = 404;
+          }
         } else if (parts[0].equalsIgnoreCase("autocomplete")) {
           Index index = dict.getAutocomplete(parts[1]);
           jsonResponse = gson.toJson(index);
+          if (index.words == null || index.words.size() == 0) {
+            code = 404;
+          }
         }
         if (jsonResponse != null) {
           t.getResponseHeaders().add("Content-type", "application/json");
           t.getResponseHeaders().add("Access-Control-Allow-Origin", "*");
-          t.sendResponseHeaders(200, jsonResponse.getBytes().length);
+          t.sendResponseHeaders(code, jsonResponse.getBytes().length);
           OutputStream os = t.getResponseBody();
           os.write(jsonResponse.getBytes());
           os.close();
