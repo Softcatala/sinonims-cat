@@ -66,7 +66,7 @@ public class Dictionary {
       .asList(new String[] { "n", "adj/n", "adj", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
 
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
-      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no" });
+      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us" });
 
   private final List<String> moveToEndTags = Arrays
       .asList(new String[] { "col·loquial", "infantil", "antic", "popular", "pejoratiu", "obsolet", "familiar" });
@@ -99,7 +99,8 @@ public class Dictionary {
       "ventís", "vinyeda", "volanda", "xambiteria", "xst", "espàrec", "qui sap quant", "no... sinó", "no... més que",
       "no... excepte", "sia... sia...", "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca",
       "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom",
-      "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito" });
+      "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito", "contradiscurs",
+      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -344,6 +345,18 @@ public class Dictionary {
             }
           }
         }
+      }
+    }
+    
+    //added diacritics
+    for (String w : mainIndex) {
+      if (StringTools.removeDiacritics(w).toLowerCase().equals(lowercase)) {
+        resultsSet.add(w);
+      }
+    }
+    for (String w : secondDictIndex.keySet()) {
+      if (StringTools.removeDiacritics(w).toLowerCase().equals(lowercase)) {
+        resultsSet.addAll(secondDictIndex.get(w));
       }
     }
 
@@ -623,8 +636,9 @@ public class Dictionary {
 
   public Index getIndex(String startWith) {
     List<String> wordList = new ArrayList<>();
+    String myStartWith = StringTools.removeDiacritics(startWith).toLowerCase();
     for (String w : mainIndex) {
-      if (w.toLowerCase().startsWith(startWith.toLowerCase())) {
+      if (StringTools.removeDiacritics(w).toLowerCase().startsWith(myStartWith)) {
         wordList.add(w);
       }
     }
@@ -634,7 +648,7 @@ public class Dictionary {
   public Index getAutocomplete(String startWith) {
     List<String> wordList = new ArrayList<>();
     for (String w : mainIndex) {
-      if (w.toLowerCase().startsWith(startWith.toLowerCase())) {
+      if (StringTools.removeDiacritics(w).toLowerCase().startsWith(startWith.toLowerCase())) {
         wordList.add(w);
       }
     }
