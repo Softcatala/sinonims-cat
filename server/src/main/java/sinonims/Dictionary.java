@@ -349,6 +349,7 @@ public class Dictionary {
     }
     
     //added diacritics
+    //TODO: as an index
     for (String w : mainIndex) {
       if (StringTools.removeDiacritics(w).toLowerCase().equals(lowercase)) {
         resultsSet.add(w);
@@ -502,8 +503,14 @@ public class Dictionary {
         l.add(position);
         mainDict.put(wlc, l);
       }
+      // assegura la forma femenina en l'índex
+      String fem = "";
+      if (w.getOriginalComment().contains("FEM") && !w.getOriginalComment().contains("NOFEM")) {
+        fem = getFeminineForm(w.wordString, grammarCat, w.getOriginalComment());
+        addToSecondDictIndex(fem, wlc);
+      }
       // crea el secondDictIndex per a multiparaules
-      List<String> allForms = getAllForms(wlc);
+      List<String> allForms = getAllForms(wlc + " " + fem);
       // què dius, ara?
       if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-")) {
         String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "");
@@ -517,15 +524,15 @@ public class Dictionary {
           addToSecondDictIndex(wordPart, wlc);
         }
       }
-      // assegura la forma femenina en l'índex
-      if (w.getOriginalComment().contains("FEM") && !w.getOriginalComment().contains("NOFEM")) {
-        addToSecondDictIndex(getFeminineForm(w.wordString, grammarCat, w.getOriginalComment()), wlc);
-      }
+      
     }
     return message.toString();
   }
 
   private void addToSecondDictIndex(String indexWord, String targetWord) {
+    if (indexWord.isEmpty()) {
+      return;
+    }
     if (secondDictIndex.containsKey(indexWord)) {
       List<String> l = secondDictIndex.get(indexWord);
       l.add(targetWord);

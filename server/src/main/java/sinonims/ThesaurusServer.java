@@ -28,7 +28,7 @@ public class ThesaurusServer {
     conf = new ThesaurusConfig(args);
     dict = new Dictionary(conf);
 
-//    Response response = dict.getResponse("avia");
+//    Response response = dict.getResponse("dona");
 //    Gson gson = new Gson();
 //    String jsonResponse = gson.toJson(response);
 
