@@ -66,7 +66,8 @@ public class Dictionary {
       .asList(new String[] { "n", "adj/n", "adj", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
 
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
-      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us" });
+      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
+      "ser", "estar", "jo", "tu", "ell", "ella", "nosaltres", "vosaltres", "ells", "elles" });
 
   private final List<String> moveToEndTags = Arrays
       .asList(new String[] { "col·loquial", "infantil", "antic", "popular", "pejoratiu", "obsolet", "familiar" });
@@ -100,7 +101,7 @@ public class Dictionary {
       "no... excepte", "sia... sia...", "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca",
       "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom",
       "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito", "contradiscurs",
-      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum"});
+      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -347,9 +348,9 @@ public class Dictionary {
         }
       }
     }
-    
-    //added diacritics
-    //TODO: as an index
+
+    // added diacritics
+    // TODO: as an index
     for (String w : mainIndex) {
       if (StringTools.removeDiacritics(w).toLowerCase().equals(lowercase)) {
         resultsSet.add(w);
@@ -524,7 +525,7 @@ public class Dictionary {
           addToSecondDictIndex(wordPart, wlc);
         }
       }
-      
+
     }
     return message.toString();
   }
@@ -688,7 +689,8 @@ public class Dictionary {
               for (Integer j = 0; j < entries.get(i).synonimWords.size(); j++) {
                 Word w = entries.get(i).synonimWords.get(j);
                 w.updateLink(mainDict.get(w.wordString.toLowerCase()).size() > 1);
-                if (w.wordString.equalsIgnoreCase(lemma) && w.wordComment.isEmpty() && !w.getOriginalComment().contains("antònim")) {
+                if (w.wordString.equalsIgnoreCase(lemma) && w.wordComment.isEmpty()
+                    && !w.getOriginalComment().contains("antònim")) {
                   lemmaComment = w.getOriginalComment();
                   lemmaResult = w.wordString;
                   continue;
