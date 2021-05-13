@@ -15,6 +15,8 @@ for line in lines:
 	parts=line.split("=")
 	areasDict[parts[0]]=parts[1].rstrip()
 
+termcatDict = {}
+
 folder="./xml-dicts/"
 
 myfiles = listdir(folder)
@@ -29,7 +31,7 @@ for file in myfiles:
 
 
 		for f in root.iter('fitxa'):
-			catWords=""
+			wordList=[]
 
 			#Comprova si hi ha dades
 			countCat=0
@@ -40,14 +42,11 @@ for file in myfiles:
 					if "| " in text:
 						text = text.replace("| ", "(FEM ")
 						text = text +")"
-					if catWords:
-						catWords = catWords + ", " + text
-					else:
-						catWords = text
+					wordList.append(text)
 			
 			if countCat<2:
 				continue
-			
+			wordList.sort()
 			categoria = "n"
 			for d in f.iter('denominacio'):
 				if d.attrib.get('categoria').startswith('adj'):
@@ -85,7 +84,20 @@ for file in myfiles:
 						categoria = "v"
 					if categoria == "v prep":
 						categoria = "v"
+					if categoria == "v tr/prep":
+						categoria = "v"
 	
-			print ("-"+categoria+" (Termcat: "+areasDict[file]+"): " + catWords)	
+			#print ("-"+categoria+" (Termcat: "+areasDict[file]+"): " + catWords)
+			#print ("-: " + catWords)
+			catWords = ", ".join(wordList)
+			if catWords in termcatDict:
+				if termcatDict[catWords].endswith("repertoris multidisciplinaris") and not areasDict[file]=="repertoris multidisciplinaris":
+					termcatDict[catWords] = "-"+categoria+" (Termcat: "+areasDict[file]
+				elif not termcatDict[catWords].endswith(areasDict[file]) and not areasDict[file]=="repertoris multidisciplinaris":
+					termcatDict[catWords] = termcatDict[catWords] + "|"+areasDict[file]
+			else:
+				termcatDict[catWords] = "-"+categoria+" (Termcat: "+areasDict[file]
+		
 
-
+for key in termcatDict:
+	print (termcatDict[key] + "): " + key)
