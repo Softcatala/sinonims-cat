@@ -65,9 +65,10 @@ public class Dictionary {
   private final List<String> grammarCategories = Arrays
       .asList(new String[] { "n", "adj/n", "adj", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
 
-  private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
-      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
-      "ser", "estar", "jo", "tu", "ell", "ella", "nosaltres", "vosaltres", "ells", "elles" });
+  private final List<String> stopWords = Arrays.asList(
+      new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a", "el", "la", "en", "els", "als", "les", "per", "d",
+          "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us", "ser", "estar", "jo", "tu", "ell", "ella" });
+  // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
       .asList(new String[] { "col·loquial", "infantil", "antic", "popular", "pejoratiu", "obsolet", "familiar" });
@@ -101,7 +102,10 @@ public class Dictionary {
       "no... excepte", "sia... sia...", "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca",
       "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom",
       "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito", "contradiscurs",
-      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum" });
+      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum", "terraplanista", "odiador",
+      "llarg en el donar", "filàntrop", "impurificable", "mig sec", "de cop sobte", "a la pul pul", "amb corruixes",
+      "amb presses i corruixes", "sinograma", "mà-i-mà", "dos dret", "mudabilitat", "anar de corruixes", "encartellar",
+      "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -338,10 +342,10 @@ public class Dictionary {
             if (firstLemmaFound.isEmpty() && lemma != null) {
               firstLemmaFound = lemma;
             }
-            if (lemma != null && mainDict.containsKey(lemma)) {
+            if (lemma != null && mainDict.containsKey(lemma) && !stopWords.contains(lemma)) {
               resultsSet.add(lemma);
             }
-            if (lemma != null && secondDictIndex.containsKey(lemma)) {
+            if (lemma != null && secondDictIndex.containsKey(lemma) && !stopWords.contains(lemma)) {
               resultsSet.addAll(secondDictIndex.get(lemma));
             }
           }
@@ -380,7 +384,7 @@ public class Dictionary {
               if (atrs != null && atrs.size() > 0) {
                 for (AnalyzedToken at : atrs.get(0)) {
                   String atLemma = at.getLemma();
-                  if (!atLemma.isEmpty()) {
+                  if (!atLemma.isEmpty() && !stopWords.contains(atLemma)) {
                     resultsSet.add(atLemma);
                   }
                 }
@@ -629,13 +633,23 @@ public class Dictionary {
     for (AnalyzedSentence aSentence : aSentences) {
       AnalyzedTokenReadings[] tokens = aSentence.getTokensWithoutWhitespace();
       for (AnalyzedTokenReadings atr : tokens) {
+        if (atr.getToken().trim().isEmpty()) {
+          continue;
+        }
         forms.add(atr.getToken());
         if (stopWords.contains(atr.getToken())) {
           continue;
         }
         for (AnalyzedToken at : atr) {
+          if (stopWords.contains(at.getLemma())) {
+            continue;
+          }
           String[] synthForms = synth.synthesize(at, "[^V].*", true);
-          forms.addAll(Arrays.asList(synthForms));
+          for (String sf : synthForms) {
+            if (!stopWords.contains(sf)) {
+              forms.add(sf);
+            }
+          }
         }
       }
     }
