@@ -67,7 +67,7 @@ public class Dictionary {
 
   private final List<String> stopWords = Arrays.asList(
       new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a", "el", "la", "en", "els", "als", "les", "per", "d",
-          "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us", "ser", "estar", "jo", "tu", "ell", "ella" });
+          "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us", "ser", "estar", "jo", "tu", "ell", "ella", "son" });
   // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
