@@ -1,4 +1,4 @@
-package sinonims;
+package org.softcatala.sinonims;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -15,13 +15,20 @@ public class ThesaurusConfig {
   
   Integer serverPort;
   File srcFile = null;
+  String srcFilePath;
   String serverTimezone;
   String logging;
   String production;
   String urlPath;
-    
+
+  public  String toString() {
+    return String.format("serverPort=%d, srcFile=%s, serverTimezone=%s, logging=%s, production=%s, urlPath=%s",
+            serverPort, srcFilePath, serverTimezone, logging, production, urlPath
+    );
+  }
+
   public ThesaurusConfig(String[] args) {
-    File file = new File (args[1]);  
+    File file = new File (args[1]);
     try {
       Properties props = new Properties();
       try (FileInputStream fis = new FileInputStream(file)) {
@@ -32,7 +39,7 @@ public class ThesaurusConfig {
         urlPath = getOptionalProperty(props,"urlPath", DEFAULT_URLPATH);
         logging = getOptionalProperty(props, "logging", "on");
         production = getOptionalProperty(props, "production", "yes");
-        String srcFilePath = getOptionalProperty(props, "srcFile", null);
+        srcFilePath = getOptionalProperty(props, "srcFile", null);
         if (srcFilePath != null) {
           srcFile = new File(srcFilePath);
           if (!srcFile.exists() || !srcFile.isFile()) {

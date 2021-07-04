@@ -1,4 +1,4 @@
-package sinonims;
+package org.softcatala.sinonims;
 
 import java.util.List;
 

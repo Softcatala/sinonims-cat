@@ -1,4 +1,4 @@
-package sinonims;
+package org.softcatala.sinonims;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -35,7 +35,7 @@ import org.languagetool.synthesis.ca.CatalanSynthesizer;
 import org.languagetool.tagging.ca.CatalanTagger;
 import org.languagetool.tools.StringTools;
 
-import sinonims.Response.Result;
+import org.softcatala.sinonims.Response.Result;
 
 public class Dictionary {
 
@@ -195,7 +195,8 @@ public class Dictionary {
     boolean first = true;
     boolean firstAntonym = true;
     boolean isAntonym = false;
-    for (Integer j = 0; j < entries.get(i).synonimWords.size(); j++) {
+    int entrySize = entries.get(i).synonimWords.size();
+    for (Integer j = 0; j < entrySize; j++) {
       Word w = entries.get(i).synonimWords.get(j);
       if (w.wordString.equals(exception) && w.wordComment.isEmpty()) {
         continue;

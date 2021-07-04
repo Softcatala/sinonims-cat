@@ -1,4 +1,4 @@
-package sinonims;
+package org.softcatala.sinonims;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -60,7 +60,7 @@ public class Response {
   public void sort() {
     results.sort(new ResultComparator());
   }
-  
+
   private class EntryComparator implements Comparator<Entry> {
     @Override
     public int compare(Entry o1, Entry o2) {
