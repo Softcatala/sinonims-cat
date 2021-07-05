@@ -103,7 +103,9 @@ public class Dictionary {
       "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum", "terraplanista", "odiador",
       "llarg en el donar", "filàntrop", "impurificable", "mig sec", "de cop sobte", "a la pul pul", "amb corruixes",
       "amb presses i corruixes", "sinograma", "mà-i-mà", "dos dret", "mudabilitat", "anar de corruixes", "encartellar",
-      "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre" });
+      "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre", "panglossià",
+      "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
+      "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 

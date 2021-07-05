@@ -48,7 +48,7 @@ public class ThesaurusServer {
         logger.warn(conf);
         HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
         logger.warn("Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
-        logger.warn("Synonims server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
+        logger.warn("Synonyms server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
         server.createContext(conf.urlPath, new MyHandler());
         server.setExecutor(null); // creates a default executor
         server.start();
