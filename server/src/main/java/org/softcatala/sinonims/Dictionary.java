@@ -4,12 +4,10 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 import java.text.Collator;
-import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
-import java.util.Date;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -110,7 +108,7 @@ public class Dictionary {
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
     conf = configuration;
-    log("Start preparing dictionary.");
+    ThesaurusServer.log("Start preparing dictionary.");
 
     caCollator.setStrength(Collator.IDENTICAL);
     mainDict = new TreeMap<String, List<Integer>>(caCollator);
@@ -127,23 +125,23 @@ public class Dictionary {
         new Locale("ca"));
     morfologikRule = new MorfologikCatalanSpellerRule(messages, langCatVal, null, null);
 
-    log("Reading source and building dictionary.");
+    ThesaurusServer.log("Reading source and building dictionary.");
     if (conf.production.equalsIgnoreCase("yes")) {
-      log("Skipping LanguageTool checks.");
+      ThesaurusServer.log("Skipping LanguageTool checks.");
     } else {
-      log("Checking dictionary with LanguageTool.");
+      ThesaurusServer.log("Checking dictionary with LanguageTool.");
     }
     BufferedReader reader;
     try {
       reader = new BufferedReader(new FileReader(conf.srcFile));
       String line = reader.readLine();
       while (line != null) {
-        log(addLine(line));
+        ThesaurusServer.log(addLine(line));
         line = reader.readLine();
       }
       reader.close();
     } catch (IOException e) {
-      log(e.toString());
+      ThesaurusServer.logger.error(e.toString());
       throw new IOException("Error reading source dictionary. ");
     }
 
@@ -564,14 +562,6 @@ public class Dictionary {
     return result;
   }
 
-  private static void log(String comment) {
-    if (conf.logging.equals("on") && !comment.isEmpty()) {
-      SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss z ");
-      Date date = new Date(System.currentTimeMillis());
-      System.out.println(formatter.format(date) + comment);
-    }
-  }
-
   private static String getFeminineForm(String lemma, String grammarCat, String wordComment) throws IOException {
 
     List<String> comments = Arrays.asList(wordComment.split("[ ;:,.]"));
@@ -749,7 +739,7 @@ public class Dictionary {
       }
     }
     if (response.results.size() == 0 || response.alternatives.size() > 0) {
-      log("NOT FOUND: " + searchedWord);
+      ThesaurusServer.log("NOT FOUND: " + searchedWord);
     }
     response.createCanonicalFrom(firstLemmaFound);
     response.sort();

@@ -5,9 +5,6 @@ import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
-import java.text.SimpleDateFormat;
-import java.util.Date;
-
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.sun.net.httpserver.HttpExchange;
@@ -31,7 +28,7 @@ public class ThesaurusServer {
         }
 
         if (args.length != 2 || !args[0].equals("--config")) {
-            logger.warn("Usage: " + ThesaurusServer.class.getSimpleName() + " --config propertyFile");
+            logger.error("Usage: " + ThesaurusServer.class.getSimpleName() + " --config propertyFile");
             System.exit(1);
         }
 
@@ -113,10 +110,8 @@ public class ThesaurusServer {
         }
     }
 
-    private static void log(String comment) {
+    static void log(String comment) {
         if (conf.logging.equals("on") && !comment.isEmpty()) {
-            SimpleDateFormat formatter = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss z ");
-            Date date = new Date(System.currentTimeMillis());
             logger.info(comment);
         }
     }
