@@ -748,7 +748,7 @@ public class Dictionary {
         }
       }
     }
-    if (response.results.size() == 0) {
+    if (response.results.size() == 0 || response.alternatives.size() > 0) {
       log("NOT FOUND: " + searchedWord);
     }
     response.createCanonicalFrom(firstLemmaFound);
