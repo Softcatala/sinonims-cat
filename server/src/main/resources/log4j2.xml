@@ -13,7 +13,7 @@
         <RollingFile
                 name="file"
                 fileName="/logs/access.log"
-                filePattern="/logs/%d{yyyy-MM}/%d{yyyy-MM-dd}.log.gz"
+                filePattern="/logs/%d{yyyy}/%d{yyyy-MM}.log.gz"
                 ignoreExceptions="false">
             <PatternLayout pattern="${LOG_PATTERN}" />
             <Policies>
