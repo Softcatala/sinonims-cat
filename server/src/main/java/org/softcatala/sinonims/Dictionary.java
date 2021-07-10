@@ -8,6 +8,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.List;
@@ -81,6 +82,14 @@ public class Dictionary {
   final private int MAX_SUGGESTIONS = 5;
   final private int MAX_AUTOCOMPLETE = 10;
   private String firstLemmaFound = "";
+  
+  //TODO: usar les regles replace....txt de LT
+  private static Map<String, String> commonErrors = new HashMap<>();
+  static {
+    commonErrors.put("anel", "anhel");
+    commonErrors.put("desitx", "desig");
+    commonErrors.put("insertar", "inserir");
+  }
 
   // ignore when testing
   private List<String> wordsToIgnore = Arrays.asList(new String[] { "fer un paperàs", "querellador", "barça",
@@ -106,7 +115,7 @@ public class Dictionary {
       "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre", "panglossià",
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
       "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar", "dir adeu",
-      "envant", "bacon", "solterot", "fadrinardo"});
+      "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -315,6 +324,11 @@ public class Dictionary {
 
     String lowercase = searchedWord.toLowerCase();
     String searchedAscii = StringTools.removeDiacritics(lowercase);
+    
+    if (commonErrors.containsKey(lowercase)) {
+      resultsList.add(commonErrors.get(lowercase));
+      return resultsList;
+    }
 
     if (mainDict.containsKey(lowercase)) {
       resultsSet.add(lowercase);

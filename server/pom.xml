@@ -5,7 +5,7 @@
   <version>0.0.1-SNAPSHOT</version>
 
     <properties>
-		<languagetool.version>5.3</languagetool.version>
+		<languagetool.version>5.4</languagetool.version>
 		<morfologik.version>2.1.7</morfologik.version>
 		<junit.version>4.13</junit.version>
 		<maven.jar.plugin>2.6</maven.jar.plugin>
