@@ -7,7 +7,7 @@ import java.util.List;
 
 public class Response {
   String searchedWord;
-  String canonical;
+  String canonicalLemma;
   List<String> alternatives;
   List<Result> results;
 
@@ -40,21 +40,21 @@ public class Response {
   public void createCanonicalFrom(String defaultCanonical) {
     for (Result result: results) {
       if (result.lemma.equalsIgnoreCase(defaultCanonical)) {
-        canonical = defaultCanonical.toLowerCase();
+        canonicalLemma = defaultCanonical.toLowerCase();
         return;
       }
     }
     for (Result result: results) {
       if (result.lemma.equalsIgnoreCase(searchedWord)) {
-        canonical = result.lemma.toLowerCase();
+        canonicalLemma = result.lemma.toLowerCase();
         return;
       }
     }
     if (defaultCanonical.isEmpty() && results.size()>0) {
-      canonical = results.get(0).lemma;
+      canonicalLemma = results.get(0).lemma;
       return;
     }
-    canonical = defaultCanonical.toLowerCase();
+    canonicalLemma = defaultCanonical.toLowerCase();
   }
 
   public void sort() {
@@ -71,10 +71,10 @@ public class Response {
   private class ResultComparator implements Comparator<Result> {
     @Override
     public int compare(Result o1, Result o2) {
-      if (o1.lemma.equalsIgnoreCase(canonical) && !o2.lemma.equalsIgnoreCase(canonical)) {
+      if (o1.lemma.equalsIgnoreCase(canonicalLemma) && !o2.lemma.equalsIgnoreCase(canonicalLemma)) {
         return -150;
       }
-      if (!o1.lemma.equalsIgnoreCase(canonical) && o2.lemma.equalsIgnoreCase(canonical)) {
+      if (!o1.lemma.equalsIgnoreCase(canonicalLemma) && o2.lemma.equalsIgnoreCase(canonicalLemma)) {
         return 150;
       }
       if (o1.lemma.length() > o2.lemma.length()) {
