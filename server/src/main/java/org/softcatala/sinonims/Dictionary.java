@@ -742,7 +742,17 @@ public class Dictionary {
       }
     }
     if (response.results.size() == 0 || response.alternatives.size() > 0) {
-      ThesaurusServer.log("NOT FOUND: " + searchedWord);
+      StringBuilder message = new StringBuilder("NOT FOUND: " + searchedWord + ";");
+      if (response.alternatives.size() > 0) {
+        message.append(" ALTERNATIVES: " + response.alternatives.toString());
+      }
+      if (response.results.size() > 0) {
+        message.append(" RESULTS: ");
+        for (Result r : response.results) {
+          message.append(r.lemma + ", ");
+        }
+      }
+      ThesaurusServer.log(message.toString());
     }
     response.createCanonicalFrom(firstLemmaFound);
     response.sort();
