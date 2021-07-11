@@ -79,7 +79,7 @@ public class Dictionary {
   private static ThesaurusConfig conf;
 
   private static MorfologikCatalanSpellerRule morfologikRule;
-  final private int MAX_SUGGESTIONS = 5;
+  final private int MAX_SUGGESTIONS = 7;
   final private int MAX_AUTOCOMPLETE = 10;
   private String firstLemmaFound = "";
   
@@ -115,7 +115,7 @@ public class Dictionary {
       "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre", "panglossià",
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
       "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar", "dir adeu",
-      "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà"});
+      "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà", "fox-terrier"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -128,7 +128,9 @@ public class Dictionary {
     langCatVal = new ValencianCatalan();
     ltCatVal = new JLanguageTool(langCatVal);
     ltCat = new JLanguageTool(new Catalan());
-    ltCat.disableRule("CA_SIMPLEREPLACE_DIACRITICS_IEC");
+    ltCat.disableRule("UPPERCASE_SENTENCE_START");
+    ltCat.disableRule("MORFOLOGIK_RULE_CA_ES");
+    ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();
     synth = (CatalanSynthesizer) ltCatVal.getLanguage().getSynthesizer();
     speller = new MorfologikMultiSpeller("/ca/ca-ES-valencia.dict", Collections.<String>emptyList(), null, 1);
@@ -317,6 +319,7 @@ public class Dictionary {
         .replaceAll("l-l", "l·l").replaceAll("l • l", "l·l").replaceAll("’", "'").replaceAll(",", "");
 
     Set<String> resultsSet = new HashSet<>();
+    Set<String> alternativesSet = new HashSet<>();
     List<String> resultsList = new ArrayList<>();
     if (searchedWord.isEmpty()) {
       return resultsList;
@@ -413,7 +416,7 @@ public class Dictionary {
               if (StringTools.removeDiacritics(suggestion).equalsIgnoreCase(searchedAscii)) {
                 resultsSet.add(suggestion);
               } else {
-                resultsSet.add("-" + suggestion);
+                alternativesSet.add("-" + suggestion);
               }
               i++;
               if (i >= MAX_SUGGESTIONS) {
@@ -425,7 +428,24 @@ public class Dictionary {
         myTry++;
       }
     }
+    
+    // suggeriments d'altres regles de LanguageTool (no ortografia)
+    if (resultsSet.isEmpty()) {
+      List<RuleMatch> matches = ltCat.check(searchedWord);
+      Set<String> alternativesLTSet = new HashSet<>();
+      for (RuleMatch m : matches) {
+        for (String r : m.getSuggestedReplacements()) {
+          alternativesLTSet.add("-" + r);
+        }
+      }
+      if (!alternativesLTSet.isEmpty()) {
+        alternativesSet.clear();
+        alternativesSet.addAll(alternativesLTSet);
+      }
+    }
+    
     resultsList.addAll(resultsSet);
+    resultsList.addAll(alternativesSet);
     return resultsList;
   }
 
