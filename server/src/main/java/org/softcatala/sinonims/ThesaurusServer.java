@@ -34,7 +34,7 @@ public class ThesaurusServer {
 
         conf = new ThesaurusConfig(args);
         dict = new Dictionary(conf);
-
+        
 //    Response response = dict.getResponse("tonto");
 //    Gson gson = new Gson();
 //    String jsonResponse = gson.toJson(response);
@@ -63,6 +63,8 @@ public class ThesaurusServer {
             builder.excludeFieldsWithModifiers(java.lang.reflect.Modifier.PRIVATE);
             Gson gson = builder.create();
 
+            String userAgent = t.getRequestHeaders().get("user-agent").toString();
+            
             String url = t.getRequestURI().toString().substring(conf.urlPath.length());
             String apiCall = "";
             try {
@@ -71,7 +73,7 @@ public class ThesaurusServer {
                 // not going to happen - value came from JDK's own StandardCharsets
             }
             apiCall = apiCall.trim();
-            log("API call: " + apiCall);
+            log("API call: " + apiCall + " UserAgent: " + userAgent);
             String[] parts = apiCall.split("/");
             int code = 200;
             if (parts.length == 2) {
