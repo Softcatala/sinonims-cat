@@ -64,9 +64,9 @@ public class Dictionary {
   private final List<String> grammarCategories = Arrays
       .asList(new String[] { "n", "adj/n", "adj", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
 
-  private final List<String> stopWords = Arrays.asList(
-      new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a", "el", "la", "en", "els", "als", "les", "per", "d",
-          "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us", "ser", "estar", "jo", "tu", "ell", "ella", "son" });
+  private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
+      "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
+      "ser", "estar", "jo", "tu", "ell", "ella", "son" });
   // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
@@ -82,8 +82,8 @@ public class Dictionary {
   final private int MAX_SUGGESTIONS = 7;
   final private int MAX_AUTOCOMPLETE = 10;
   private String firstLemmaFound = "";
-  
-  //TODO: usar les regles replace....txt de LT
+
+  // TODO: usar les regles replace....txt de LT
   private static Map<String, String> commonErrors = new HashMap<>();
   static {
     commonErrors.put("anel", "anhel");
@@ -114,9 +114,9 @@ public class Dictionary {
       "amb presses i corruixes", "sinograma", "mà-i-mà", "dos dret", "mudabilitat", "anar de corruixes", "encartellar",
       "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre", "panglossià",
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
-      "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar", "dir adeu",
-      "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà", "fox-terrier",
-      "aconseguible", "inatent"});
+      "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar",
+      "dir adeu", "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà",
+      "fox-terrier", "aconseguible", "inatent", "netejable" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -314,40 +314,58 @@ public class Dictionary {
     }
     return result.toString();
   }
-  
-  private String makeCharReplacements(String input) {
-    return input.replaceAll("\u00C3\u0080", "\u00C0").replaceAll("\u00C3\u0081", "\u00C1")
-        .replaceAll("\u00C3\u0082", "\u00C2").replaceAll("\u00C3\u0083", "\u00C3").replaceAll("\u00C3\u0084", "\u00C4")
-        .replaceAll("\u00C3\u0085", "\u00C5").replaceAll("\u00C3\u0086", "\u00C6").replaceAll("\u00C3\u0087", "\u00C7")
-        .replaceAll("\u00C3\u0088", "\u00C8").replaceAll("\u00C3\u0089", "\u00C9").replaceAll("\u00C3\u008A", "\u00CA")
-        .replaceAll("\u00C3\u008B", "\u00CB").replaceAll("\u00C3\u008C", "\u00CC").replaceAll("\u00C3\u008D", "\u00CD")
-        .replaceAll("\u00C3\u008E", "\u00CE").replaceAll("\u00C3\u008F", "\u00CF").replaceAll("\u00C3\u0090", "\u00D0")
-        .replaceAll("\u00C3\u0091", "\u00D1").replaceAll("\u00C3\u0092", "\u00D2").replaceAll("\u00C3\u0093", "\u00D3")
-        .replaceAll("\u00C3\u0094", "\u00D4").replaceAll("\u00C3\u0095", "\u00D5").replaceAll("\u00C3\u0096", "\u00D6")
-        .replaceAll("\u00C3\u0097", "\u00D7").replaceAll("\u00C3\u0098", "\u00D8").replaceAll("\u00C3\u0099", "\u00D9")
-        .replaceAll("\u00C3\u009A", "\u00DA").replaceAll("\u00C3\u009B", "\u00DB").replaceAll("\u00C3\u009C", "\u00DC")
-        .replaceAll("\u00C3\u009D", "\u00DD").replaceAll("\u00C3\u009E", "\u00DE").replaceAll("\u00C3\u009F", "\u00DF")
-        .replaceAll("\u00C3\u00A0", "\u00E0").replaceAll("\u00C3\u00A1", "\u00E1").replaceAll("\u00C3\u00A2", "\u00E2")
-        .replaceAll("\u00C3\u00A3", "\u00E3").replaceAll("\u00C3\u00A4", "\u00E4").replaceAll("\u00C3\u00A5", "\u00E5")
-        .replaceAll("\u00C3\u00A6", "\u00E6").replaceAll("\u00C3\u00A7", "\u00E7").replaceAll("\u00C3\u00A8", "\u00E8")
-        .replaceAll("\u00C3\u00A9", "\u00E9").replaceAll("\u00C3\u00AA", "\u00EA").replaceAll("\u00C3\u00AB", "\u00EB")
-        .replaceAll("\u00C3\u00AC", "\u00EC").replaceAll("\u00C3\u00AD", "\u00ED").replaceAll("\u00C3\u00AE", "\u00EE")
-        .replaceAll("\u00C3\u00AF", "\u00EF").replaceAll("\u00C3\u00B0", "\u00F0").replaceAll("\u00C3\u00B1", "\u00F1")
-        .replaceAll("\u00C3\u00B2", "\u00F2").replaceAll("\u00C3\u00B3", "\u00F3").replaceAll("\u00C3\u00B4", "\u00F4")
-        .replaceAll("\u00C3\u00B5", "\u00F5").replaceAll("\u00C3\u00B6", "\u00F6").replaceAll("\u00C3\u00B7", "\u00F7")
-        .replaceAll("\u00C3\u00B8", "\u00F8").replaceAll("\u00C3\u00B9", "\u00F9").replaceAll("\u00C3\u00BA", "\u00FA")
-        .replaceAll("\u00C3\u00BB", "\u00FB").replaceAll("\u00C3\u00BC", "\u00FC").replaceAll("\u00C3\u00BD", "\u00FD")
-        .replaceAll("\u00C3\u00BE", "\u00FE").replaceAll("\u00C3\u00BF", "\u00FF");
+
+  private String fixEncoding(String input) {
+    // inconsciÃƒÂ¨ncia, pÃƒÂ­tiAma, providÃƒÂ¨ncia, insÃ­gnia, romanÃƒÂ§,
+    // amenaÃƒÆ’Ã‚Â§ar§
+    String output = input;
+    for (int i = 0; i < 3; i++) {
+      if (output.contains("\u00C3")) {
+        output = output.replaceAll("â‚¬", "€").replaceAll("â€š", "‚").replaceAll("Æ’", "ƒ").replaceAll("â€ž", "„")
+            .replaceAll("â€¦", "…").replaceAll("â€", "†").replaceAll("â€¡", "‡").replaceAll("Ë†", "ˆ")
+            .replaceAll("â€°", "‰").replaceAll("Å\u00a0", "Š").replaceAll("â€¹", "‹").replaceAll("Å’", "Œ")
+            .replaceAll("Å½", "Ž").replaceAll("â€˜", "‘").replaceAll("â€™", "’").replaceAll("â€œ", "“")
+            .replaceAll("â€", "”").replaceAll("â€¢", "•").replaceAll("â€“", "–").replaceAll("â€”", "—")
+            .replaceAll("Ëœ", "˜").replaceAll("â„¢", "™").replaceAll("Å¡", "š").replaceAll("â€º", "›")
+            .replaceAll("Å“", "œ").replaceAll("Å¾", "ž").replaceAll("Å¸", "Ÿ").replace("Â\u00ad", "\u00ad")
+            .replaceAll("Â¡", "¡").replaceAll("Â¢", "¢").replaceAll("Â£", "£").replaceAll("Â¤", "¤")
+            .replaceAll("Â¥", "¥").replaceAll("Â¦", "¦").replaceAll("Â§", "§").replaceAll("Â¨", "¨")
+            .replaceAll("Â©", "©").replaceAll("Âª", "ª").replaceAll("Â«", "«").replaceAll("Â¬", "¬")
+            .replaceAll("Â®", "®").replaceAll("Â¯", "¯").replaceAll("Â°", "°").replaceAll("Â±", "±")
+            .replaceAll("Â²", "²").replaceAll("Â³", "³").replaceAll("Â´", "´").replaceAll("Âµ", "µ")
+            .replaceAll("Â¶", "¶").replaceAll("Â·", "·").replaceAll("Â¸", "¸").replaceAll("Â¹", "¹")
+            .replaceAll("Âº", "º").replaceAll("Â»", "»").replaceAll("Â¼", "¼").replaceAll("Â½", "½")
+            .replaceAll("Â¾", "¾").replaceAll("Â¿", "¿").replaceAll("Ã€", "À").replaceAll("Ã‚", "Â")
+            .replaceAll("Ãƒ", "Ã").replaceAll("Ã„", "Ä").replaceAll("Ã…", "Å").replaceAll("Ã†", "Æ")
+            .replaceAll("Ã‡", "Ç").replaceAll("Ãˆ", "È").replaceAll("Ã‰", "É").replaceAll("ÃŠ", "Ê")
+            .replaceAll("Ã‹", "Ë").replaceAll("ÃŒ", "Ì").replaceAll("ÃŽ", "Î").replaceAll("Ã‘", "Ñ")
+            .replaceAll("Ã’", "Ò").replaceAll("Ã“", "Ó").replaceAll("Ã”", "Ô").replaceAll("Ã•", "Õ")
+            .replaceAll("Ã–", "Ö").replaceAll("Ã—", "×").replaceAll("Ã˜", "Ø").replaceAll("Ã™", "Ù")
+            .replaceAll("Ãš", "Ú").replaceAll("Ã›", "Û").replaceAll("Ãœ", "Ü").replaceAll("Ãž", "Þ")
+            .replaceAll("ÃŸ", "ß").replaceAll("Ã\u00a0", "à").replaceAll("Ã¡", "á").replaceAll("Ã¢", "â")
+            .replaceAll("Ã£", "ã").replaceAll("Ã¤", "ä").replaceAll("Ã¥", "å").replaceAll("Ã¦", "æ")
+            .replaceAll("Ã§", "ç").replaceAll("Ã¨", "è").replaceAll("Ã©", "é").replaceAll("Ãª", "ê")
+            .replaceAll("Ã«", "ë").replaceAll("Ã¬", "ì").replaceAll("Ã\u00ad", "í").replaceAll("Ã®", "î")
+            .replaceAll("Ã¯", "ï").replaceAll("Ã°", "ð").replaceAll("Ã±", "ñ").replaceAll("Ã²", "ò")
+            .replaceAll("Ã³", "ó").replaceAll("Ã´", "ô").replaceAll("Ãµ", "õ").replaceAll("Ã¶", "ö")
+            .replaceAll("Ã·", "÷").replaceAll("Ã¸", "ø").replaceAll("Ã¹", "ù").replaceAll("Ãº", "ú")
+            .replaceAll("Ã»", "û").replaceAll("Ã¼", "ü").replaceAll("Ã½", "ý").replaceAll("Ã¾", "þ")
+            .replaceAll("Ã¿", "ÿ");
+        /*
+         * Error chars: .replaceAll("Ã", "Ý").replaceAll("Ã", "Á").replaceAll("Ã",
+         * "Í").replaceAll("Ã", "Ï").replaceAll("Ã", "Ð")
+         */
+      } else {
+        break;
+      }
+    }
+    return output;
   }
-  
 
   public List<String> searchWord(String searchedWordOriginal) throws IOException {
-    String searchedWord = searchedWordOriginal.replaceAll("l\\.l", "l·l").replaceAll("l•l", "l·l")
-        .replaceAll("l-l", "l·l").replaceAll("l • l", "l·l").replaceAll("’", "'").replaceAll(",", "");
-    
-    if (searchedWord.contains("\u00C3")) {
-      searchedWord = makeCharReplacements(searchedWord);
-    }
+    String searchedWord = fixEncoding(searchedWordOriginal);
+    searchedWord = searchedWord.replaceAll("l\\.l", "l·l").replaceAll("l•l", "l·l").replaceAll("l-l", "l·l")
+        .replaceAll("l • l", "l·l").replaceAll("’", "'").replaceAll(",", "").replaceAll("&apos;", "'");
 
     Set<String> resultsSet = new HashSet<>();
     Set<String> alternativesSet = new HashSet<>();
@@ -358,7 +376,7 @@ public class Dictionary {
 
     String lowercase = searchedWord.toLowerCase();
     String searchedAscii = StringTools.removeDiacritics(lowercase);
-    
+
     if (commonErrors.containsKey(lowercase)) {
       resultsList.add(commonErrors.get(lowercase));
       return resultsList;
@@ -459,7 +477,7 @@ public class Dictionary {
         myTry++;
       }
     }
-    
+
     // suggeriments d'altres regles de LanguageTool (no ortografia)
     if (resultsSet.isEmpty()) {
       List<RuleMatch> matches = ltCat.check(searchedWord);
@@ -474,7 +492,7 @@ public class Dictionary {
         alternativesSet.addAll(alternativesLTSet);
       }
     }
-    
+
     resultsList.addAll(resultsSet);
     resultsList.addAll(alternativesSet);
     return resultsList;
