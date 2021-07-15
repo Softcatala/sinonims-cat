@@ -316,11 +316,11 @@ public class Dictionary {
   }
 
   private String fixEncoding(String input) {
-    // inconsciÃƒÂ¨ncia, pÃƒÂ­tiAma, providÃƒÂ¨ncia, insÃ­gnia, romanÃƒÂ§,
-    // amenaÃƒÆ’Ã‚Â§ar§
+    // inconsciÃƒÂ¨ncia, pÃƒÂ­tima, providÃƒÂ¨ncia, insÃ­gnia, romanÃƒÂ§,
+    // amenaÃƒÆ’Ã‚Â§ar
     String output = input;
     for (int i = 0; i < 3; i++) {
-      if (output.contains("\u00C3")) {
+      if (output.contains("\u00C3") || output.contains("Â")) {
         output = output.replaceAll("â‚¬", "€").replaceAll("â€š", "‚").replaceAll("Æ’", "ƒ").replaceAll("â€ž", "„")
             .replaceAll("â€¦", "…").replaceAll("â€", "†").replaceAll("â€¡", "‡").replaceAll("Ë†", "ˆ")
             .replaceAll("â€°", "‰").replaceAll("Å\u00a0", "Š").replaceAll("â€¹", "‹").replaceAll("Å’", "Œ")
