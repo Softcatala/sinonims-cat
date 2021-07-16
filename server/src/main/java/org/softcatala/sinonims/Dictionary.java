@@ -116,7 +116,7 @@ public class Dictionary {
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
       "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar",
       "dir adeu", "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà",
-      "fox-terrier", "aconseguible", "inatent", "netejable" });
+      "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -317,8 +317,12 @@ public class Dictionary {
 
   private String fixEncoding(String input) {
     // inconsciÃƒÂ¨ncia, pÃƒÂ­tima, providÃƒÂ¨ncia, insÃ­gnia, romanÃƒÂ§,
-    // amenaÃƒÆ’Ã‚Â§ar
+    // amenaÃƒÆ’Ã‚Â§ar, insÃ
     String output = input;
+    if (output.endsWith("Ã")) {
+      // \u00a0 is trimmed at the end
+      output = output.substring(0, output.length() - 1) + "à";
+    }
     for (int i = 0; i < 3; i++) {
       if (output.contains("\u00C3") || output.contains("Â")) {
         output = output.replaceAll("â‚¬", "€").replaceAll("â€š", "‚").replaceAll("Æ’", "ƒ").replaceAll("â€ž", "„")
