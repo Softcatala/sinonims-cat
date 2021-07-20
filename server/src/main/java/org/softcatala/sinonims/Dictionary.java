@@ -116,7 +116,8 @@ public class Dictionary {
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
       "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar",
       "dir adeu", "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà",
-      "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se"});
+      "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se", "intransparent",
+      "enrufolar-se" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
