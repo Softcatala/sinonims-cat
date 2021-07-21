@@ -117,7 +117,9 @@ public class Dictionary {
       "UFO", "reena", "rehena", "coldre", "enfilerar", "irruir", "fer ufana", "repertoriar", "a tot allargar",
       "dir adeu", "envant", "bacon", "solterot", "fadrinardo", "assossegador", "vidriat", "gr", "botelló", "a remà",
       "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se", "intransparent",
-      "enrufolar-se" });
+      "enrufolar-se", "ovovegetarianisme", "piscivegetarianisme", "avipiscivegetarianisme", "lactovegetarianisme",
+      "avivegetarianisme", "apivegetarianisme", "crudivegetarianisme", "crudiveganisme", "avipiscivegetarià",
+      "avivegetarià", "apivegetarià", "catxet" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -323,6 +325,9 @@ public class Dictionary {
     if (output.endsWith("Ã")) {
       // \u00a0 is trimmed at the end
       output = output.substring(0, output.length() - 1) + "à";
+    }
+    if (output.contains("`")) {
+      output = output.replaceAll("`a", "à").replaceAll("`e", "è").replaceAll("`o", "ò");
     }
     for (int i = 0; i < 3; i++) {
       if (output.contains("\u00C3") || output.contains("Â")) {
