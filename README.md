@@ -39,10 +39,27 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
       <td>url</td>
       <td><code itemprop="url">https://github.com/Softcatala/sinonims-cat</code></td>
     </tr>
-    <tr>
-      <td>creator</td>
-      <td><code itemprop="creator">Softcatalà</code></td>
-    </tr>
+ <tr>
+    <td>creator</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/Organization" itemprop="creator">
+        <table>
+          <tr>
+            <th>property</th>
+            <th>value</th>
+          </tr>
+          <tr>
+            <td>name</td>
+            <td><code itemprop="name">Softcatalà</code></td>
+          </tr>
+          <tr>
+            <td>sameAs</td>
+            <td><code itemprop="sameAs">https://en.wikipedia.org/wiki/Softcatal%C3%A0</code></td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
   </table>
 </div>
 
