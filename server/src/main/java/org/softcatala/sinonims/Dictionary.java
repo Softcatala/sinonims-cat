@@ -100,7 +100,7 @@ public class Dictionary {
       "déu-n'hi-doret", "egomaníac", "embruta-sopars", "encabat", "encaterinador", "enllambordar", "ensentinar",
       "escambuixar", "escambuixat", "escarotament", "escorxa-rosses", "espertinar", "espetència", "estroncallat",
       "eudemonia", "evangelístic", "fabliau", "feinejador", "fer foja", "fillar", "frapar", "glai", "globalisme",
-      "gorrinet", "gorrinyeu", "guixeta", "incarcerar", "inessencial", "infermetat", "insurrecionar", "judia",
+      "gorrinet", "gorrinyeu", "guixeta", "incarcerar", "inessencial", "infermetat", "incontaminació", "judia",
       "lausengeria", "malconformat", "marcianada", "menysestimació", "merengot", "mesellia", "palmineta",
       "papa-sastres", "pepito", "perico", "perimetrar", "piocar", "plis-plai", "pompis", "pseudoartístic", "punyalet",
       "què dius, ara?", "Reixos", "retsina", "ricotta", "sa porcelleta", "sarabastall", "sardanapàlic", "Satan",
@@ -119,7 +119,7 @@ public class Dictionary {
       "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se", "intransparent",
       "enrufolar-se", "ovovegetarianisme", "piscivegetarianisme", "avipiscivegetarianisme", "lactovegetarianisme",
       "avivegetarianisme", "apivegetarianisme", "crudivegetarianisme", "crudiveganisme", "avipiscivegetarià",
-      "avivegetarià", "apivegetarià", "catxet" });
+      "avivegetarià", "apivegetarià", "catxet", "enrevessar" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
