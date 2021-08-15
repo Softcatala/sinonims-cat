@@ -120,7 +120,7 @@ public class Dictionary {
       "enrufolar-se", "ovovegetarianisme", "piscivegetarianisme", "avipiscivegetarianisme", "lactovegetarianisme",
       "avivegetarianisme", "apivegetarianisme", "crudivegetarianisme", "crudiveganisme", "avipiscivegetarià",
       "avivegetarià", "apivegetarià", "catxet", "enrevessar", "caravermell", "feinassa", "nord-estejar", "nord-oestejar", 
-      "bumerol", "spa", "xurriacar"});
+      "bumerol", "spa", "xurriacar", "malcriador", "aviciador", "buscabaralles"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
