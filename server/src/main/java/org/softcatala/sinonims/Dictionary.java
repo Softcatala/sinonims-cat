@@ -119,8 +119,11 @@ public class Dictionary {
       "fox-terrier", "aconseguible", "inatent", "netejable", "descorticar", "despilotar-se", "intransparent",
       "enrufolar-se", "ovovegetarianisme", "piscivegetarianisme", "avipiscivegetarianisme", "lactovegetarianisme",
       "avivegetarianisme", "apivegetarianisme", "crudivegetarianisme", "crudiveganisme", "avipiscivegetarià",
-      "avivegetarià", "apivegetarià", "catxet", "enrevessar", "caravermell", "feinassa", "nord-estejar", "nord-oestejar", 
-      "bumerol", "spa", "xurriacar", "malcriador", "aviciador", "buscabaralles", "taikonauta", "breguejador"});
+      "avivegetarià", "apivegetarià", "catxet", "enrevessar", "caravermell", "feinassa", "nord-estejar",
+      "nord-oestejar", "bumerol", "spa", "xurriacar", "malcriador", "aviciador", "buscabaralles", "taikonauta",
+      "breguejador", "englobador", "estudiador", "pelacolzes", "colzepelat", "socarracelles", "cellacremat",
+      "memorietes", "xuclapàgines", "rosegaapunts", "xuclaapunts", "covallibres", "bonatxàs", "coexpedicionari",
+      "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -490,7 +493,7 @@ public class Dictionary {
     }
 
     // suggeriments d'altres regles de LanguageTool (no ortografia)
-    if (resultsSet.isEmpty()) {
+    if (resultsSet.isEmpty() || (resultsSet.size() == 1 && resultsSet.contains(searchedWordOriginal.toLowerCase()))) {
       List<RuleMatch> matches = ltCat.check(searchedWord);
       Set<String> alternativesLTSet = new HashSet<>();
       for (RuleMatch m : matches) {
@@ -501,6 +504,7 @@ public class Dictionary {
       if (!alternativesLTSet.isEmpty()) {
         alternativesSet.clear();
         alternativesSet.addAll(alternativesLTSet);
+        alternativesSet.addAll(resultsSet);
       }
     }
 
