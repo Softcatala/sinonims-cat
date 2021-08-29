@@ -123,7 +123,7 @@ public class Dictionary {
       "nord-oestejar", "bumerol", "spa", "xurriacar", "malcriador", "aviciador", "buscabaralles", "taikonauta",
       "breguejador", "englobador", "estudiador", "pelacolzes", "colzepelat", "socarracelles", "cellacremat",
       "memorietes", "xuclapàgines", "rosegaapunts", "xuclaapunts", "covallibres", "bonatxàs", "coexpedicionari",
-      "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber" });
+      "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
