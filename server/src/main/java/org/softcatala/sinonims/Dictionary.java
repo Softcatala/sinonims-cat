@@ -124,7 +124,8 @@ public class Dictionary {
       "breguejador", "englobador", "estudiador", "pelacolzes", "colzepelat", "socarracelles", "cellacremat",
       "memorietes", "xuclapàgines", "rosegaapunts", "xuclaapunts", "covallibres", "bonatxàs", "coexpedicionari",
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
-      "implementable", "llicenciositat", "afilamines", "pronosticabilitat" });
+      "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
+      "obesofòbia" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
