@@ -79,7 +79,7 @@ public class Dictionary {
   private static ThesaurusConfig conf;
 
   private static MorfologikCatalanSpellerRule morfologikRule;
-  final private int MAX_SUGGESTIONS = 7;
+  final private int MAX_SUGGESTIONS = 10;
   final private int MAX_AUTOCOMPLETE = 10;
   private String firstLemmaFound = "";
 
@@ -125,7 +125,7 @@ public class Dictionary {
       "memorietes", "xuclapàgines", "rosegaapunts", "xuclaapunts", "covallibres", "bonatxàs", "coexpedicionari",
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
-      "obesofòbia" });
+      "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
