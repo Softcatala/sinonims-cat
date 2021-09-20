@@ -90,6 +90,8 @@ public class Dictionary {
     commonErrors.put("desitx", "desig");
     commonErrors.put("insertar", "inserir");
   }
+  
+  private List<String> noSuggestions = Arrays.asList(new String[] {"pato"});
 
   // ignore when testing
   private List<String> wordsToIgnore = Arrays.asList(new String[] { "fer un paperàs", "querellador", "barça",
@@ -125,7 +127,8 @@ public class Dictionary {
       "memorietes", "xuclapàgines", "rosegaapunts", "xuclaapunts", "covallibres", "bonatxàs", "coexpedicionari",
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
-      "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam"});
+      "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
+      "compendiositat" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -478,7 +481,8 @@ public class Dictionary {
                 && !resultsSet.contains("-" + suggestion) && !resultsSet.contains("-" + suggestion.toLowerCase())
                 && mainDict.containsKey(suggestion)) {
               // Donar com a resultat directe si només si difereix en diacrítics
-              if (StringTools.removeDiacritics(suggestion).equalsIgnoreCase(searchedAscii)) {
+              if (StringTools.removeDiacritics(suggestion).equalsIgnoreCase(searchedAscii)
+                  || StringTools.removeDiacritics(suggestion.replace("l·l", "l")).equalsIgnoreCase(searchedAscii)) {
                 resultsSet.add(suggestion);
               } else {
                 alternativesSet.add("-" + suggestion);
@@ -494,6 +498,11 @@ public class Dictionary {
       }
     }
 
+    for (String s : noSuggestions) {
+      if (resultsSet.contains(s)) {
+        resultsSet.remove(s);
+      }
+    }
     // suggeriments d'altres regles de LanguageTool (no ortografia)
     if (resultsSet.isEmpty() || (resultsSet.size() == 1 && resultsSet.contains(searchedWordOriginal.toLowerCase()))) {
       List<RuleMatch> matches = ltCat.check(searchedWord);
