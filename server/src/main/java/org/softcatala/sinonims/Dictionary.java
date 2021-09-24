@@ -89,9 +89,11 @@ public class Dictionary {
     commonErrors.put("anel", "anhel");
     commonErrors.put("desitx", "desig");
     commonErrors.put("insertar", "inserir");
+    commonErrors.put("properament", "pròximament");
+    commonErrors.put("paulatina", "gradual");
   }
-  
-  private List<String> noSuggestions = Arrays.asList(new String[] {"pato"});
+
+  private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
 
   // ignore when testing
   private List<String> wordsToIgnore = Arrays.asList(new String[] { "fer un paperàs", "querellador", "barça",
@@ -128,7 +130,7 @@ public class Dictionary {
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
       "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
-      "compendiositat" });
+      "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -143,6 +145,8 @@ public class Dictionary {
     ltCat = new JLanguageTool(new Catalan());
     ltCat.disableRule("UPPERCASE_SENTENCE_START");
     ltCat.disableRule("MORFOLOGIK_RULE_CA_ES");
+    ltCat.disableRule("CA_SIMPLEREPLACE_DIACRITICS_IEC");
+    ltCat.disableRule("ALTRE_UN_ALTRE");
     ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();
     synth = (CatalanSynthesizer) ltCatVal.getLanguage().getSynthesizer();
