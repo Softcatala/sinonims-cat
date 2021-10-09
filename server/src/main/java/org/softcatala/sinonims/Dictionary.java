@@ -66,7 +66,7 @@ public class Dictionary {
 
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
       "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
-      "ser", "estar", "jo", "tu", "ell", "ella", "son", "." });
+      "ser", "estar", "jo", "tu", "ell", "ella", "son", ".", "un" });
   // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
@@ -130,7 +130,8 @@ public class Dictionary {
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
       "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
-      "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital" });
+      "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra", 
+      "macrobotellada"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
