@@ -91,6 +91,10 @@ public class Dictionary {
     commonErrors.put("insertar", "inserir");
     commonErrors.put("properament", "pròximament");
     commonErrors.put("paulatina", "gradual");
+    commonErrors.put("gama", "gamma");
+    commonErrors.put("extrany", "estrany");
+    commonErrors.put("interesant", "interessant");
+    commonErrors.put("reflexar", "reflectir");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -131,7 +135,7 @@ public class Dictionary {
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
       "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
       "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra", 
-      "macrobotellada"});
+      "macrobotellada", "pa amb...", "més-donant", "canyardo", "gardela", "demofòbic"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
