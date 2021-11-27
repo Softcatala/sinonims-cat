@@ -138,7 +138,7 @@ public class Dictionary {
       "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
       "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra", 
       "macrobotellada", "pa amb...", "més-donant", "canyardo", "gardela", "demofòbic", "poltergeist", "cançó de la lileta", 
-      "night-club", "sallir", "sàller", "emponnar-se"});
+      "night-club", "sallir", "sàller", "emponnar-se", "dipsomaníac", "atzero", "pull", "tiragomes"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
