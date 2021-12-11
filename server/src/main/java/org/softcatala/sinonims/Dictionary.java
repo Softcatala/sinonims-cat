@@ -97,6 +97,14 @@ public class Dictionary {
     commonErrors.put("reflexar", "reflectir");
     commonErrors.put("aclarar", "aclarir");
     commonErrors.put("otorgar", "atorgar");
+    commonErrors.put("grabar", "gravar");
+    commonErrors.put("cumplir", "complir");
+    commonErrors.put("compendre", "comprendre");
+    commonErrors.put("pendre", "prendre");
+    commonErrors.put("apendre", "aprendre");
+    commonErrors.put("conseguir", "aconseguir");
+    commonErrors.put("event", "esdeveniment");
+    commonErrors.put("pasar", "passar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -492,9 +500,10 @@ public class Dictionary {
             if (!resultsSet.contains(suggestion) && !resultsSet.contains(suggestion.toLowerCase())
                 && !resultsSet.contains("-" + suggestion) && !resultsSet.contains("-" + suggestion.toLowerCase())
                 && mainDict.containsKey(suggestion)) {
-              // Donar com a resultat directe si només si difereix en diacrítics
+              // Donar com a resultat directe si només difereix en diacrítics o s/ss
               if (StringTools.removeDiacritics(suggestion).equalsIgnoreCase(searchedAscii)
-                  || StringTools.removeDiacritics(suggestion.replace("l·l", "l")).equalsIgnoreCase(searchedAscii)) {
+                  || StringTools.removeDiacritics(suggestion.replace("l·l", "l")).equalsIgnoreCase(searchedAscii)
+                  || StringTools.removeDiacritics(suggestion.replace("ss", "s")).equalsIgnoreCase(searchedAscii)) {
                 resultsSet.add(suggestion);
               } else {
                 alternativesSet.add("-" + suggestion);
