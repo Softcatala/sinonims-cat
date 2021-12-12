@@ -46,6 +46,10 @@ public class ThesaurusServer {
          */
 
         logger.warn(conf);
+        if (conf.production.equalsIgnoreCase("no")) {
+          logger.warn("Exiting");
+          System.exit(0);
+        }
         HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
         logger.warn("Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
         logger.warn("Synonyms server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);

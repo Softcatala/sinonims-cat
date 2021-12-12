@@ -13,4 +13,6 @@ COPY server-cfg /srv
 
 COPY --from=build /tmp/sinonims.jar /srv/sinonims.jar
 
+RUN java -jar /srv/sinonims.jar --config /srv/sinonims-prebuild.cfg
+
 ENTRYPOINT /srv/entrypoint.sh

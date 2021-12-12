@@ -4,3 +4,4 @@ target
 .classpath
 xml-dicts/
 .idea
+dict/aux.txt
