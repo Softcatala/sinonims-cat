@@ -53,6 +53,7 @@ def parse_line(line):
    cleaned_line = re.sub ('\\\,', ';', cleaned_line)
    cleaned_line = re.sub (' ?#.*$', '', cleaned_line)
    cleaned_line = cleaned_line.replace('NOFEM', '')
+   cleaned_line = re.sub ('FEM.*\)', ')', cleaned_line)
    cleaned_line = re.sub('\( ', '(', cleaned_line)
    cleaned_line = re.sub(' \)', ')', cleaned_line)
    cleaned_line = re.sub(' \(\)', '', cleaned_line)
