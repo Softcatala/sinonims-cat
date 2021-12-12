@@ -1,7 +1,9 @@
 package org.softcatala.sinonims;
 
 import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.text.Collator;
 import java.util.ArrayList;
@@ -41,7 +43,7 @@ public class Dictionary {
   // índex en minúscules
   private static TreeMap<String, List<Integer>> mainDict;
   // índex de paraules parcials (parts d'expressions)
-  private static TreeMap<String, List<String>> secondDictIndex = new TreeMap<String, List<String>>();;
+  private static TreeMap<String, Set<String>> secondDictIndex = new TreeMap<String, Set<String>>();;
   // llista d'entrades, des de sinonims.txt
   private static List<Entry> entries = new ArrayList<>();
 
@@ -66,7 +68,8 @@ public class Dictionary {
 
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
       "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
-      "ser", "estar", "jo", "tu", "ell", "ella", "son", ".", "un" });
+      "ser", "estar", "jo", "tu", "ell", "ella", "son", ".", "un", "'hi", "-hi", "'ho", "'m", "'n", "'s", ",", "-ho",
+      "-la", "-les", "-lo", "-me", "-n", "-ne", "-s", "-se", "-t", "?" });
   // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
@@ -144,9 +147,10 @@ public class Dictionary {
       "fotoreporter", "identitarisme", "per... que sigui", "de... estant", "de... ençà", "Cèrber", "benparit",
       "implementable", "llicenciositat", "afilamines", "pronosticabilitat", "semiinconsciència", "pablanquer",
       "obesofòbia", "traspassable", "arcade", "ID", "terrenalitat", "gossam", "sabatam", "castigable", "grimori",
-      "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra", 
-      "macrobotellada", "pa amb...", "més-donant", "canyardo", "gardela", "demofòbic", "poltergeist", "cançó de la lileta", 
-      "night-club", "sallir", "sàller", "emponnar-se", "dipsomaníac", "atzero", "pull", "tiragomes"});
+      "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra",
+      "macrobotellada", "pa amb...", "més-donant", "canyardo", "gardela", "demofòbic", "poltergeist",
+      "cançó de la lileta", "night-club", "sallir", "sàller", "emponnar-se", "dipsomaníac", "atzero", "pull",
+      "tiragomes" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -175,27 +179,29 @@ public class Dictionary {
     ThesaurusServer.log("Reading source and building dictionary.");
     if (conf.production.equalsIgnoreCase("yes")) {
       ThesaurusServer.log("Skipping LanguageTool checks.");
+      readFromFile();
+      // saveToFile();
     } else {
       ThesaurusServer.log("Checking dictionary with LanguageTool.");
-    }
-    BufferedReader reader;
-    try {
-      reader = new BufferedReader(new FileReader(conf.srcFile));
-      String line = reader.readLine();
-      while (line != null) {
-        ThesaurusServer.log(addLine(line));
-        line = reader.readLine();
+      BufferedReader reader;
+      try {
+        reader = new BufferedReader(new FileReader(conf.srcFile));
+        String line = reader.readLine();
+        while (line != null) {
+          ThesaurusServer.log(addLine(line));
+          line = reader.readLine();
+        }
+        reader.close();
+      } catch (IOException e) {
+        ThesaurusServer.logger.error(e.toString());
+        throw new IOException("Error reading source dictionary. ");
       }
-      reader.close();
-    } catch (IOException e) {
-      ThesaurusServer.logger.error(e.toString());
-      throw new IOException("Error reading source dictionary. ");
+      // índex de paraules
+      List<String> wordList = new ArrayList<>(mainIndexSet);
+      wordList.sort(new IndexSortComparator());
+      mainIndex = wordList;
+      saveToFile();
     }
-
-    // índex de paraules
-    List<String> wordList = new ArrayList<>(mainIndexSet);
-    wordList.sort(new IndexSortComparator());
-    mainIndex = wordList;
 
   }
 
@@ -671,11 +677,11 @@ public class Dictionary {
       return;
     }
     if (secondDictIndex.containsKey(indexWord)) {
-      List<String> l = secondDictIndex.get(indexWord);
+      Set<String> l = secondDictIndex.get(indexWord);
       l.add(targetWord);
       secondDictIndex.put(indexWord, l);
     } else {
-      List<String> l = new ArrayList<>();
+      Set<String> l = new HashSet<>();
       l.add(targetWord);
       secondDictIndex.put(indexWord, l);
     }
@@ -948,6 +954,87 @@ public class Dictionary {
       titleCase.append(c);
     }
     return titleCase.toString();
+  }
+
+  private void saveToFile() throws IOException {
+    FileWriter writer = new FileWriter(conf.auxFile);
+    writer.write("===mainDict===\n");
+    for (String line : mainDict.keySet()) {
+      writer.write(line + ":" + mainDict.get(line) + "\n");
+    }
+    writer.write("===secondDictIndex===\n");
+    for (String line : secondDictIndex.keySet()) {
+      Set<String> set = secondDictIndex.get(line);
+      Set<String> newSet = new HashSet<>();
+      for (String str : set) {
+        newSet.add(str.replaceAll(",", ";;"));
+      }
+      writer.write(line + ":" + newSet.toString() + "\n");
+    }
+    writer.write("===mainIndexSet===\n");
+    for (String line : mainIndexSet) {
+      writer.write(line + "\n");
+    }
+    writer.write("===mainIndex===\n");
+    for (String line : mainIndex) {
+      writer.write(line + "\n");
+    }
+    writer.write("===entries===\n");
+    for (Entry line : entries) {
+      writer.write(line.toString() + "\n");
+    }
+    writer.close();
+  }
+
+  private void readFromFile() throws FileNotFoundException, IOException {
+    mainDict.clear();
+    secondDictIndex.clear();
+    mainIndexSet.clear();
+    mainIndex.clear();
+    entries.clear();
+    try (BufferedReader br = new BufferedReader(new FileReader(conf.auxFile))) {
+      String line;
+      String mode = "";
+      while ((line = br.readLine()) != null) {
+        line = line.strip();
+        if (line.startsWith("===")) {
+          mode = line;
+        } else {
+          switch (mode) {
+          case "===mainDict===":
+            String[] parts = line.split(":");
+            String numbers[] = parts[1].substring(1, parts[1].length() - 1).split(", ");
+            List<Integer> l = new ArrayList<>();
+            for (String number : numbers) {
+              l.add(Integer.parseInt(number));
+            }
+            mainDict.put(parts[0], l);
+            break;
+          case "===secondDictIndex===":
+            parts = line.split(":");
+            String strs[] = parts[1].substring(1, parts[1].length() - 1).split(", ");
+            Set<String> s = new HashSet<>();
+            for (String str : strs) {
+              s.add(str.replaceAll(";;", ","));
+            }
+            secondDictIndex.put(parts[0], s);
+            break;
+          case "===mainIndexSet===":
+            mainIndexSet.add(line);
+            break;
+          case "===mainIndex===":
+            mainIndex.add(line);
+            break;
+          case "===entries===":
+            Entry e = new Entry(line);
+            entries.add(e);
+            break;
+          }
+
+        }
+
+      }
+    }
   }
 
 }
