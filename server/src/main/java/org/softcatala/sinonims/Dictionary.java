@@ -167,6 +167,8 @@ public class Dictionary {
     ltCat.disableRule("MORFOLOGIK_RULE_CA_ES");
     ltCat.disableRule("CA_SIMPLEREPLACE_DIACRITICS_IEC");
     ltCat.disableRule("ALTRE_UN_ALTRE");
+    ltCat.disableRule("EXIGEIX_VERBS_CENTRAL");
+    ltCat.disableRule("DISFRUTAR");
     ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();
     synth = (CatalanSynthesizer) ltCatVal.getLanguage().getSynthesizer();
@@ -545,9 +547,8 @@ public class Dictionary {
         alternativesSet.addAll(resultsSet);
       }
     }
-
+    resultsSet.addAll(alternativesSet);
     resultsList.addAll(resultsSet);
-    resultsList.addAll(alternativesSet);
     return resultsList;
   }
 
