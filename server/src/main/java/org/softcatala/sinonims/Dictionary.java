@@ -108,6 +108,7 @@ public class Dictionary {
     commonErrors.put("conseguir", "aconseguir");
     commonErrors.put("event", "esdeveniment");
     commonErrors.put("pasar", "passar");
+    commonErrors.put("transfons", "rerefons");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
