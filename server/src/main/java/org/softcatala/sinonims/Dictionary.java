@@ -91,6 +91,7 @@ public class Dictionary {
   static {
     commonErrors.put("anel", "anhel");
     commonErrors.put("desitx", "desig");
+    commonErrors.put("desitg", "desig");
     commonErrors.put("insertar", "inserir");
     commonErrors.put("properament", "pròximament");
     commonErrors.put("paulatina", "gradual");
@@ -109,6 +110,13 @@ public class Dictionary {
     commonErrors.put("event", "esdeveniment");
     commonErrors.put("pasar", "passar");
     commonErrors.put("transfons", "rerefons");
+    commonErrors.put("complexe", "complex");
+    commonErrors.put("extendre", "estendre");
+    commonErrors.put("concluir", "concloure");
+    commonErrors.put("actitut", "actitud");
+    commonErrors.put("evaluar", "avaluar");
+    commonErrors.put("evaluació", "avaluació");
+    commonErrors.put("aumentar", "augmentar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -151,7 +159,12 @@ public class Dictionary {
       "compendiositat", "interlocutar", "reincloure", "conversió analògica-digital", "mantis religiosa", "festarra",
       "macrobotellada", "pa amb...", "més-donant", "canyardo", "gardela", "demofòbic", "poltergeist",
       "cançó de la lileta", "night-club", "sallir", "sàller", "emponnar-se", "dipsomaníac", "atzero", "pull",
-      "tiragomes" });
+      "tiragomes", "mecagondeu", "cagondena", "mecàgon", "càson", "càgon", "mecàgon", "mecagondena", "cagondeu",
+      "mecagoncony", "cagoncony", "mecàgon l'hòstia", "càgon l'hòstia", "mecàgon l'ou", "càgon l'ou",
+      "mecàgon la mar salada", "càgon la mar salada", "mecàson", "tant és... com...", "tant se val... com...",
+      "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser"
+
+  });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
