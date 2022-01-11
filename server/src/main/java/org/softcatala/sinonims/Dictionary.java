@@ -126,7 +126,7 @@ public class Dictionary {
       "argigalera", "moisès", "aclevillar", "aguar", "aiguarradam", "almussafes", "al·lotea", "al·lotim", "amucionar",
       "anar de xurrut", "antiestatalisme", "astrosia", "balaclava", "beneitot", "binar", "botellón", "cafenet",
       "can Garlanda", "can Pixa", "can Seixanta", "can Taps", "can Xauxa", "can", "ceballí", "cherry", "com s'entén?",
-      "daoisme", "de coixinereta", "de frutis", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do",
+      "daoisme", "de coixinereta", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do",
       "déu-n'hi-doret", "egomaníac", "embruta-sopars", "encabat", "encaterinador", "enllambordar", "ensentinar",
       "escambuixar", "escambuixat", "escarotament", "escorxa-rosses", "espertinar", "espetència", "estroncallat",
       "eudemonia", "evangelístic", "fabliau", "feinejador", "fer foja", "fillar", "frapar", "glai", "globalisme",
@@ -162,7 +162,8 @@ public class Dictionary {
       "tiragomes", "mecagondeu", "cagondena", "mecàgon", "càson", "càgon", "mecàgon", "mecagondena", "cagondeu",
       "mecagoncony", "cagoncony", "mecàgon l'hòstia", "càgon l'hòstia", "mecàgon l'ou", "càgon l'ou",
       "mecàgon la mar salada", "càgon la mar salada", "mecàson", "tant és... com...", "tant se val... com...",
-      "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser"
+      "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser",
+      "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis"
 
   });
 
