@@ -3,11 +3,11 @@ include:
     file: '/gitlab/deploy.yml'
 
 variables:
-  PROJECT_TO_BE_DEPLOYED: 'docker/sinonims'
+#  PROJECT_TO_BE_DEPLOYED: 'docker/sinonims'
 
 stages:
   - build
-  - deploy
+#  - deploy
 
 build:
   image: docker:latest
@@ -24,7 +24,7 @@ build:
     - docker push $CI_REGISTRY_IMAGE:$DATETAG
     - docker push $CI_REGISTRY_IMAGE:latest
 
-deploy:
-  stage: deploy
-  extends:
-    .default-deploy
+#deploy:
+#  stage: deploy
+#  extends:
+#    .default-deploy
