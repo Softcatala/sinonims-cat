@@ -2,7 +2,7 @@
 Diccionari català de sinònims myThes per a l'OpenOffice.org 2.1 (o superior)
 ________________________________________________________________________________
 
-Autor: Jaume Ortolà (joan@montane.cat).
+Autor: Jaume Ortolà (sinonims@softcatala.org).
 
 myThes és el format del tesaure de l'OOo a partir de la versió 2.0, desenvolupat per en Kevin Hendricks,
 basat en treballs de la Universitast de Priceton
@@ -42,4 +42,4 @@ https://creativecommons.org/licenses/by/4.0/
 Més informació a lloc web del projecte: https://github.com/Softcatala/sinonims-cat
 
 
-Copyright (C) 2021 Jaume Ortolà --- Softcatalà
+Copyright (C) 2022 Jaume Ortolà --- Softcatalà
