@@ -163,8 +163,8 @@ public class Dictionary {
       "mecagoncony", "cagoncony", "mecàgon l'hòstia", "càgon l'hòstia", "mecàgon l'ou", "càgon l'ou",
       "mecàgon la mar salada", "càgon la mar salada", "mecàson", "tant és... com...", "tant se val... com...",
       "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser",
-      "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis", "jonqui"
-
+      "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis", "jonqui", "pu", "puà", "brainstorming",
+      "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "tweetar"
   });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
