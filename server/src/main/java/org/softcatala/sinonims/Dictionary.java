@@ -29,6 +29,7 @@ import org.languagetool.JLanguageTool;
 import org.languagetool.Language;
 import org.languagetool.language.Catalan;
 import org.languagetool.language.ValencianCatalan;
+import org.languagetool.rules.CategoryId;
 import org.languagetool.rules.RuleMatch;
 import org.languagetool.rules.ca.MorfologikCatalanSpellerRule;
 import org.languagetool.rules.spelling.morfologik.MorfologikMultiSpeller;
@@ -184,6 +185,7 @@ public class Dictionary {
     ltCat.disableRule("ALTRE_UN_ALTRE");
     ltCat.disableRule("EXIGEIX_VERBS_CENTRAL");
     ltCat.disableRule("DISFRUTAR");
+    ltCat.disableCategory(new CategoryId("PUNCTUATION"));
     ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();
     synth = (CatalanSynthesizer) ltCatVal.getLanguage().getSynthesizer();
