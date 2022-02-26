@@ -98,6 +98,7 @@ public class Dictionary {
     commonErrors.put("paulatina", "gradual");
     commonErrors.put("gama", "gamma");
     commonErrors.put("extrany", "estrany");
+    commonErrors.put("extranya", "estrany");
     commonErrors.put("interesant", "interessant");
     commonErrors.put("reflexar", "reflectir");
     commonErrors.put("aclarar", "aclarir");
@@ -118,6 +119,29 @@ public class Dictionary {
     commonErrors.put("evaluar", "avaluar");
     commonErrors.put("evaluació", "avaluació");
     commonErrors.put("aumentar", "augmentar");
+    commonErrors.put("virtud", "virtut");
+    commonErrors.put("rencor", "rancor");
+    commonErrors.put("tranquila", "tranquil");
+    commonErrors.put("comprobar", "comprovar");
+    commonErrors.put("trascendir", "transcendir");
+    commonErrors.put("atravessar", "travessar");
+    commonErrors.put("debatir", "debatre");
+    commonErrors.put("inquietut", "inquietud");
+    commonErrors.put("demapassat", "demà passat");
+    commonErrors.put("passatdema", "demà passat");
+    commonErrors.put("passatdemà", "demà passat");
+    commonErrors.put("adecuat", "adequat");
+    commonErrors.put("abarcar", "abraçar");
+    commonErrors.put("avarcar", "abraçar");
+    commonErrors.put("recomenar", "recomanar");
+    commonErrors.put("exisitir", "existir");
+    commonErrors.put("ademés", "a més");
+    commonErrors.put("desde", "des de");
+    commonErrors.put("averiguar", "esbrinar");
+    commonErrors.put("solventar", "resoldre");
+    commonErrors.put("juntar", "ajuntar");
+    commonErrors.put("descubrir", "descobrir");
+    commonErrors.put("realizar", "realitzar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -165,8 +189,7 @@ public class Dictionary {
       "mecàgon la mar salada", "càgon la mar salada", "mecàson", "tant és... com...", "tant se val... com...",
       "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser",
       "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis", "jonqui", "pu", "puà", "brainstorming",
-      "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi"
-  });
+      "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
