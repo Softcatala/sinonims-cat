@@ -189,7 +189,8 @@ public class Dictionary {
       "mecàgon la mar salada", "càgon la mar salada", "mecàson", "tant és... com...", "tant se val... com...",
       "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser",
       "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis", "jonqui", "pu", "puà", "brainstorming",
-      "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada" });
+      "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada", 
+      "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
