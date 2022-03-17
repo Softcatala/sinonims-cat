@@ -142,6 +142,12 @@ public class Dictionary {
     commonErrors.put("juntar", "ajuntar");
     commonErrors.put("descubrir", "descobrir");
     commonErrors.put("realizar", "realitzar");
+    commonErrors.put("llimb", "llimbs");
+    commonErrors.put("algo", "quelcom");
+    commonErrors.put("ninfa", "nimfa");
+    commonErrors.put("baliga balaga", "baliga-balaga");
+    commonErrors.put("companyerisme", "companyonia");
+    commonErrors.put("coneixament", "coneixement");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -190,7 +196,7 @@ public class Dictionary {
       "unes vegades... altres...", "tan aviat... com...", "ara... ara...", "ara... adés...", "adés... adés...", "vaser",
       "enunciable", "verbalitzable", "mainstream", "fotris", "xirlis-mirlis", "jonqui", "pu", "puà", "brainstorming",
       "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada", 
-      "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se"});
+      "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se", "ad infinitum"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
