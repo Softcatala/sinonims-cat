@@ -148,6 +148,9 @@ public class Dictionary {
     commonErrors.put("baliga balaga", "baliga-balaga");
     commonErrors.put("companyerisme", "companyonia");
     commonErrors.put("coneixament", "coneixement");
+    commonErrors.put("concienciar", "conscienciar");
+    commonErrors.put("conciencia", "consciència");
+    commonErrors.put("conciència", "consciència");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -198,7 +201,7 @@ public class Dictionary {
       "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada",
       "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se", "ad infinitum", "aixafador", "ciar",
       "bicefalisme", "tanoqueria", "sovietologia", "ultrasecret", "parvenu", "belleu", "mostatxada", "catxeta",
-      "no dir ni mu" });
+      "no dir ni mu", "feèric", "portadista", "decacordi" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
