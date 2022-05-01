@@ -201,7 +201,7 @@ public class Dictionary {
       "poruguesa", "porugueria", "sotsxantre", "tuiter", "locus amoenus", "autodidaxi", "pallussada", "ullalada",
       "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se", "ad infinitum", "aixafador", "ciar",
       "bicefalisme", "tanoqueria", "sovietologia", "ultrasecret", "parvenu", "belleu", "mostatxada", "catxeta",
-      "no dir ni mu", "feèric", "portadista", "decacordi" });
+      "no dir ni mu", "feèric", "portadista", "decacordi", "tocatimbals", "a becameta" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
