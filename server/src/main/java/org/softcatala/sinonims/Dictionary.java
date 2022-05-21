@@ -158,6 +158,8 @@ public class Dictionary {
     commonErrors.put("deleitar", "delectar");
     commonErrors.put("frustant", "frustrant");
     commonErrors.put("afeminat", "efeminat");
+    commonErrors.put("devallada", "davallada");
+    commonErrors.put("devallar", "davallar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -209,7 +211,8 @@ public class Dictionary {
       "semala", "bascoparlant", "enxonar-se", "enconyar-se", "encigalar-se", "ad infinitum", "aixafador", "ciar",
       "bicefalisme", "tanoqueria", "sovietologia", "ultrasecret", "parvenu", "belleu", "mostatxada", "catxeta",
       "no dir ni mu", "feèric", "portadista", "decacordi", "tocatimbals", "a becameta", "ultraestatista", "chatbot",
-      "contaire", "contador", "afterhours", "sistema de Ponzi", "piràmide de Ponzi", "desromantitzar"});
+      "contaire", "contador", "afterhours", "sistema de Ponzi", "piràmide de Ponzi", "desromantitzar", "nassarrut",
+      "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -571,7 +574,8 @@ public class Dictionary {
               // Donar com a resultat directe si només difereix en diacrítics o s/ss
               if (StringTools.removeDiacritics(suggestion).equalsIgnoreCase(searchedAscii)
                   || StringTools.removeDiacritics(suggestion.replace("l·l", "l")).equalsIgnoreCase(searchedAscii)
-                  || StringTools.removeDiacritics(suggestion.replace("ss", "s")).equalsIgnoreCase(searchedAscii)) {
+                  || StringTools.removeDiacritics(suggestion.replace("ss", "s")).equalsIgnoreCase(searchedAscii)
+                  || StringTools.removeDiacritics(suggestion.replace("nn", "n")).equalsIgnoreCase(searchedAscii)) {
                 resultsSet.add(suggestion);
               } else {
                 alternativesSet.add("-" + suggestion);
