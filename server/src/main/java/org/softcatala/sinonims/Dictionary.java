@@ -160,6 +160,8 @@ public class Dictionary {
     commonErrors.put("afeminat", "efeminat");
     commonErrors.put("devallada", "davallada");
     commonErrors.put("devallar", "davallar");
+    commonErrors.put("tot i aixi", "tot i així");
+    commonErrors.put("tot i aixo", "tot i això");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -212,7 +214,9 @@ public class Dictionary {
       "bicefalisme", "tanoqueria", "sovietologia", "ultrasecret", "parvenu", "belleu", "mostatxada", "catxeta",
       "no dir ni mu", "feèric", "portadista", "decacordi", "tocatimbals", "a becameta", "ultraestatista", "chatbot",
       "contaire", "contador", "afterhours", "sistema de Ponzi", "piràmide de Ponzi", "desromantitzar", "nassarrut",
-      "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar" });
+      "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar",
+      "de l'any de la Mariacastanya", "de l'any tirurany", "de l'any de la catapumba", "escondiment", "reprise",
+      "musicalitzar" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
