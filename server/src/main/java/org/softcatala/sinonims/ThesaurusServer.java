@@ -35,7 +35,7 @@ public class ThesaurusServer {
         conf = new ThesaurusConfig(args);
         dict = new Dictionary(conf);
         
-//    Response response = dict.getResponse("séc");
+//    Response response = dict.getResponse("providència");
 //    Gson gson = new Gson();
 //    String jsonResponse = gson.toJson(response);
 

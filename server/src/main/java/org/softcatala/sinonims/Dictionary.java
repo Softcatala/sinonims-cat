@@ -922,7 +922,7 @@ public class Dictionary {
                   synonyms.add(w);
                 }
               }
-              String key = entries.get(i).grammarCategory + lemmaComment;
+              String key = entries.get(i).grammarCategory + lemmaComment + lemmaResult;
               if (!resultsMap.containsKey(key)) {
                 resultsMap.put(key, response.new Result(lemmaResult,
                     getFeminineForm(lemmaResult, grammarCat, lemmaComment), grammarCat));
