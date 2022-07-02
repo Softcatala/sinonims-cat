@@ -216,7 +216,7 @@ public class Dictionary {
       "contaire", "contador", "afterhours", "sistema de Ponzi", "piràmide de Ponzi", "desromantitzar", "nassarrut",
       "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar",
       "de l'any de la Mariacastanya", "de l'any tirurany", "de l'any de la catapumba", "escondiment", "reprise",
-      "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades"});
+      "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades", "tot xanco i manco"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
