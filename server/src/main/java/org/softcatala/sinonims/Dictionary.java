@@ -136,6 +136,7 @@ public class Dictionary {
     commonErrors.put("recomenar", "recomanar");
     commonErrors.put("exisitir", "existir");
     commonErrors.put("ademés", "a més");
+    commonErrors.put("ademes", "a més");
     commonErrors.put("desde", "des de");
     commonErrors.put("averiguar", "esbrinar");
     commonErrors.put("solventar", "resoldre");
@@ -162,6 +163,10 @@ public class Dictionary {
     commonErrors.put("devallar", "davallar");
     commonErrors.put("tot i aixi", "tot i així");
     commonErrors.put("tot i aixo", "tot i això");
+    commonErrors.put("tantmateix", "tanmateix");
+    commonErrors.put("durader", "durador");
+    commonErrors.put("eradicar", "erradicar");
+    commonErrors.put("eradicació", "erradicació");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -174,18 +179,18 @@ public class Dictionary {
       "daoisme", "de coixinereta", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do",
       "déu-n'hi-doret", "egomaníac", "embruta-sopars", "encabat", "encaterinador", "enllambordar", "ensentinar",
       "escambuixar", "escambuixat", "escarotament", "escorxa-rosses", "espertinar", "espetència", "estroncallat",
-      "eudemonia", "evangelístic", "fabliau", "feinejador", "fer foja", "fillar", "frapar", "glai", "globalisme",
-      "gorrinet", "gorrinyeu", "guixeta", "incarcerar", "inessencial", "infermetat", "incontaminació", "judia",
-      "lausengeria", "malconformat", "marcianada", "menysestimació", "merengot", "mesellia", "palmineta",
-      "papa-sastres", "pepito", "perico", "perimetrar", "piocar", "plis-plai", "pompis", "pseudoartístic", "punyalet",
-      "què dius, ara?", "Reixos", "retsina", "ricotta", "sa porcelleta", "sarabastall", "sardanapàlic", "Satan",
-      "satanització", "sisplau", "snack-bar", "sussú", "terrosset de gel", "teteria", "ting-ting", "universalime",
-      "ventís", "vinyeda", "volanda", "xambiteria", "xst", "espàrec", "qui sap quant", "no... sinó", "no... més que",
-      "no... excepte", "sia... sia...", "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca",
-      "fer la baca", "fer l'esqueta", "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom",
-      "a tiri i baldiri", "fluixera", "flaquera", "camí morraler", "sumarietat", "panxeta", "pito", "contradiscurs",
-      "canal epitrocleoolecranià", "fer el manta", "tocar-se la pamparruana", "barrabum", "terraplanista", "odiador",
-      "llarg en el donar", "filàntrop", "impurificable", "mig sec", "de cop sobte", "a la pul pul", "amb corruixes",
+      "eudemonia", "evangelístic", "fabliau", "feinejador", "fillar", "frapar", "glai", "globalisme", "gorrinet",
+      "gorrinyeu", "guixeta", "incarcerar", "inessencial", "infermetat", "incontaminació", "judia", "lausengeria",
+      "malconformat", "marcianada", "menysestimació", "merengot", "mesellia", "palmineta", "papa-sastres", "pepito",
+      "perico", "perimetrar", "piocar", "plis-plai", "pompis", "pseudoartístic", "punyalet", "què dius, ara?", "Reixos",
+      "retsina", "ricotta", "sa porcelleta", "sarabastall", "sardanapàlic", "Satan", "satanització", "sisplau",
+      "snack-bar", "sussú", "terrosset de gel", "teteria", "ting-ting", "universalime", "ventís", "vinyeda", "volanda",
+      "xambiteria", "xst", "espàrec", "qui sap quant", "no... sinó", "no... més que", "no... excepte", "sia... sia...",
+      "com vulgues", "o siga", "tot lo món", "donar-se vergonya", "donar la baca", "fer la baca", "fer l'esqueta",
+      "semblar una bóta de set cargues", "fer fòllega", "de vint-i-un punt", "a gom", "a tiri i baldiri", "fluixera",
+      "flaquera", "camí morraler", "sumarietat", "panxeta", "pito", "contradiscurs", "canal epitrocleoolecranià",
+      "fer el manta", "tocar-se la pamparruana", "barrabum", "terraplanista", "odiador", "llarg en el donar",
+      "filàntrop", "impurificable", "mig sec", "de cop sobte", "a la pul pul", "amb corruixes",
       "amb presses i corruixes", "sinograma", "mà-i-mà", "dos dret", "mudabilitat", "anar de corruixes", "encartellar",
       "calent de cap", "pluricèntric", "dia per altre i dos arreu", "jo et flic", "i un be negre", "panglossià",
       "plagiador", "irruent", "pixapolit", "panxaplè", "cametes em valguen", "de ver", "smog", "blackjack", "cretlla",
@@ -216,7 +221,8 @@ public class Dictionary {
       "contaire", "contador", "afterhours", "sistema de Ponzi", "piràmide de Ponzi", "desromantitzar", "nassarrut",
       "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar",
       "de l'any de la Mariacastanya", "de l'any tirurany", "de l'any de la catapumba", "escondiment", "reprise",
-      "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades", "tot xanco i manco"});
+      "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades", "tot xanco i manco", "d'ordre n", "pàfia",
+      "ubertat", "can pixa i rellisca", "can pixa-i-rellisca", "can penja-i-despenja" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
