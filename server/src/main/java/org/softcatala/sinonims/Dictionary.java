@@ -167,6 +167,7 @@ public class Dictionary {
     commonErrors.put("durader", "durador");
     commonErrors.put("eradicar", "erradicar");
     commonErrors.put("eradicació", "erradicació");
+    commonErrors.put("llurs", "llur");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -222,7 +223,8 @@ public class Dictionary {
       "inidentificat", "inofensivitat", "panem et circenses", "aftershave", "vandalitzar",
       "de l'any de la Mariacastanya", "de l'any tirurany", "de l'any de la catapumba", "escondiment", "reprise",
       "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades", "tot xanco i manco", "d'ordre n", "pàfia",
-      "ubertat", "can pixa i rellisca", "can pixa-i-rellisca", "can penja-i-despenja" });
+      "ubertat", "can pixa i rellisca", "can pixa-i-rellisca", "can penja-i-despenja", "barrejable", "endormiscador",
+      "per fas o per nefas", "cer"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
