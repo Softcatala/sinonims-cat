@@ -27,7 +27,7 @@ DATA = './dict/sinonims.txt'
 OUTPUT = './results/'
 OXT_DIR = './oxt/'
 OXT_NAME = 'thesaurus-ca'
-filename = 'th_ca_ES_v4'
+filename = 'th_ca_ES'
 
 collator = icu.Collator.createInstance(icu.Locale('ca_ES.UTF-8'))
 
@@ -66,8 +66,12 @@ def parse_line(line):
    words = cleaned_line.split('|')
 
    words = sorted(words, key=collator.getSortKey)
+
+
    
    if len(words) <= 1:
+      return 0, category, words
+   elif category.endswith("antònim"):
       return 0, category, words
    else:
       return 1, category, words
@@ -136,8 +140,8 @@ with open(DATA, 'r') as dades:
                   wordlist.update({cleaned_word: 1})
                   wordmeanings.update({cleaned_word: ''})
 
-               if tag == '': wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '-|' + m + '\n'})
-               else:  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + ' ' + tag + '-|' + m + '\n'})
+               if tag != 'antònim': wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '-|' + m + '\n'})
+               #else:  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + ' ' + tag + '-|' + m + '\n'})
 
    print('Nombre de línies útils: ' + str(lcount))
    print('Nombre de línies sense sinònims: ' + str(numlines-lcount))
