@@ -5,3 +5,6 @@ target
 xml-dicts/
 .idea
 dict/aux.txt
+*.dat
+*.idx
+*.oxt
