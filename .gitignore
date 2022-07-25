@@ -8,3 +8,4 @@ dict/aux.txt
 *.dat
 *.idx
 *.oxt
+results/

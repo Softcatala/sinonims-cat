@@ -9,7 +9,7 @@ _______________________________________________________________________________
 	    Creative Commons CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
 		
 
-	Aquest tesaurus funciona en qualsevol programari que usi el motor mythes, 
+	Aquest diccionari de sinònims funciona en qualsevol programari que usi el motor mythes, 
 	p. ex.: LibreOffice, OpenOffice.org 3.2+
 	
 	Més informació:

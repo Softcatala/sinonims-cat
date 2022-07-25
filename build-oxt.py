@@ -80,6 +80,11 @@ def parse_line(line):
 
 def generate_output():
 
+   if os.path.exists(OUTPUT):
+      shutil.rmtree(OUTPUT, ignore_errors=True)
+   if not os.path.exists(OUTPUT):
+      os.mkdir(OUTPUT)
+
    oxt_idx = 'UTF-8' + '\n' + str(len(wordlist)) + '\n'
    oxt_dat = 'UTF-8' + '\n'
    
@@ -104,6 +109,7 @@ def generate_output():
 
    shutil.copyfile(OUTPUT + filename + '.idx', OXT_DIR + OXT_NAME + '/dictionaries/' + filename + '.idx')
    shutil.copyfile(OUTPUT + filename + '.dat', OXT_DIR + OXT_NAME + '/dictionaries/' + filename + '.dat')
+   shutil.copyfile(OXT_DIR + OXT_NAME + '/README.txt', OUTPUT + '/README.txt')
 
    shutil.make_archive(OUTPUT + OXT_NAME, 'zip', OXT_DIR + OXT_NAME + '/')
 
