@@ -225,7 +225,8 @@ public class Dictionary {
       "musicalitzar", "bé... bé...", "iubarta", "a Déu sien dades", "tot xanco i manco", "d'ordre n", "pàfia",
       "ubertat", "can pixa i rellisca", "can pixa-i-rellisca", "can penja-i-despenja", "barrejable", "endormiscador",
       "per fas o per nefas", "cer", "antiedat", "bon vivant", "edam", "pirineus", "desvirginar", "desverjar",
-      "torrapebrots", "pintxo", "indefallible", "ransomware", "mai dels mais", "cric-crec"});
+      "torrapebrots", "pintxo", "indefallible", "ransomware", "mai dels mais", "cric-crec", "dessusdit",
+      "malaltia de Cotugno", "lapsus calami", "lapsus linguae" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
