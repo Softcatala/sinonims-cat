@@ -1392,8 +1392,8 @@
 -adj: tímid, vergonyant, apocat, ruborós, encongit, vergonyós, retret, silenciós, mut, pusil·lànime, poruc, temorec, timorat, escrupolós, torbat, avergonyit, confús, empegueït, indecís, clos, pobre d'esperit, mancat d'esperit, d'ànim flac, introvertit, tancat, extravertit (antònim), reservat, aprensiu
 -adj: tip, cansat, avorrit, fart
 -adj: titànic, sobrehumà, herculi, ciclopi
--adj (to): agut, alt, elevat
--adj (to): baix, greu
+-adj (to): agut, alt, elevat, greu (antònim)
+-adj (to): baix, greu, agut (antònim)
 -adj: tolerant, equidistant, eclèctic, ambivalent, moderat, intermedi, conformista, contemporitzador, neutre
 -adj: ton (FEM ta), el teu (FEM la teva), el teu (FEM la teua)
 -adj: tonant, tronador #...
@@ -5013,7 +5013,7 @@
 -n: marea entrant, flux
 -n: marea sortint, reflux, contramarea
 -n: mare-selva, lligabosc, santjoanera, xuclamel
--n: maresme, mareny, aiguamoll, sorramoll, marjal, aiguamoix, maresma, aigual, mulladiu
+-n: maresme, mareny, aiguamoll, sorramoll, marjal, aiguamoix, maresma, aigual, mulladiu, xapull, patamoll, mollera, mollal, aigüerol, aiguamort
 -n: marge, margenal, graó, vora, vorada, espona, vorellada, limbe, perifèria
 -n: marihuana, maria (col·loquial), herba (col·loquial), cànnabis, cànem de l'Índia
 -n: mariolatria, marianisme, hiperdulia
