@@ -227,7 +227,7 @@ public class Dictionary {
       "per fas o per nefas", "cer", "antiedat", "bon vivant", "edam", "pirineus", "desvirginar", "desverjar",
       "torrapebrots", "pintxo", "indefallible", "ransomware", "mai dels mais", "cric-crec", "dessusdit",
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
-      "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped"});
+      "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
