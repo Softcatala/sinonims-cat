@@ -106,6 +106,7 @@ public class Dictionary {
     commonErrors.put("grabar", "gravar");
     commonErrors.put("cumplir", "complir");
     commonErrors.put("compendre", "comprendre");
+    commonErrors.put("empendre", "emprendre");
     commonErrors.put("pendre", "prendre");
     commonErrors.put("apendre", "aprendre");
     commonErrors.put("conseguir", "aconseguir");
@@ -168,6 +169,16 @@ public class Dictionary {
     commonErrors.put("eradicar", "erradicar");
     commonErrors.put("eradicació", "erradicació");
     commonErrors.put("llurs", "llur");
+    commonErrors.put("sequetat", "sequedat");
+    commonErrors.put("desarrollar", "desenvolupar");
+    commonErrors.put("estornut", "esternut");
+    commonErrors.put("montar", "muntar");
+    commonErrors.put("incluir", "incloure");
+    commonErrors.put("àmbar", "ambre");
+    commonErrors.put("ambar", "ambre");
+    commonErrors.put("enfermetat", "malaltia");
+    commonErrors.put("utilizar", "utilitzar");
+    commonErrors.put("fundamental", "fonamental");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -227,7 +238,8 @@ public class Dictionary {
       "per fas o per nefas", "cer", "antiedat", "bon vivant", "edam", "pirineus", "desvirginar", "desverjar",
       "torrapebrots", "pintxo", "indefallible", "ransomware", "mai dels mais", "cric-crec", "dessusdit",
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
-      "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff" });
+      "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
+      "ecogastronomia", "slow food" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -509,6 +521,9 @@ public class Dictionary {
 
     if (mainDict.containsKey(lowercase)) {
       resultsSet.add(lowercase);
+    }
+    if (mainDict.containsKey(lowercase.replaceAll(" ", "-"))) {
+      resultsSet.add(lowercase.replaceAll(" ", "-"));
     }
     if (mainDict.containsKey(lowercase + "-se")) {
       resultsSet.add(lowercase + "-se");
