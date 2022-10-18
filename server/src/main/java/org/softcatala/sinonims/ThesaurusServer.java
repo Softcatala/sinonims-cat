@@ -5,6 +5,8 @@ import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 import java.net.InetSocketAddress;
 import java.nio.charset.StandardCharsets;
+import java.util.concurrent.ThreadPoolExecutor;
+
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.sun.net.httpserver.HttpExchange;
@@ -13,11 +15,14 @@ import com.sun.net.httpserver.HttpServer;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
+import org.languagetool.tools.LtThreadPoolFactory;
 
 public class ThesaurusServer {
 
     static ThesaurusConfig conf = null;
     static Dictionary dict = null;
+    
+    private static ThreadPoolExecutor executorService;
 
     protected static Logger logger;
 
@@ -50,13 +55,15 @@ public class ThesaurusServer {
           logger.warn("Exiting");
           System.exit(0);
         }
+        
+        executorService = getExecutorService(conf);
         HttpServer server = HttpServer.create(new InetSocketAddress(conf.serverPort), 0);
+        //server.setExecutor(null); // creates a default executor
+        server.setExecutor(executorService);
+        server.createContext(conf.urlPath, new MyHandler());
+        server.start();
         logger.warn("Server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
         logger.warn("Synonyms server enabled on port: " + conf.serverPort + "; path: " + conf.urlPath);
-        server.createContext(conf.urlPath, new MyHandler());
-        server.setExecutor(null); // creates a default executor
-        server.start();
-
     }
 
     static class MyHandler implements HttpHandler {
@@ -124,5 +131,13 @@ public class ThesaurusServer {
 
     private static Logger getLogger() {
         return LogManager.getLogger();
+    }
+    
+    private static ThreadPoolExecutor getExecutorService(ThesaurusConfig conf) {
+      int threadPoolSize = conf.maxCheckThreads;
+      log("Setting up thread pool with " + threadPoolSize + " threads");
+      return LtThreadPoolFactory.createFixedThreadPoolExecutor(LtThreadPoolFactory.SERVER_POOL,
+        threadPoolSize, threadPoolSize, 0,0L, false,
+        (thread, throwable) -> log("Thread: " + thread.getName() + " failed with: " + throwable.getMessage()), false);
     }
 }

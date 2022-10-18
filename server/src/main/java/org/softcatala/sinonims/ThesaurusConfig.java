@@ -9,6 +9,7 @@ import java.util.Properties;
 
 public class ThesaurusConfig {
   private static String DEFAULT_PORT = "8000";
+  private static String DEFAULT_MAX_THREADS = "10";
   private static String DEFAULT_SERVERTIME = "Europe/Madrid";
   
   private static String DEFAULT_URLPATH = "/sinonims-api/";
@@ -22,6 +23,7 @@ public class ThesaurusConfig {
   String production;
   String urlPath;
   String auxFilePath;
+  int maxCheckThreads;
   
   public  String toString() {
     return String.format("serverPort=%d, srcFile=%s, serverTimezone=%s, logging=%s, production=%s, urlPath=%s",
@@ -42,6 +44,7 @@ public class ThesaurusConfig {
         logging = getOptionalProperty(props, "logging", "on");
         production = getOptionalProperty(props, "production", "yes");
         srcFilePath = getOptionalProperty(props, "srcFile", null);
+        maxCheckThreads = Integer.parseInt(getOptionalProperty(props, "maxCheckThreads", DEFAULT_MAX_THREADS));
         if (srcFilePath != null) {
           srcFile = new File(srcFilePath);
           if (!srcFile.exists() || !srcFile.isFile()) {
