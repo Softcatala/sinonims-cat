@@ -239,7 +239,7 @@ public class Dictionary {
       "torrapebrots", "pintxo", "indefallible", "ransomware", "mai dels mais", "cric-crec", "dessusdit",
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
       "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
-      "ecogastronomia", "slow food" });
+      "ecogastronomia", "slow food", "no tindre un qüe" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
