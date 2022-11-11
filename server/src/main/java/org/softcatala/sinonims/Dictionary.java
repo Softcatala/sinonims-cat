@@ -179,6 +179,7 @@ public class Dictionary {
     commonErrors.put("enfermetat", "malaltia");
     commonErrors.put("utilizar", "utilitzar");
     commonErrors.put("fundamental", "fonamental");
+    commonErrors.put("enfatitzar", "emfatitzar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
