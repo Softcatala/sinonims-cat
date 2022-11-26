@@ -241,7 +241,7 @@ public class Dictionary {
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
       "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
       "ecogastronomia", "slow food", "no tindre un qüe", "cloroformitzador", "a bacs i redolons", "de bòbilis-bòbilis",
-      "menjaclosques", "imbarrejable" });
+      "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
