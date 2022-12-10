@@ -241,7 +241,8 @@ public class Dictionary {
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
       "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
       "ecogastronomia", "slow food", "no tindre un qüe", "cloroformitzador", "a bacs i redolons", "de bòbilis-bòbilis",
-      "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera"});
+      "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera", 
+      "de bocons", "entrepussar"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -661,7 +662,7 @@ public class Dictionary {
     if (line.isEmpty()) {
       return "Empty line";
     }
-
+    line = line.replaceAll("\\\\:","_DOS_PUNTS_");
     String[] parts = line.split(":");
     if (!line.startsWith("-") || parts.length != 2) {
       return ("Error in source dictionary, line: " + line + "\n");
@@ -676,12 +677,13 @@ public class Dictionary {
       return ("Unknown grammar category, line: " + line + "\n");
     }
 
-    parts[1] = parts[1].replaceAll("\\\\,", ";;");
+    parts[1] = parts[1].replaceAll("\\\\,", "_COMA_");
     String[] stringBetweenCommas = parts[1].split(",");
 
     List<Word> words = new ArrayList<Word>();
     for (String s : stringBetweenCommas) {
-      s = s.replaceAll(";;", ",");
+      s = s.replaceAll("_COMA_", ",");
+      s = s.replaceAll("_DOS_PUNTS_", ":");
       String[] wordStringComment = extractWordComment(s);
       String femForm = getFeminineForm(wordStringComment[0], extractWordComment(grammarCat)[0], wordStringComment[1]);
       Word w = new Word(wordStringComment, femForm);
@@ -702,8 +704,9 @@ public class Dictionary {
         for (AnalyzedSentence aSentence : aSentences) {
           if (!wordsToIgnore.contains(aSentence.getText().toString())) {
             for (AnalyzedTokenReadings atr : aSentence.getTokensWithoutWhitespace()) {
-              if (!atr.isWhitespace() && atr.isPosTagUnknown() && !atr.isIgnoredBySpeller()) {
-                message.append("Unknown word: " + w.wordString + "; ");
+              if (!atr.isWhitespace() && atr.isPosTagUnknown() && !atr.isIgnoredBySpeller()
+                  && !atr.hasPartialPosTag("_PUNCT")) {
+                message.append("Unknown word: " + atr.getToken() + " in line: "+ w.wordString + "; ");
               }
             }
             List<RuleMatch> matches = ltCat.check(aSentence.getText());
