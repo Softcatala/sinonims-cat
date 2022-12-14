@@ -44,7 +44,7 @@ public class Dictionary {
   // índex en minúscules
   private static TreeMap<String, List<Integer>> mainDict;
   // índex de paraules parcials (parts d'expressions)
-  private static TreeMap<String, Set<String>> secondDictIndex = new TreeMap<String, Set<String>>();;
+  private static TreeMap<String, Set<String>> secondDictIndex = new TreeMap<String, Set<String>>();
   // llista d'entrades, des de sinonims.txt
   private static List<Entry> entries = new ArrayList<>();
 
@@ -70,7 +70,7 @@ public class Dictionary {
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
       "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
       "ser", "estar", "jo", "tu", "ell", "ella", "son", ".", "un", "'hi", "-hi", "'ho", "'m", "'n", "'s", ",", "-ho",
-      "-la", "-les", "-lo", "-me", "-n", "-ne", "-s", "-se", "-t", "?", "-te", "'l" });
+      "-la", "-les", "-lo", "-me", "-n", "-ne", "-s", "-se", "-t", "?", "-te", "'l", "'t", "-li", ":" });
   // "nosaltres", "vosaltres", "ells", "elles"
 
   private final List<String> moveToEndTags = Arrays
@@ -755,8 +755,8 @@ public class Dictionary {
       // crea el secondDictIndex per a multiparaules
       List<String> allForms = getAllForms(wlc + " " + fem);
       // què dius, ara?
-      if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-")) {
-        String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "");
+      if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-") || wlc.contains(":")) {
+        String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "").replaceAll(":", "");
         addToSecondDictIndex(cleanWlc, wlc);
       }
       if (allForms.size() > 1) {
@@ -1060,14 +1060,14 @@ public class Dictionary {
     FileWriter writer = new FileWriter(conf.auxFile);
     writer.write("===mainDict===\n");
     for (String line : mainDict.keySet()) {
-      writer.write(line + ":" + mainDict.get(line) + "\n");
+      writer.write(escape(line) + ":" + mainDict.get(line) + "\n");
     }
     writer.write("===secondDictIndex===\n");
     for (String line : secondDictIndex.keySet()) {
       Set<String> set = secondDictIndex.get(line);
       Set<String> newSet = new HashSet<>();
       for (String str : set) {
-        newSet.add(str.replaceAll(",", ";;"));
+        newSet.add(escape(str));
       }
       writer.write(line + ":" + newSet.toString() + "\n");
     }
@@ -1108,14 +1108,14 @@ public class Dictionary {
             for (String number : numbers) {
               l.add(Integer.parseInt(number));
             }
-            mainDict.put(parts[0], l);
+            mainDict.put(unescape(parts[0]), l);
             break;
           case "===secondDictIndex===":
             parts = line.split(":");
             String strs[] = parts[1].substring(1, parts[1].length() - 1).split(", ");
             Set<String> s = new HashSet<>();
             for (String str : strs) {
-              s.add(str.replaceAll(";;", ","));
+              s.add(unescape(str));
             }
             secondDictIndex.put(parts[0], s);
             break;
@@ -1135,6 +1135,15 @@ public class Dictionary {
 
       }
     }
+  }
+  
+  private String escape(String s) {
+    return s.replaceAll("\\\\:", "_DOS_PUNTS_").replaceAll("\\\\,", "_COMA_")
+        .replaceAll(":", "_DOS_PUNTS_").replaceAll(",", "_COMA_");
+  }
+
+  private String unescape(String s) {
+    return s.replaceAll("_COMA_", ",").replaceAll("_DOS_PUNTS_", ":");
   }
 
 }

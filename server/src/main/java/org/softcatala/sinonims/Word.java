@@ -51,11 +51,11 @@ class Word {
   }
 
   private String escapeCommas(String s) {
-    return s.replaceAll(",", ";;");
+    return s.replaceAll(",", "_COMA_");
   }
 
   private String unEscapeCommas(String s) {
-    return s.replaceAll(";;", ",");
+    return s.replaceAll("_COMA_", ",");
   }
 
 }
