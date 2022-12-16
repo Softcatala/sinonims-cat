@@ -5518,7 +5518,7 @@
 -n: número, xifra, guarisme, nombre, bit, decimal, dígit
 -n: nus, nuc, baga, llaçada, lligada, llaç, gassa #...
 -n: nuvi, promès, contraent, novençà, casat de poc, noucasat
--n: núvol, nuvolada, boira, broma, boirat, barda, bromall, bromallada, cabretes, castell, cella, cell, cirrocúmuls, cirroestratus, cirrus, cumulonimbus, cúmulus, embromat, enclusa, escabellat, estrat, estratus, llegany, llisó, nigul, nimboestratus, nimbus, nuu (poètic), nuvolat, altocúmul, altonúvol, bandera, caputxa, cúmul, cumulonimbe, estratocúmul, nimbe, nimboestrat, núvola, nuvolàs, torrelló, tromba, brufada, negror, rufa
+-n: núvol, nuvolada, boira, broma, boirat, barda, bromall, bromallada, cabretes, castell, cella, cell, cirrocúmuls, cirroestratus, cirrus, cumulonimbus, cúmulus, embromat, enclusa, escabellat, estrat, estratus, llegany, llisó, nigul, nimboestratus, nimbus, nuu (poètic), nuvolat, ennuvolat (NOFEM), altocúmul, altonúvol, bandera, caputxa, cúmul, cumulonimbe, estratocúmul, nimbe, nimboestrat, núvola, nuvolàs, torrelló, tromba, brufada, negror, rufa
 -n: obac, bac, obaga, ombria, ombriu, frescal, ombra, obagor, ombrall
 -n: obertura, desclosa, desplegament, destapament, eclosió
 -n: obertura, forat, via d'aigua, escletxa
@@ -7592,7 +7592,7 @@
 -v: concretar, precisar, definir, detallar, especificar, formular, formalitzar, delimitar, limitar, determinar, puntualitzar, matisar, anar a pams, posar els punts sobre les is, posar les coses al seu lloc
 -v: condemnar, sentenciar, penar, penalitzar, castigar, sancionar, punir
 -v: condicionar, fer dependre, subordinar, reservar, referir, limitar, constrènyer, supeditar, sotaposar
--v: confabular-se, associar-se, maquinar, complotar, conspirar, conjurar-se, intrigar, tramar, ordir, covar, preparar, armar, conxorxar-se, insidiar
+-v: confabular-se, associar-se, maquinar, complotar, conspirar, conjurar-se, intrigar, tramar, ordir, covar, preparar, armar, conxorxar-se, insidiar, organitzar, forjar # separar el sentit més neutre de preparar
 -v: conferir, concedir, atribuir, atorgar, assignar, acordar, donar, cedir, lliurar, traspassar, transferir
 -v: configurar, disposar, compondre, estructurar, ordenar, organitzar, conformar, vertebrar
 -v: confinar #...
@@ -8428,7 +8428,7 @@
 -v: llevar taula, desparar taula, alçar taula, parar taula (antònim)
 -v: lligar (col·loquial), triomfar (irònic), sucar (col·loquial)
 -v: lligar, enllaçar, fermar, clavar, junyir, júnyer, estacar, encordar, nuar, nugar, amarrar, encadenar, cenyir, estrènyer, envoltar, subjectar, aferrar, agafar, capfermar, argollar, llaçar, travar, acordonar, concatenar, endogalar, sogar, emmanillar, engrillonar
--v: lligar, teixir, entrelligar, entreteixir, entrellaçar, tramar, llaçar
+-v: lligar, teixir, entrelligar, entreteixir, entrellaçar, tramar, llaçar, ordir
 -v: lliscar, llenegar, escolar-se, esmunyir-se, escórrer-se, relliscar, esquitllar-se, esvarar, esvarar-se, esbarrar, patinar, resquitllar, esgolar-se
 -v: llistar, enumerar, detallar, apuntar
 -v: lluitar, esforçar-se, bregar, maldar, contendir, pugnar
