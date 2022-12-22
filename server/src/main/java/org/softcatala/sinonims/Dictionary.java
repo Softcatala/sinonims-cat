@@ -180,6 +180,11 @@ public class Dictionary {
     commonErrors.put("utilizar", "utilitzar");
     commonErrors.put("fundamental", "fonamental");
     commonErrors.put("enfatitzar", "emfatitzar");
+    commonErrors.put("armonia", "harmonia");
+    commonErrors.put("recurrir", "recórrer");
+    commonErrors.put("soportar", "suportar");
+    commonErrors.put("probar", "provar");
+    commonErrors.put("aprobar", "aprovar");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -242,7 +247,7 @@ public class Dictionary {
       "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
       "ecogastronomia", "slow food", "no tindre un qüe", "cloroformitzador", "a bacs i redolons", "de bòbilis-bòbilis",
       "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera", 
-      "de bocons", "entrepussar"});
+      "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
