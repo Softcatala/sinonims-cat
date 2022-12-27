@@ -246,8 +246,9 @@ public class Dictionary {
       "malaltia de Cotugno", "lapsus calami", "lapsus linguae", "copiable", "duplicable", "rallentado", "ritenuto",
       "sia... o...", "divertimento", "calorassa", "calorota", "escaiar-se", "rallentando", "xòped", "riff",
       "ecogastronomia", "slow food", "no tindre un qüe", "cloroformitzador", "a bacs i redolons", "de bòbilis-bòbilis",
-      "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera", 
-      "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització"});
+      "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera",
+      "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització", "rojoncós", "emmetxament",
+      "ginoide", "encadellament" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -667,7 +668,7 @@ public class Dictionary {
     if (line.isEmpty()) {
       return "Empty line";
     }
-    line = line.replaceAll("\\\\:","_DOS_PUNTS_");
+    line = line.replaceAll("\\\\:", "_DOS_PUNTS_");
     String[] parts = line.split(":");
     if (!line.startsWith("-") || parts.length != 2) {
       return ("Error in source dictionary, line: " + line + "\n");
@@ -711,7 +712,7 @@ public class Dictionary {
             for (AnalyzedTokenReadings atr : aSentence.getTokensWithoutWhitespace()) {
               if (!atr.isWhitespace() && atr.isPosTagUnknown() && !atr.isIgnoredBySpeller()
                   && !atr.hasPartialPosTag("_PUNCT")) {
-                message.append("Unknown word: " + atr.getToken() + " in line: "+ w.wordString + "; ");
+                message.append("Unknown word: " + atr.getToken() + " in line: " + w.wordString + "; ");
               }
             }
             List<RuleMatch> matches = ltCat.check(aSentence.getText());
@@ -761,7 +762,8 @@ public class Dictionary {
       List<String> allForms = getAllForms(wlc + " " + fem);
       // què dius, ara?
       if (wlc.contains("!") || wlc.contains("?") || wlc.contains(",") || wlc.contains("-") || wlc.contains(":")) {
-        String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "").replaceAll(":", "");
+        String cleanWlc = wlc.replaceAll("!", "").replaceAll("\\?", "").replaceAll(",", "").replaceAll("-", "")
+            .replaceAll(":", "");
         addToSecondDictIndex(cleanWlc, wlc);
       }
       if (allForms.size() > 1) {
@@ -1141,10 +1143,10 @@ public class Dictionary {
       }
     }
   }
-  
+
   private String escape(String s) {
-    return s.replaceAll("\\\\:", "_DOS_PUNTS_").replaceAll("\\\\,", "_COMA_")
-        .replaceAll(":", "_DOS_PUNTS_").replaceAll(",", "_COMA_");
+    return s.replaceAll("\\\\:", "_DOS_PUNTS_").replaceAll("\\\\,", "_COMA_").replaceAll(":", "_DOS_PUNTS_")
+        .replaceAll(",", "_COMA_");
   }
 
   private String unescape(String s) {
