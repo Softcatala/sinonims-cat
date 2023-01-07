@@ -248,7 +248,7 @@ public class Dictionary {
       "ecogastronomia", "slow food", "no tindre un qüe", "cloroformitzador", "a bacs i redolons", "de bòbilis-bòbilis",
       "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera",
       "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització", "rojoncós", "emmetxament",
-      "ginoide", "encadellament", "escrache" });
+      "ginoide", "encadellament", "escrache", "ITS", "girajaquetes" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
