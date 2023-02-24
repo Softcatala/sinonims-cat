@@ -239,6 +239,7 @@
 -adj: caducifoli, caduc, de fulla caduca
 -adj: caïnita (que odia els pròxims), tribal, sectari, fanàtic, partidista, sequaç, dogmàtic, intransigent, parcial, tendenciós, injust, partidari, addicte, endogàmic, talibà, hooligan (futbol)
 -adj: calçat, ensabatat
+-adj: caldós, brouós
 -adj: calent, calorós, canicular, càlid, ardent, tropical, xardorós, ardorós, xafogós, ultratropical, bascós, termal (l'aigua), tòrrid, cald (antic), sufocant
 -adj: calfador, escalfador, calefactor
 -adj: callat, mut, silent, silenciós, taciturn, inexpressiu, malmirrós, sec, eixut, reservat, callantívol, de poques paraules
@@ -436,7 +437,7 @@
 -adj: desigual, diferent, divers, dissemblant, distint, dispar, discordant, divergent
 -adj: desil·lusionat, desenganyat, decebut, despagat
 -adj: desil·lusionat, desenganyat, desesperat, desmoralitzat, abatut, aixafat, aclaparat, desanimat
--adj: desitjós, anhelós, àvid, cobejós, cobdiciós, delerós, assedegat, delirós, ansiós, sedec, sedegós, delejant, afamat, llaminer, apetent, ambiciós, ganós, anhelant, adelerat, gelós
+-adj: desitjós, anhelós, àvid, cobejós, cobdiciós, delerós, assedegat, delirós, ansiós, sedec, sedegós, delejant, afamat, llaminer, apetent, ambiciós, ganós, anhelant, adelerat, gelós, caldós
 -adj: desmemoriat, distret, desatent, inatent (FEM inatenta), oblidadís, amnèsic, oblidós, descuidat, descurat
 -adj: desmesurat, de ca l'ample, de cal Déu, de por, de tots els déus, de l'hòstia (col·loquial), de campionat, molt gran
 -adj: desmesurat, enorme, colossal, majúscul, greu, molt gran, garrafal (col·loquial), abismal, com una casa
@@ -2650,7 +2651,7 @@
 -n (arbre): poll, pollancre, xop, pollanc, mudella
 -n: arbre, vegetal, arbust, planta, mata, matoll, herba, arbrissó, arbret, arbrell
 -n: arbreda, arboreda, bosc, arbrat, boscatge, boscam, selva, jungla, forest, arbratge, boscúria, floresta, taigà
--n (arbreda): arbreda, pineda, pinar, pinada, avetar, avetosa, carrasclar, fageda, omeda, albereda, alzinar, bedollar, carrascar, cedreda, ciprerar, xiprerar, eucaliptar, floresta, freixeneda, lledonar, llorerar, omar, palmerar, pollancar, rebollar, roureda, salzeda, surar, sureda, teixar, telleda, verneda, xopada, xopar, pollancreda, pollar
+-n (arbreda): arbreda, pineda, pinar, pinada, avetar, avetosa, carrasclar, fageda, fajosa, omeda, albereda, alzinar, bedollar, carrascar, cedreda, ciprerar, xiprerar, eucaliptar, floresta, freixeneda, lledonar, llorerar, omar, palmerar, pollancar, rebollar, roureda, salzeda, surar, sureda, teixar, telleda, verneda, xopada, xopar, pollancreda, pollar
 -n (arbust): barbadell, tortellatge
 -n (arbust): talabard, neret
 -n: arc, arc de Sant Martí, arc del cel, arc iris, iris
@@ -2678,7 +2679,7 @@
 -n: armari de paret, armari d'obra
 -n: armari, guarda-roba, caseller, vitrina, llibreria, armariet, taquilla, escriny, vestuari
 -n: armari mirall, armari de lluna, armari trèmol
--n: armes, insígnia, escut, blasó, escarapel·la, escut d'armes, senyal
+-n: armes, insígnia, escut, blasó, escarapel·la, escut d'armes, senyal, venera
 -n: armilla, jupetí, guardapits, guardacors (antic), justet, justacòs (antic)
 -n: arqueta, pericó
 -n: arquitecte, constructor, mestre de cases (FEM mestra de cases), mestre d'obres (FEM mestra d'obres)
@@ -2839,7 +2840,7 @@
 -n: balustrada, ampit, arrambador (NOFEM), barana, passamà, baranatge, balustrat, catxapit
 -n: bambú, canya, canya americana, canya d'Amèrica
 -n: bancal, terrassa, bancalada, feixa
--n: bandada, ramat, ramada, manada (DNV), gossada (de gossos), llopada (de llops)
+-n: bandada, ramat, ramada, manada (DNV), gossada (de gossos), llopada (de llops), bouada (de bous)
 -n: bandera, penó, pendó, senyera, insígnia, ensenya, pavelló, estendard, oriflama, guió, gonfanó, làbarum, distintiu, emblema, empresa, gallardet, banderí, divisa
 -n: banderer, portabandera, portaguió, portaestendard, pendonista, signífer, vexil·lari (antic), senyaler, gonfanoner
 -n: banquer, financer, capitalista
@@ -3107,6 +3108,7 @@
 -n: camí general, camí ral, camí seguit
 -n: camí, sentit, direcció, orientació, rumb
 -n: caminador, tacatac, caminadors, carrutxes, carret
+-n: caminaire, peó de camins, peó caminer
 -n: camió, camioneta, capitonat, conductora, formigonera, furgoneta, furgó, tràiler, tractor, bolquet
 -n: camioner, transportista, conductor, motorista, xofer, maquinista, xòfer, taxista
 -n: camisa, brusa, xambra, camisola, cassot
@@ -3764,6 +3766,7 @@
 -n: deixalleria, abocador (NOFEM), punt verd
 -n: deixeble, seguidor, epígon, apòstol
 -n: deixondiment, vivesa, vivor, espavil
+-n: dejuni, vaga de fam
 -n (del cep): sarment, eixarment, brocada, morgó, murgó, redorta, refillola, tòria, verguer, sarmentada, branca, capficat (NOFEM), redolta
 -n (del vi): somta, solatge, mare, vinassa
 -n: delícia, menja, delicadesa, exquisitat, exquisidesa, ambrosia
@@ -4412,6 +4415,7 @@
 -n: fadrí vell (FEM fadrina vella), conco (FEM conca), vellard, matxutxo (FEM matxutxa), fadrinot (FEM fadrinota), solteràs (FEM solterassa), solterot (FEM solterota), fadrinardo (FEM fadrinarda), renoc (NOFEM), andosc
 -n: fadrinatge, fadrinesa, solteria, celibat
 -n: fagàcia, roure, carrasca, alzina, faig
+-n: fageda, fajosa
 -n: fake news (anglès), notícia falsa, notícia manipulada, faula, impostura, badomeries, bola, butllofa, rumor fals
 -n: falca, tascó, cuny, estellallenya, galotxa, gangalla, pitja, romball, call, encastador
 -n: falcó, sacre, falcònid (família), falconiforme (ordre)
@@ -5922,7 +5926,7 @@
 -n: pedra tosca, pumicita
 -n: pedrada, cudolada, cop de roc, pedrega, canterada, cantalada, codolada, fonada, mandronada
 -n: pedregar, pedregam, pedram, pedreguer, codolar, tartera, tarteram, pedreny, cudolar, runar, runam, pedrissal, pedregal, tarter, pedruscall, rocall, roquissar, rocam, rocada, roqueral, roquerar, roquetam, roquetar, roqueter, roquetera, roquissal, roquisser, terregall, terregaller, terreguer, terregam
--n: pedreny, pedra de foc, pedra foguera
+-n: pedreny, pedra de foc, pedra foguera, pedra de sílex, sílex piròmac, pedrenyera, pedrenyal, sílex
 -n: pedrera, pedrissa, algepsar, llosera, marbrera, maressar, marguera, molera
 -n (peix): anfós, mero, nero
 -n: peix gros, magnat, potentat, cap gros, home de pes, home de valor, poderós
@@ -6169,7 +6173,7 @@
 -n: pràctica, aplicació, exercici, exerció, conreu, praxi, cultiu
 -n: pràctica, veterania, perícia, experiència, expertesa, destresa, habilitat (f), competència, eficiència, validesa
 -n: pràctiques, pràcticum
--n: prebenda, bicoca, renda, canongia, sinecura, benefici, privilegi, ganga, ocasió, oportunitat, profit, moma, avantatge, menjadora, càrrec
+-n: prebenda, bicoca, renda, canongia, sinecura, benefici, privilegi, ganga, ocasió, oportunitat, profit, moma, avantatge, menjadora, càrrec, bon passament, bon passar
 -n: precarietat, inestabilitat, caducitat, labilitat
 -n: precaució, compte, cautela, atenció, respecte, circumspecció, prudència, prevenció, cura, previsió, mirament, vigilància
 -n: precinte, lligat, lligatge, cinta, filferro, segell
@@ -7422,7 +7426,7 @@
 -v: adormir, fer dormir, abaltir, ensopir, ensonyar, endormiscar, mig adormir, esbaltir, condormir, hipnotitzar
 -v: adormir-se, ensopir-se, abaltir-se, ensonyar-se, mig adormir-se, adormissar-se, endormiscar-se, entreabaltir-se, esbaltir-se, condormir-se, pesar figues, becar, agafar el son, fer becaines, dormitar, dormisquejar, capcinejar, emmodorrir-se
 -v: adreçar #...
--v: adular, encensar, llepar, llagotejar, afalagar, raspallar, ensabonar, fer la rosca, fer la pilota, fer la cort, fer la gara-gara, rentar la cara, doblegar l'esquena, llepar el cul, lleponejar, fer festes, llepar la cresta, fer el bus, fer l'aleta, fer el cul gros, ballar l'aigua, fer la torniola, alçar la tafarra (col·loquial), passar la mà per l'esquena
+-v: adular, encensar, llepar, llagotejar, afalagar, raspallar, ensabonar, fer la rosca, fer la pilota, fer la cort, fer la gara-gara, rentar la cara, doblegar l'esquena, llepar el cul, lleponejar, fer festes, llepar la cresta, fer el bus, fer l'aleta, fer el cul gros, ballar l'aigua, fer la torniola, alçar la tafarra (col·loquial), passar la mà per l'esquena, donar sabó, fer la garangola, fer la barbeta, tocar la barbeta
 -v: adustió, cauterització, cauteri
 -v: advocar, defensar, intercedir, defendre
 -v: advocar, defensar, propugnar, estar a favor de, apostar
@@ -7675,7 +7679,7 @@
 -v: caldre, demanar, freturar, necessitar, requerir, voler, exigir, haver de menester
 -v: caldre, ser necessari, ser menester, fer falta
 -v: calfar, escalfar, ablair, caldejar, encalentir, escalfir, recalfar, recoure, sobrecalfar, torrar, sobreescalfar, reescalfar, rostir, calefactar
--v: callar, emmudir, no dir ni piu, no badar boca, no obrir boca, guardar silenci, empassar-se, engolir-se, no piular, no dir res, interioritzar, donar-se un punt a la llengua, fer el mut, no dir paraula, fer muts, fer muts i a la gàbia, no dir ni ase ni bèstia, no dir mot, no dir ni mu, acopar el bec, tancar el bec, tancar la boca, cloure la boca, no desplegar els llavis, fer moixoni #no dir «bèstia\, què fas»
+-v: callar, emmudir, no dir ni piu, no badar boca, no obrir boca, guardar silenci, guardar per a si, empassar-se, engolir-se, no piular, no dir res, interioritzar, donar-se un punt a la llengua, fer el mut, no dir paraula, fer muts, fer muts i a la gàbia, no dir ni ase ni bèstia, no dir mot, no dir ni mu, acopar el bec, tancar el bec, tancar la boca, cloure la boca, no desplegar els llavis, fer moixoni #no dir «bèstia\, què fas»
 -v: calmar, tranquil·litzar, pacificar, assossegar, apaivagar, aplacar, moderar, amansir, amansar, neutralitzar, temperar, desarmar, asserenar, aquietar, mitigar
 -v: calorejar, fer calor
 -v: camatrencar, cuixatrencar, escuixar, escuixolar, descuixar
@@ -8415,6 +8419,7 @@
 -v: fer sensació, causar sensació, fer cop, fer soroll, fer furor, fer forrolla, fer tronar i ploure, deixar tothom esbalaït
 -v: fer sirgar, fer treballar, obligar a treballar, fer trescar
 -v: fer tentines, tentinejar, tastanejar, trontollar, vacil·lar, titubar
+-v: fer un espòiler (anglicisme), contar el final
 -v: fer una copa, fer un cafè, fer el toc, fer un beure, fer-se'n una, fer la copa
 -v: fer una mala passada, fregir-la (a algú), fer-la (a algú), fer una malifeta, enganyar
 -v: fer ús, exercir, fer servir
@@ -8771,7 +8776,7 @@
 -v: passar comptes, comptar, calcular
 -v: passar comptes, reptar, retraure, retreure, aclarir, passar factura
 -v: passar de mida, passar de taca d'oli, passar de la ratlla, no tenir mida, no tenir mesura, ser molt bèstia
--v: passar el plat, acaptar, demanar, parar la mà, demanar caritat, demanar almoina, allargar la mà, pidolar, almoinar (antic), pidolejar, captar, mendicar, postular, passar la gorra, passar el plateret
+-v: passar el plat, acaptar, demanar, parar la mà, demanar caritat, demanar almoina, allargar la mà, pidolar, almoinar (antic), pidolejar, captar, mendicar, postular, passar la gorra, passar el plateret, passar el platet, passar la bacina, passar el barret, fer col·lecta
 -v: passar per malla, escapar-se, filtrar-se, escapolir-se, passar per alt, passar inadvertit, esmunyir-se, passar desapercebut
 -v: passejar, fer una volta, pegar una volta, fer un tomb, fer quatre passes, fer la cercavila, fer una bornada, fer voltes, voltejar, voltar, fer un volt
 -v: pasturar, rostollar, restollar, péixer, agostejar, agostar, herbejar
