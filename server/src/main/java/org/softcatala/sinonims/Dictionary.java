@@ -249,7 +249,7 @@ public class Dictionary {
       "menjaclosques", "imbarrejable", "opinaire", "storytelling", "torcaboquer", "portatovallons", "tovallonera",
       "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització", "rojoncós", "emmetxament", "ginoide",
       "encadellament", "escrache", "ITS", "girajaquetes", "polímata", "ual·la", "melindrositat", "sílex piròmac",
-      "tripatinet", "tant és Alí com Camalí" });
+      "tripatinet", "tant és Alí com Camalí", "deixar KO" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
