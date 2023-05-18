@@ -66,6 +66,7 @@ def parse_line(line):
    words = cleaned_line.split('|')
 
    words = sorted(words, key=collator.getSortKey)
+   #words = sorted(words)
 
 
    
@@ -140,14 +141,15 @@ with open(DATA, 'r') as dades:
                i +=1
                m = '|'.join(removed_word)
                cleaned_word, tag = clean_word(current_word)
-               if cleaned_word in wordlist:
-                  wordlist[cleaned_word] +=1
-               else:
-                  wordlist.update({cleaned_word: 1})
-                  wordmeanings.update({cleaned_word: ''})
-
-               if tag != 'antònim': wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '-|' + m + '\n'})
-               #else:  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + ' ' + tag + '-|' + m + '\n'})
+               # les paraules marcades com a "antònim" no apareixeran com a entrada principal
+               # perquè en la interfície d'usuari pot ser una mica confús
+               if tag != 'antònim':
+                  if cleaned_word in wordlist:
+                     wordlist[cleaned_word] +=1
+                  else:
+                     wordlist.update({cleaned_word: 1})
+                     wordmeanings.update({cleaned_word: ''})
+                  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '-|' + m + '\n'})
 
    print('Nombre de línies útils: ' + str(lcount))
    print('Nombre de línies sense sinònims: ' + str(numlines-lcount))
