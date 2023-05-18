@@ -19,7 +19,7 @@
 # Boston, MA 02111-1307, USA.
 
 import re
-import icu
+#import icu
 import os
 import shutil
 
@@ -29,7 +29,7 @@ OXT_DIR = './oxt/'
 OXT_NAME = 'thesaurus-ca'
 filename = 'th_ca_ES'
 
-collator = icu.Collator.createInstance(icu.Locale('ca_ES.UTF-8'))
+#collator = icu.Collator.createInstance(icu.Locale('ca_ES.UTF-8'))
 
 def clean_word(word):
 
@@ -65,8 +65,8 @@ def parse_line(line):
    cleaned_line = re.sub (';', ',', cleaned_line)
    words = cleaned_line.split('|')
 
-   words = sorted(words, key=collator.getSortKey)
-   #words = sorted(words)
+   #words = sorted(words, key=collator.getSortKey)
+
 
 
    
