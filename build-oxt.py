@@ -47,7 +47,13 @@ def clean_word(word):
 def parse_line(line):
 
    separator = line.find(':')
-   category = line[:separator]
+   part0 = line[:separator]
+
+   withComment = re.search('-(.*) \((.*)\)', part0)
+   if withComment:
+      category = '(' + withComment.group(1)+'; ' + withComment.group(2) + ')'
+   else:
+      category = '(' + part0[1:].strip() + ')'
 
    cleaned_line = line[(separator+1):]
    cleaned_line = re.sub ('\\\,', ';', cleaned_line)
@@ -149,7 +155,7 @@ with open(DATA, 'r') as dades:
                   else:
                      wordlist.update({cleaned_word: 1})
                      wordmeanings.update({cleaned_word: ''})
-                  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '-|' + m + '\n'})
+                  wordmeanings.update({cleaned_word: wordmeanings[cleaned_word] + category + '|' + m + '\n'})
 
    print('Nombre de línies útils: ' + str(lcount))
    print('Nombre de línies sense sinònims: ' + str(numlines-lcount))
