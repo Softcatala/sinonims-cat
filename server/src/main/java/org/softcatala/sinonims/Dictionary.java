@@ -253,7 +253,8 @@ public class Dictionary {
       "de bocons", "entrepussar", "lliberticidi", "camperitzar", "camperització", "rojoncós", "emmetxament", "ginoide",
       "encadellament", "escrache", "ITS", "girajaquetes", "polímata", "ual·la", "melindrositat", "sílex piròmac",
       "tripatinet", "tant és Alí com Camalí", "deixar KO", "irreproduïble", "KO", "muà", "muac", "xuic", "txuic",
-      "escanyapets", "tapavergonyes", "avergonyidor", "pudícia", "burocratès", "Suillus", "portaplatets" });
+      "escanyapets", "tapavergonyes", "avergonyidor", "pudícia", "burocratès", "Suillus", "portaplatets", "xaila",
+      "amira", "khimar" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 

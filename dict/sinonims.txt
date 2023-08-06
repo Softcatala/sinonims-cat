@@ -2318,7 +2318,7 @@
 -loc: com a cal sogre, a cor què vols\, cor què desitges, com un rei, com un marquès, com un canonge
 -loc: com més sucre més dolç, com més serem més riurem
 -loc: consegüentment, així doncs, per tant, doncs, idò, en conseqüència, per consegüent, així que, així, per regla de tres, per això, ergo, en conclusió, de manera que, per tal causa, en atenció a això
--loc: costar més el fregall que l'escurada, valdre més l'espart que l'escurada, costar més el mall que l'enclusa, costar més el mànec que l'aixada, valdre més la salsa que els caragols, valdre més el farciment que el gal
+-loc: costar més el fregall que l'escurada, valdre més l'espart que l'escurada, costar més el mall que l'enclusa, costar més el mànec que l'aixada, valdre més la salsa que els caragols, valdre més el farciment que el gall
 -loc: de mica en mica s'omple la pica, gota a gota fa gorg, gota a gota fa toll, petit feix pel camí creix, de gotes d'aigua es fan els rius, tota pedra fa paret, de gota en gota s'omple la bota, moltes candeletes fan un ciri pasqual, moltes miques fan un tros, a poc a poc anirem lluny
 -loc: desigualtat evident, no tenir color, no haver-hi color
 -loc: digues-li com vulguis, digues-li naps\, digues-li cos, digues-li atxa, més o menys, poc ençà poc enllà
@@ -5105,6 +5105,7 @@
 -n: irrupció, entrada, incursió, intrusió, invasió, envaïment, escomesa, entrada de cavall sicilià, ràtzia, assalt, cavalcada, correguda, atac, abordatge
 -n: islam, mitja lluna, islamisme, mahometisme
 -n (islam): morabit, marabut
+-n (islam): vel islàmic, vel, mocador, burca, xador, hijab, nicab, xaila, amira, khimar
 -n: istme, llengua de terra
 -n: jardí, hort, parc, verger, fruiterar, hivernacle, umbracle, roserar, parterre, rocalla, floresta, platabanda
 -n: jardineria, jardinatge, paisatgisme
@@ -6172,7 +6173,7 @@
 -n: plançó, planter, plantó, pollanc, pollanca
 -n: planisferi, mapamundi, mapa, carta, carta nàutica, pla, plànol, carta de navegar, carta marina, astrolabi, esfera, esfera terrestre, atles, cartograma
 -n: planta baixa, baixos
--n (planta): meló, melonera, sindriera, síndria
+-n (planta): meló, melonera, sindriera, síndria, xíndria
 -n (planta): zitzània, jull
 -n: planter, plantació, plançonada, plançoneda, herbari
 -n: plat, plata, plàtera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas
@@ -7636,7 +7637,7 @@
 -v: anar amb el cor a la mà, tenir el cor a la mà, portar el cor a la boca, tenir el cor a la boca, ser sincer, ser obert, obrir el cor
 -v: anar, avançar, camejar, caminar, fer camí, circular, deambular, errar, fer via, gambejar, marxar, passejar, pernejar, rondar, transitar, trescar, trotar, vagar, recórrer, rodar, viatjar, nannar (infantil), atiranyar, carregar-se les cames a coll, peonar
 -v: anar (col·loquial), anar de cos, anar de ventre, buidar, cagar (col·loquial), defecar, deposar, donar del cos, eixir a cambra, escorporar-se, evacuar, exonerar el ventre, femar (col·loquial), femtar, fer (col·loquial), fer caca (infantil), fer-se caca (infantil), fer de cos, fer de ventre, anar de calces, buidar el sac, buidar el ventre, escagarrinar-se (col·loquial), escagarrussar-se (col·loquial), excretar #fer de mestre
--v: anar davant de les tronades, prevenir, anticipar-se, ser previsor
+-v: anar davant de les tronades, prevenir, anticipar-se, ser previsor, curar-se en salut
 -v: anar de bòlit, anar de corcoll, anar de cul (col·loquial), estar atrafegat, estar atabalat, anar escopetejat, treure el fetge per la boca, no saber on girar-se, no donar l'abast
 -v: anar de cambres, anar de cambra, cambrejar, anar-se'n com una aixeta, afluixar-se les clavilles, anar de corruixes, escagarrussar-se (col·loquial), anar de vareta, anar fluix de ventre, anar de xurrut, tenir diarrea, escagarrinar-se (col·loquial)
 -v: anar, dirigir-se, arribar-se, tirar, encaminar-se, fer cap, aviar-se, posar proa, fer proa, enfilar, allargar-se, orientar-se
@@ -8785,7 +8786,7 @@
 -v: mandrinar, eixamplar (un forat), fresar
 -v: manegar, ajustar, disposar, muntar, preparar, acoblar, articular
 -v: manegar, emmanegar
--v: manegar-se, espavilar-se, deseixir-se, enginyar-se, compondre's, arranjar-se, arreglar-se
+-v: manegar-se, espavilar-se, deseixir-se, enginyar-se, compondre's, arranjar-se, arreglar-se, fer-s'ho venir bé
 -v: manllevar, amprar, emmanllevar, fer un emprèstit, emprar, anar a manlleu, fer-se prestar
 -v: manxar, bufar, fer vent, ventolejar
 -v: mapar, mapificar (DNV), retratar, dibuixar, copiar
