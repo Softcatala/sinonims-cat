@@ -1183,6 +1183,7 @@
 -adj: penible, lamentable, deplorable, dolorós, penós, sensible, aflictiu, llastimós, afligidor
 -adj: penniforme, pennat, plumiforme, impennat (antònim)
 -adj: pensador, rumiador, meditatiu, discursiu, reflexiu, contemplatiu, introspectiu
+-adj: pensiu, pensívol, pensarós, abstret, consirós, meditabund, cavil·lós, capficat, reflexiu, pensatiu, taciturn, motxo (FEM motxa), moix, mújol, encaparrat, rumiador, meditatiu, encaboriat
 -adj: perdonable, dispensable, excusable
 -adj: perennifoli, perenne, sempervirent, de fulla perenne
 -adj: peresívol #...
@@ -2683,7 +2684,7 @@
 -n: apoderament, acreditació, autorització, comissió, delegació, llicència, mandat
 -n: apogeu, plenitud, súmmum, zenit, culminació, punt culminant, pinacle, cim, caramull, acme, auge, esplendor, apoteosi, quinta essència, non plus ultra
 -n: apostasia, ardit, astúcia, defecció, deserció, deslleialtat, falsedat, falsia, infidelitat, mala fe, perfídia, perjuri, traïció, traïda, traïdoria, traïment, vilania, vilesa, raboseria
--n: apòstol (FEM apostolessa), evangelitzador, predicador, missioner, catequista, propagandista, propagador
+-n: apòstol (FEM apostolessa), evangelitzador, predicador, missioner, catequista, propagandista, propagador, soldat de Crist
 -n: apostolat, missió, propagació, evangelització, proselitisme, catequesi
 -n: apoteosi, deïficació, glorificació, exaltació, divinització
 -n: aprehensió, comprensió, assimilació, interiorització
@@ -2740,7 +2741,7 @@
 -n: arreglador de parròquies (FEM arregladora de parròquies), arreglador de processó (FEM arregladora de processó), advocat de cuina (FEM advocada de cuina), diputat de cuina (FEM diputada de cuina), advocat de marge (FEM advocada de marge), advocat de secà (FEM advocada de secà), arreglador (FEM arregladora), saberut, dotor, mestretites, setciències, sabut, advocat dels pobres (FEM advocada dels pobres)
 -n: arrelament, arrelada, afermament, establiment, radicació
 -n: arrendador, sotsarrendador, border, llogador, propietari, amo (NOFEM), mestressa
--n: arrendament, lloguer, locació, cessió, sotsarrendament, llogament, inquilinat
+-n: arrendament, lloguer, locació, cessió, sotsarrendament, llogament, inquilinat, noliejament (d'un mitjà de transport)
 -n: arreplegapilotes, aplegapilotes, recollidor de pilotes (FEM recollidora de pilotes)
 -n: arribisme, ambició, oportunisme, altesa de mires
 -n: arròs a banda, arròs del senyoret
@@ -5112,6 +5113,7 @@
 -n: jarret, sofraja, buit popliti, garreta
 -n: jerarquia, relació, primacia, subordinació, ordre, rang, grau, graduació
 -n: jeroglífic, pictograma, dibuix
+-n: jet-lag, trastorn horari, trastorn d'horari
 -n (joc): capoll, corcoll
 -n (joc): fet a amagar, fet i amagar, fet a córrer, fet, acuit, conillets a amagar, tocar i parar, cluca
 -n: joc, jóc (ort. pre-2017), galliner (NOFEM), cort, corral, gàbia, pollera
@@ -5534,6 +5536,8 @@
 -n: miosotis, nomoblidis, nomoblides
 -n: miracler, taumaturg, faedor de miracles (FEM faedora de miracles)
 -n: missa, eucaristia, ofici, ofici diví, pontifical
+-n: missa rasa, missa resada, missa baixa
+-n: missa solemne, missa cantada
 -n: missatge, posta, correu, comunicat, correspondència, radiotelegrama, notificació, circular, epístola, telegrama, fax, teletip, lletra, comunicació, anònim (NOFEM), informació, despatx, postal, escrit, carta, ambaixada, radiograma, notícia, missiva, anunci, esquela, participació, ofici, nota, apuntació, avís
 -n: missió, ambaixada
 -n: mistera, encenedor, peladits (col·loquial), foc
@@ -6064,7 +6068,6 @@
 -n: pensament, propòsit, projecte, pla, intenció, idea, designi, pensada, programa, ànim
 -n: pensament, reflexió, raciocini, cogitació, especulació, raonament, argument, argumentació, lògica, mètode, noètica, noesi
 -n: pensió, jubilació, retir, violari
--n: pensiu, pensívol, pensarós, abstret, consirós, meditabund, cavil·lós, capficat, reflexiu, pensatiu, taciturn, motxo (FEM motxa), moix, mújol, encaparrat, rumiador, meditatiu, encaboriat
 -n: pentagrama, pauta, paper pautat
 -n: pentinat, monyo (valencià)
 -n: pentinat, pentinada, pentinament, pentinatge
@@ -6173,7 +6176,7 @@
 -n: plançó, planter, plantó, pollanc, pollanca
 -n: planisferi, mapamundi, mapa, carta, carta nàutica, pla, plànol, carta de navegar, carta marina, astrolabi, esfera, esfera terrestre, atles, cartograma
 -n: planta baixa, baixos
--n (planta): meló, melonera, sindriera, síndria, xíndria
+-n (planta): meló, melonera, sindriera, síndria
 -n (planta): zitzània, jull
 -n: planter, plantació, plançonada, plançoneda, herbari
 -n: plat, plata, plàtera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas
@@ -6813,7 +6816,7 @@
 -n: sina, escotadura, escotat
 -n: sinagües, enagos
 -n: sincronia, concurrència, coincidència, convergència, confluència
--n: síndria, meló, meló d'Alger, meló d'aigua, meló de moro
+-n: síndria, meló, meló d'Alger, meló d'aigua, meló de moro, xíndria
 -n: síndrome, símptomes, signes, afecció, malaltia, simptomatologia
 -n: sinergia, cooperació, associació, col·laboració, simbiosi
 -n: sínia, sénia, roda
@@ -6849,6 +6852,8 @@
 -n: solari, solàrium
 -n: solc, canal (f), estria, galze, rodera, rega, regata, reguerot, regató (NOFEM), regatera, canalera
 -n: solc, traça, rastre, senyal, deixant, ròssec, cua, deixalla, recialla, reguera, regueró
+-n: soldat de peu, peó, infant
+-n: soldat ras (FEM soldada rasa), gregari
 -n: soldat, recluta, allistat, sorge, quinto
 -n: solera, empostissat, basament, estrada, tarima, taulat, plataforma
 -n: solera, fons, sòl
@@ -7001,7 +7006,7 @@
 -n: televisió, televisor, pantalla, monitor (NOFEM), minipantalla, telepantalla, visualitzador, TV
 -n: tell, matapoll
 -n: teló, cortina, decoració, bastidor, rompiment
--n: temple, panteó, església, santuari, oratori, ermita, casa de Déu, sinagoga, aljama, mesquita, mosquea, pagoda, seu, basílica, catedral, cocatedral, parròquia, esglesiola, capella, missió, espeu, col·legiata, abadia
+-n: temple, panteó, església, santuari, oratori, ermita, casa de Déu, sinagoga, aljama, mesquita, mosquea, pagoda, seu, basílica, catedral, cocatedral, parròquia, esglesiola, capella, missió, espeu, col·legiata, abadia, missa (col·loquial)
 -n: temporalitat, transitorietat, interinitat, provisionalitat, circumstancialitat, eventualitat, fugacitat, interinatge, momentaneïtat, instantaneïtat
 -n: temps #...
 -n (temps atmosfèric): temps, oratge, oreig, aire, clima
@@ -7689,7 +7694,7 @@
 -v: arremolinar, arrombollar, rombollar, amuntonar, amuntegar, recaragolar, recargolar
 -v: arrencar, arrancar #...
 -v: arrencar, arrancar, desadherir, desaferrar, desagafar, desapegar, desembanyonar, desempegar, desencastar, desencolar, desenganxar, desengomar, despenjar, desprendre, desunir, separar, traure, treure, saltar, desarrelar
--v: arrendar, llogar, cedir, sotsarrendar, acensar, subarrendar, rellogar
+-v: arrendar, llogar, cedir, sotsarrendar, acensar, subarrendar, rellogar, noliejar (un mitjà de transport)
 -v: arrepapar-se, repapar-se, aclofar-se, escarxofar-se, arrepetellar-se, repetellar-se, aponar-se, acomodar-se, esfondrar-se
 -v: arriar, abaixar
 -v: arriar, arrear, estimular
