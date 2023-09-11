@@ -254,7 +254,8 @@ public class Dictionary {
       "encadellament", "escrache", "ITS", "girajaquetes", "polímata", "ual·la", "melindrositat", "sílex piròmac",
       "tripatinet", "tant és Alí com Camalí", "deixar KO", "irreproduïble", "KO", "muà", "muac", "xuic", "txuic",
       "escanyapets", "tapavergonyes", "avergonyidor", "pudícia", "burocratès", "Suillus", "portaplatets", "xaila",
-      "amira", "khimar", "recançós", "com-s'ha-fet", "catso", "catsoleta", "ensarronador", "apocalipticisme" });
+      "amira", "khimar", "recançós", "com-s'ha-fet", "catso", "catsoleta", "ensarronador", "apocalipticisme", "ullerut",
+      "verborreic", "antigitanisme", "romofòbia", "racisme antigitano", "diabolus in musica", "esbrufar"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
