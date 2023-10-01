@@ -188,6 +188,7 @@ public class Dictionary {
     commonErrors.put("recolzament", "suport");
     commonErrors.put("búsqueda", "recerca");
     commonErrors.put("busqueda", "recerca");
+    commonErrors.put("qui sembra vents recull tempestats", "qui sembra vents cull tempestats");
   }
 
   private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
@@ -255,7 +256,8 @@ public class Dictionary {
       "tripatinet", "tant és Alí com Camalí", "deixar KO", "irreproduïble", "KO", "muà", "muac", "xuic", "txuic",
       "escanyapets", "tapavergonyes", "avergonyidor", "pudícia", "burocratès", "Suillus", "portaplatets", "xaila",
       "amira", "khimar", "recançós", "com-s'ha-fet", "catso", "catsoleta", "ensarronador", "apocalipticisme", "ullerut",
-      "verborreic", "antigitanisme", "romofòbia", "racisme antigitano", "diabolus in musica", "esbrufar"});
+      "verborreic", "antigitanisme", "romofòbia", "racisme antigitano", "diabolus in musica", "esbrufar", "llegiguera",
+      "manicurista", "mu" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
