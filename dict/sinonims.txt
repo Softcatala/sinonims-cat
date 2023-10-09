@@ -251,7 +251,7 @@
 -adj: callat, mut, silent, silenciós, taciturn, inexpressiu, malmirrós, sec, eixut, reservat, callantívol, de poques paraules
 -adj: calorós, acalorat, ardorós, entusiasta, apassionat, efusiu, ardent, fogós, fervent, fervorós, animat, viu, vehement, adelerat, volcànic, xardorós, exaltat, entusiàstic
 -adj: camacurt, garracurt, baix, camallarg (antònim)
--adj: camallarg, garrallarg, llargarut, llarguerut, camat, camut, garrut, gànguil, alt, camacurt (antònim)
+-adj: camallarg, garrallarg, llargarut, llarguerut, camat, camut, garrut, gànguil, alt, camacurt (antònim), girafa (col·loquial)
 -adj: camaobert #...
 -adj: cama-segat, garratibat
 -adj: camús, xato, mus (FEM mussa), esmussat, aixafat, aplanat, nassut (antònim)
@@ -1092,6 +1092,8 @@
 -adj: municipal, comunal, consistorial, veïnal, veïner, local
 -adj: museístic, museogràfic
 -adj: músic, musical
+-adj (música): agut, alt, elevat, greu (antònim)
+-adj (música): baix, greu, agut (antònim)
 -adj (música): incidental, d'acompanyament, de fons
 -adj (música): melismàtic, ornat, ornamentat #...
 -adj: musical, harmoniós, melodiós, cadenciós, rítmic
@@ -1525,8 +1527,6 @@
 -adj (tipografia): aldí, elzevirià
 -adj: titànic, sobrehumà, herculi, ciclopi
 -adj: titanós, titànic, de titani
--adj (to): agut, alt, elevat, greu (antònim)
--adj (to): baix, greu, agut (antònim)
 -adj: tolerant, equidistant, eclèctic, ambivalent, moderat, intermedi, conformista, contemporitzador, neutre
 -adj: ton (FEM ta), el teu (FEM la teva), el teu (FEM la teua)
 -adj: tonant, tronador #...
@@ -3336,6 +3336,7 @@
 -n: carnavalada, mascarada, moixiganga, carnestoltada, folga, divertiment, ball de disfresses, festa de disfresses, ball de màscares, cavalcada, cercavila
 -n: carnisser, xarcuter, cansalader
 -n: carnisseria, xarcuteria, cansaladeria, pernileria
+-n: carona, careta, carussa, mala cara, cara pàl·lida, cara demacrada
 -n: càrrec, posició, grau, nivell, dignitat, títol, categoria, rang
 -n: càrrec, responsabilitat, incumbència, cura, direcció, custòdia, obligació, comandament, poder
 -n: càrrega, carregament, càrrec, pes, mercaderies
@@ -6589,7 +6590,7 @@
 -n: receptari, formulari
 -n: reciclatge, reaprofitament, regeneració, recuperació, reutilització
 -n: reciprocitat, contrapartida, intercanvi de favors, quid pro quo (anglicisme), compensació
--n: recital, concert, execució, interpretació, sonada, tocada, cantada, música, albada, audició, actuació
+-n: recital, concert, execució, interpretació, sonada, tocada, cantada, música, albada, audició, actuació, bolo (col·loquial)
 -n: reclam, crit, senyal
 -n: reclamació, queixa, clam, protesta, protestació, denúncia, exigència, pretensió, reivindicació, reclam (antic), demanda, querella, libel
 -n: reclinatori, pregadeu
@@ -8500,7 +8501,7 @@
 -v: enxarxar, emmallar, enxarciar, enredar, enredrar, agafar, pescar
 -v: enyorar, faltar, mancar, sospirar, trobar a faltar, sentir nostàlgia, sentir enyor, estranyar
 -v: equilibrar, compensar, anivellar, igualar, contrabalançar, estabilitzar, contrapesar, contrarestar, ajustar, neutralitzar, balançar, equiponderar
--v: equivocar-se, errar-se, errar, esbarrar, trabucar-se, confondre's, enganyar-se, descomptar-se, bescomptar-se, vessar-la (col·loquial), escopir fora de la trona, pixar fora de test, pixar fora de rogle, cagar fora de l'orinal, tocar el bombo, tocar l'orgue, tocar timbals, cagar-la (col·loquial), fer una planxa, ficar la pota, ficar els peus a la galleda, fer un pas fals, patinar, caure en error, fer una passa en fals, desencertar, malencertar, cantar (col·loquial)
+-v: equivocar-se, errar-se, errar, esbarrar, trabucar-se, confondre's, enganyar-se, descomptar-se, bescomptar-se, vessar-la (col·loquial), escopir fora de la trona, pixar fora de test, pixar fora de rogle, cagar fora de l'orinal, tocar el bombo, tocar l'orgue, tocar timbals, cagar-la (col·loquial), fer una planxa, ficar la pota, ficar els peus a la galleda, fer un pas fals, patinar, caure en error, fer una passa en fals, desencertar, malencertar, cantar (col·loquial), lluir-se (irònic)
 -v: erosionar, escorrancar, aixaragallar, regallar, garfullar
 -v: errar, trabucar, confondre, equivocar #...
 -v: esbadellar-se, badar-se, descloure's, obrir-se, esclatar
@@ -8658,7 +8659,7 @@
 -v: fer denteta, fer enveja, engelosir, fer glatir, fer gruar, fer babarotes, fer miroies, fer mirallets, fer venir aigua a la boca, fer dentetes, fer dents, ballar l'aigua als ulls, fer venir salivera, fer les dents llargues, temptar, fer gola, excitar, fer saliva, fer ensalivar
 -v: fer drecera, atallar
 -v: fer el compte de la vella, comptar rudimentàriament, comptar amb els dits, fer comptes rudimentaris
--v: fer el ridícul, fer el pagès, fer el pallasso, fer el préssec, fer riure, fer el passerell, fer el paperina, fer el titella, fer la mona, fer el gegant, fer el pena, fer el ninot, fer cagarel·la, ser la riota, ser el burlot, pagar el riure, quedar lluït, ser l'ase dels cops, ser un passerell
+-v: fer el ridícul, fer el pagès, fer el pallasso, fer el préssec, fer riure, fer el passerell, fer el paperina, fer el titella, fer la mona, fer el gegant, fer el pena, fer el ninot, fer cagarel·la, ser la riota, ser el burlot, pagar el riure, quedar lluït, ser l'ase dels cops, ser un passerell, fer un paper d'estrassa, fer un mal paper
 -v: fer el soldat, fer el servei militar, fer la mili (col·loquial)
 -v: fer el tifa, fer el merda, donar-se importància, cridar l'atenció, fer-se notar, donar-se to, fer el mec, fer goma, faronejar, gallejar, fer-se veure, donar la nota
 -v: fer entrar, internar, fer ingressar
@@ -8698,7 +8699,7 @@
 -v: fer via, fer camí, tirar pel dret, posar la directa, tirar milles, avançar
 -v: ferir, punxar, punyir, fiblar, agullonar, burxar, dardar, ortigar, arponar
 -v: ferir-se, llampar-se, tenir un atac d'apoplexia
--v: fer-la com un cove, fer-ne com un cove, fer-la grossa, fer-la bona, fer-la blava, fer un disbarat, cagar-la (col·loquial), espatllar, pifiar-la, espifiar-la, errar, ficar els peus a la galleda, ficar-se de peus a la galleda, pastifejar, arruïnar, fer bon catxo
+-v: fer-la com un cove, fer-ne com un cove, fer-la grossa, fer-la bona, fer-la blava, fer un disbarat, cagar-la (col·loquial), espatllar, pifiar-la, espifiar-la, errar, ficar els peus a la galleda, ficar-se de peus a la galleda, pastifejar, arruïnar, fer bon catxo, lluir-se (irònic)
 -v: ferrar, ferretejar, referrar, revestir
 -v: fer-se càrrec, fer-se el càrrec, prendre consciència, fer-se a la idea, conscienciar-se, prendre esment
 -v: fer-se costerut, fer-se costera amunt, costar molt, fer-se costa amunt, venir costa amunt, venir coster, fer-se una muntanya
