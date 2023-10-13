@@ -1243,6 +1243,7 @@
 -adj: pomaci, màlic, pomiforme, apomat
 -adj: popular, en voga, de moda, multitudinari, públic, massiu, comercial, mediàtic
 -adj: popular, plebeu, comú, cívic, comunal, democràtic, vulgar, ciutadà, demòtic, comunitari
+-adj: popular, populatxer, vulgar, pedestre, baix, adotzenat
 -adj: porcí, porquí
 -adj: positiu, afirmatiu, constructiu, assertiu, negatiu (antònim), destructiu (antònim)
 -adj: positiu, bo, favorable, negatiu (antònim), pròsper, avantatjós, benigne
@@ -2914,7 +2915,6 @@
 -n: avenç, progrés, desenvolupament, millora, prosperitat, evolució, endarreriment (antònim), desenrotllament, perfeccionament, superació, pas de gegant
 -n: aventura, risc, perill, imprevist, contingència, amenaça, dificultat, arriscament, aposta, escull
 -n: aventurer, rodamon, bohemi, cavaller de fortuna
--n: avés, costum, habitud, hàbit, ús, pràctica, rutina, tradició, consuetud, usança, moda, gust, estil, folklore, usatge, rúbrica, convenció, vici, experiència, regla, mania, costumari
 -n: avi, aviastre (FEM aviastra), iaio (infantil), jai (col·loquial), jaio (col·loquial FEM jaia), padrí (col·loquial FEM padrina), baba (f; infantil)
 -n: aviació, aeronàutica, aerostació
 -n: aviador, pilot, aeronauta
@@ -3758,6 +3758,8 @@
 -n: costa, costera, litoral, riba, ribera, ribatge, marina, platja, vora
 -n: costellam, costellada
 -n: costelles, costat, costa (antic)
+-n: costum, avés, habitud, hàbit, ús, pràctica, rutina, consuetud, usança, moda, gust, estil, folklore, vici, experiència, mania
+-n: costum, tradició, ús, consuetud, usança, llei, regla, usatge, convenció, halacà (judaisme), costumari, decret, estatut, rúbrica
 -n: cot, casaca, bata
 -n: cotilla, cosset, faixa
 -n: cotó-en-pèl, cotó hidròfil
@@ -6283,7 +6285,7 @@
 -n (planta): meló, melonera, sindriera, síndria
 -n (planta): zitzània, jull
 -n: planter, plantació, plançonada, plançoneda, herbari
--n: plat, plata, plàtera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas
+-n: plat, plata, plàtera, platera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas
 -n: plat, platerada, ració, platada
 -n: plat, platet, patena, plateret
 -n: plata, argent
@@ -7146,6 +7148,7 @@
 -n: testimoni auricular, testimoni d'oïda
 -n: testimoni ocular, testimoni de vista
 -n: testimoni ocular, testimoni de vista, testimoni presencial
+-n: tetrabric, bric, envàs, cartó, pot
 -n: tetràgon, quadrilàter, paral·lelogram, rectangle, quadrat, quadrangle, trapezi, trapezoide, escac
 -n: tetramorf, els quatre vivents, evangelistes
 -n: teulada, teulat, coberta, sostre, llosat, llenat, cobertor
