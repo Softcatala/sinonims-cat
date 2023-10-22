@@ -257,7 +257,7 @@ public class Dictionary {
       "escanyapets", "tapavergonyes", "avergonyidor", "pudícia", "burocratès", "Suillus", "portaplatets", "xaila",
       "amira", "khimar", "recançós", "com-s'ha-fet", "catso", "catsoleta", "ensarronador", "apocalipticisme", "ullerut",
       "verborreic", "antigitanisme", "romofòbia", "racisme antigitano", "diabolus in musica", "esbrufar", "llegiguera",
-      "manicurista", "mu" });
+      "manicurista", "mu", "mitjamerda", "menjamerda", "cigalot" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
