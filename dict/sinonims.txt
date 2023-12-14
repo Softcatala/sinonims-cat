@@ -1115,6 +1115,7 @@
 -adj: neuronal, neural, nerviós, nerval
 -adj: nevat, nevós, cobert de neu (FEM coberta de neu), nivós
 -adj: nimfal #...
+-adj: nocional, especulatiu
 -adj: noctàmbul, ocell de nit, tranuitador, vetlador, vetllador
 -adj: nombrós, massiu, multitudinari, majoritari, abundant, abundós, copiós
 -adj: nord, septentrional, boreal, àrtic, nòrdic, del nord, sud (antònim), tramuntanal
@@ -2970,6 +2971,7 @@
 -n: barbarisme, estrangerisme, castellanisme, castellanada, catalanisme, catalanada, gal·licisme, francesisme, anglicisme, germanisme, italianisme, americanisme, arabisme, hebraisme, llatinisme, hel·lenisme, grecisme, eslavisme, valencianisme, valencianada, espardenyada, xenisme
 -n: Barcelona, ciutat comtal, cap i casal
 -n: bardissa, barder, barda, matollar, esbarzers, gatoses, matolls, bardissam, bardissar, esbarzerar, esbarzeram, albarzerar, argelagar
+-n: barem, rúbrica, taula, quadre
 -n: barjola, bossot, sarrió, bossa, sàrria, sària, sarió, sarró, talec, taleca, sac, saca, coixinera
 -n: barra #...
 -n: barra, mandíbula, barram, queix, maixella, mentó, bancada
@@ -3158,7 +3160,6 @@
 -n: buidatge, buidada, buidament, buidat, eixugada, evacuació, desallotjament
 -n: buidor, buidedat, buidesa, buit
 -n: bull, xup-xup, bullida, bullidera, bulliment, bollida, bollidera, bolliment, bullor, ebullició, agitació, fermentació, efervescència, borbolleig, borboll, turbulència
--n: bunyol, pífia, nyap, patafi, pitafi, pastitxo, esguerro, cagada (col·loquial), fallada, caguerada (col·loquial), embonyigada, empastrada, empastre, emplastre, esgarro, figada, desficaci, pastís, sabaterada, pasterada, pataca, barroeria, pegat, pegot, mamarratxo (NOFEM), pegomàs, gasòfia
 -n: burilla, punta de cigarret, llosca
 -n: burla, befa, derisió, broma, xacota, aüc, uc, mofa, escarn, escarni, conya (col·loquial), plagasitat, ironia, sarcasme, sàtira, sorna, brometa, ludibri, innocentada, trufa, irrisió, inri, pulla, jutipiris
 -n: burocràcia, maquinària, administració, regulació
@@ -3259,7 +3260,7 @@
 -n: canella, canyella, séc (de la cama; ort. pre-2017), sec (de la cama)
 -n: canella, canyella, tíbia
 -n: canellera, canyellera, genollera, colzera, protecció
--n: cangur, mainader (FEM mainadera), cuidador (FEM cuidadora), teta, institutor (FEM institutriu)
+-n: cangur, mainader (FEM mainadera), cuidador (FEM cuidadora), teta, institutor (FEM institutriu), au-pair
 -n: canibalisme, antropofàgia
 -n (cànids): coiot, xacal, dingo, cànid, llop, gos, guineu
 -n: canó, pedrer (antic NOFEM), espingarda (antic)
@@ -3319,6 +3320,7 @@
 -n: caràcter, tarannà, temperament, idiosincràsia, humor, natura, naturalesa, índole, geni, condició, teia, color, ànim, jeia, jaient, manera de ser, tenor (antic), pàtina, natural
 -n: caragol, caragolí, caragolet (diminutiu), cargol (forma secundària)
 -n: carambola, rebot, doble jugada
+-n: caràtula, cartel·la, rectangle, cartolina
 -n: carbassa (forma secundària), carabassa
 -n: carbó, antracita, branqueta, hulla, lignit, molinada
 -n: carculla, clasca, closca, clotxa, clòtxina, conquilla, copinya, cuirassa, curculla, mareperla, pelegrina, petxina, valva, petxinot
@@ -3755,6 +3757,7 @@
 -n: cos, matèria, substància, sòlid
 -n: cosa, afer, assumpte, qüestió, fet, problema, tuacte, tuàutem
 -n: cosa, fet, esdeveniment, succés, succeït, incidència, situació, circumstància, pas, feta, cas, ocurrència, ocasió, peripècia, conjuntura, episodi, incident, aventura, acció, saó, pàgina, efemèride, escaiença
+-n (cosa mal feta): bunyol, pífia, nyap, patafi, pitafi, pastitxo, esguerro, cagada (col·loquial), fallada, caguerada (col·loquial), embonyigada, empastrada, empastre, emplastre, esgarro, figada, desficaci, pastís, sabaterada, pasterada, pataca, barroeria, pegat, pegot, mamarratxo (NOFEM), pegomàs, gasòfia
 -n: cosa, objecte, article, peça, element, eina, útil, estri, accessori, ferramenta, ferrament, atifell, artefacte, enginy, giny, ítem, efecte, instrument, aïna
 -n: cosa, realitat
 -n (coses inútils): cosa, andròmina, bagatel·la, enderga, fòtil, rampoina, trast, trasto, farda, trastam, carraca (col·loquial), renocs, ceba (col·loquial), fregall (col·loquial), patxo (col·loquial), peal (col·loquial), tartana (col·loquial)
@@ -4241,6 +4244,7 @@
 -n (en el temps): imminència, proximitat, propinqüitat, immediatesa
 -n (en els ocells): gavatx (NOFEM), pap
 -n (en la sang): glucosa, sucre (col·loquial)
+-n (en una classificació): lloc, posició
 -n: encallament, encall, encallada, embarrancament, empantanegament, empantanament
 -n: encants, mercat d'ocasió, mercat de vell, mercat de segona mà, mercat venturer
 -n: encariment, carestia
@@ -5836,6 +5840,7 @@
 -n: nòria (castellanisme), roda (de fira), carrusel
 -n: normalitat, regularitat, habitualitat, ordre, rutina, anormalitat (antònim)
 -n: nostàlgia, enyorança, enyor, enyorament, recança, melangia, malenconia, melancolia, tristor, tristesa, esplín, abúlia, llangor, llanguiment, aflicció, pena, desconsol, marriment
+-n: nota, qualificació, resultat, puntuació, marca (en esports), valoració
 -n (nota): suspès, deficient, molt deficient
 -n: notari, fedatari (FEM fedatària), escrivà, actuari, escrivent, tabel·lió (antic), credencer
 -n: notícia, nova, informació, fet, cas, nota, notificació, declaració, ressenya, reportatge, crònica, recensió, revelació, testimoniatge, avís, comunicació, flaix
@@ -6044,7 +6049,7 @@
 -n: parapet, barricada, barrera, terraplè, mur, paret, tanca, margenada, marge
 -n: para-sol, ombrel·la, tendal, paraigua
 -n: paratge, indret, lloc, andola, terreny, veral, espai
--n (paraula): brofegada, grolleria, grosseria, obscenitat, baconada, porcada, blasfèmia, brutícia, deshonria (antic), despropòsit, desvergonyiment, impertinència, inconveniència, indecència, indelicadesa, insolència, insult, motada, ofensa, paraulada, paraulota, procacitat, renec, ultratge, paraula gruixuda, morrada, paraula forta, penjament, vulgaritat, dicteri, sortida de to, eixida de to #separar
+-n (paraula): brofegada, grolleria, grosseria, obscenitat, baconada, porcada, blasfèmia, brutícia, deshonria (antic), despropòsit, desvergonyiment, impertinència, inconveniència, indecència, indelicadesa, insolència, insult, motada, ofensa, paraulada, paraulota, procacitat, renec, ultratge, paraula gruixuda, morrada, paraula forta, penjament, vulgaritat, dicteri, sortida de to, eixida de to, disfemisme #separar
 -n: pardal, teulat (NOFEM), teuladí (NOFEM), teulader (NOFEM), torredà (NOFEM), viler (NOFEM), xareu (NOFEM), xeu (NOFEM), parot, mareta
 -n: pare polític, sogre (NOFEM)
 -n: parell, parella, duo, duet, coble (animals), dos (FEM dues), binomi, tàndem
@@ -6578,6 +6583,7 @@
 -n: ramera, ramatge, brancatge, brancada, brancam, verdesca, ramulla, ramutxa, brancall, ramada, enramada, fullatge
 -n: rampa, contracció, paràlisi, espasme, rictus (de la cara), tic, constricció, crispació, contorsió, convulsió, palpitació
 -n: ranciesa, rancior, agresa, agror
+-n: rànquing, classificació, llista
 -n: ranura, cissura, solc
 -n: ranura, regata, forat, colís, trau colís
 -n: rapaç, rapinyaire, ocell de rapinya, ocell de presa
@@ -7132,7 +7138,7 @@
 -n: televisió, televisor, pantalla, monitor (NOFEM), minipantalla, telepantalla, visualitzador, TV
 -n: tell, matapoll
 -n: teló, cortina, decoració, bastidor, rompiment
--n: temple, panteó, església, santuari, oratori, ermita, casa de Déu, sinagoga, aljama, mesquita, mosquea, pagoda, seu, basílica, catedral, cocatedral, parròquia, esglesiola, capella, missió, espeu, col·legiata, abadia, missa (col·loquial)
+-n: temple, panteó, església, santuari, oratori, ermita, casa de Déu, casa del Senyor, sinagoga, aljama, mesquita, mosquea, pagoda, seu, basílica, catedral, cocatedral, parròquia, esglesiola, capella, missió, espeu, col·legiata, abadia, missa (col·loquial)
 -n: temporalitat, transitorietat, interinitat, provisionalitat, circumstancialitat, eventualitat, fugacitat, interinatge, momentaneïtat, instantaneïtat
 -n: temps #...
 -n (temps atmosfèric): temps, oratge, oreig, aire, clima
@@ -7385,7 +7391,7 @@
 -n: vegetarianisme, frugivorisme, veganisme, ovovegetarianisme, piscivegetarianisme, ovolactovegetarianisme, avipiscivegetarianisme, lactovegetarianisme, avivegetarianisme, apivegetarianisme, crudivegetarianisme, crudiveganisme
 -n: vehicle, mitjà, agent, via, canal (m), instrument, conducte, òrgan
 -n: vehicle, mitjà de transport, camió, cotxe, autobús, motocicleta, bicicleta, furgoneta
--n: veí, ciutadà, veïnat, resident, vilatà, vilà (antic), viler, regnícola, natural, habitant, paisà
+-n: veí, ciutadà, veïnat, resident, vilatà, vilà (antic), viler, regnícola, natural, habitant, paisà, íncola (antic)
 -n: veïnatge, paisanatge, proximitat, contigüitat, vincle, lligam, contacte, propinqüitat, adjacència, vinculació, immediatesa
 -n: vellesa, hivern de la vida, tercera edat
 -n: vellesa, vellura, ancianitat, vetustat, vellúria, canície, vellor, velledat, longevitat, senectut
@@ -7502,7 +7508,7 @@
 -n: vuitanta, huitanta, vuitantena, huitantena
 -n: vuitena, octava, huitena, huitava, huitada, vuitada, capvuitada, caphuitada
 -n (vulgar): puta, perduda, bandarra, arreplegada, bagassa
--n: vulgarisme, col·loquialisme
+-n: vulgarisme, col·loquialisme, disfemisme
 -n: vulgus, comú (NOFEM), poble, gent vulgar, comú dels homes
 -n: vulneració, mancament, infracció, conculcació, contravenció, transgressió, violació, delicte
 -n: vulva, flor, nimfa, abadejo (col·loquial), bacora (col·loquial), carxofa (col·loquial), clòtxina (col·loquial), cony (col·loquial), figa (col·loquial), palput (col·loquial), pansó (col·loquial), paput (col·loquial), parrús (col·loquial), parrussa (col·loquial), petxina (col·loquial), poma (col·loquial), tomaca (col·loquial), xamela (col·loquial), xona (col·loquial), patata (col·loquial), conill (NOFEM col·loquial), himen, clítoris, pubis, vagina, mont de Venus, natura, naturalesa, albercoc (col·loquial)
@@ -7777,6 +7783,7 @@
 -v: anar amb el cor a la mà, tenir el cor a la mà, portar el cor a la boca, tenir el cor a la boca, ser sincer, ser obert, obrir el cor
 -v: anar, avançar, camejar, caminar, fer camí, circular, deambular, errar, fer via, gambejar, marxar, passejar, pernejar, rondar, transitar, trescar, trotar, vagar, recórrer, rodar, viatjar, nannar (infantil), atiranyar, carregar-se les cames a coll, peonar
 -v: anar (col·loquial), anar de cos, anar de ventre, buidar, cagar (col·loquial), defecar, deposar, donar del cos, eixir a cambra, escorporar-se, evacuar, exonerar el ventre, femar (col·loquial), femtar, fer (col·loquial), fer caca (infantil), fer-se caca (infantil), fer de cos, fer de ventre, anar de calces, buidar el sac, buidar el ventre, escagarrinar-se (col·loquial), escagarrussar-se (col·loquial), excretar #fer de mestre
+-v: anar com una seda, anar vent en popa, anar llatí, anar en vençó, anar en popa, anar veles desplegades, anar amb totes les veles al vent, anar a raig de càntir, anar la nata, anar sobre rodes, rutllar
 -v: anar davant de les tronades, prevenir, anticipar-se, ser previsor, curar-se en salut
 -v: anar de bòlit, anar de corcoll, anar de cul (col·loquial), estar atrafegat, estar atabalat, anar escopetejat, treure el fetge per la boca, no saber on girar-se, no donar l'abast
 -v: anar de cambres, anar de cambra, cambrejar, anar-se'n com una aixeta, afluixar-se les clavilles, anar de corruixes, escagarrussar-se (col·loquial), anar de vareta, anar fluix de ventre, anar de xurrut, tenir diarrea, escagarrinar-se (col·loquial)
