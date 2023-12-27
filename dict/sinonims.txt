@@ -2005,7 +2005,7 @@
 -adv: d'ofici, obligadament, reglamentàriament
 -adv: dret, dempeus, alçat, aixecat, plantat, palplantat, vertical, a peu dret, en peus, de peus
 -adv: d'un colp, d'una vegada, d'una volta, d'un cop
--adv: d'un dia a l'altre, d'avui a demà, d'un moment a l'altre
+-adv: d'un dia a l'altre, d'avui a demà, d'un moment a l'altre, d'un dia per l'altre, avui per demà
 -adv: d'una hora lluny, des de lluny
 -adv: d'una tongada, en una sola vegada, sense interrupcions, d'una tirada, de cop, de colp, a l'encop, d'una tandada, en un viatge
 -adv: efectivament, de fet, en realitat, en efecte
@@ -2090,7 +2090,7 @@
 -adv: greument, seriosament, formalment, solemnement, circumspectament
 -adv: hostilment, a les males, barallant-se, de mala manera, de qualsevol manera, per força, violentament
 -adv: i escaig, i busques, i pocs, i tants, i les dents, i repicó, i remitjó, i tacó
--adv: immediatament, tot seguit, seguidament, encontinent (antic), de seguida, de mantinent (antic), tantost (antic), de pressa, corrents, llampant, ràpidament, a l'acte, al moment, en un dir amén, en un instant, en un alè, instantàniament, a l'instant, en un no res, en un moment, arreu, d'una hora lluny, a tot córrer, en un bell en sec, d'un bell en sec, en un bot, en un salt, en un tres i no res, en un girar d'ulls, en un batre d'ulls, en un tancar i obrir d'ulls, en un punt, en un dir Jesús, en un ai, en un pensament, en un bufit, en una exhalació, en una escapada, en un vol, ipso facto, en continent (antic), de continent (antic), en una escorribanda, en una corredissa, en un llamp
+-adv: immediatament, tot seguit, seguidament, encontinent (antic), de seguida, de mantinent (antic), tantost (antic), de pressa, corrents, llampant, ràpidament, a l'acte, al moment, en un dir amén, en un instant, en un alè, instantàniament, a l'instant, en un no res, en un moment, arreu, d'una hora lluny, a tot córrer, en un bell en sec, d'un bell en sec, en un bot, en un salt, en un tres i no res, en un girar d'ulls, en un batre d'ulls, en un tancar i obrir d'ulls, en un punt, en un dir Jesús, en un ai, en un pensament, en un bufit, en una exhalació, en una escapada, en un vol, ipso facto, en continent (antic), de continent (antic), en una escorribanda, en una corredissa, en un llamp, d'un dia a l'altre, avui per demà
 -adv: impassiblement, com si res, com si tal cosa, com qui sent ploure, com aquell qui res
 -adv: improvisadament, sobre la marxa, de cop i volta, de colp i volta, irreflexivament
 -adv: impunement, a mans salves, sense risc, a mansalva, salvament, sense perill, sobre segur
@@ -2898,6 +2898,7 @@
 -n: aurèola, halo, corona, nimbe
 -n: auricular, orellera
 -n: auriculars, cascos, cascs
+-n: auró, plàtan fals, erable, blada, rotaboc, negundo, aceràcia (família)
 -n: autarquia, autosuficiència, aïllament, tancament
 -n: auto, automòbil, cotxe, turisme, vehicle, brec, taxi, carraca (col·loquial), tartana (col·loquial), cupè
 -n: autoaprenentatge, autodidaxi, autoeducació, autoformació, autoinstrucció
@@ -4743,7 +4744,7 @@
 -n: fong, micet, bolet, eumicet
 -n: fons, resta, residu, cul, pòsit, solatge, soll, solada, vinassa (vi), morca (oli), ressol, sediment, brisa (raïm), dipòsit, empòsit, fargalada (oli; most), mare (vi; vinagre), baixos, farga (vi), marro, trascolins
 -n: font #...
--n: font d'alimentació, alimentador (NOMFEM), font de corrent, font de tensió
+-n: font d'alimentació, alimentador (NOFEM), font de corrent, font de tensió
 -n: font, deu (f), ull, ullal, naixement, aiguaneix, brollador, naixement d'aigua, broll, hidrofilaci
 -n: forasteria, estrangeria
 -n: forat, corca, corcat (NOFEM)
@@ -5590,7 +5591,7 @@
 -n: menador, pareller
 -n (menjada lleugera): menjada, picada, picadeta, pica-pica, piscolabis, queixalada, mossada, bocinada, refrigeri, mos, col·lació, berenada, ressopó, refresc, berenar, refecció, desdejuni, esmorzar, aperitiu, vermut, ganyip, menjuc, pícnic, vega, xera, xocolatada, ambigú, nyam-nyam (interjecció), entremès, còctel
 -n: menjadora, pesebre, cornadís, gamella, grípia, conc, obi, pesebrera, noc, presepi (antic)
--n: menjar, aliment, quemenjar, queviures, provisió, rebost, recapte, manteniments, provisió de boca, avituallament, vitualles
+-n: menjar, aliment, quemenjar, queviures, provisió, rebost, recapte, manteniments, provisió de boca, avituallament, vitualles, marmanya, marmany
 -n: menstruació, dismenorrea, menorrea, fluix menstrual, menorràgia (exagerada), menarquia (primera menstruació), menstru, període, regla, ordinari (col·loquial)
 -n: menstruar, baixar el cos, tenir la regla
 -n: menta (gènere), herba-sana, poliol
@@ -6184,6 +6185,7 @@
 -n (peixos): amploia, patoia, meleta, sardina, alatxa, areng, clupeïforme (ordre), saboga, sarda, sardinyola, xanguet, aladroc, xeclet, seitó, arengada
 -n (peixos): làmnid, isúrid
 -n (pejoratiu): tropa, baixúrria, briva, brivalla, feram, xusma, gentola, gent de tro, gentalla, gentegassa, genterola, genteta, gentussa, púrria, purrialla, xurma, taülalla, bretolalla, bordissalla, terregada, pleballa, plebs, patuleia, turba, turbamulta, populatxo, poble baix, poble menut, horda, morralla, escòria, rampoina, pobretalla, pobrissalla, gent baixa, lumpen, trepa, marinatge, rostoll
+-n (pejoratiu): verdulaire, verduler, marmanyer, embolicaire, embolicador, xarrador, xerraire, cridaner
 -n: pell, pelleringa, pelleranca, descamació
 -n: pell, tel, coberta, crespell, cresp, cutícula, pel·lícula, membrana, pàtina, vel, epidermis, cutis
 -n: pell, vaqueta #...
@@ -6799,6 +6801,7 @@
 -n: rosella, ababol, ababolera, babol, buixol, gallaret, lloca, paparota, paramà, pipiripip, quiquiriquic, roseller, rosellera, caputxí, gall
 -n: rosetó, rosassa, rosa, rosó, o (f)
 -n: ròssa (ort. pre-2017), rossa, perranya, rossí, cavall vell, mul vell
+-n: rossejat d'arròs, arròs rossejat, rossejat
 -n: rostoll, restoll, rostollada, rostollar, restollada, restollar
 -n: rotació, volta, revolució, gir, translació, moviment
 -n: rotllo #...
@@ -6849,7 +6852,7 @@
 -n: sang, crúor, sèrum, sangassa, sangota, sangada
 -n: sangonella, sangonera, samaruga, sanguisola
 -n: sanitat, salubritat, higiene, neteja, sanejament, profilaxi, netedat, polidesa, pulcritud, desinfecció, asèpsia, antisèpsia, esterilització
--n: Sant Esteve, segon dia de Nadal, segona festa de Nadal
+-n: Sant Esteve, segon dia de Nadal, segona festa de Nadal, Nadalet
 -n: sant, imatge, gravat, estampa
 -n: Sant Ofici, Inquisició, tribunal eclesiàstic
 -n: saó, saonada, tardorada, tempir, humitat, mullena, humiditat, serena, rellent, rellentor, blanor, deliqüescència, llacor
@@ -7433,6 +7436,7 @@
 -n: ventrada, cadellada, ventregada, cria, llorigada
 -n: ventrell, estómac, païdor, pedreny, pedrer, panxa, ventre, abdomen, tripa, buc, pap, panxolina (col·loquial), panxeta (diminutiu), baül (col·loquial), morella (dels ocells)
 -n: Venus, estel del matí, estel del dia, estel del vespre, estel de l'alba, estrella de l'alba, estrella de pastor, diana (poètic)
+-n: verduler, verdulaire, marmanyer, placer, venedor
 -n: verdura, verd, verdesca, verdor, ramatge, fullatge
 -n: vergonya, amor propi, estima, dignitat, estimació, punt d'honor, decència
 -n: vergonya, deshonor, humiliació, oprobi, escàndol, estigma, afront, ignomínia, deshonra, ultratge
