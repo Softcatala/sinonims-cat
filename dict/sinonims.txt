@@ -2310,7 +2310,7 @@
 -det: diversos, diferents, uns quants, alguns
 -ij (acord): sí, i tant, i tant que sí, és clar, sens dubte, entesos, d'acord, bé, com vulguis, com vulgues, conforme, per descomptat, naturalment, certament, absolutament, evidentment, amén, prou, cert, avant, endavant, efectivament
 -ij: adéu (ort. pre-2017), adéu-siau (ort. pre-2017), adeu, adeu-siau, a reveure, salut, bon vent, fins a una altra, ja ens veurem, fins ara, fins després, fins més tard, fins aviat, estigui bo, estigueu bons, au
--ij (admiració, sorpresa): ah, alça, alça món, bufa, carai, carall (vulgar), caram, carat, castanyeta, coi (col·loquial), collons (vulgar), colló (vulgar), cony (vulgar), cuca, Déu li'n do, Déu n'hi do, Déu n'hi doret, déu-n'hi-do, déu-n'hi-doret, eu, fosca, fotre (vulgar), fot (vulgar), ha, hola, hòstia (vulgar), jesús, jo et flic, magnífic, manoi, mosca, oh, recoi, redeu, redéu (ort. pre-2017), renoi, noi, tira, vaja, vatua, xe, òndia, òndima, diantre, diastre, ostres (col·loquial), la mare que va, fotris (col·loquial), arruixa, hala, ual·la, catso, catsoleta
+-ij (admiració, sorpresa): ah, alça, alça món, bufa, carai, carall (vulgar), caram, carat, castanyeta, coi (col·loquial), collons (vulgar), colló (vulgar), cony (vulgar), cuca, Déu li'n do, Déu n'hi do, Déu n'hi doret, déu-n'hi-do, déu-n'hi-doret, eu, fosca, fotre (vulgar), fot (vulgar), ha, hola, hòstia (vulgar), jesús, jo et flic, magnífic, manoi, mosca, oh, recoi, redeu, redéu (ort. pre-2017), redell, renoi, noi, tira, vaja, vatua, xe, òndia, òndima, diantre, diastre, ostres (col·loquial), la mare que va, fotris (col·loquial), arruixa, hala, ual·la, catso, catsoleta
 -ij: ai las, pobre de mi, quin greu, quina llàstima, en mala hora
 -ij: alerta, ep, ei, atenció, compte, vigila, vigileu, ull viu, molt de compte
 -ij: amunt, upa, força, up
@@ -2345,7 +2345,10 @@
 -ij: tat, tato
 -ij: vejam, a veure, aviam (col·loquial), a vore (col·loquial)
 -ij (vocatiu afetuós): carinyo (col·loquial), amor, rei (FEM reina), xato (FEM xata), amor meu, vida, vida meva, estimat (FEM estimada), tresor
--ij (vulgar): collons, cordons, codonys
+-ij (vulgar): carall, carai, caram, caratxos
+-ij (vulgar): collons, cordons, codonys, collins, collinsa, collinses, collona
+-ij (vulgar): fotre, fole, folis, fótrins, fotris
+-ij (vulgar): hòstia, hosti, òndia, ostres
 -ij (vulgar): mecàgon, càgon, mecagondeu, cagondeu, mecagondena, cagondena, mecagoncony, cagoncony, mecàgon l'hòstia, càgon l'hòstia, mecàgon l'ou, càgon l'ou, mecàgon la mar salada, càgon la mar salada, mecàson, càson
 -ij (vulgar): què coi, què carai, què collons, què diantre, què dimonis
 -indef: cada, tot (FEM tota), qualsevol, qualsevulla
@@ -2903,6 +2906,7 @@
 -n: auró, plàtan fals, erable, blada, rotaboc, negundo, aceràcia (família)
 -n: autarquia, autosuficiència, aïllament, tancament
 -n: auto, automòbil, cotxe, turisme, vehicle, brec, taxi, carraca (col·loquial), tartana (col·loquial), cupè
+-n: autoajuda, superació personal
 -n: autoaprenentatge, autodidaxi, autoeducació, autoformació, autoinstrucció
 -n: autobiògraf, memorialista, autor de memòries (FEM autora de memòries)
 -n: autobús, autocar, òmnibus, autoòmnibus, bus, carraca (col·loquial), tròlei, troleibús, cotxe de línia
@@ -2976,7 +2980,6 @@
 -n: baralla, encontre, brega, disputa, bronquina, raons, disputes, qüestió, escena, renyina, altercació, altercat, discussió, tràngol, topada, batussa, gresca, conflicte, lluita, dissensió, aferrada, litigi, esbatussada, agafada, batega, querella, escaramussa, picabaralla, bronca (col·loquial), agarrada, grony, engrony, nyic-i-nyac, nyec-nyec, mullader, saragata
 -n: baralla, joc de cartes, naips, cartes
 -n: barba, barbeta, mentó, barbó
--n: barbarisme, estrangerisme, castellanisme, castellanada, catalanisme, catalanada, gal·licisme, francesisme, anglicisme, germanisme, italianisme, americanisme, arabisme, hebraisme, llatinisme, hel·lenisme, grecisme, eslavisme, valencianisme, valencianada, espardenyada, xenisme
 -n: Barcelona, ciutat comtal, cap i casal
 -n: bardissa, barder, barda, matollar, esbarzers, gatoses, matolls, bardissam, bardissar, esbarzerar, esbarzeram, albarzerar, argelagar
 -n: barem, rúbrica, taula, quadre
@@ -3425,6 +3428,7 @@
 -n (castellers): terceres, terceres mans
 -n: casuística, conjunt de casos, casos
 -n: cataclisme, inundació, diluvi, terratrèmol, erupció, sisme, commoció, desastre, catàstrofe, convulsió, trastorn, trasbals, daltabaix, capgirell, desgràcia, incendi, sinistre, destrucció, calamitat, tragèdia, drama, revolució, apocalipsi (f)
+-n: catalanisme, catalanada, valencianisme, valencianada, espardenyada
 -n: cataplasma, sinapisme, pegat, empastre, emplastre, micapà (col·loquial), potinga
 -n: catarsi, purificació, alliberament, exteriorització, ritu, ablució
 -n: catarsi, purificació, purga, porga, neteja, depuració, expulsió, clarificació, eliminació, esbandida, ablució (alquímia), abstersió (medicina)
@@ -3590,7 +3594,7 @@
 -n: colonització, ocupació, parasitació, poblament, submissió
 -n (color): blau, atzur, indi, turquesa, anyil
 -n: color, caràcter, vida, vivacitat
--n: color, coloració, colorit, to, tonalitat, policromia, coloraines, coloret
+-n: color, coloració, colorit, to, tonalitat, policromia, coloraines, coloret, iridescència
 -n: color, colorant, pintura, tint, tinta, tintura, pigment
 -n: color, matís, contrast, to, tonalitat, grau, gradació, intensitat, pàtina
 -n (color): negre, sable (en heràldica), atzabeja
@@ -4020,7 +4024,7 @@
 -n: diamant, brillant, pedra preciosa
 -n: diana, blanc (NOFEM), objectiu, fitó, rodella
 -n: diana, despertada, despertament
--n: diarrea, cagarrines, cagarina, caguetes, corrípies, còlic, corrença (col·loquial), corrences (col·loquial)
+-n: diarrea, cagarrines, cagarina (col·loquila), caguetes (col·loquila), corrípies (col·loquila), còlic, corrença (col·loquial), corrences (col·loquial), cagarel·la (col·loquila)
 -n: dibuix, croquis, esbós, canemàs, apunt, perfil, disseny, traç, traçat
 -n: dibuix, pintada, imatge, grafit, grafiti, inscripció
 -n: dibuixant, delineant, projectista, dissenyador
@@ -4505,6 +4509,7 @@
 -n: estofa, matèria, material, tela
 -n: estora, catifa, tapís, moqueta, tapit (antic), pelut (NOFEM)
 -n: estora, estoreta, màrfega
+-n (estrangerisme): barbarisme, estrangerisme, castellanisme, castellanada, catalanisme, catalanada, gal·licisme, francesisme, anglicisme, germanisme, italianisme, americanisme, arabisme, hebraisme, llatinisme, hel·lenisme, grecisme, eslavisme, valencianisme, valencianada, espardenyada, xenisme, hispanisme
 -n: estrateg (FEM estratega), tàctic (FEM tàctica)
 -n: estratègia, pla, tàctica, maniobra, programa, projecte, full de ruta, sistema, mètode, pla director, pla de treball, programació, traça
 -n: estrebada, estiró, robatori, furt, robament, lladronici, lladrocini, latrocini, bandidatge, saqueig, depredació, sostracció, cisa, pillatge, roberia, lladregueig, lladreria, lladruny, despossessió, espoliació, espoli, estafa, defraudació, rapinya, extorsió, roba (antic), lladregada, expilació, pirateria, estafada, desfalc, desfalcament, sostreta, escamoteig, rapte, explotació, frau (m), malversació, exacció, peculat, usurpació, apropiació, apropiació indeguda, atracament, cop (col·loquial), colp (col·loquial), afaitada, afanada
@@ -5029,6 +5034,7 @@
 -n: hipòtesi, teoria, conjectura, presumpció, possibilitat, suposició, quimera, especulació, supòsit, pressuposició, postulat, pressupòsit, proposició, teorema, enunciat, assumpció, lema
 -n: hisenda, finca, ranxo, granja, mas, pagesia, heretat, predi, possessió, masada, propietat
 -n: hisendat, terratinent, propietari, amo (NOFEM), mestressa
+-n: hispanisme, castellanisme, castellanada
 -n: història, crònica, annals, efemèrides, cronologia, fasts, fastos, memòries, gesta
 -n: història, narració, narrativa, novel·la, conte, contalla, contarella, llegenda, relat, rondalla, crònica, relació, romanç, episodi, ficció, apòleg, historieta, epopeia, mite, tradició, faula, romanço (col·loquial)
 -n (història): requesta de batalla, lletra de batalla, carta de desafiament, cartell, desafiament
@@ -5604,7 +5610,7 @@
 -n: menta (gènere), herba-sana, poliol
 -n: mentida, mentira (valencià), mentirola (col·loquial)
 -n: menudesa, petitesa, parvitat, exigüitat, tenuïtat, xiquesa, insignificança, irrisorietat, infimitat
--n: menuts, menuderies, menúncies, menudències, minúcies, vísceres, entranyes, nyítols, butza, ganyil (de la tonyina), ventre, ventresca, coradella, moca
+-n: menuts, menuderies, menúncies, menudències, minúcies, vísceres, entranyes, nyítols, butza, ganyil (de la tonyina), ventre, ventresca, coradella, moca, freixura
 -n: menyspreu, desdeny, indiferència, desatenció, desestima, desaire, desconsideració, supèrbia, altivesa, menyspreament, menyspreança (antic), menysteniment, menysestimació, miquel, vilipendi, viltinença, ignomínia, conculcació, desestimació, refús, retret, humiliació
 -n: menyspreu, desdeny, indiferència, desatenció, fredor, gelor
 -n: meravella, miracle, prodigi, portent, fenomen
@@ -6471,6 +6477,8 @@
 -n: primer ministre, president, cap del govern
 -n: primeries, primers fruits
 -n: primípara, mare d'un primer fill
+-n: primitivisme, primitivitat, barbàrie, salvatgisme, civilització (antònim), incivilització
+-n: primitivisme, primitivitat, trogloditisme
 -n: prioritat, anterioritat, primacia, prelació, preferència, precedència, preeminència, superioritat
 -n: priorització, jerarquització, ordenació, seqüenciació, arranjament, classificació, puntuació, avaluació, tria, selecció, graduació
 -n: prisma, poliedre, políedre (forma secundària)
@@ -6558,7 +6566,7 @@
 -n: purisme, ortodòxia
 -n: pus, supuració, secreció, posterma
 -n: qualitat #...
--n (qualitat): animalitat, animalesa, bestialitat, irracionalitat, brutalitat, racionalitat (antònim), inhumanitat, ferocitat, ferotgia, violència, feror, salvatgia, feresa
+-n (qualitat): animalitat, animalesa, bestialitat, irracionalitat, brutalitat, racionalitat (antònim), inhumanitat, ferocitat, ferotgia, violència, feror, salvatgia, feresa, salvatgisme
 -n (qualitat): crueltat, inhumanitat, impietat, despietat, brutalitat, ferocitat, ferotgia, insensibilitat, barbàrie, duresa, severitat, cruesa, rigor, inclemència, sevícia
 -n (qualitat): fraudulència, capciositat, artificiositat, falsedat, fal·làcia, arteria, falsia
 -n (qualitat): insipiència, ignorància, ignorància supina, estupidesa, estupiditat, burrera (col·loquial), desconeixement, desconeixença, analfabetisme, incultura, barbàrie, incompetència, incapacitat (f), ineptitud, saviesa (antònim), idiotesa, cretinisme, neciesa, curtor, totxesa, peguesa, bajaneria, bajania, tanoqueria, idiotisme
@@ -9452,7 +9460,7 @@
 -v: ser un centpeus, ser incoherent
 -v: ser un penell, tenir llunes, ser un arlequí, ser un Proteu, canviar de camisa, canviar de color, fer un canvi de front, navegar a tots els vents, seguir el vent, girar-se d'allà on ve el vent, mudar de bandera
 -v: serrar, xerraquejar
--v: servir, ajudar, assistir, col·laborar, contribuir, donar un cop de mà, fer espatlleta, donar la mà, donar una empenta, cooperar, donar un colp de mà
+-v: servir, ajudar, aidar, assistir, col·laborar, contribuir, donar un cop de mà, fer espatlleta, donar la mà, donar una empenta, cooperar, donar un colp de mà
 -v: servir, complir, prestar servei
 -v: servir, escudellar
 -v: servir, valer, valdre, aprofitar, ser útil, ser apte, resultar, fer menester, fer peça
