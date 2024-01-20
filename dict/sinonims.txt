@@ -2074,7 +2074,7 @@
 -adv: finalment, a la fi, per fi, a l'últim, per acabar, com a acabament, per rebat
 -adv: finalment, al capdavall, a l'últim extrem, en darrera instància, en última instància, com a últim recurs
 -adv (finalment): finalment, en fi, en conclusió, al capdavall, en definitiva, al cap i a la fi, al cap i a l'últim, comptat i debatut, ben mirat, tot ben garbellat, mal que bé, després de tot, a l'últim, a tall de conclusió, com a conclusió, en darrer terme, en general, fet i fet, per acabar, per concloure, cal cap darrer
--adv: fins a no poder més, al màxim, en grau extrem, a més no poder, a tota virolla, al punt de dalt, a l'extrem més alt, en grau superlatiu, en alt grau, en extrem, a no poder més, a tentipotenti
+-adv: fins a no poder més, al màxim, en grau extrem, a més no poder, a tota virolla, al punt de dalt, a l'extrem més alt, en grau superlatiu, en alt grau, en extrem, a no poder més, a tentipotenti, per excés
 -adv: fins, fins i tot, i tot, àdhuc, inclús, també, inclusivament
 -adv: fora, a fora, enfora
 -adv: fora, defora, extramurs, a l'exterior
@@ -2141,7 +2141,7 @@
 -adv: malauradament, desgraciadament, per desgràcia, infortunadament, dissortadament, lamentablement, tristament, desafortunadament
 -adv: maldestrament, inhàbilment, destralerament, negligentment, amb poca traça, ineptament
 -adv: manualment, a mà, artesanalment, automàticament (antònim), a màquina (antònim)
--adv: massa, en excés, excessivament, de sobra, de sobres, molt, ultra mesura, moltíssim, sobre manera, fora mesura, sense mesura, a l'excés, una cosa de no dir, de mala manera, a tentipotenti, en demesia, en extrem, qui-sap-lo, qui sap quant, en gran manera, prou i massa, sense moderació
+-adv: massa, en excés, excessivament, de sobra, de sobres, molt, ultra mesura, moltíssim, sobre manera, fora mesura, sense mesura, a l'excés, una cosa de no dir, de mala manera, a tentipotenti, en demesia, en extrem, qui-sap-lo, qui sap quant, en gran manera, prou i massa, sense moderació, com una mala cosa, per excés
 -adv: massa, excessivament, pels descosits, com un descosit
 -adv: mensualment, cada mes, per mesos, mes a mes
 -adv: mentrestant, mentrimentres, entretant, en l'endemig, ínterim, de moment, en l'entretant, amb això
@@ -3087,7 +3087,7 @@
 -n (boleta): moc, cuc (col·loquial), mandonguilla (col·loquial), pilota (col·loquial), pilotilla (col·loquial), burilla (col·loquial)
 -n: bòlid, meteorit, meteoròlit, aeròlit, acondrita, asiderit, holosiderit, siderit, sideròlit
 -n: bolígraf, boli (col·loquial)
--n: bol·lard, norai, amarrador (NOFEM)
+-n: bol·lard, norai, amarrador (NOFEM), pilar, estaca, argolla
 -n: bolquers, bolcada, menudall
 -n: bombolla, glòbul, bufoga, borboll, bambolla, bamba
 -n: bona sort, benastrugança, bona astrugància, fortuna, llet (col·loquial), potra (col·loquial), xamba (col·loquial), xiripa (col·loquial), xurro (col·loquial), xurra (col·loquial), bona estrella, bona estrela, baraca (islam)
@@ -5349,6 +5349,7 @@
 -n (llengua): falca, crossa, mot de vici, comodí
 -n: llengua, llenca, tira, faixa, franja, banda, cinta, vira
 -n (llengua): neerlandès (NOFEM), holandès (NOFEM), flamenc (NOFEM)
+-n (llengua): persa, farsi
 -n (llengua): pidgin, crioll
 -n (llengua): romaní, gitano (NOFEM), caló
 -n (llengua): romanx (NOFEM), rètic (NOFEM), retoromànic (NOFEM), grisó (NOFEM), ladí (NOFEM), dolomític (NOFEM), friülà (NOFEM)
@@ -5490,7 +5491,7 @@
 -n: malcriança, malacriança, malcriament, aviciadura, condescendència
 -n: malentès, confusió, error, errada, equivocació, equívoc, incomprensió, quid pro quo
 -n: malesa, brossa, arbusts, herbes, mates, brolla, sotabosc, matoll, matollar
--n: malestar, discòrdia, maror, mala maror, agitació, mal humor
+-n: malestar, discòrdia, maror, mala maror, agitació, mal humor, mar de fons
 -n: maleter, portaequipatge, portabagatge, baca
 -n: malfactor, malefactor, facinerós, bandit, bandoler, roder, fugitiu, proscrit, gàngster, mafiós
 -n: malícia, ràbia, indignació #...
@@ -5535,6 +5536,7 @@
 -n: maquiavel·lisme, astúcia, duplicitat, mala fe, engany, hipocresia, mònita, mauleria, raboseria, fariseisme, dol (dret)
 -n: màquina de guerra, giny de guerra, catapulta, balista, pedrer (NOFEM), espingarda
 -n: maquineta de fer punta, maquineta, afilamines
+-n: mar de fons, mar forana, mar llarguera, mar de lleva, mar de lluny
 -n: mar, oceà, pèlag, mar gran, mar oceana
 -n: maracujà, fruita de la passió, granadilla
 -n: marbre, cipolí, buscarró
@@ -7989,7 +7991,7 @@
 -v: brutejar, porquejar, enfeltrir-se (la roba)
 -v: bufar (suaument), espirar (no s'ha de confondre amb «expirar»), boquejar
 -v: buidar, escórrer, escolar #...
--v: burlar-se, fotre's (col·loquial), xinar, trufar-se, befar-se, escarnir, ridiculitzar, afalconar-se, rifar-se, passejar-se, riure's, posar en solfa, torejar, mofar-se, fúmer-se, vacil·lar (col·loquial), prendre el número, prendre el pèl, posar l'albarda, prendre la mida, ironitzar, penjar un bon floc, penjar la llufa, fer servir de ninot #...
+-v: burlar-se, fotre's (col·loquial), xinar, trufar-se, befar-se, escarnir, ridiculitzar, afalconar-se, rifar-se, passejar-se, riure's, posar en solfa, torejar, mofar-se, fúmer-se, vacil·lar (col·loquial), prendre el número, prendre el pèl, posar l'albarda, prendre la mida, ironitzar, penjar un bon floc, penjar la llufa, fer servir de ninot, fer befa #...
 -v: cabre, caber, tenir cabuda, entrar
 -v: cabre-hi, ser escaient, escaure, ser apropiat
 -v: calafatejar, calafatar
