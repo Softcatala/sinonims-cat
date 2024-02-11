@@ -259,7 +259,8 @@ public class Dictionary {
       "verborreic", "antigitanisme", "romofòbia", "racisme antigitano", "diabolus in musica", "esbrufar", "llegiguera",
       "manicurista", "mu", "mitjamerda", "menjamerda", "cigalot", "cracker", "dissintonia", "Nadalet", "collins",
       "collinsa", "collinses", "fole", "fótrins", "hosti", "collona", "antologar", "farsi", "barralbuit", "expat",
-      "tantsemenfotisme" });
+      "tantsemenfotisme", "peplòmer", "gotícula", "lotocràcia", "vaccinòdrom", "multisegment", "vacunòdrom",
+      "crossover" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
