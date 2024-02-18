@@ -260,7 +260,7 @@ public class Dictionary {
       "manicurista", "mu", "mitjamerda", "menjamerda", "cigalot", "cracker", "dissintonia", "Nadalet", "collins",
       "collinsa", "collinses", "fole", "fótrins", "hosti", "collona", "antologar", "farsi", "barralbuit", "expat",
       "tantsemenfotisme", "peplòmer", "gotícula", "lotocràcia", "vaccinòdrom", "multisegment", "vacunòdrom",
-      "crossover" });
+      "crossover", "business-friendly", "somiacoques", "vehicle multisegment", "arrodir"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
