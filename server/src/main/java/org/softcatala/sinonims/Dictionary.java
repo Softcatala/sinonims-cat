@@ -188,7 +188,6 @@ public class Dictionary {
     commonErrors.put("recolzament", "suport");
     commonErrors.put("búsqueda", "recerca");
     commonErrors.put("busqueda", "recerca");
-    commonErrors.put("mascletà", "mascletada");
     commonErrors.put("qui sembra vents recull tempestats", "qui sembra vents cull tempestats");
   }
 
