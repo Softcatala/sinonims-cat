@@ -4721,7 +4721,7 @@
 -n: festa, afalac, amanyac, amoreta, carícia, compliment, moixaina, tendresa, manyaga, manyagueria, carantoina, caratussa, carantoines, magarrufa, mangarrufa, caranques, xera
 -n: festa alcohòlica, botellada, poalada, entrompada, beure al carrer
 -n: festa de guardar, festa colenda, festa de precepte, dia de precepte
--n: festa, festivitat, celebració, commemoració, solemnitat, diada, dia festiu, sant, festeigs, festejos, efemèride, dia assenyalat
+-n: festa, festivitat, celebració, commemoració, solemnitat, diada, dia festiu, sant (NOFEM), festeigs, festejos, efemèride, dia assenyalat
 -n: festa, passatemps, diversió, entreteniment, guilindaina, comboi, divertiment, solaç, esbargiment, xala, xalada
 -n: festa, revetlla, revetla, ball, sarau, recepció, galeig, moixiganga, cerimònia, festival
 -n: festassa, festarra, macrofesta, macrobotellada
@@ -5505,6 +5505,7 @@
 -n: mà de morter, boix (NOFEM), picamà
 -n: mà, grapa, sarpa, urpa, puny, úrpia #...
 -n: macarra (col·loquial), macarró (col·loquial), proxeneta, alcavot, arlot, xulo (col·loquial; castellanisme)
+-n: macrocefàlia, cap gros
 -n: madona, Mare de Déu, Verge, marededeu, Nostra Senyora, maredeueta (col·loquial), dolorosa, geperudeta (popular), Immaculada, pietat, deípara
 -n: maduixa, maduixot, fraula, fraga
 -n: maduixera, fraulera, fraguera, frauler, fragària
@@ -8854,6 +8855,7 @@
 -v: fer mal, castigar, esmalucar, espentolar, esporrejar, noure, danyar, perjudicar, damnejar, damnificar, lesionar, ferir, maltractar, lacerar, amargar, malferir, capolar, baquetejar
 -v: fer mala ganya, fer mala pinta, tenir mala pinta, tenir mala ganya
 -v: fer malbé, malmetre, tudar, perjudicar, danyar, deteriorar, menyscabar, atropellar, malmenar, averganyar, destrossar, espatllar, espatlar, esdernegar, desballestar, afollar, estropellar, esgavellar, desgavellar, gavanyar, esbordellar, desbaratar, esvinçar, esbalandrar, atrotinar, desgraciar, esguerrar, avariar, tarar, desarticular, esconyar (col·loquial), arrossinar, inutilitzar, abarganyar, posar en mal estat, vandalitzar, estropejar, llançar a perdre, malvar, pedrejar, cascar
+-v: fer memòria, intentar recordar
 -v: fer mota, fer bot, parar mota, ser voluminós, fer embalum
 -v: fer olor, flairar, flairejar, flairosejar, fer flaire, oldre
 -v: fer pampallugues, pampalluguejar, llampurnejar, fer llumenetes
@@ -9009,7 +9011,7 @@
 -v: infantar, donar a llum, parir, concebre, parterejar, anar de part, portar al món, bessonar, cabridar (la cabra), cadellar (la gossa), conillar (la conilla), xaiar (l'ovella), anyellar (l'ovella), corderar (l'ovella), deslliurar, desocupar (col·loquial), fer, fillar (antic), gatinar (la gata), gorrinar (la truja), pollinar (l'egua), porcellar (la truja), quissoiar (la gossa), recordinar (ovella o cabra), vedellar (la vaca)
 -v: inflar, unflar, bombar, reinflar, bufar
 -v: inflar, unflar, exagerar, fer plat, fer-ne un gra massa, picar fort, passar de la ratlla, fer una muntanya d'un gra de sorra, fer bombo, fer bocades, fer ufana, fer d'una puça un elefant, fer salsa, posar més pa que peix, posar més pa que formatge, desorbitar
--v: informar, assabentar, comunicar, dir, fer saber, fer sabedor, indicar, donar part, donar raó, transmetre, participar, assenyalar, notificar, manifestar, declarar, anunciar, recordar, fer pensar, fer avinent, advertir, avisar, bufar a l'orella, compartir, intimar, donar a conèixer, significar, expressar, fer entenent, ennovar, acientar, posar en antecedents, posar al corrent, tenir al corrent
+-v: informar, assabentar, comunicar, dir, fer saber, fer sabedor, indicar, donar part, donar raó, transmetre, participar, assenyalar, notificar, manifestar, declarar, anunciar, recordar, fer pensar, fer avinent, advertir, avisar, bufar a l'orella, compartir, intimar, donar a conèixer, significar, expressar, fer entenent, ennovar, acientar, posar en antecedents, posar al corrent, tenir al corrent, fer present
 -v: informar-se, indagar, investigar, documentar-se, estudiar, consultar, esbrinar
 -v (informàtica): avortar, interrompre, aturar, parar
 -v (informàtica): bloquejar-se, blocar-se, penjar-se (col·loquial)
@@ -9408,6 +9410,7 @@
 -v: reconstruir, refer, reedificar, reconstituir, restaurar, renovar, rehabilitar
 -v: recopilar, concentrar, codificar, arreplegar, replegar, recollir, sumar, acumular, aplegar, ajuntar, reunir, barrejar, compilar, col·leccionar, guardar, atresorar, acabalar, abassegar, acaparar, retenir, congriar, afegir, tresorejar, amassar, emmagatzemar
 -v: recordar, commemorar, rememorar, evocar, memorar (antic), remembrar, membrar (antic), reviure
+-v: recordar, fer memòria, fer avinent, fer present, fer pensar
 -v: recordar, memoritzar, retenir, retindre, gravar, fixar, oblidar (antònim), tenir present
 -v: recordar, recapitular, repetir, esmentar, mencionar, resumir, extractar, epilogar
 -v: recórrer, córrer, viatjar, visitar, voltar

@@ -261,7 +261,7 @@ public class Dictionary {
       "collinsa", "collinses", "fole", "fótrins", "hosti", "collona", "antologar", "farsi", "barralbuit", "expat",
       "tantsemenfotisme", "peplòmer", "gotícula", "lotocràcia", "vaccinòdrom", "multisegment", "vacunòdrom",
       "crossover", "business-friendly", "somiacoques", "vehicle multisegment", "arrodir", "cliffhanger", "arrodir",
-      "xatbot"});
+      "xatbot", "arrodir-se"});
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
