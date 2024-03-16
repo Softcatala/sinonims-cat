@@ -2422,7 +2422,7 @@
 -loc: ja post xiular si l'ase no vol beure, no hi ha pitjor cec que el qui no vol veure, no hi ha pitjor sord que qui no vol oir, no hi ha pitjor sord que qui no vol sentir, set no van bastar per a fer beure un ase
 -loc: li diu el mort al degollat\: qui t'ha fet eixe forat?, cap geperut no es veu la gepa, deia la cassola al perol\: aparta't\, que em mascares, veiem la palla en l'ull dels altres\, però no veiem la biga en el nostre, diu el card a l'argelaga\: per què tens la punxa tan llarga?, diu la cassola al perol\: ves-te'n\, que em mascares, un que anava nu\, acaçava un despullat # funciona la puntuació?
 -loc: llei del Talió, ull per ull\, dent per dent
--loc: menjar en el mateix plat, ser carn i ungla, tenir intimitat, ser íntims, ser amics íntims, ser la corda i el poal, ser cul i merda (col·loquial), ser tap i carabassa, ser trau i botó, fer lliga, allà on va la corda va el poal, allà on va l'ansa va la galleda
+-loc: menjar en el mateix plat, ser carn i ungla, tenir intimitat, ser íntims, ser amics íntims, ser la corda i el poal, ser cul i merda (col·loquial), ser tap i carabassa, ser trau i botó, fer lliga, allà on va la corda va el poal, allà on va l'ansa va la galleda, avenir-se, avenir-se com a bons germans
 -loc (menyspreu): així rebentis, dues pedres, que et bombin, que et pengin, fes-te frare, que s'operi, ves-te'n a passeig, ves-te'n a pastar fang, ves-te'n a fer punyetes
 -loc: molt diferent, com un ou i una castanya, com de la nit al dia
 -loc: molt soroll de boixets i poques puntes, molt soroll i poques nous, molt soroll per a no res, molta fressa i poca endreça, no haver-n'hi per a tant, molta ufana i poca llana, molta ufana i poca grana, molta llet i poc formatge
@@ -4401,7 +4401,7 @@
 -n: erm, ermàs, ermot, desert, saladar, sorral, arenal, landa
 -n: erosió, corrosió, desgast, depressió, destrucció, destrossa, degradació
 -n: error, errada, erro, erra, equivocació, equivoc, espatllament, espatlament, esguerro, bescompte, lapsus, lapse, cagada (col·loquial), incorrecció, espifiada, pífia, badada, errata (en un escrit), falta, desencert, malencert, cantada (col·loquial), lapsus linguae, lapsus calami (en un escrit)
--n (error lingüístic): espardenyada, errada, incorrecció, lapsus, solecisme, impuresa, error, anacolut, lapsus linguae, errata (en un escrit), lapsus calami (en un escrit), vulgarisme, barbarisme
+-n (error lingüístic): espardenyada, errada, incorrecció, lapsus, solecisme, impuresa, error, anacolut, lapsus linguae, errata (en un escrit), lapsus calami (en un escrit), vulgarisme, barbarisme, cacografia
 -n: eructe, eructació, rot, regurgitació
 -n: esbarzer, albarzer, barça, romeguer, romeguera, abarta
 -n: esborrador (NOFEM), drap, raspall
@@ -5364,6 +5364,7 @@
 -n: lingua franca, koiné, llengua vehicular, interlingua, interllengua, llengua franca
 -n: lingüista, glotòleg, filòleg, gramàtic, lexicògraf, dialectòleg
 -n (lingüística): adjectiu, epítet, atribut, agnom, nom apositiu, nom en aposició, nom adjectiu, qualificatiu
+-n: lingüística, filologia, gramàtica, llengua, lexicologia, lexicografia
 -n: lingüística, filologia, literatura
 -n (lingüística): flexió, conjugació (dels verbs), declinació
 -n: línia batimètrica, isòbata
@@ -5948,6 +5949,7 @@
 -n: no-res, absència, buidor, nul·litat, buit, zero
 -n: nòria (castellanisme), roda (de fira), carrusel
 -n: normalitat, regularitat, habitualitat, ordre, rutina, anormalitat (antònim)
+-n: normativa, ortografia, gramàtica, norma
 -n: nostàlgia, enyorança, enyor, enyorament, recança, melangia, malenconia, melancolia, tristor, tristesa, esplín, abúlia, llangor, llanguiment, aflicció, pena, desconsol, marriment
 -n: nota, qualificació, resultat, puntuació, marca (en esports), valoració
 -n (nota): suspès, deficient, molt deficient
@@ -6084,6 +6086,7 @@
 -n: ornament, ornament litúrgic, vestidura
 -n: ortiga, eixordiga, ortigola, xiripia
 -n: ortodòxia, fidelitat, conformitat, lleialtat, convencionalisme, heterodòxia (antònim)
+-n: ortografia, puntuació, accentuació, escriptura, cacografia (antònim)
 -n: os de la música, canal epitrocleoolecranià, os de l'alegria, nervi cubital
 -n: os sacre, os bertran, bertran, os de la cua, rabada, guillem, pontet del cul, os guillem
 -n: ossada, ossamenta, ossa, ossera, esquelet, calavera, carcanada, ossam, ossos, endoesquelet
@@ -7867,7 +7870,7 @@
 -v: agenollar-se, prosternar-se, prostrar-se, reverenciar, reverir, flectar
 -v: agitar, armar enrenou, armar escàndol, armar la grossa, armar rebombori, armar un cacau, armar un canyaret, armar un cartapell, armar un enrenou, armar un escàndol, armar un sagramental, armar un sarau, armar un sidral, armar un tol·le-tol·le, armar-la, armar-la grossa, avalotar, causar un daltabaix, cercar bregues, escandalitzar, escarotar, escarotar el galliner, esgarrifar, esvalotar, esvalotar el galliner, esverar el galliner, fer tronar i ploure, fer un espectacle, fer una escena, haver-hi un sagramental, moure brega, moure fressa, moure raons, moure un sagramental, moure xivarri, armar un Cristo, tempestejar, tabalejar
 -v: agonitzar, estar a les acaballes, estar morint-se, estar entre la vida i la mort, tenir un peu a la tomba, tenir un peu al clot, tenir un peu al calaix, estar en l'article de la mort, estar en passament, estar leri-leri, estar a les portes de la mort, anar-se'n, estar a les últimes, tenir les hores comptades, estar a les tres pedretes, tenir mala peça al teler
--v: agradar, al·lucinar (col·loquial), flipar (col·loquial), acontentar, fer goig, delectar, delitar, adelitar, plaure, caure bé, fascinar, enlluernar, encantar, satisfer, seduir, enllepolir, enllaminir, enamorar, atreure, captivar, encativar, venir de grat, venir de gust, abellir, apetir, atraure, tirar, incitar, encisar, solaçar, divertir, entretenir, alegrar, recrear, refocil·lar, animar, entrar per l'ull dret, caure en gràcia, caure en grat, fer gràcia, fer patxoca, llepar-se els bigotis, mirar de bon ull, donar bo, fer bo, temptar, veure amb bons ulls, fer enveja, fer de bon veure, fer de bon mirar, barrufar (col·loquial), desagradar (antònim), barrufar (antònim) #separar
+-v: agradar, al·lucinar (col·loquial), flipar (col·loquial), acontentar, fer goig, delectar, delitar, adelitar, plaure, caure bé, fascinar, enlluernar, encantar, satisfer, seduir, enllepolir, enllaminir, enamorar, atreure, captivar, encativar, venir de grat, venir de gust, abellir, apetir, atraure, tirar, incitar, encisar, solaçar, divertir, entretenir, alegrar, recrear, refocil·lar, animar, entrar per l'ull dret, caure en gràcia, caure en grat, fer gràcia, fer patxoca, llepar-se els bigotis, mirar de bon ull, donar bo, fer bo, temptar, veure amb bons ulls, fer enveja, fer de bon veure, fer de bon mirar, barrufar (col·loquial), desagradar (antònim), #separar
 -v: agradar, xocar, fer gràcia
 -v: agrair, donar les gràcies, reconèixer, correspondre, regraciar, donar gràcies, haver grat, saber grat, sentir grat
 -v: agranar, escombrar, arramassar
@@ -8299,7 +8302,7 @@
 -v: desactivar, deshabilitar
 -v: desafiar, reptar, llançar el guant, provocar, incitar
 -v: desafinar, abaixar-se, apujar-se, desentonar, entonar (antònim)
--v: desagradar, repel·lir, avorrir, fastiguejar, disgustar, decebre, enutjar, desplaure, ofendre, caure tort, incomodar, enquimerar, caure de les mans (alguna cosa a algú), posar-se de través, assentar-se malament, posar-se malament, caure palament, pegar tort
+-v: desagradar, repel·lir, avorrir, fastiguejar, disgustar, decebre, enutjar, desplaure, ofendre, caure tort, incomodar, enquimerar, caure de les mans (alguna cosa a algú), posar-se de través, assentar-se malament, posar-se malament, caure palament, pegar tort, barrufar (col·loquial)
 -v: desalenar-se, perdre l'alè, trencar-se-li l'alè (a algú)
 -v: desallotjar, traure, treure, expulsar, fer sortir, fer eixir, buidar, desmoblar, desocupar, evacuar
 -v: desapariar, desaparellar, desacoblar
