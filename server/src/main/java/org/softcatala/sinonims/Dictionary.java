@@ -261,7 +261,10 @@ public class Dictionary {
       "collinsa", "collinses", "fole", "fótrins", "hosti", "collona", "antologar", "farsi", "barralbuit", "expat",
       "tantsemenfotisme", "peplòmer", "gotícula", "lotocràcia", "vaccinòdrom", "multisegment", "vacunòdrom",
       "crossover", "business-friendly", "somiacoques", "vehicle multisegment", "arrodir", "cliffhanger", "arrodir",
-      "xatbot", "arrodir-se", "barrufar", "daixonar", "dallonar", "daçonar"});
+      "xatbot", "arrodir-se", "barrufar", "daixonar", "dallonar", "daçonar", "camacu", "titafluixa", "titafreda",
+      "surotaper", "pessigavidres", "càgon tot", "de can Fanga", "can Fanga", "forasterada", "expo", "homo universalis",
+      "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
+      "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
