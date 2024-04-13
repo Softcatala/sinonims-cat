@@ -125,6 +125,7 @@ public class ThesaurusServer {
 
     static void log(String comment) {
         if (conf.logging.equals("on") && !comment.isEmpty()) {
+            System.out.println(comment);
             logger.info(comment);
         }
     }

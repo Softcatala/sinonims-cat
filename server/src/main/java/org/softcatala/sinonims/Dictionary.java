@@ -264,7 +264,8 @@ public class Dictionary {
       "xatbot", "arrodir-se", "barrufar", "daixonar", "dallonar", "daçonar", "camacu", "titafluixa", "titafreda",
       "surotaper", "pessigavidres", "càgon tot", "de can Fanga", "can Fanga", "forasterada", "expo", "homo universalis",
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
-      "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets" });
+      "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
+      "catalanor", "sucatinters", "valencianor" });
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
