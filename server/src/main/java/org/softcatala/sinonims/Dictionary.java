@@ -5,6 +5,8 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
 import java.text.Collator;
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -52,7 +54,7 @@ public class Dictionary {
   private static Set<String> mainIndexSet = new HashSet<>();
   private static List<String> mainIndex = new ArrayList<>();
 
-  private static Collator caCollator = Collator.getInstance(new Locale("ca", "ES"));
+  private static final Collator caCollator = Collator.getInstance(new Locale("ca", "ES"));
 
   static final Pattern wordAndComment = Pattern.compile("\\s*(.+?)\\s*\\((.+)\\)\\s*");
   static final Pattern Comments = Pattern.compile("(.+?)#.+");
@@ -191,10 +193,10 @@ public class Dictionary {
     commonErrors.put("qui sembra vents recull tempestats", "qui sembra vents cull tempestats");
   }
 
-  private List<String> noSuggestions = Arrays.asList(new String[] { "pato" });
+  private List<String> noSuggestions = Arrays.asList("pato");
 
   // ignore when testing
-  private List<String> wordsToIgnore = Arrays.asList(new String[] { "fer un paperàs", "querellador", "barça",
+  private List<String> wordsToIgnore = Arrays.asList("fer un paperàs", "querellador", "barça",
       "argigalera", "moisès", "aclevillar", "aguar", "aiguarradam", "almussafes", "al·lotea", "al·lotim", "amucionar",
       "anar de xurrut", "antiestatalisme", "astrosia", "balaclava", "beneitot", "binar", "botellón", "cafenet",
       "can Garlanda", "can Pixa", "can Seixanta", "can Taps", "can Xauxa", "can", "ceballí", "cherry", "com s'entén?",
@@ -265,7 +267,7 @@ public class Dictionary {
       "surotaper", "pessigavidres", "càgon tot", "de can Fanga", "can Fanga", "forasterada", "expo", "homo universalis",
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
-      "catalanor", "sucatinters", "valencianor" });
+      "catalanor", "sucatinters", "valencianor");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -296,23 +298,20 @@ public class Dictionary {
 
     ThesaurusServer.log("Reading source and building dictionary.");
     if (conf.production.equalsIgnoreCase("yes")) {
-      ThesaurusServer.log("Skipping LanguageTool checks.");
+      ThesaurusServer.logger.info("Skipping LanguageTool checks.");
       readFromFile();
       // saveToFile();
     } else {
       ThesaurusServer.log("Checking dictionary with LanguageTool.");
-      BufferedReader reader;
+      List<String> lines;
       try {
-        reader = new BufferedReader(new FileReader(conf.srcFile));
-        String line = reader.readLine();
-        while (line != null) {
-          ThesaurusServer.log(addLine(line));
-          line = reader.readLine();
-        }
-        reader.close();
+        lines = Files.readAllLines(Paths.get(conf.srcFile.toURI()));
       } catch (IOException e) {
-        ThesaurusServer.logger.error(e.toString());
+        ThesaurusServer.log(e.toString());
         throw new IOException("Error reading source dictionary. ");
+      }
+      for (String line : lines) {
+        ThesaurusServer.log(addLine(line));
       }
       // índex de paraules
       List<String> wordList = new ArrayList<>(mainIndexSet);
