@@ -267,7 +267,7 @@ public class Dictionary {
       "surotaper", "pessigavidres", "càgon tot", "de can Fanga", "can Fanga", "forasterada", "expo", "homo universalis",
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
-      "catalanor", "sucatinters", "valencianor", "sobrereaccionar");
+      "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
