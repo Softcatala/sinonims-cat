@@ -1450,6 +1450,7 @@
 -adj: selectiu, avaluador, classificador, triador, garbellador, destriador
 -adj: semental, llavorer
 -adj: semestral, bianual, dues vegades a l'any
+-adj: semicircular, semianular
 -adj: semovent, autònom
 -adj: sengles (usat davant de nom), altres tants, un per a cadascun
 -adj: sense encant, sense gràcia, sense encís, impersonal, fred
@@ -2919,7 +2920,7 @@
 -n: assistent de veu, assistent virtual, bot, bot de conversa, xatbot
 -n: assistent social, treballador social (FEM treballadora social)
 -n: associació, comunitat, corporació, cos, organisme, societat, gremi, federació, institució, consorci, aliança, agrupació, germandat, congregació, confederació, unió, centre, cooperativa, col·lectiu, pòsit, caixa, dipòsit, depòsit
--n: associat, col·laborador, membre, soci, afiliat, col·legiat, militant
+-n: associat, col·laborador, membre, soci, afiliat, col·legiat, militant, integrant, component
 -n: assoliment, abast, aconseguiment, obteniment, adquisició, consecució, impetració, obtenció, èxit, realització, arribada, succés, conquista, conquesta, compliment, reeiximent
 -n: assossec, calma, pau (f), silenci, tranquil·litat, quietud, pausa, repòs, placidesa, serenor, serenitat, alleugeriment, inacció, inactivitat
 -n: assumpció, acceptació, admissió
@@ -3683,7 +3684,6 @@
 -n: coltell, espadella, lliri groc
 -n: colzada, colp de colze, cop de colze
 -n: colzera, guarda de colze
--n: coma #...
 -n: comare, padrina
 -n: combat, batalla, lluita, hostilitats, conflicte, guerra, conflagració, campanya, contesa, baralla, enfrontament, confrontació, disputa, encontre, lliça, escaramussa, batussa, born (història)
 -n: combinació, clau (f), codi, contrasenya, secret, fórmula, contraxifra, consigna, sant i senya, mot d'ordre, paraula clau, paraula de pas, lema
@@ -4171,6 +4171,7 @@
 -n: do de gents, sociabilitat, persuasió, agradabilitat, atractiu, simpatia
 -n: doble (NOFEM), duple (NOFEM)
 -n: doble sentit, joc de paraules, joc de mots, homofonia
+-n: dodecafonisme, dodecatonisme, mètode dodecatònic, mètode dodecafònic, serialisme
 -n: dofí, cetaci (ordre), delfínid (família), marsopa, mular, sotàlia
 -n: dofí, galfí (col·loquial)
 -n: doga, sacsó, mitxelí (col·loquial), mitxelins (col·loquial), dolla, molla (col·loquial)
@@ -5707,6 +5708,7 @@
 -n: medicament, elixir, xarop, medecina, medicina, poció, aixarop, julep, electuari, lletovari (antic), beuratge, fàrmac, remei, revulsiu, droga, antídot, pal·liatiu, cura, fórmula magistral, tòpic (NOFEM), panacea, cauteri, potinga, psicotròpic (NOFEM), psicòtrop (NOFEM)
 -n (medicina): citologia, citodiagnòstic
 -n (medicina): prescripció, recepta, prescripció facultativa, rècipe, fórmula
+-n (medicina): simptomatologia, semiòtica, semiologia
 -n: mediocritat, mitjania, vulgaritat, prosaisme, ordinariesa, banalitat, futilesa, insubstancialitat, pedestrisme, grisor
 -n: medul·la, moll, moll de l'os
 -n: meitat, mitjania, mitat
@@ -6219,6 +6221,7 @@
 -n: parentiu, parentesc, parentat, afinitat, proximitat, acostament, cosinatge, agnació, avunculat, cognació, col·lateralitat, consanguinitat, filiació, linealitat, aliança, propinqüitat, intimitat
 -n: pares, genitors, progenitors
 -n: paret mitgera, mitjanera
+-n: parlament, congrés, hemicicle
 -n: parlera, xarrera, xerrera, claquera, ganes de parlar
 -n: parotiditis, galteres, paperes, paps
 -n: paroxisme, exacerbació, exaltació, extrem, intensificació, extremitat, intensitat, summitat, postremitat
@@ -6857,6 +6860,7 @@
 -n: remull, remulla, bany, banyada, dutxa, mullament, rabeig, remullada, xopada, remullament, ruixada
 -n: renaixement, renaixença, ressorgiment, redreçament, revifament, reviscolament, reviscolança, resurrecció, palingenèsia, regeneració, reaparició, recuperació, represa, revifalla, esparpell (d'un llum)
 -n: renda, profit, utilitat, conveniència, rèdit, benefici, rendiment, retiment, producte, interès, guany, lucre, avantatge, fruit, negoci, dividend, usura (interès excessiu), plusvàlua, suc, comenda (història), comanda (història), benifet (benefici eclesiàstic), productivitat, rendibilitat, superàvit, llogre
+-n: rendició de comptes, retiment de comptes
 -n: rendició, lliurament, retiment
 -n: rentadora, llavadora
 -n: reparació, adob, apariament, remunta, restauració, adobament, adobadures, reparament, recomposició, esmena, reforma, renovació, carena (d'una embarcació), sargit (en un teixit), bricolatge, recuperació, redreç
@@ -7048,8 +7052,10 @@
 -n: semblança, similitud, analogia, retirada, retirança, afinitat, consanguinitat (genètica), convergència, dissemblança (antònim), fanzella, iconicitat, paral·lelisme, ressemblança, ressemble, tirat
 -n: semen, semença, llet (col·loquial), esperma, licor seminal, líquid seminal, lletada (col·loquial), emissió seminal, espermatorrea
 -n: semental, eguasser (NOFEM), verro (NOFEM)
+-n: semicercle, hemicicle
 -n: semidéu, heroi (NOFEM)
 -n: semidéu, sàtir
+-n: semiòtica, semiologia
 -n: sensacionalisme, groguisme, premsa groga, premsa sensacionalista
 -n: sensibleria, sentimentalisme, melindrositat, mel·lifluïtat
 -n: sentiment, disposició, sentit, creença, impressió, predisposició, noció, intuïció, desig, sensació, emoció, emotivitat, afecte, entranyes, compassió, vibració (col·loquial), inclinació
@@ -7073,7 +7079,7 @@
 -n: septet, setet, sèptuple
 -n: sequaç, esbirro, servent, satèl·lit
 -n: sequeral, secà (NOFEM), eixut (NOFEM), seca (NOFEM), terreny sec, erm
--n: séquia, fillola, fillol (NOFEM), assarb, braçal, braç, branc, corredora, sequiol, derramador, gola, mare, ramal, rec, reguer, salvadany, segla, canal (m), reguerot, reguerall, regueró, reguerol
+-n: séquia, fillola, fillol (NOFEM), assarb, braçal, braç, branc, corredora, sequiol, derramador, gola, mare, ramal, rec, reguer, salvadany, segla, canal (m), reguerot, reguerall, regueró, reguerol, eixauc, eixau
 -n: serf, esclau, vassall, captiu, llibert (antònim), serf de la gleva, ilota (a Esparta), mugic (rus)
 -n: serial, telenovel·la, telesèrie, novel·la, sèrie, saga, drama, melodrama, fulletó
 -n: sèrie, gamma, espectre, gradació, escala, rang, conjunt
@@ -7596,6 +7602,7 @@
 -n (vent de l'oest): zèfir, ponent, ponentol, terral, ponentada, vent de ponent, oest
 -n: vent del nord, tramuntana, aquiló, bòrees, matacabres (col·loquial), pelacabres (col·loquial), tramuntanal
 -n: vent del sud, africà (NOFEM), austral, austre, migjorn
+-n: vent en contra, vent de cara, vent de proa, vent desfavorable, vent advers, vent contrari, vent frontal
 -n (vent): foehn, draganeu, fagony, fogony, traganeu
 -n (vent suau): ventijol, oreig, aura, brisa, flaterol, llevantol, oratjol, ponentol, tramuntanella, ventolí, ventolina, zèfir, ventim
 -n (vent): taro, gris (NOFEM)
@@ -7657,6 +7664,8 @@
 -n: violació #...
 -n: violó, contrabaix, verra (col·loquial)
 -n: virago, gallimarsot (col·loquial), dona homenenca, homenot
+-n: vírgula, coma #...
+-n: vírgula, titla, titlla
 -n: virilitat, masculinitat, homenia, efeminament (antònim), feminitat (antònim)
 -n: vis, caragol, clau de rosca, tirafons
 -n: vis còmica, comicitat, gràcia, agudesa, picantor, sal, jocositat, amenitat
@@ -9157,7 +9166,7 @@
 -v: malavejar, feinejar, treballotejar, faenejar, cuinejar (a la cuina), trastejar, trafegar, trafeguejar, treballuscar
 -v: malaxar, pastar, fonyar, maurar, empastar, fènyer, funyir, masegar, fonyegar, pitjar, prémer, afaiçonar
 -v: malgastar, balafiar, malbaratar, dilapidar, prodigar, dissipar, despecegar, desaprofitar, llençar, gastar, polir-se (col·loquial), fondre, cremar, tirar la casa per la finestra, allargar més els peus que el llençol, estirar més els peus que la flassada, estirar més el braç que la màniga, tirar de veta, tenir la mà foradada, viure al dia, ficar l'olla gran dins de la xica, matar el vedell gras, no estar-se de res, disbauxar, allargar més el peu que la sabata
--v: malinterpretar, malentendre, confondre, malfixar-se
+-v: malinterpretar, malentendre, confondre, malfixar-se, agafar el rave per les fulles, agafar la figa pel capoll
 -v: malviure, viure malament, sobreviure
 -v: manar, dominar, controlar, tallar el bacallà, tenir la paella pel mànec, remenar l'olla, remenar les cireres, moure els fils, menar la dansa, tallar l'abadejo, ser l'amo del ball, portar la batuta, portar la veu cantant, portar els pantalons, fer i desfer, pastar i fènyer, tenir les regnes, tenir el timó, portar la bandera, portar el rem, dominar el galliner, portar el timó, portar les regnes, ser de l'olla, governar, intervenir, manejar, dirigir, tenir la manilla en la mà
 -v: mandrejar, dropejar, gandulejar, gallofejar, galvanejar, fer el manta, no cansar-s'hi, no matar-s'hi, no trencar-s'hi cap os, vagassejar, entretenir-se, ronsejar, fer el mandra, no fotre brot (col·loquial), no fotre cop (col·loquial), tocar-se la pamparruana (col·loquial), fer el dropo, fer el gos (col·loquial), fer el gamba, fer el gambaire, no alçar una palla de terra, gratar-se la panxa, no fer una gamba, plegar-se de braços, tocar-se els collons (col·loquial), tocar-se la pampa (col·loquial), no fer-ne tros, tenir l'os bertran, fer mal l'os bertran, tenir un os a l'esquena, tenir l'os guillem travessat a la panxa, procrastinar, fer el ronsa, estar ociós, no fer res, viure amb l'esquena dreta, viure de l'aire, no alçar ni una palla de terra, viure de renda, no fer brot, no fer ni brot, no fer-ne un brot, no fer-ne ni brot, no fer-ne ni un brot, no pegar brot, no fer res de res, caçar mosques
