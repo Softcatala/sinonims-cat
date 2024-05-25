@@ -196,17 +196,17 @@ public class Dictionary {
   private List<String> noSuggestions = Arrays.asList("pato");
 
   // ignore when testing
-  private List<String> wordsToIgnore = Arrays.asList("fer un paperàs", "querellador", "barça",
-      "argigalera", "moisès", "aclevillar", "aguar", "aiguarradam", "almussafes", "al·lotea", "al·lotim", "amucionar",
-      "anar de xurrut", "antiestatalisme", "astrosia", "balaclava", "beneitot", "binar", "botellón", "cafenet",
-      "can Garlanda", "can Pixa", "can Seixanta", "can Taps", "can Xauxa", "can", "ceballí", "cherry", "com s'entén?",
-      "daoisme", "de coixinereta", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do",
-      "déu-n'hi-doret", "egomaníac", "embruta-sopars", "encabat", "encaterinador", "enllambordar", "ensentinar",
-      "escambuixar", "escambuixat", "escarotament", "escorxa-rosses", "espertinar", "espetència", "estroncallat",
-      "eudemonia", "evangelístic", "fabliau", "feinejador", "fillar", "frapar", "glai", "globalisme", "gorrinet",
-      "gorrinyeu", "guixeta", "incarcerar", "inessencial", "infermetat", "incontaminació", "judia", "lausengeria",
-      "malconformat", "marcianada", "menysestimació", "merengot", "mesellia", "palmineta", "papa-sastres", "pepito",
-      "perico", "perimetrar", "piocar", "plis-plai", "pompis", "pseudoartístic", "punyalet", "què dius, ara?", "Reixos",
+  private List<String> wordsToIgnore = Arrays.asList("fer un paperàs", "querellador", "barça", "argigalera", "moisès",
+      "aclevillar", "aguar", "aiguarradam", "almussafes", "al·lotea", "al·lotim", "amucionar", "anar de xurrut",
+      "antiestatalisme", "astrosia", "balaclava", "beneitot", "binar", "botellón", "cafenet", "can Garlanda",
+      "can Pixa", "can Seixanta", "can Taps", "can Xauxa", "can", "ceballí", "cherry", "com s'entén?", "daoisme",
+      "de coixinereta", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do", "déu-n'hi-doret",
+      "egomaníac", "embruta-sopars", "encabat", "encaterinador", "enllambordar", "ensentinar", "escambuixar",
+      "escambuixat", "escarotament", "escorxa-rosses", "espertinar", "espetència", "estroncallat", "eudemonia",
+      "evangelístic", "fabliau", "feinejador", "fillar", "frapar", "glai", "globalisme", "gorrinet", "gorrinyeu",
+      "guixeta", "incarcerar", "inessencial", "infermetat", "incontaminació", "judia", "lausengeria", "malconformat",
+      "marcianada", "menysestimació", "merengot", "mesellia", "palmineta", "papa-sastres", "pepito", "perico",
+      "perimetrar", "piocar", "plis-plai", "pompis", "pseudoartístic", "punyalet", "què dius, ara?", "Reixos",
       "retsina", "ricotta", "sa porcelleta", "sarabastall", "sardanapàlic", "Satan", "satanització", "sisplau",
       "snack-bar", "sussú", "terrosset de gel", "teteria", "ting-ting", "universalime", "ventís", "vinyeda", "volanda",
       "xambiteria", "xst", "espàrec", "qui sap quant", "no... sinó", "no... més que", "no... excepte", "sia... sia...",
@@ -267,7 +267,8 @@ public class Dictionary {
       "surotaper", "pessigavidres", "càgon tot", "de can Fanga", "can Fanga", "forasterada", "expo", "homo universalis",
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
-      "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar");
+      "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar",
+      "ressuat", "de can passavia");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
