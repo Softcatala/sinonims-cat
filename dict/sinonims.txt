@@ -1,5 +1,5 @@
 -adj: a baix preu, a bon preu, barat, econòmic, rebaixat, mòdic, assequible, a bon mercat, bé de preu, regalat
--adj: a propòsit, adequat, adient, apropiat, apte, avinent, condecent, convenient, corresponent, degut, escaient, idoni, indicat, oportú, pertinent, propi, proporcionat, desitjable, inadequat (antònim), inapropiat (antònim), aconsellable, aconsellador, recomanable, preferible, desaconsellable (antònim), a mida, com un guant, expedient, suficient
+-adj: a propòsit, adequat, adient, apropiat, apte, avinent, condecent, convenient, corresponent, degut, escaient, idoni, indicat, oportú, pertinent, propi, proporcionat, desitjable, inadequat (antònim), inapropiat (antònim), aconsellable, aconsellador, recomanable, preferible, desaconsellable (antònim), a mida, com un guant, expedient, suficient, benvingut
 -adj: abacial, abadal, prioral
 -adj: abnegat, sacrificat, desinteressat, sofert (FEM soferta), sofrit (FEM sofrida), altruista
 -adj: abolible, abrogable, inabolible (antònim)
@@ -208,6 +208,7 @@
 -adj: benet, benedictí
 -adj: benet, beneït
 -adj: benissenc, benisser, de Benissa
+-adj: benvingut (FEM benvinguda), bentornat (FEM bentornada), ben acollit (FEM ben acollida), ben rebut (FEM ben rebuda)
 -adj: bíblic, neotestamentari, veterotestamentari, evangèlic, escripturístic, mosaic
 -adj: bicèfal, bicipital, bifront, dual, dimorf, bimembre, bimà
 -adj: bidireccional, bilateral
@@ -2465,6 +2466,7 @@
 -loc: qui guarda quan té menja quan vol, a qui no gasta\, poc li basta, el qui té dos i gasta u\, no ha de menester de ningú
 -loc: reciprocitat, avui per tu demà per mi, avui per mi demà per tu, favor que et faig favor que em deus, favor per favor, quid pro quo (anglicisme), do ut des (llatí), una mà renta l'altra
 -loc (resposta a un agraïment): de res, no es mereixen, només faltaria, no faltaria més, no s'ho val, a Déu sien dades, en vida teva, en vida de tots, vostè les té totes
+-loc: saber de lletra, estar instruït, saber llegir, saber llegir i escriure, tenir estudis
 -loc: saldat, en paus, en pau, tants a tants, cama a cama, sense deutes, amb els comptes arreglats
 -loc (satisfacció): a bodes em convides, a festa major em convides
 -loc: ser de mata morta, no tenir espenta, no tenir energia, no tenir caràcter
@@ -2521,8 +2523,8 @@
 -n: accessori, adorn, adornament, agençament, arranjament, decor, decoració, decorat, disposició, embelliment, floritura, floró, guarniment, ornament, ornamentació, parament, revestiment, aparellament, arreu, arreament, bonics, ornaments, joiells, arabesc, filigrana, dauradura, daurat, incrustació, musicadura, abillament, oripell, lluentó, llustrí, mosaic, capçalera, complements, traceria (arquitectura) #separar?
 -n: accident, sinistre, desgràcia, avaria, contratemps, dany, desperfecte, incidència, pana, adversitat, contrarietat, encontre, crebant, irregularitat, contingència, incident, malmesa, percaç, entrecàs, naufragi, patatum
 -n (acció): amuntegament, apilotament, aplegament, acumulament, apilament, atapeïment, amassament, amuntonament, entatxonament, emmagatzematge
--n (acció): bretolada, porcada, baconada, canallada, bandarrada, jugada, mala jugada, mala passada, putada (col·loquial), gamberrada, malifeta, trastada, colp baix, cop baix, berganteria, brivallada, belitrada
--n (acció): criaturada, al·lotada, ninada, noiada, canallada, entremaliadura, malifeta, trapelleria, trapasseria, dolenteria, murrieria, murriada, belitrada, pillada, diableria, malesa
+-n (acció): bretolada, porcada, baconada, canallada, bandarrada, jugada, mala jugada, mala passada, putada (col·loquial), gamberrada, malifeta, trastada, colp baix, cop baix, berganteria, brivallada, belitrada, iseta
+-n (acció): criaturada, al·lotada, ninada, noiada, canallada, entremaliadura, malifeta, trapelleria, trapasseria, dolenteria, murrieria, murriada, belitrada, pillada, diableria, malesa, iseta
 -n (acció): crueltat, barbaritat, brutalitat, inhumanitat, violència, sevícia, maltractament
 -n (acció de consolar): consol, conhort, confortament, consolació, confort, confortació, conhortament
 -n (acció): maldat, dolenteria, malignitat, roïnesa, malesa, endemesa, atrocitat, roïndat, malifeta, mala acció, malvestat, infàmia, vilesa, viltat, vilania, diableria
@@ -3722,6 +3724,8 @@
 -n: complexió, constitució
 -n: complexitat, dificultat, complicació, embolic, embrolla, enrevessament, tramoia, tripijoc, laberint, embull, intríngulis (col·loquial)
 -n: compra, venda, compravenda, traspàs, transacció
+-n: comptabilitat, compte d'explotació, estat de comptes, full de càlcul, llibre de caixa, balança comercial, comptes
+-n: comptabilitat, tinguda de llibres, tenidoria, comptes
 -n: comptaquilòmetres, podòmetre, hodòmetre, velocímetre
 -n: comunicació, contacte, enllaç, transmissió, connexió #...
 -n: comunió, comunitat, congregació, denominació, confessió, església
@@ -4223,7 +4227,7 @@
 -n (dret): protest, protestament
 -n: driblador, regatejador
 -n (droga): cavall, heroïna
--n: droga, narcòtic, estupefaent
+-n: droga, narcòtic, estupefaent, farlopa (col·loquial)
 -n: drogodependent, toxicòman, jonqui (col·loquial), ionqui (col·loquial), addicte, drogoaddicte, politoxicòman, dependent (NOFEM), drogat (FEM drogada), opiòman, cocaïnòman, heroïnòman, morfinòman
 -n: dualisme, antagonisme, rivalitat, oposició, lluita, contraposició, bicefalisme, topetia (col·loquial)
 -n: duana, control, inspecció
@@ -5340,6 +5344,7 @@
 -n: ironia, asteisme, mordacitat, sarcasme, causticitat, humor, sorna
 -n: irredemptisme, independentisme, anticolonialisme, patriotisme, nacionalisme, sobiranisme, separatisme
 -n: irrellevància, insignificança, intranscendència, infimitat, rellevància (antònim), importància (antònim)
+-n: irrigable, regable
 -n: irrupció, entrada, incursió, intrusió, invasió, envaïment, escomesa, entrada de cavall sicilià, ràtzia, assalt, cavalcada, correguda, atac, abordatge
 -n: islam, mitja lluna, islamisme, mahometisme
 -n (islam): morabit, marabut
@@ -5483,7 +5488,7 @@
 -n: llentia, llentilla
 -n: llenya, allenyament, fusta, buscall, bitllot, fogot, tió, llenyam, combustible, brasa, calfó, cremall, cruany, dinada, encenall, feixina, foc, foguera, formigada, fornilla, llenyada, oliu, regalla, retió, riscló, soll, garbó, falla, teia, tea, teda, flamada, culot, borumballa, serradures
 -n: llenyater, llenyataire, llenyaire, llenyisser, boscater, destraler
--n: llestesa, habilitat (f), astúcia, agudesa, sagacitat, perspicàcia, perspicacitat, vivacitat, enginy, intel·ligència, comprensió, intuïció, penetració, claredat, clarividència, lucidesa, profunditat, saviesa, subtilesa, subtilitat
+-n: llestesa, habilitat (f), astúcia, agudesa, sagacitat, perspicàcia, perspicacitat, vivacitat, enginy, intel·ligència, comprensió, intuïció, penetració, claredat, clarividència, lucidesa, profunditat, saviesa, subtilesa, subtilitat, avisament
 -n: lletgesa, lletjor, deformitat, desfiguració, monstruositat, boniquesa (antònim)
 -n: llets, lleterola, lletons, lletada, lletó (NOFEM)
 -n: lletuga, enciam, encisam
@@ -5811,7 +5816,7 @@
 -n: missa solemne, missa cantada
 -n: missatge, posta, correu, comunicat, correspondència, radiotelegrama, notificació, circular, epístola, telegrama, fax, teletip, lletra, comunicació, anònim (NOFEM), informació, despatx, postal, escrit, carta, ambaixada, radiograma, notícia, missiva, anunci, esquela, participació, ofici, nota, apuntació, avís
 -n: missió, ambaixada
--n: mistera, encenedor, peladits (col·loquial), foc
+-n: mistera, encenedor, peladits (col·loquial), foc, flamisell (col·loquial)
 -n: misticisme, mística, càbala
 -n: misto, llumí, cerilla, foc
 -n: mitja volta, tomb, viratge, girada, gir, tombada
@@ -6020,7 +6025,7 @@
 -n: número, terme, xifra, nombre, indicador, valor, augend, addend, sumand, multiplicand, multiplicador, quantitat, dividend, divisor, índex, superíndex, exponent, factor
 -n: número, xifra, guarisme, nombre, bit, decimal, dígit
 -n: nus, nuc, baga, llaçada, lligada, llaç, gassa #...
--n: nuvi, promès, contraent, novençà, casat de poc, noucasat
+-n: nuvi, promès, contraent, novençà, casat de poc (FEM casada de poc), noucasat
 -n: núvol, nuvolada, boira, broma, boirat, barda, bromall, bromallada, cabretes, castell, cella, cell, cirrocúmuls, cirroestratus, cirrus, cumulonimbus, cúmulus, embromat, enclusa, escabellat, estrat, estratus, llegany, llisó, nigul, nimboestratus, nimbus, nuu (poètic), nuvolat, ennuvolat (NOFEM), altocúmul, altonúvol, bandera, caputxa, cúmul, cumulonimbe, estratocúmul, nimbe, nimboestrat, núvola, nuvolàs, torrelló, tromba, brufada, negror, rufa
 -n: obac, bac, obaga, ombria, ombriu, frescal, ombra, obagor, ombrall
 -n: obertura, desclosa, desplegament, destapament, eclosió

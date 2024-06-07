@@ -268,7 +268,7 @@ public class Dictionary {
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
       "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar",
-      "ressuat", "de can passavia");
+      "ressuat", "de can passavia", "bentornat", "flamisell");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
