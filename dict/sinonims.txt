@@ -8321,7 +8321,7 @@
 -v: concretar, anar al gra, anar als fets, deixar-se d'històries, deixar-se de raons, deixar-se de ximpleries, anar a la idea, anar per feina, anar de cara a barraca
 -v: concretar, especificar, particularitzar, individualitzar, personalitzar
 -v: concretar, precisar, definir, detallar, especificar, formular, formalitzar, delimitar, limitar, determinar, puntualitzar, matisar, anar a pams, posar els punts sobre les is, posar les coses al seu lloc
--v: condemnar, desaprovar, reprovar, anatematitzar, maleir, repudiar
+-v: condemnar, desaprovar, reprovar, anatematitzar, maleir, repudiar, desabonar
 -v: condemnar, sentenciar, penar, penalitzar, castigar, sancionar, punir
 -v: condicionar, fer dependre, subordinar, reservar, referir, limitar, constrènyer, supeditar, sotaposar
 -v: condolir-se, ressentir-se
@@ -8395,6 +8395,7 @@
 -v: cuidar, tenir cura, tractar bé, atendre, agombolar, gomboldar, conrear, acotiar
 -v (cuinar): escalivar, coure, rostir, torrar, atabollar, bullir, bollir, bresar, confitar, cuinar, descruar, enfornar, escaldabullar, escaldufar, estofar, fornejar, fregir, guisar, recoure, solsir, escaldar, adobar, preparar, sofregir, sofreginar, ofegar, rossejar, enrossir, marcar
 -v: cuirassar, blindar, revestir, cobrir, recobrir, protegir, encapsular, fortificar, escudar
+-v: culpabilitzar, fer sentir culpable
 -v: culpabilitzar-se, sentir-se malament, sentir-se culpable, culpar-se
 -v: curtcircuitar, fer un pont, pontejar (castellanisme)
 -v (d'aire): inflar, unflar, manxar, omplir, insuflar
@@ -8438,7 +8439,9 @@
 -v: desactivar, deshabilitar
 -v: desafiar, reptar, llançar el guant, provocar, incitar
 -v: desafinar, abaixar-se, apujar-se, desentonar, entonar (antònim)
--v: desagradar, repel·lir, avorrir, fastiguejar, disgustar, decebre, enutjar, desplaure, ofendre, caure tort, incomodar, enquimerar, caure de les mans (alguna cosa a algú), posar-se de través, assentar-se malament, posar-se malament, caure malament, pegar tort, barrufar (col·loquial)
+-v: desagradar, esmussar, sonar malament
+-v: desagradar, ofendre, fer mal efecte, fer mal d'ulls, fer de mal veure, semblar una altra cosa
+-v: desagradar, repel·lir, avorrir, fastiguejar, disgustar, decebre, enutjar, desplaure, ofendre, caure tort, incomodar, enquimerar, caure de les mans (alguna cosa a algú), posar-se de través, assentar-se malament, posar-se malament, caure malament, pegar tort, barrufar (col·loquial), esmussar
 -v: desalenar-se, perdre l'alè, trencar-se-li l'alè (a algú)
 -v: desallotjar, traure, treure, expulsar, fer sortir, fer eixir, buidar, desmoblar, desocupar, evacuar
 -v: desapariar, desaparellar, desacoblar
@@ -8551,7 +8554,7 @@
 -v: desprendre's, desapropiar-se, donar, vendre, cedir, renunciar, polir-se (col·loquial)
 -v: desprendre's, desfer-se, desembarassar-se, deslliurar-se, alliberar-se, estalviar-se, espolsar-se, llevar-se de damunt, traure's de damunt, treure's de sobre, desempallegar-se, reballar, esbatre, deseixir-se'n
 -v: despreocupar-se, esbargir-se, desencaparrar-se, desencaboriar-se, desemboirar-se, distraure's, distreure's, escampar la boira, esbatre
--v: desprestigiar, desacreditar, difamar, malfamar, bescantar, malparlar, criticar, critiquejar, murmurar, denigrar, deshonrar, tirar per terra, detractar, infamar, calumniar, deshonorar, detraure (antic), maldir, vilipendiar, deixar com un drap brut, censurar, blasmar, treure els drapets al sol, comprometre, deixar en evidència, retreure, retraure, desaprovar, anatematitzar, vituperar, flagel·lar, apitrar, improvar, reprovar, estigmatitzar, desabonar, deslloar, recriminar, cantar les quaranta, fustigar, dir fàstics, dir pestes, estirar les orelles, renyar, improperar, titllar, dir penjaments, dir mal, dir-ne de tots colors, dir-ne de tot color, dir-ne per a salar, dir-ne de coentes, dir de tot, arrossegar pel fang, arrossegar pel llot, cobrir de llot, tirar grapats de llot, posar en solfa, posar a parir (col·loquial), culpabilitzar, destralejar (col·loquial), estralejar (col·loquial), dir-ne de verdes i de madures, insidiar, insultar
+-v: desprestigiar, desacreditar, difamar, malfamar, bescantar, malparlar, criticar, rebentar, critiquejar, murmurar, denigrar, deshonrar, tirar per terra, detractar, infamar, calumniar, deshonorar, detraure (antic), maldir, vilipendiar, deixar com un drap brut, posar com un drap brut, censurar, blasmar, treure els drapets al sol, comprometre, deixar en evidència, retreure, retraure, anatematitzar, vituperar, flagel·lar, apitrar, improvar, reprovar, estigmatitzar, deslloar, cantar les quaranta, fustigar, dir fàstics, dir pestes, improperar, titllar, dir penjaments, dir mal, dir-ne de tots colors, dir-ne de tot color, dir-ne per a salar, dir-ne de coentes, dir de tot, arrossegar pel fang, arrossegar pel llot, cobrir de llot, tirar grapats de llot, posar en solfa, posar a parir (col·loquial), destralejar (col·loquial), estralejar (col·loquial), dir-ne de verdes i de madures, insidiar, insultar, retallar
 -v: desprestigiar-se, desacreditar-se, caure de l'escambell, perdre influència, caure del candeler, caure de la banca
 -v: desproveir, despullar, llevar, desposseir
 -v: despullar-se, desvestir-se, despilotar-se (col·loquial), llevar-se
@@ -8869,7 +8872,7 @@
 -v: esmolar, afilar, buidar (una navalla), molar (dialectal), refilar
 -v: esmorrar, trencar la cara, unflar els morros, fer una cara nova, desfer la cara, asclar la cara
 -v: esmorrar-se, caure de morros, trencar-se el nas, anar de trompis, caure de trompis, caure de morros per terra, caure de nassos, caure de vint ungles, anar de morros per terra, caure de nas a terra, ensopegar, caure de cara, fotre's de morros (col·loquial), caure, anar per terra
--v: esmorteir, esmortir, amortir, endolcir, dulcificar, assuaujar, suavitzar, assuavir, apagar, reduir, rebaixar, mitigar, moderar, ablanir, amollir, afeblir, debilitar, lenificar, atenuar, pal·liar, apoquir, alleujar, alleugerir, alleugerar, minvar, amainar, espassar, temperar, humanitzar, amorosir, minimitzar
+-v: esmorteir, esmortir, amortir, endolcir, dulcificar, assuaujar, suavitzar, assuavir, apagar, reduir, rebaixar, mitigar, moderar, ablanir, amollir, afeblir, debilitar, lenificar, atenuar, pal·liar, apoquir, alleujar, alleugerir, alleugerar, minvar, amainar, espassar, temperar, humanitzar, amorosir, minimitzar, esmussar
 -v: esmussar, espuntar, despuntar, romejar, afilar (antònim)
 -v: espaiar, escalonar, esglaonar, graduar
 -v: espavilar-se, posar-se les piles, agafar embranzida, donar-se ànsia, donar-se brasa, llevar-se la son de les orelles, enginyar-se-les, muntar-se-les
@@ -9113,7 +9116,7 @@
 -v: gravar, fixar, definir, esculpir, imprimir, inculcar
 -v: gravar, gofrar, burinar, cisellar, imprimir, inscriure, traçar, guilloixar, moletejar (tèxtil), fotogravar, xilografiar, pirogravar, marcar, estampar, tatuar, pintar
 -v: greixar, engreixar
--v: grinyolar, carrisquejar, escarritxar, guinyolar, carinar, xerricar, cruixir, xiriguejar
+-v: grinyolar, carrisquejar, escarritxar, guinyolar, carinar, xerricar, cruixir, xiriguejar, garranyigar
 -v: guaitar, vigilar, mirar, badar, esguardar, atalaiar
 -v: guanyar per mà, anticipar-se
 -v: guanyar, vèncer, derrotar, superar, batre, desfer, posar el peu al coll, destrossar, aterrar, deixar fora de combat, deixar fora de joc, posar en vençó (antic), deixar KO (anglès), debel·lar
