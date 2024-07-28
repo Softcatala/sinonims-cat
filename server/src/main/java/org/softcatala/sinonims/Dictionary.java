@@ -191,6 +191,10 @@ public class Dictionary {
     commonErrors.put("búsqueda", "recerca");
     commonErrors.put("busqueda", "recerca");
     commonErrors.put("qui sembra vents recull tempestats", "qui sembra vents cull tempestats");
+    commonErrors.put("trovada", "trobada");
+    commonErrors.put("col·le", "col·legi");
+    commonErrors.put("enganxina", "adhesiu");
+    commonErrors.put("tratge", "trage");
   }
 
   private List<String> noSuggestions = Arrays.asList("pato");
@@ -268,7 +272,7 @@ public class Dictionary {
       "glossònim", "like", "agradament", "mesoclític", "endoclític", "càiron", "xuleta", "inculturar", "camacu",
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
       "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar",
-      "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV");
+      "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV", "satanisme", "pantanada");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
