@@ -201,7 +201,7 @@ public class Dictionary {
 
   // ignore when testing
   private List<String> wordsToIgnore = Arrays.asList("fer un paperàs", "querellador", "barça", "argigalera", "moisès",
-      "aclevillar", "aguar", "aiguarradam", "almussafes", "al·lotea", "al·lotim", "amucionar", "anar de xurrut",
+      "aclevillar", "aguar", "almussafes", "al·lotea", "al·lotim", "amucionar", "anar de xurrut",
       "antiestatalisme", "astrosia", "balaclava", "beneitot", "binar", "botellón", "cafenet", "can Garlanda",
       "can Pixa", "can Seixanta", "can Taps", "can Xauxa", "can", "ceballí", "cherry", "com s'entén?", "daoisme",
       "de coixinereta", "de panfonteta", "disfèmic", "diàdrom", "Déu n'hi doret", "déu-n'hi-do", "déu-n'hi-doret",
@@ -273,7 +273,8 @@ public class Dictionary {
       "quemaco", "guaitacaragols", "llepafinestres", "ganassot", "ensumapets", "ser la repera", "belvedere",
       "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar",
       "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV", "satanisme", "pantanada", "clafert",
-      "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar");
+      "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar", "dana",
+      "caiuc", "robinson");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
