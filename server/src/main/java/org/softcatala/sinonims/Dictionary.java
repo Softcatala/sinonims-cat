@@ -274,7 +274,7 @@ public class Dictionary {
       "catalanor", "sucatinters", "valencianor", "sobrereaccionar", "objectificació", "méteo", "objectificar",
       "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV", "satanisme", "pantanada", "clafert",
       "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar", "dana",
-      "caiuc", "robinson");
+      "caiuc", "robinson", "americanet", "Xangri-La");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
