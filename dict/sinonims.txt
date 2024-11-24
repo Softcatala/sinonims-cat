@@ -451,6 +451,7 @@
 -adj: desagraït, malagraït, ingrat, oblidadís, oblidós
 -adj: desanimat, sense nervi, sense ànima, sense esperit, amb el cap baix, amb el cap cot, amb el cap jup, amb el cap sota l'ala, clocpiu, cloc-i-piu, alacaigut, decaigut
 -adj: desapercebut, inapercebut, amagat, invisible, ocult, dissimulat, encobert, inadvertit, escondit (antic)
+-adj: desaprensiu, cínic, despreocupat, pocavergonya, sense escrúpols
 -adj: desatent, inatent (FEM inatenta), desconcentrat, distret, encantat, absent, despistat, parat, suspès, a la lluna, a la lluna de València, inconscient, in albis, en blanc, a les fosques, peix, dispers, atordit, confús
 -adj: desavingut, malavingut, no avingut, barallat, renyit, separat, enemistat, enfadat, discutit, avingut (antònim)
 -adj: desbaratat, desordenat, destarotat, desorganitzat, caòtic, confús, desmanegat, desballestat, embolicat, desarranjat, anàrquic, enredat, revolt, sense ordre ni concert, regirat, agitat, desguitarrat
@@ -978,7 +979,7 @@
 -adj: intrús, paràsit, invasor
 -adj: intrusiu (anglicisme), intrús, indiscret, molest, invasiu, entremetent (FEM entremetenta), entremetedor, invasor
 -adj: inútil, improductiu, estèril, infructífer, eixorc, infecund, àrid, infructuós, infèrtil, erm, va, ociós, ineficaç, malaguanyat, pobre, sec, eixut
--adj: invencible, invulnerable, insuperable
+-adj: invencible, invulnerable, insuperable, imbatible
 -adj: investigador, inquiridor, escorcollador, encercador (antic), cercador, esbrinador, indagador, perquisidor, inquisidor, escrutador, explorador, escodrinyador
 -adj: invicte, invençut, guanyador, vencedor, invencible, imbatut
 -adj: irreconeixible, irrecognoscible, incognoscible
@@ -2479,6 +2480,7 @@
 -loc: el sant de més lluny fa més miracles, ningú és profeta a casa seva, ningú és profeta a la seva terra
 -loc: empatat, cama a cama, tants a tants, taules, empat
 -loc: en el millor dels casos, anant bé, si tot va bé
+-loc: estar plalplantat, fer el faristol
 -loc: etcètera, i altres, i la resta, i qualssevol, i tots altres
 -loc: fer pam i pipa, fer pamet
 -loc (fet sense remei): bona nit i tapa't, deixem-ho córrer, deixem-ho estar, no en parlem més, no cal dir res més, bona nit viola, tururut viola, tanquem la paradeta, cremem-ho tot, calem foc a la màquina, bona nit caragol, tururut dotze hores, tururut pa amb oli, tururut sant Pere, bona nit, bona nit i bona hora, bona i santa nit
@@ -4794,7 +4796,7 @@
 -n: fador, fadesa, insipidesa, insipiditat, insubstancialitat, dessabor, dessaboriment, manca de sabor, manca de gust
 -n: fadrí vell (FEM fadrina vella), conco (FEM conca), vellard, matxutxo (FEM matxutxa), fadrinot (FEM fadrinota), solteràs (FEM solterassa), solterot (FEM solterota), fadrinardo (FEM fadrinarda), renoc (NOFEM), andosc
 -n: fadrinatge, fadrinesa, solteria, celibat
--n: fagàcia, roure, carrasca, alzina, faig
+-n: fagàcia (família), roure, carrasca, alzina, faig, reboll
 -n: fageda, fajosa
 -n: fajol, blat negre, blat cairut
 -n: fake news (anglès), notícia falsa, notícia manipulada, faula, impostura, badomeries, bola, butllofa, rumor fals
@@ -4813,7 +4815,7 @@
 -n: família #...
 -n: fan, admirador, seguidor, fanàtic, entusiasta, addicte, simpatitzant, fidel, incondicional, iniciat, adherent, sectari, hooligan (futbol), partidari
 -n: fanal, llanterna, llàntia, faró, llum (m), lot (f)
--n: fang, llot, rovina, tarquim, llac, llacor, llacada, enllacada, llaquim, llotim, rubina, brac (antic), llim, brac, garró, riber, pastetes, llaca, engomada
+-n: fang, llot, rovina, tarquim, llac, llacor, llacada, enllacada, llaquim, llotim, rubina, brac (antic), llim, brac, garró, riber, pastetes, llaca, engomada, fangutx
 -n: fanguer, fangar, fanguissar, fanguera, xafeguer, xopoll, xipoll, fotgera, enllacada, fangada, fangutxar, mullader, fangal
 -n: fantasia, imaginació, inventiva, fabulació, confabulació, invenció, somieig, elucubració, creativitat, inspiració, genialitat, enginy
 -n: fantasma, visió, espectre, ectoplasma, aparició, esperit, ànima en pena, gusarapa, aparegut, bubota, butoni, larva (antic), lèmur, mumorota, moroti, papau, papu, papo, poltergeist
@@ -5995,7 +5997,7 @@
 -n: moviola, càmera lenta
 -n: mucositat, mucus, secreció, flegma, moc, flema (DNV)
 -n: mugit, mugiment, bruel, bramul, bram, bruelament, braol, mu (onomatopeia)
--n: mugró, pitó
+-n: mugró, mamil·la # pitó
 -n: multitud, munió, gentada, generació, gernació, concurrència, concurs, aglomeració, bandada, caterva, catèrvola, afluència, exèrcit, turba, turbamulta, tropell, horda, formiguer, patoll, patolla, eixam, marabunta, tracalada, collada, riuada
 -n (municipal): edil, regidor, conseller, jurat (històric), prohom (històric)
 -n: muntanya, munt, mont (en topònims), serra, serralada, massís, serrat, contrafort, morro, morrot, cim, cimal, cresta, pic, agudell, tuc, punta, monticle, muntijol, puig, tossal, turó, promontori, tossa, coma, alt (NOFEM), elevació, pujol, respatller, respatler, eminència, alteró, coll, collada, alturó, serral, tossol, carena, lloma, mota, duna
@@ -6010,6 +6012,7 @@
 -n: músic, musicastre, intèrpret, executant, instrumentista, concertista, professor, tocador (FEM tocadora), joglar, aede, sonador (FEM sonadora)
 -n (música): arc, arquet
 -n (música): arranjament, versió, interpretació, harmonització
+-n (música): baqueta, broqueta
 -n (música): composició, obra, suite, simfonia, sonata, fuga, opus, concert, preludi, intermezzo, duo, trio, quartet, quintet, sextet, septet, octet, nonet, coral, cantata, oratori, òpera, tocata, peça
 -n (música): corn, nacra, caragol
 -n (música): diesi, sostingut (NOFEM)
@@ -7208,6 +7211,7 @@
 -n (sentit figurat): pluja, tempestat #...
 -n (sentit figurat): quid, punt essencial, quid de la qüestió, moll, part central, rovell de l'ou, essència, pot de la confitura, mare dels ous, punt neuràlgic
 -n: senyal, pessic, solc, sec, séc (ort. pre-2017)
+-n: senyoratge, senyoria, protectorat, sobirania
 -n: senyoreta, mestra, mestressa
 -n: sepeli, enterrament, inhumació, sepultura, soterrament, soterrar, enterro
 -n: sèpia, sépia, sípia
@@ -7388,7 +7392,7 @@
 -n: taba (col·loquial), xarrera, xerrameca, rall, xarrola, xerrera, xerrola, xerramenta, xerradissa, xarramenta, xarradissa, xerrim, xarrim (NOFEM), vèrbola, parloteig, claca, garola, tabarra, barbolla, xau-xau, garleries, taral·la, xerroles, xarreta, verba, verbalisme, parleria, logorrea, verborrea, parola (col·loquial)
 -n: tabac, tana, picadura, escafarlata, rapè
 -n: tabacomania, tabaquisme
--n: tabal, timbal, bateria, bombo, tambor, redoblant, tam-tam, nacra (antic), timbala
+-n: tabal, timbal, bateria, bombo, tambor, redoblant, tam-tam, nacra (antic), timbala, tabalet, tamborí
 -n: tabaler, timbaler, percussionista, bateria, bombo, timbal, tambor, redoblant, timbala
 -n: tabú, prohibició, interdicció
 -n (taca a la pell): taca, desig, efèlide, pinta, lentilla, piga, lentigen, enveja, màcula, nevus, placa, rojor, vaca
