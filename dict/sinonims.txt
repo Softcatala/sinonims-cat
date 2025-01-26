@@ -3292,6 +3292,8 @@
 -n (botànica): palmera, fasser, areca, ciques, cocoter, datiler, eritea, kèntia, margalló, palma, palmer (NOFEM), palmist
 -n (botànica): pericó, hipèric
 -n (botànica): repalassa, catxurrera, bardana, cospinera, enganxacabells, gaferot, gafet, llapa, llepassa, llapassa
+-n (botànica): sapel·li, abebai
+-n (botànica): sipo, abebai
 -n (botànica): sosa, barrella
 -n (botànica): talí, bolondo
 -n: botes de goma, botes d'aigua
@@ -3957,6 +3959,7 @@
 -n: corrent, llimerol, correntia #...
 -n: corresponsalia, delegació, subdelegació
 -n: correus, estafeta, carteria, oficina
+-n: corró, regió lumbar
 -n: corrupció, venalitat, corrompiment, perversió, prostitució, compra, corruptela, abús, suborn, subornament, subornació, untets, clientelisme, amiguisme, nepotisme, cleptocràcia
 -n: cortina, cortinatge, draperia, estor, portier, vel, tapisseria, domàs, tapís, portalera, drap, llenç, sobreporta, transparent, persiana
 -n: cos, cosset, canesú
@@ -4615,6 +4618,7 @@
 -n: escuranda, escurada, vaixellada, aigüerada, escudellam
 -n: esforç, afany, interès, aplicació, dedicació, treball, suor, suada, força, coresforç, malaveig, matament, pena, fatics, fatic, fatigues, punya (antic), desinterès (antònim), lliurament, maltret (antic), sacrifici, tour de force (francès)
 -n: esforç, do de pit, suc de braó, cop de coll
+-n: esllomada, esllomadura, lesió lumbar
 -n: esment, atenció, cura, compte, consideració, zel, ànsia, recapte #...
 -n: esment, menció, record, memòria, repetició, recapitulació, referència #...
 -n: esmolet, espavilat, viu, despert
@@ -4779,7 +4783,7 @@
 -n: excrescència, carnús, carnot
 -n: excursionisme, muntanyisme, senderisme, alpinisme, escalada, espeleologia, acampada, marxa, pirineisme, andinisme, himalaisme
 -n: excusa, atenuant, exculpació, descàrrec, disculpa, justificació, disculpació, eximent, explicació, satisfacció
--n: excusa, pretext, capa, coartada, subterfugi, esqueta, escapatòria, evasiva, sortida, eixida, escap, escapador, defugi, resposta, àlibi, disculpa, defensa, agafador (NOFEM), ocasió, cortina de fum, històries
+-n: excusa, pretext, capa, coartada, subterfugi, esqueta, escapatòria, evasiva, sortida, eixida, escap, escapador, defugi, resposta, àlibi, disculpa, defensa, agafador (NOFEM), ocasió, cortina de fum, històries, cobertora
 -n: exempció, deslliurança, alliberament, redempció, descàrrega, exoneració
 -n: exemplar, llibre, tom, volum, obra, publicació, manual, tractat, opuscle, compendi, promptuari, patracol (col·loquial), lligall, totxo (col·loquial), atovó (col·loquial), incunable, enquiridió, vademècum, epítom, còdex, oracional, devocionari, eucologi, receptari, santoral, cartulari, llegendari, exemplari, sentenciari, bestiari, àlbum, fascicle, anuari, infoli, infòlio, doctrinal, catecisme, saltiri, breviari
 -n: exemple, exemplar, espècimen, model, norma, arquetipus, arquetip, prototip, prototipus, patró (NOFEM), paradigma, pauta, mostra, tipus, marc, maqueta, espill, exponent
@@ -5312,6 +5316,7 @@
 -n: humus, terra
 -n: icona, símbol, representació, signe, logotip, logo, marca, disseny, emblema, senyal
 -n: iconografia, imatges, representacions, simbologia, simbolisme, símbols
+-n: icterícia, fel sobreeixit
 -n: ideació, conceptualització, concepció
 -n: ideal, utopia, il·lusió, fantasia, quimera, súmmum, desideràtum, somni, patró (NOFEM), ambició, desig, tipus, model, anhel, afany, aspiració, pretensió
 -n: idealisme, utopia, il·lusió, quixotisme, platonisme, realisme (antònim)
@@ -5764,7 +5769,7 @@
 -n: malícia, ràbia, indignació #...
 -n: malignitat, malícia, virus #...
 -n: mal-llevat, malformació congènita
--n: mallol, cep, parra, vinya, parrissa, planta, raïmera, planta-roig
+-n: mallol, cep, parra, vinya, parrissa, planta, raïmera, planta-roig, parrús
 -n: malnutrició, desnutrició
 -n: malnutrició, sobrealimentació, hiperalimentació
 -n: malviure, mala vida, deshonra, deshonor, benviure (antònim)
@@ -5955,6 +5960,7 @@
 -n: miosotis, nomoblidis, nomoblides
 -n: miracler, taumaturg, faedor de miracles (FEM faedora de miracles)
 -n: misàndria, androfòbia
+-n: misèria i companyia, poca cosa, insignificància, misèria, xavalla
 -n: missa, eucaristia, ofici, ofici diví, pontifical
 -n: missa rasa, missa resada, missa baixa
 -n: missa solemne, missa cantada
@@ -7134,7 +7140,7 @@
 -n: ronyó, renyó
 -n: ronyons, ronyonada, reble (col·loquial), renyons, renyonada
 -n: rosada, ros, rou, serena, serení, aigualera, aiguatge, aigualada, mullenada
--n: rosari de l'esquena, rosari, espinada, columna vertebral, espina dorsal, bigal, raquis, biga de l'esquena
+-n: rosari de l'esquena, rosari, espinada, columna vertebral, espina dorsal, bigal, raquis, biga de l'esquena, fil de l'esquena
 -n: rosari, pregària, paternòsters (antic), corona, saltiri
 -n: rosariaire, rosarier (FEM rosariera)
 -n: rosella, ababol, ababolera, babol, buixol, gallaret, lloca, paparota, paramà, pipiripip, quiquiriquic, roseller, rosellera, caputxí, gall
@@ -8969,7 +8975,7 @@
 -v: esbalair, atonir, meravellar, embadalir, embabaiar, admirar, atordir, deixar amb un pam de boca oberta, deixar blau, astorar, deixar sense paraula, sorprendre, confondre, torbar, desconcertar, atarantar, atorrollar, estordir, causar estupefacció, causar estupor, deixar sense respiració, deixar atònit, deixar sorprès, deixar cara de mona, xocar, extasiar, enlluernar
 -v: esbatussar-se, batre's, colpejar-se, copejar-se, lluitar, pegar-se, batallar, barallar-se, apallissar-se, estomacar-se, combatre, picar-se les crestes, lliurar combat
 -v: esborrar, delir (antic), destruir #...
--v: esborronar, aborronar, esgarrifar, escarrufar, horroritzar, esfereir, fer feredat, espantar, esglaiar, astorar, espasmar, espalmar, espaordir, esparverar, espaventar, esporuguir, atemorir, sobresaltar, esverar, acovardir, espardalitzar, alarmar, corglaçar, corgelar, fer un salt el cor, estamordir, esquallar, aterrir, embasardir, posar els pèls de punta, posar els cabells drets, posar els cabells de punta, gelar la sang, eriçar els cabells, deixar amb els cabells de punta #TODO: versió pronominal
+-v: esborronar, aborronar, esgarrifar, escarrufar, horroritzar, esfereir, fer feredat, espantar, esglaiar, astorar, espasmar, espalmar, espaordir, esparverar, espaventar, esporuguir, atemorir, sobresaltar, esverar, acovardir, espardalitzar, alarmar, corglaçar, sangglaçar, corgelar, fer un salt el cor, estamordir, esquallar, aterrir, embasardir, posar els pèls de punta, posar els cabells drets, posar els cabells de punta, gelar la sang, eriçar els cabells, deixar amb els cabells de punta #TODO: versió pronominal
 -v: esborronar, aborronar, posar els pèls de punta, esgarrifar, eriçar, escarrufar, fer posar la pell de gallina
 -v: esbossar, croquisar, planejar, dissenyar, plomejar, esquematitzar, apuntar, fer un apunt, delinear, esboscassar, escalabornar, indicar, embastar
 -v: esbravar-se, desbrafar-se, esbafar-se, desbravar-se, esbraveir-se, esbafegar-se, desventar-se
@@ -9437,7 +9443,7 @@
 -v: mol·lificar, estovar, ablanir, suavitzar, assuaujar, amollir, aflonjar, atupar, reblanir, remollir, esponjar, amollegar, entendrir, desempedreir, malaxar, amorosir
 -v: momificar, dissecar, embalsamar, embalsemar, fer una taxidèrmia
 -v (moneda): batre, encunyar, reencunyar, emetre, posar en circulació, amonedar, monedar
--v: morir, acabar, morir-se, expirar, finar, faltar, sucumbir, traspassar, transir, deperir (antic), perir, caure, petar (col·loquial), rebentar (col·loquial), extingir-se, agonitzar, anar-se'n al calaix, dinyar-la (col·loquial), palmar-la (col·loquial), perdre la vida, passar a millor vida, tancar els ulls, aclucar els ulls, fer la clucaina, anar al clot, exhalar el darrer sospir, exhalar l'esperit, exhalar l'ànima, quedar-s'hi, tòrcer el coll, trencar-se el coll (morir accidentalment), rompre's el coll (morir accidentalment), anar-se'n a l'altre barri, anar-se'n al canyet, anar al sot, batre els peus, deixar-hi els ossos, donar l'ànima a Déu, estirar els peus, estirar la pota, fer el darrer badall, fer nyec (col·loquial), finir els seus dies, pagar amb la pell, pagar tribut a la mort, passar d'aquesta vida, sortir amb els peus per davant, fer l'ànec (col·loquial), quedar al seti (morir sobtadament), batre les cames, batre cames, pujar-se'n al cel, anar-se'n al cel, volar al cel, electrocutar-se, anar-se'n, fer coll de figa, boquejar, garrejar
+-v: morir, acabar, morir-se, expirar, finar, faltar, sucumbir, traspassar, transir, deperir (antic), perir, caure, petar (col·loquial), rebentar (col·loquial), extingir-se, agonitzar, anar-se'n al calaix, dinyar-la (col·loquial), palmar-la (col·loquial), perdre la vida, passar a millor vida, tancar els ulls, aclucar els ulls, fer la clucaina, anar al clot, exhalar el darrer sospir, exhalar l'esperit, exhalar l'ànima, quedar-s'hi, tòrcer el coll, trencar-se el coll (morir accidentalment), rompre's el coll (morir accidentalment), anar-se'n a l'altre barri, anar-se'n al canyet, anar al sot, batre els peus, deixar-hi els ossos, donar l'ànima a Déu, estirar els peus, estirar la pota, fer el darrer badall, fer nyec (col·loquial), finir els seus dies, pagar amb la pell, pagar tribut a la mort, passar d'aquesta vida, sortir amb els peus per davant, fer l'ànec (col·loquial), quedar al seti (morir sobtadament), batre les cames, batre cames, pujar-se'n al cel, anar-se'n al cel, volar al cel, electrocutar-se, anar-se'n, fer coll de figa, boquejar, garrejar, fer la fel
 -v (morir en una empresa): morir, sacrificar-se, vessar la sang fins a l'última gota, deixar-hi la pell, deixar-hi els ossos, perdre la vida, quedar-s'hi, matar-se, immolar-se, desviure's
 -v: morralejar, fer el morral, fer grosseries, fer grolleries
 -v: morrejar, fer mala cara, fer morros #...
@@ -9704,6 +9710,9 @@
 -v: reballar, etzibar, llançar, estampar, refilar, rebotre, rebotar
 -v: rebecar-se, tòrcer-se, inclinar-se, vinclar-se, encorbar-se, enarcar-se
 -v: reblanir-se, revenir, revenir-se
+-v: rebolcar, aterrar, capitombar, trepitjar, arrossegar
+-v: rebolcar-se, ajaure's, ajocar-se
+-v: rebolcar-se, bolcar-se, anar a rebolcons, rodolar per terra, redolar per terra, capitombar, fer tomballons, tombar-se, arrossegar-se
 -v: rebotar, rebotre
 -v: rebre, admetre, acceptar, recepcionar (dret administratiu)
 -v: rebre, cobrar, obtenir, guanyar, recaptar, merèixer, percebre, tocar, copsar, aconseguir, ingressar, beneficiar-se, aquistar (antic), caçar, pescar, haure, heure
