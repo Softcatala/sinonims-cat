@@ -626,7 +626,7 @@
 -adj: erradívol, equivocós, enganyós
 -adj: erràtic, errant, ambulant, vagarós, vagabund, vagarívol, nòmada, itinerant, sedentari (antònim), roder, transhumant, errabund, deambulant, vaiver, migrador, andarec (FEM andarega)
 -adj: erroni, inexacte, equivocat, fals, equívoc, imperfecte, incorrecte, errat, desencertat, veritable (antònim)
--adj: esbalaït, embadalit, atònit, estupefacte, sorprès, atordit, confós, torbat, meravellat, desconcertat, esmaperdut, estranyat, enjòlit, parat, perplex, admirat, captivat, extasiat, encantat, embruixat, fascinat, ullprès, encisat, bocabadat, desorientat, esmeperdut, fadat, garratibat, al·lucinat (col·loquial), descompassat, apardalat (col·loquial), mut (sentit figurat), asmat, embambat, extàtic, albercocat, enfavat, espardalitzat, espaterrat (col·loquial), espatarrat (col·loquial)
+-adj: esbalaït, embadalit, atònit, estupefacte, sorprès, atordit, confós, torbat, meravellat, desconcertat, esmaperdut, estranyat, enjòlit, parat, perplex, admirat, captivat, extasiat, encantat, embruixat, fascinat, ullprès, encisat, bocabadat, desorientat, esmeperdut, fadat, garratibat, al·lucinat (col·loquial), descompassat, apardalat (col·loquial), mut (sentit figurat), asmat, embambat, extàtic, albercocat, enfavat, espardalitzat, espaterrat (col·loquial), espatarrat (col·loquial), de pasta de moniato
 -adj: esbarjós, espaiós, extens, vast, obert, ampli
 -adj: escacat, de quadres
 -adj: escadusser, escarser, espars, desaparellat, desparellat, desaparionat, sobrant, solt, desparió, desemparellat, sol, solter, volander
@@ -1112,7 +1112,7 @@
 -adj: migratori, migrador
 -adj: milanta (col·loquial), molts, moltíssims, incomptables, innombrables, mil, milions, milers, nombrosos, incalculables
 -adj: militant, activista, conscienciat
--adj: millorable, perfectible, remeiable, corregible, esmenable, reparable, regenerable, reformable, purificable, recuperable, salvable
+-adj: millorable, perfectible, remeiable, corregible, esmenable, reparable, regenerable, reformable, purificable, recuperable, salvable, rectificable
 -adj: mineral, inorgànic, orgànic (antònim), anorgànic
 -adj: minoritari, subordinat, secundari, inferior
 -adj: minoritari, testimonial
@@ -5568,6 +5568,7 @@
 -n: literatura, bibliografia, escrits
 -n (literatura): figura, trop, símbol, expressió, metàfora, al·legoria, paràbola, exemple, ficció, símil, imatge, comparació, comparança
 -n: literatura, lletra, lletres, belles lletres
+-n: litre, quatre petricons (aproximat), porró (aproximat), decímetre cúbic
 -n (litúrgia catòlica): pàssia, passi
 -n: litúrgia hispànica, litúrgia mossàrab, litúrgia visigòtica
 -n: litúrgia romana, ritu romà
@@ -6022,7 +6023,7 @@
 -n: morrada, estufit, negativa
 -n: morralla, peix menut
 -n: morro, davant, davantera, frontalera
--n: mort (f), execució, homicidi, assassinat, crim, homei (antic), martiri, suïcidi, eutanàsia, feminicidi, parricidi, linxament, occisió, matança, deïcidi, fratricidi, conjugicidi, feticidi, filicidi, magnicidi, matricidi, regicidi, uxoricidi, infanticidi
+-n: mort (f), execució, homicidi, assassinat, crim, homei (antic), martiri, suïcidi, eutanàsia, feminicidi, parricidi, linxament, occisió, matança, deïcidi, fratricidi, conjugicidi, feticidi, filicidi, magnicidi, matricidi, regicidi, uxoricidi, infanticidi, electrocució
 -n: mort (FEM morta), víctima, baixa, difunt, finat, desaparegut, desgràcia personal (eufemisme), interfecte
 -n: mortalitat, letalitat
 -n: morterol, morterada
@@ -9720,6 +9721,7 @@
 -v: rebregar, matxucar, emmatxucar, amanyogar, afiganyar, arrugar, aixafinar, masegar, atavellar, deformar
 -v: reclutar, enrolar, allistar, inscriure, quintar, fer la lleva
 -v: recobrar els sentits, reanimar-se, cobrar el coneixement, tornar en si, perdre els sentits (antònim)
+-v: recollir el guant, acceptar el desafiament
 -v: recol·locar, ressituar, reubicar
 -v: recomanar, aconsellar, proposar, suggerir, indicar, orientar, avisar, guiar, exhortar, assessorar, advertir, assistir, il·lustrar, insinuar
 -v: recompensar, premiar, llorejar, distingir, guardonar, coronar, victorejar, agraciar, primar, retribuir, gratificar
