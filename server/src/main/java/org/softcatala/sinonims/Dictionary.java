@@ -195,6 +195,7 @@ public class Dictionary {
     commonErrors.put("col·le", "col·legi");
     commonErrors.put("enganxina", "adhesiu");
     commonErrors.put("tratge", "trage");
+    commonErrors.put("apretada de mans", "encaixada de mans");
   }
 
   private List<String> noSuggestions = Arrays.asList("pato");
