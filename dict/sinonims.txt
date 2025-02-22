@@ -484,6 +484,7 @@
 -adj: desmemoriat, distret, desatent, inatent (FEM inatenta), oblidadís, amnèsic, oblidós, descuidat, descurat
 -adj: desmesurat, de ca l'ample, de cal Déu, de por, de tots els déus, de l'hòstia (col·loquial), de campionat, molt gran
 -adj: desmesurat, enorme, colossal, majúscul, greu, molt gran, garrafal (un error), abismal, com una casa, de l'alçada d'un campanar, com un temple, com una casa de pagès, com una catedral, tremend, descomunal, gegantesc, monstruós, terrible
+-adj: desnatat, descremat
 -adj: desocupat, aturat, parat, sense feina, sense faena
 -adj: despectiu, menyspreador, menyspreatiu, desdenyador, arrogant, orgullós, superb, bafaner, desdenyós, altiu, tirànic, soberg, alterós, superbiós
 -adj: despentinat, escambuixat, escabellat, descambuixat, descabellat, grenyut, descabellonat, escabellonat
@@ -713,6 +714,7 @@
 -adj: familiar, domèstic, casolà
 -adj: famolenc, afamat, afamegat, bocabadant, esfambrat, malmenjat, famèlic, famejant, ganut, panxabuit, aganat, atalentat (col·loquial), desmaiat, dejú
 -adj: famós, conegut, sonat, llegendari, cèlebre
+-adj: fangós, llacós, llotós, llimós
 -adj: fantasmal, fantasmagòric, espectral
 -adj: farcit, ple, saturat, reblert (FEM reblerta), curull, atapeït, carregat, prenyat, ataquinat, acaramullat, botit, cafit, clafit, clafert (FEM claferta), complet, complit (FEM complida), empedrat, infestat, replè, sobreplè, reblit (FEM reblida), anxovat, plener, replet, plagat
 -adj: farinós, pulverulent
@@ -819,6 +821,7 @@
 -adj: gruixut, cras, sòlid, doble, revingut, gros, corpulent, ple, ample, voluminós, boterut, obès, gras, gotzo, panxarrut, panxut, inflat, unflat, ventrut, ventrellut, gord, betzarrut, rabassut, rodanxó, carnut, carnós, molsut, polpós, pencut, fardassa, sacsonut, sacsoner, botit, grossal (un fruit), pícnic, massís, grassonet (FEM grassoneta), botinflat, redó, rodó, llustrós, de bon any
 -adj: grupal, de grup, en grup, comunitari, col·lectiu, comú, social, comunal, d'equip, en equip
 -adj: guai (col·loquial), divertit, ben parit (col·loquial FEM ben parida), molt ben parit (col·loquial FEM molt ben parida), fabulós, fantàstic, magnífic, collonut (col·loquial), extraordinari, espatarrant (col·loquial), espaterrant (col·loquial), de conya, fascinant, genial, boníssim (FEM boníssima), d'allò que no hi ha, de primera, que fa goig, de traca i mocador
+-adj: guit, indòmit, indomable, indòcil, rebec, repropi, reguitnós, repropiós
 -adj (gust): amarg, amargant, amargós, agre, aspre, astringent
 -adj: hedonista, sensual, refinat, epicuri, mundà, voluptuós, bon vivant (francès)
 -adj: herbaci, herbós, herbat
@@ -1312,7 +1315,7 @@
 -adj: polar, glacial, àrtic (nord), antàrtic (sud)
 -adj: policíac, policial
 -adj: polígam, bígam, trígam, promiscu
--adj: polític, cívic, social, nacional, estatal, governamental, societari, comunitari
+-adj: polític, cívic, civil, social, nacional, estatal, governamental, societari, comunitari
 -adj: pol·línic, pol·linífer
 -adj: polsegós, polsós, farinós, empolsegat, polsinós, empolsimat, enfarinat
 -adj: pomaci, màlic, pomiforme, apomat
@@ -3958,6 +3961,7 @@
 -n: corona, diadema, tiara, garlanda
 -n: coronament, acabament, rematada, remat, colofó
 -n: corporativisme, gremialisme, amiguisme, sectarisme, esperit de cos
+-n: correcames, coet borratxo
 -n: corrent, llimerol, correntia #...
 -n: corresponsalia, delegació, subdelegació
 -n: correus, estafeta, carteria, oficina
@@ -6061,6 +6065,7 @@
 -n (música): arc, arquet
 -n (música): arranjament, versió, interpretació, harmonització
 -n (música): baqueta, broqueta
+-n (música): barra de compàs, línia divisòria, tanqueta
 -n (música): composició, obra, suite, simfonia, sonata, fuga, opus, concert, preludi, intermezzo, duo, trio, quartet, quintet, sextet, septet, octet, nonet, coral, cantata, oratori, òpera, tocata, peça
 -n (música): corn, nacra, caragol
 -n (música): diesi, sostingut (NOFEM)
@@ -6077,6 +6082,7 @@
 -n: música, melodia, tonada, aire, composició, concert, harmonia, línia, melopea, arranjament, sintonia, concent, cant
 -n (música): mestre, director
 -n (música): música, banda, xaranga, fanfara, fanfàrria, orquestra, conjunt, xim-xim, cobla, batucada, capella, duo, trio, quartet, quintet, sextet, septet, octet, nonet, cor, coral, gamelan, joglaria, metall, murga, percussió, rondalla
+-n (música): música de cambra, música de conjunt
 -n (música o literatura): leitmotiv, tema, motiu, fil, idea
 -n (música): pandereta, alduf, aret, pandero
 -n (música): platerets, plats, címbals
@@ -7526,6 +7532,7 @@
 -n: televisió, televisor, pantalla, monitor (NOFEM), minipantalla, telepantalla, visualitzador, TV
 -n: tell, matapoll
 -n: teló, cortina, decoració, bastidor, rompiment
+-n: temacle (col·loquial), temarro (col·loquial), èxit musical
 -n: temple, panteó, església, santuari, oratori, ermita, casa de Déu, casa del Senyor, sinagoga, aljama, mesquita, mosquea, pagoda, seu, basílica, catedral, cocatedral, parròquia, esglesiola, capella, missió, espeu, col·legiata, abadia, missa (col·loquial)
 -n: temporalitat, transitorietat, interinitat, provisionalitat, circumstancialitat, eventualitat, fugacitat, interinatge, momentaneïtat, instantaneïtat
 -n: temps #...
