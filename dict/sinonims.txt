@@ -317,6 +317,7 @@
 -adj: cinètic, cinemàtic, dinàmic
 -adj: cínic, impúdic, fals, hipòcrita, desvergonyit, fresc, descarat, impudent, camaleònic, mentider, indissimulat (FEM indissimulada), insincer
 -adj: cinquantè, cinquantenari, quinquagenari, quinquagesimal
+-adj: circumdant, envoltant
 -adj: circumstancial, provisional, eventual, temporal, temporari, transitori, provisori, interí, accidental, temporani, transeünt, temporer, passatger, ocasional, conjuntural, volander
 -adj: cistercenc, trapenc, benedictí, de la Trapa, del Cister
 -adj: clar, aigualit, desllavassat, fluid, prim, esclarissat (FEM esclarissada), dens (antònim), espès (antònim FEM espessa), atapeït (antònim), aigualós, aiguós
@@ -1581,7 +1582,7 @@
 -adj: sull (FEM sulla), escornat (FEM escornada), motxo (FEM motxa)
 -adj: superflu, innecessari, inútil, inoportú, inessencial, prescindible, sobrant, sobrer, fútil, sobrancer, excedent, zero a l'esquerra, redundant
 -adj: supersònic, ultrasònic
--adj: supervivent, subsistent, persistent, existent, vivent, viu, sobrevivent, relicte
+-adj: supervivent, subsistent, persistent, existent, vivent, viu, sobrevivent, relicte, pervivent
 -adj: susdit, damunt dit, esmentat, mencionat, citat, precitat, dessusdit (FEM dessusdita), propdit, dit abans (FEM dita abans), sobredit (FEM sobredita)
 -adj: suspecte, sospitós, reguardós (antic)
 -adj: suspicaç, desconfiat, recelós, maliciós, malfiat, difident, incrèdul, malpensat, escèptic, desfiat, reüllós, aprensiu, gelós
@@ -4010,7 +4011,7 @@
 -n: crema cremada, crema de Sant Josep, crema catalana, crema
 -n: crema, natilles (castellanisme), sopada
 -n: cremada, crema, socarrada, recremada, rostida, escaldada, cremadissa, cremació
--n: cresol, gresol, llumenera, llum (m), llumener (NOFEM), llàntia, llum d'oli, llum de ganxo #...
+-n: cresol, gresol, llumenera, llum (m), llumener (NOFEM), llàntia, llum d'oli, llum de ganxo, llum de gresol #...
 -n: crespell, bunyol, dauradella, encasada, xurro
 -n: cretona, percal, percala, calicó
 -n: creu, calvari, càrrega, pes, suplici, turment, tortura, patiment, sofriment, martiri, passió, pena, angoixa, sofrença, viacrucis, penitència, corona d'espines
@@ -6632,7 +6633,7 @@
 -n: pintor, retratista, paisatgista, aquarel·lista, artista, il·luminador, miniaturista, imaginaire
 -n (pintura): tremp, tempre, témpera (DNV), trempa
 -n: pinzellada, cop de pinzell, toc, retoc, brotxada, pintada, passada, traça
--n: pipa, calumet (pipa de la pau), xibuc (pipa turca), narguil, broca
+-n: pipa, calumet (pipa de la pau), xibuc (pipa turca), narguil, broca, catximba
 -n: piràmide, estafa, estafa piramidal, sistema de Ponzi, frau (m), piràmide de Ponzi, piràmide financera
 -n: pirata, filibuster, corsari, contrabandista, lladre, bucaner
 -n: pirata informàtic, hacker (anglès), cracker (anglès)
@@ -8895,7 +8896,7 @@
 -v: endolar, cobrir de dol, posar dol
 -v: endossar, encolomar, encarranquinar, passar el mort, encomanar, encarregar, endinyar (col·loquial), carregar els neulers, posar l'albarda, passar la patata calenta, passar la pilota, carregar el mort, endossar el mort, carregar les culpes, responsabilitzar, fer pagar els neulers, fer pagar la festa, fer pagar els plats trencats
 -v: enfadar, enutjar, enrabiar, sulfurar, enfurismar, enfurir, enfuriar
--v: enfadar-se, enutjar-se, emprenyar-se (col·loquial), empipar-se, irritar-se, molestar-se, ofendre's, enreveixinar-se, cremar-se, picar-se, regirar-se la bilis, enrabiar-se, enfaristolar-se, sulfurar-se, indisposar-se, incomodar-se, enfurismar-se, enfurir-se, enfuriar-se, enquimerar-se, emmurriar-se, emmorronar-se, rebotar-se (col·loquial), arravatar-se, treure salivera, treure foc pels queixals, exaltar-se, encrespar-se, encolerir-se, agitar-se, pujar-se'n a la figuereta, pujar la mosca al nas (a algú), aïrar-se, irèixer-se (antic), posar-se fet una fúria, posar-se fet una fera, calfar-se la tafarra (col·loquial), pujar-se'n per les parets, enfilar-se per les parets, bullir la sang (a algú), pujar la sang al cap (a algú), sortir de mare, sortir de polleguera, treure el geni
+-v: enfadar-se, enutjar-se, emprenyar-se (col·loquial), empipar-se, irritar-se, molestar-se, ofendre's, enreveixinar-se, cremar-se, picar-se, regirar-se la bilis, enrabiar-se, enfaristolar-se, sulfurar-se, indisposar-se, incomodar-se, enfurismar-se, enfurir-se, enfuriar-se, enquimerar-se, emmurriar-se, emmorronar-se, rebotar-se (col·loquial), arravatar-se, treure salivera, treure foc pels queixals, exaltar-se, encrespar-se, encolerir-se, agitar-se, pujar-se'n a la figuereta, pujar la mosca al nas (a algú), aïrar-se, irèixer-se (antic), posar-se fet una fúria, posar-se fet una fera, calfar-se la tafarra (col·loquial), pujar-se'n per les parets, enfilar-se per les parets, bullir la sang (a algú), pujar la sang al cap (a algú), sortir de mare, sortir de polleguera, treure el geni, enfilar-se
 -v: enfarfegar, enforfoguir, embaldragar, farcir, recarregar, afeixugar, llastar, enfardissar, enfardar
 -v: enfebrar-se, agafar febre, venir la febre, tenir un accés de febre, agafar una febrada, tenir una febrada, desenfebrar-se (antònim), escalfeir-se, escalfir-se
 -v: enferestir, ensalvatgir
@@ -9033,7 +9034,8 @@
 -v: esmorteir, esmortir, amortir, endolcir, dulcificar, assuaujar, suavitzar, assuavir, apagar, reduir, rebaixar, mitigar, moderar, ablanir, amollir, afeblir, debilitar, lenificar, atenuar, pal·liar, apoquir, alleujar, alleugerir, alleugerar, minvar, amainar, espassar, temperar, humanitzar, amorosir, minimitzar, esmussar
 -v: esmussar, espuntar, despuntar, romejar, afilar (antònim)
 -v: espaiar, escalonar, esglaonar, graduar
--v: espavilar-se, posar-se les piles, agafar embranzida, donar-se ànsia, donar-se brasa, llevar-se la son de les orelles, enginyar-se-les, muntar-se-les
+-v: espavilar-se, apanyar-s'ho, apanyar-se, arranjar-s'ho, arranjar-se, arreglar-se, arreglar-se-les, combinar-s'ho, compondre's, compondre-s'ho, deseixir-se, donar-se manya, endegar-se-les, enginyar-se, enginyar-se-les, fer-s'ho, fer-s'ho venir bé, manegar-s'ho, manegar-se
+-v: espavilar-se, posar-se les piles, agafar embranzida, donar-se ànsia, donar-se brasa, llevar-se la son de les orelles
 -v: espeternegar, espernegar, garrejar, batre les cames, camejar
 -v: espeuar-se, espear-se, espernegar-se, crebantar-se, gaspar-se
 -v: espiar, vigilar, mirar de reüll, mirar de cua d'ull, mirar de biaix, veure d'esquitllentes, veure de gairó, albirar, aguaitar, observar, fitar, sotjar, esguardar, emboscar-se, escoltar, estar a les escoltes, obrir les orelles, dreçar les orelles, estar a l'escolta, estar a l'aguait, no treure l'ull, estar a la que salta, atalaiar, fer talaia, reguardar (amb temor)
@@ -9416,7 +9418,6 @@
 -v: mandrinar, eixamplar (un forat), fresar
 -v: manegar, ajustar, disposar, muntar, preparar, acoblar, articular
 -v: manegar, emmanegar
--v: manegar-se, espavilar-se, deseixir-se, enginyar-se, compondre's, arranjar-se, arreglar-se, fer-s'ho venir bé, donar-se manya
 -v: manllevar, amprar, emmanllevar, fer un emprèstit, emprar, anar a manlleu, fer-se prestar
 -v: manxar, bufar, fer vent, ventolejar
 -v: mapar, mapificar (DNV), retratar, dibuixar, copiar
@@ -10093,7 +10094,7 @@
 -v: trivialitzar, banalitzar, vulgaritzar
 -v: trivialitzar-se, banalitzar-se, vulgaritzar-se, adotzenar-se
 -v: trobar, encontrar, topar, ensopegar, entropessar, retrobar, localitzar, detectar, descobrir, topetar
--v: trolejar, molestar, destorbar, enredrar, provocar, rebentar, boicotejar, importunar, buscar les pessigolles, buscar el cos, buscar les puces, tocar el voraviu, fer nyic-nyic, burxar, fer la guitza, ferir, enutjar, empipar, empixonar, emprenyar, donar malany, donar quefer
+-v: trolejar, molestar, destorbar, enredrar, provocar, rebentar, boicotejar, importunar, buscar les pessigolles, buscar el cos, buscar les puces, tocar el voraviu, fer nyic-nyic, burxar, fer la guitza, ferir, enutjar, empipar, empixonar, emprenyar, donar malany, donar quefer, xinxollar
 -v: trolejar, prendre el pèl, enganyar, enredar, enredrar
 -v: tronar, retronar, retrunyir, retentir
 -v (tropes): aquarterar, acantonar
