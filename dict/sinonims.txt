@@ -711,6 +711,7 @@
 -adj: extra, extraordinari #...
 -adj: extravagant, bisbètic, llunàtic, allunat, excèntric, estrambòtic, maniàtic, maniós, monomaníac, obsedit, obsessionat, obsés, ceballut, caparrut, capriciós, dement, alienat, guillat, enderiat, ofuscat, maníac, boig, manicomial, xalat (col·loquial)
 -adj: extravertit, expansiu, obert, comunicatiu, introvertit (antònim)
+-adj: fàcil, capavallós (FEM capavallosa)
 -adj: factible, aconseguible, assolible, assequible, abastador, abastable, infactible (antònim)
 -adj: fal·lible, humà, defectible, pecable, errant, imperfecte, defectuós
 -adj (família): polític, sobrevingut
@@ -1328,6 +1329,7 @@
 -adj: popular, plebeu, comú, cívic, comunal, democràtic, vulgar, ciutadà, demòtic, comunitari
 -adj: popular, populatxer, vulgar, pedestre, baix, adotzenat
 -adj: porcí, porquí
+-adj: porprat, purpurat, porpra
 -adj: positiu, afirmatiu, constructiu, assertiu, negatiu (antònim), destructiu (antònim)
 -adj: positiu, bo, favorable, negatiu (antònim), pròsper, avantatjós, benigne
 -adj: positiu, pràctic, realista, pragmàtic, utilitarista, possibilista, utòpic (antònim)
@@ -2490,6 +2492,7 @@
 -loc: altrament, si no, en cas contrari
 -loc: anar amb compte, anar l'ull al bou, afinar el tret, guardar la mà a la faixa, posar els peus plans, anar amb els peus plans, anar amb sabates de feltre, saber on posar els peus, anar amb peus de plom
 -loc: anar d'Herodes a Pilat, anar com una pilota, fer gestions infructuoses
+-loc: anar just, anar escanyat
 -loc: anar que ni pintat, anar al pèl, anar al punt, anar com l'anell al dit
 -loc: ben mirat, de fet, fet i fet, en realitat
 -loc: bon profit, que vagi de gust, bon profit us faci
@@ -2560,6 +2563,7 @@
 -loc: saber de lletra, estar instruït, saber llegir, saber llegir i escriure, tenir estudis
 -loc: saldat, en paus, en pau, tants a tants, cama a cama, sense deutes, amb els comptes arreglats
 -loc (satisfacció): a bodes em convides, a festa major em convides
+-loc: sense gaire esforç, amb comoditat, sense despentinar-se, jugant jugant, amb facilitat, fàcilment
 -loc: ser de mata morta, no tenir espenta, no tenir energia, no tenir caràcter
 -loc: ser de vida, ser de bona dent, ser menjador, menjar molt, menjar com una llima, ser un sac de mal profit, tenir bona barra, tenir sempre un budell buit, tenir un bon baixant, ser de bona barra, ser cavall de bona barra
 -loc: ser l'hòstia (vulgar), ser de pronòstic, ser d'allò que no hi ha, trencar el motlle, ser el súmmum, ser de pel·lícula, ser la pera, ser la pera llimonera, ser un cas, ser un cas com un cabàs, ser massa, ser la repera
@@ -2572,6 +2576,7 @@
 -loc: tant de bo, Déu ho vulgui, Déu ho faci, Déu t'escolti, plagui a Déu que, ja hi firmaria
 -loc: tant és... com..., tant se val... com...
 -loc: tenir la cua de palla, tenir les mans brutes, tenir la camisa bruta
+-loc: tenir pocs diners, anar curt d'armilla, anar just de diners, anar escanyat de diners
 -loc: tot de, una gran quantitat de
 -loc: tot o res, dins o fora
 -loc: tot quant, tot això que, tot allò que, tot el que, totes les coses que
@@ -3532,6 +3537,7 @@
 -n: carbó, antracita, branqueta, hulla, lignit, molinada
 -n: carculla, clasca, closca, clotxa, clòtxina, conquilla, copinya, cuirassa, curculla, mareperla, pelegrina, petxina, valva, petxinot
 -n: card estrellat, obriülls
+-n: cardenal, purpurat (NOFEM)
 -n: carena, crestall, cresta, aresta, quilla (d'un vaixell)
 -n: carener, cavalló, esquena d'ase
 -n: caricatura, paròdia, exageració, imitació, bufonada, burleria, escarni, escarn, ridiculització
@@ -9474,7 +9480,7 @@
 -v: menjar, desdejunar-se, esmorzar, dinar, berenar, sopar
 -v (menjar o beure): prendre, fer, fer-se, menjar, beure, empassar-se, empassolar-se, engolir, englotir, picar, tragar, ingerir, enviar-se, papar (col·loquial), clavar-se, cruspir-se, dragar, deglutir, cascar-se, collejar, embocar, encanyonar, encollar, galdir, engaldir, engolar, ingurgitar, xamar-se, afarrossar-se, amorralar-se, ataquinar-se, atracar-se, afartar-se, atipar-se, atapeir-se, ataconar-se, carregar, endrapar, fotre's (col·loquial), gorrejar, omplir-se, refilar, empipar, matar el cuc, menjotejar, sampar (col·loquial), devorar, estacar-se (col·loquial), manducar (col·loquial), enviar coll avall, halar (col·loquial), calar (col·loquial), halar-se (col·loquial), calar-se (col·loquial), omplir el baül (col·loquial), xacar (col·loquial), fer nyam-nyam (infantil), omplir el pap, omplir el ventre, omplir la panxa, atibacar-se
 -v: menjucar, menjotejar, malmenjar, menjuquejar, menjussar, espellucar, pellucar, piscar, mossegar, picar, rosegar, pessigar
--v: mentir, dir mentides, mentir pel coll, mentir per la gola
+-v: mentir, dir mentides, mentir pel coll, mentir per la gola, mentir per la barba
 -v: mercantilitzar, comercialitzar, metal·litzar
 -v: merèixer, guanyar-se, meritar, ser digne, tenir dret, fer mèrits, guanyar consideració, conciliar-se, conquistar, congraciar-se, atraure's, atreure's, conquerir, captar-se
 -v: militar, servir
