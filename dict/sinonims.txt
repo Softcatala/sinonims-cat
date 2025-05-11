@@ -957,6 +957,7 @@
 -adj: innocu, inofensiu, anodí, ineficaç, nociu (antònim), innocent
 -adj: inoblidable, memorable, inesborrable, recordat, indeleble, perdurable, immemorial, imperible, immarcescible, immortal
 -adj: inodor, sense olor
+-adj: inquietant, alarmant, preocupant, esverador, esparverador
 -adj: insà, malsà, perjudicial, insalubre, danyós, lesiu, nociu, noïble (antic), perniciós, infest, damnós, contrari, desfavorable, sa (antònim), saludable (antònim), malèfic, deleteri, mefític, pestilencial, pestífer, morbós, mòrbid, morbífic
 -adj: insatisfactori, desagradable, desagradós, desfavorable, desplaent, inconvenient, ingrat
 -adj: inscrit, matriculat, apuntat, registrat, subscrit, afiliat
@@ -1137,7 +1138,7 @@
 -adj: mnemònic, mnemotècnic
 -adj: mòbil, movible, transportable, amovible (un càrrec), moble, portàtil, corredís, movedís, nutual (un càrrec)
 -adj: mocós, mocallós
--adj: moderat, circumspecte, ponderat, mesurat, amesurat, parsimoniós, raonable, enraonat, mòdic, madur, prudent, assenyat, digest, sensat, racional, modest, humil, senzill, caut, cautelós, parc, sobri, judiciós, reflexiu, conscienciós, responsable, escrupolós, savi, entenimentat, centrat
+-adj: moderat, circumspecte, ponderat, mesurat, amesurat, parsimoniós, raonable, enraonat, mòdic, madur, prudent, assenyat, digest, sensat, racional, modest, humil, senzill, caut, cautelós, parc, sobri, judiciós, reflexiu, conscienciós, responsable, escrupolós, savi, entenimentat, centrat, compassat
 -adj: modificable, transformable, canviable
 -adj: modificant, modificador
 -adj: molest, enutjós, importú, empipador, emprenyador (col·loquial), amoïnós, amoïnador, molestós, enfadós, feixuc, pesat, enfitós, carregós
@@ -1626,7 +1627,7 @@
 -adj: terrassenc, egarenc
 -adj: terrenal, de la Terra, tel·lúric, terraqüi, terrestre
 -adj: terrenal, terrè, terraqüi, mundanal, mundà, secular, temporal, sublunar, material, terrestre
--adj: terrorífic, terrífic, horrorós, terrible, aterridor, horrífic, espantós, horrible, horripilant, esgarrifós, esborronador, aborronador, hòrrid, esglaiós, espaventós, espaventable, paorós, apocalíptic, basardós, tremebund, tremend, atroç, esglaiador, horrorífic, temible, patibulari, espantable, infernal, esfereïdor, estremidor, dantesc, horríson, temedor
+-adj: terrorífic, terrífic, horrorós, terrible, aterridor, horrífic, espantós, horrible, horripilant, esgarrifós, esborronador, aborronador, hòrrid, esglaiós, espaventós, espaventable, paorós, apocalíptic, basardós, tremebund, tremend, atroç, esglaiador, horrorífic, temible, patibulari, espantable, infernal, esfereïdor, estremidor, dantesc, horríson, temedor, esverador, esparverador
 -adj: terrós, ocre, groguenc, callol
 -adj: terrós, terrenc, terri, terrer
 -adj: teu, de tu
@@ -1708,6 +1709,7 @@
 -adj: ventós, ventoler, rufagós, ventís, ratxós, airós
 -adj: verbal, oral, parlat
 -adj: verbós, prolix, excessiu, redundant, detallista, nimi, minuciós, verborreic (FEM verborreica)
+-adj: verbós, prolix, redundant, enrotllat (col·loquial), abundant (en paraules), lacònic (antònim)
 -adj: verd, verdós, verdosenc, olivaci, glauc, porraci (vòmit o esput)
 -adj: vergonyós, degradant, escandalós, inconfessable, infamant, humiliant, deshonorant, indigne, ignominiós, innoble, deshonrós, oprobiós, vituperiós, vilipendiós, lleig, inqualificable, pudend, repugnant, indignant, honrós (antònim), vexatori, vexant, avergonyidor
 -adj: veritable, ver, veraç, verídic, verdader, vertader, exacte, autèntic, cert, clar, demostrat, segur, provat, genuí
@@ -1908,6 +1910,7 @@
 -adj/n (vulgar): malnat, malxinat, malparit, desgraciat, cabró, bord, fill de puta (FEM filla de puta)
 -adj/n: xabià, xabienc, de Xàbia
 -adj/n: xarlatà, xerraire, enraonaire, parlador, murmurador, garlaire, rallador, lloro, cotorra (col·loquial), enraonador, barbollaire, barcellut, garganter, garoler, fluix de morro (FEM fluixa de morro), fluix de boca (FEM fluixa de llengua), moll de morro (FEM molla de morro), parler, palatreca, paroler, xarraire, xarrador, xerrador, bocafluix, bocamoll, llenguallarg, bec moll, parauler, loquaç, llengut, llarg de llengua (FEM llarga de llengua), facundiós, parlaire, garrulador, mallerenga, moll de boca (FEM molla de boca), fluix de llengua (FEM fluixa de llengua), callat (antònim), xerrim (FEM xerrima), xarrim (FEM xarrima), gralla
+-adj/n:agustí, augustinià, agustinià
 -adj/n:busca-raons, baralladís, barallós, bregós, bronquinós, renyinós, batusser, bel·licós, cerca-raons, cercabregues, buscabregues, amic de baralles, pledejaire, disputador, querellador, cerca-renous, cercafresses, espadatxí, discutidor, buscabaralles, fatxenda, provocador, breguejador (FEM breguejadora), conflictiu, picaplets, pegador, pegaire, botafoc
 -adv: a altes hores de la nit, a alta hora de la nit, a altres hores de la matinada, a alta hora de la matinada, tard de la nit
 -adv: a boca de canó, a tret de canó, a frec de roba, arran, a tocar, frec a frec, a tir
@@ -2589,7 +2592,7 @@
 -loc: val més pecar per massa que per massa poc, val més que en sobri que no que en falti, val més pecar per excés que per defecte, val més massa que massa poc
 -loc: val més tard que mai, mai no és tard quan arriba, mai no és tard quan Déu ajuda
 -loc: valgui el mot, valgui l'expressió, valgui la comparació, valgui la redundància, valgui la paraula
--loc: veure-se'n un bull, veure's negre, veure's verd, estar en un destret, estar en un compromís
+-loc: veure-se'n un bull, veure's negre, veure's verd, estar en un destret, estar en un compromís, estar amb l'aigua al coll
 -n (a la gola): raspera, rautija, rutija, aspror, raspor, irritació
 -n: abacà, cànem de Manila
 -n: abadessa, priora, superiora, mare, prefecta, guardiana, rectora, provincial
@@ -3128,6 +3131,7 @@
 -n: bacallà, abadejo, bacallar (valencià)
 -n: bacanal, orgia, disbauxa, saturnal
 -n: bacant, messalina, nimfòmana, dissoluta
+-n: badabadoc, badoc
 -n: badalot, androna
 -n: badiana, anís, anís estrellat, anís verd, matafaluga ,batafaluga
 -n: bagatge, coneixements, mitjans, experiència, saviesa, saber
@@ -3511,7 +3515,7 @@
 -n: capçal, capçalera, barana, post
 -n: capdavanter, corifeu, capitost, líder, propagandista, agitador
 -n: capdavanter, líder, mestre, messies
--n: capell, mitra (bisbe), capel (cardenal), barret, tarot, canotier, lligadura, gorra, catxutxa, boina, barretina, bicorn, birret, bonet, bombí, capota, clac, còfia, copalta, copino, cossiol, cresol, muntera (torero), pallola, pamela, panamà, rodina, salacot, teula (eclesiàstic), tiara (pontífex), tricorn, tricorni, xamberg
+-n: capell, mitra (bisbe), capel (cardenal), birreta (cardenal), barret, tarot, canotier, lligadura, gorra, catxutxa, boina, barretina, bicorn, birret, bonet, bombí, capota, clac, còfia, copalta, copino, cossiol, cresol, muntera (torero), pallola, pamela, panamà, rodina, salacot, teula (eclesiàstic), tiara (pontífex), tricorn, tricorni, xamberg
 -n: capeller, barreter, barretinaire, barretiner
 -n: capellina, vel, mocador, toca, mantellina
 -n: caperó, caperull, caperulla, caputxa, caputxó, lligadura, capellina, capmall, capota, còfia, toca, cuculla
@@ -5983,7 +5987,7 @@
 -n: militar, oficial, comandant, coronel, tinent, major, capità, arraix (islàmic)
 -n: militar, sotsoficial, sotstinent, brigada, ajudant, sergent, decurió, desener
 -n: milla anglesa, milla terrestre
--n: mil·lenarisme, apocalipticisme
+-n: mil·lenarisme, apocalipticisme, quiliasme
 -n: mil·lenni, mil·lenari
 -n: mim, mímica, pantomima
 -n: mimetisme, imitació, mimesi
@@ -7194,7 +7198,7 @@
 -n: rosari de l'esquena, rosari, espinada, columna vertebral, espina dorsal, bigal, raquis, biga de l'esquena, fil de l'esquena
 -n: rosari, pregària, paternòsters (antic), corona, saltiri
 -n: rosariaire, rosarier (FEM rosariera)
--n: rosella, ababol, ababolera, babol, buixol, gallaret, lloca, paparota, paramà, pipiripip, quiquiriquic, roseller, rosellera, caputxí, gall
+-n: rosella, ababol, ababolera, babol, buixol, gallaret, lloca, paparota, paramà, pipiripip, quiquiriquic, roseller, rosellera, caputxí, gall, badabadoc, colet
 -n: rosetó, rosassa, rosa, rosó, o (f)
 -n: ròssa (ort. pre-2017), rossa, perranya, rossí, cavall vell, mul vell
 -n: rossejat d'arròs, arròs rossejat, rossejat
@@ -8372,7 +8376,7 @@
 -v: avortar, afollar-se (les bèsties), avortir (antic), escabridar-se (una cabra), esvedellar-se (una vaca), malparir
 -v: avortar, fer fracassar, frustrar, esguerrar, deixar sense efecte, portar a no res
 -v: avortar, fracassar, fallar, fallir, fer fallida, reeixir (antònim), esguerrar-se, fer figa, fer llufa, punxar (col·loquial), tornar-se aiguapoll, anar-se'n a can Pistraus, anar-se'n en orris, anar-se'n en orri, anar en orris, anar en orri, anar-se'n al carall, anar-se'n a terra, esfondrar-se, anar-se'n a fer punyetes (col·loquial), fer la fi del cagaelàstics (col·loquial), fer un pa com unes hòsties (col·loquial), sortir el tret per la culata, eixir el tret per la culata, sortir malament, eixir malament, anar-se'n a pastar fang, anar-se'n a la merda (col·loquial), anar aigua avall, anar a l'ascla, anar-se'n a la pífia
--v: badar, dormir a la palla, jeure a la palla, estar a la lluna, estar a la lluna de València, fer el gegant, estar en la figuera, pensar en la mona de Pasqua, abstraure's, distraure's, abstreure's, distreure's, encantar-se, badocar, badoquejar, embadalir-se, entretenir-se, estar en els llimbs, enfavar-se, fer el badoc, fer el tato, jeure al jaç, estar desprevingut, pensar en les musaranyes, estar distret
+-v: badar, dormir a la palla, jeure a la palla, estar a la lluna, estar a la lluna de València, fer el gegant, estar en la figuera, pensar en la mona de Pasqua, abstraure's, distraure's, abstreure's, distreure's, encantar-se, badocar, badoquejar, embadalir-se, entretenir-se, estar en els llimbs, enfavar-se, fer el badoc, fer el tato, jeure al jaç, estar desprevingut, pensar en les musaranyes, estar distret, no atendre, estar al cel de les oques
 -v: baixar, descendir, davallar, baixar-se'n #...
 -v: balbar-se, embalbir-se, entumir-se, adormir-se, encarcarar-se, enravenar-se, inflar-se, unflar-se, encondolir-se
 -v: balderejar, anar balder, amplejar, boquejar, grandejar, anar gran, anar ample, ballar, venir balder, justejar (antònim)
