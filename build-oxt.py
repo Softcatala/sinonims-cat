@@ -49,26 +49,26 @@ def parse_line(line):
    separator = line.find(':')
    part0 = line[:separator]
 
-   withComment = re.search('-(.*) \((.*)\)', part0)
+   withComment = re.search(r'-(.*) \((.*)\)', part0)
    if withComment:
       category = '(' + withComment.group(1)+'; ' + withComment.group(2) + ')'
    else:
       category = '(' + part0[1:].strip() + ')'
 
    cleaned_line = line[(separator+1):]
-   cleaned_line = re.sub ('\\\,', ';', cleaned_line)
-   cleaned_line = re.sub (' ?#.*$', '', cleaned_line)
+   cleaned_line = re.sub (r'\\\,', ';', cleaned_line)
+   cleaned_line = re.sub (r' ?#.*$', '', cleaned_line)
    cleaned_line = cleaned_line.replace('NOFEM', '')
-   cleaned_line = re.sub ('FEM[^\)]*\)', ')', cleaned_line)
-   cleaned_line = re.sub('\( ', '(', cleaned_line)
-   cleaned_line = re.sub(' \)', ')', cleaned_line)
-   cleaned_line = re.sub(' \(\)', '', cleaned_line)
-   cleaned_line = re.sub(' ', ' ', cleaned_line) 
-   cleaned_line = re.sub(', ', ',', cleaned_line)
-   cleaned_line = re.sub(',$', '', cleaned_line)
+   cleaned_line = re.sub (r'FEM[^\)]*\)', ')', cleaned_line)
+   cleaned_line = re.sub(r'\( ', '(', cleaned_line)
+   cleaned_line = re.sub(r' \)', ')', cleaned_line)
+   cleaned_line = re.sub(r' \(\)', '', cleaned_line)
+   cleaned_line = re.sub(r' ', ' ', cleaned_line) 
+   cleaned_line = re.sub(r', ', ',', cleaned_line)
+   cleaned_line = re.sub(r',$', '', cleaned_line)
    cleaned_line = cleaned_line.strip()
-   cleaned_line = re.sub (',', '|', cleaned_line)
-   cleaned_line = re.sub (';', ',', cleaned_line)
+   cleaned_line = re.sub (r',', '|', cleaned_line)
+   cleaned_line = re.sub (r';', ',', cleaned_line)
    words = cleaned_line.split('|')
 
    #words = sorted(words, key=collator.getSortKey)
@@ -130,7 +130,7 @@ def generate_output():
 wordlist = {}
 wordmeanings = {}
 
-with open(DATA, 'r') as dades:
+with open(DATA, 'r', encoding='utf-8') as dades:
    linies = dades.readlines()
    numlines = len(linies)
    print('Nombre de línies del fitxer: ' + str(numlines))
