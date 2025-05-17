@@ -276,7 +276,7 @@ public class Dictionary {
       "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV", "satanisme", "pantanada", "clafert",
       "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar", "dana",
       "caiuc", "robinson", "americanet", "Xangri-La", "jogueroi", "bangladeshià", "tucuixi", "temacle", "temarro",
-      "aquaplàning", "óblast", "franquiciar");
+      "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
