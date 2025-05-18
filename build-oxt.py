@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 # -*- encoding: utf-8 -*-
 #
 # Copyright (c) 2021 Joan Montané <jmontane@softcatala.org>
