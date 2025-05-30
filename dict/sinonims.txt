@@ -1922,7 +1922,7 @@
 -adv: a collibè, a cavall, cama ací cama allà, al be, a la xirinxina, a becameta, a becoll, a collbotet
 -adv: a contracor, a desgrat, a repèl (ort. pre-2017), a repel, a contrapel, a contrapèl (ort. pre-2017), de mal talent, de mala gana, per força, per obligació, a remà, sense ganes
 -adv: a cop calent, a colp calent, sense reflexionar, en calent, de calent en calent
--adv: a cop segur, a la curta o a la llarga, de totes passades, a totes passades, caigui qui caigui, costi el que costi, de qualsevol manera, de tota manera, de totes maneres, de tronc o de bronc, en qualsevol cas, en tot cas, immancablement, indefectiblement, mal que bé, mal que mal, més prompte o més tard, necessàriament, passi el que passi, per sí o per no, peti qui peti, prest o tard, sens falta, sense falta, sigui com sigui, sigui com vulgui, tant si plou com si fa sol, tant sí com no, tard o d'hora, un dia o altre, vingui el que vingui, tant si plou com si no, tant si plou com si no plou, tant si plou com si neva
+-adv: a cop segur, a la curta o a la llarga, de totes passades, a totes passades, caigui qui caigui, costi el que costi, de qualsevol manera, de tota manera, de totes maneres, de tronc o de bronc, en qualsevol cas, en tot cas, immancablement, indefectiblement, mal que bé, mal que mal, més prompte o més tard, necessàriament, passi el que passi, per sí o per no, peti qui peti, prest o tard, sens falta, sense falta, sigui com sigui, sigui com vulgui, tant si plou com si fa sol, tant sí com no, tard o d'hora, més tard o més d'hora, un dia o altre, vingui el que vingui, tant si plou com si no, tant si plou com si no plou, tant si plou com si neva
 -adv: a correu seguit, pel primer correu
 -adv: a crits, cridant, vociferant, a plena veu, a plens pulmons
 -adv: a degolla, a matadegolla, a sang i a foc, sense quarter, a espasa, a tall d'espassa, a foc i a ferro, a foc i a flama
@@ -1939,7 +1939,7 @@
 -adv: a la clara, a les clares, a la vista, a plena llum, al viu, categòricament, clar i català, clar i llampant, clar i net, clar i ras, clarament, de llis, de pla, declaradament, distintament, en una paraula, llis i ras, manifestament, net i cru, net i pelat, netament, nu i cru, obertament, ras i curt, sense ambages, sense circumloquis, sense embuts, sense pèls a la llengua, sense subterfugis, tot ras, de ple
 -adv: a la darreria, cap al final, a les darreries, a darreries
 -adv: a la gatzoneta, assegut (sobre els talons), ajupit (sobre els talons)
--adv: a la llarga, a llarg termini, a llarg terme, a llarg tret, tard o d'hora, a carrera llarga, amb el temps
+-adv: a la llarga, a llarg termini, a llarg terme, a llarg tret, tard o d'hora, més tard o més d'hora, a carrera llarga, amb el temps
 -adv: a la lleugera, a la fresca, lleugerament
 -adv: a la menuda, al detall, a l'engròs (antònim)
 -adv: a la seva, a la seua, a la dula, a lloure, amb llibertat, sense control
@@ -2401,7 +2401,7 @@
 -adv: tan, igualment, talment
 -adv: tant per tant, al mateix preu, cosa per cosa, valor per valor
 -adv: tard, a la matinada, de matinada, a hores petites, a les petites, a alta hora de la nit, a les negres de nit, a les tantes, tard de la nit, a les xicotetes, a les negres de la nit, a plena nit, gran nit, a nit closa, gran hora de la nit, a altes hores de la nit, a última hora
--adv: tard o d'hora, més prompte o més tard, prompte o tard, a la curta o a la llarga, una hora o altra, un dia o altre, prest o tard
+-adv: tard o d'hora, més tard o més d'hora, més prompte o més tard, prompte o tard, a la curta o a la llarga, una hora o altra, un dia o altre, prest o tard
 -adv: tard, tardanament, amb retard, a les quinze, a les quaranta, a les tantes, a les talúries, a tres quarts de quinze, a deshora, d'hora (antònim), a misses dites, quan tot és dat i beneït, fora de temps, a bona hora, a destemps, a l'hora del porc, en mala hora
 -adv: temporalment, momentàniament, breument, de pas, de passada, de trànsit, de raspalló, fugaçment
 -adv: tirant a, més aviat, més prompte, més aïna
@@ -2485,6 +2485,7 @@
 -indef: cada, tot (FEM tota), qualsevol, qualsevulla
 -indef: cap, algun (FEM alguna), qualque, qualcun (FEM qualcuna)
 -loc: a bon entenedor\, poques paraules, qui tingui orelles que escolti
+-loc: a bona hora, a bona hora surt el sol, a bona hora ix el sol, a bona hora te'n recordes, a estes hores pilotes noves
 -loc: a cal ferrer\, ganivet de fusta, en casa del ferrer\, ganivet de fusta, a cal sabater\, sabates de paper, en casa del ferrer és de fusta el ganivet, el sabater és qui va més mal calçat, cap sabater calça bé, ningú va més mal calçat que el sabater, el sabater duu les sabates més dolentes, els fills del sabater van descalços
 -loc: a mig pal, a mitja asta
 -loc: a sants i a minyons no els prometis que no els dons, qui promet s'obliga, qui promet ha de complir, cosa promesa\, sia atesa, tractes són tractes, el que és promès sigui atès
@@ -2525,6 +2526,7 @@
 -loc: el sant de més lluny fa més miracles, ningú és profeta a casa seva, ningú és profeta a la seva terra
 -loc: empatat, cama a cama, tants a tants, taules, empat
 -loc: en el millor dels casos, anant bé, si tot va bé
+-loc: errare humanum est, qui té boca s'equivoca, qui molt parla molt erra
 -loc: estar palplantat, fer el faristol
 -loc: etcètera, i altres, i la resta, i qualssevol, i tots altres
 -loc: fer pam i pipa, fer pamet
@@ -3505,7 +3507,7 @@
 -n: canyamel, canya de sucre, canya dolça
 -n: canyís, canat, encanyissat
 -n: cap, apoderat, cabdill, cacic, capatàs (FEM capatassa), capdanser, capdavanter, capitost, capità, comanador, degà, directiu, director, dirigent, encarregat, gerent, jerarca, jerarquia, líder, mestre, patró, perfecte, portaveu, president, principal, rector, regent, amo, propietari, responsable, senyor, superior (FEM superiora), sobirà, conduïdor, conductor, guia, adalil, mestressa, intendent (FEM intendenta), majordom, cappare, cervell (col·loquial), dux (a Venècia i Gènova), exarca, patriarca, governador, valí (en països islàmics), nabab (a l'Índia) # separar?
--n: cap, cable, corda, llibant, amarra, vent, frenell, cadena, fil, soga, llaç, dogal, maroma, samuga, cabestre, corretja, tirant
+-n: cap, cable, corda, llibant, amarra, vent, frenell, cadena, fil, soga, llaç, dogal, maroma, samuga, cabestre, corretja, tirant, sima
 -n: cap, capçalera, principi, començament, inici, iniciació, començ, conat, ram
 -n: cap, crani, testa, crisma, closca, tupí, clepsa, magí (col·loquial), caparró (diminutiu), capet (diminutiu), carabassot (col·loquial), coco (col·loquial), cadolla (col·loquial), testerola (col·loquial), perola (col·loquial), xolla, cascarra (cap descobert)
 -n: cap d'estat, primer mandatari, president, rais (Egipte)
@@ -5072,6 +5074,7 @@
 -n: fre #...
 -n: fred, fredor, gelor, fresca, frescor, fredorada, gelabror, hipotèrmia, calor (antònim)
 -n: fredeluga, pigre, juia, judia, marinera, merita, nyivit, pebret
+-n: fredorada, onada de fred, gran fred
 -n: fregadora, polidora
 -n: fregit (NOFEM), frit (NOFEM)
 -n: freixeneda, fleixar, freixeda, freixenet
@@ -6704,7 +6707,7 @@
 -n: plaça, placeta, glorieta
 -n: placentari (NOFEM), placentat (NOFEM)
 -n: plafó, cassetó
--n: plana, planura, planícia, planella, pla, pampa, estepa, sabana, landa
+-n: plana, planura, planúria, planada, ras, planícia, planella, pla, pampa, estepa, sabana, landa
 -n: plançó, planter, plantó, pollanc, pollanca
 -n: planisferi, mapamundi, mapa, carta, carta nàutica, pla, plànol, carta de navegar, carta marina, astrolabi, esfera, esfera terrestre, atles, cartograma
 -n: planta baixa, baixos
@@ -6726,7 +6729,7 @@
 -n: plorera, ganes de plorar
 -n: pluja d'estels, Perseids, llàgrimes de Sant Llorenç, pluja de meteors
 -n: pluja, ploguda, aiguat, ruixat, xàfec, aiguada, aiguarrada, batut, ruixada, arruixada, diluvi, terrabastada, plujat, barrumbada, xafegada, xarrabascat, ramassada, xarbot, xarbotada, ramalada, tempirada, xapallada, ram d'aigua, espolsó (col·loquial)
--n: pluja, plugim, plovisqueig, plovisc, ploviscó, brusca, roina, xim-xim, ploviscol, borrim, brusquina, plovineig, ploviteig, ramitxó, ruixim, aiguamoix, gotim, gotellada, polsim, mull-mull
+-n: pluja, plugim, plovisqueig, plovisc, ploviscó, brusca, roina, xim-xim, ploviscol, borrim, brusquina, plovineig, ploviteig, ramitxó, ruixim, aiguamoix, gotim, gotellada, polsim, mull-mull, gotellim, goteig
 -n: plumier, estoig
 -n: plurilingüisme, multilingüisme, poliglotisme, bilingüisme, trilingüisme
 -n: plutocràcia, oligarquia
@@ -7904,6 +7907,7 @@
 -n: verset, versicle, antífona
 -n: vertigen, rodament de cap, basqueig, mareig, marejada, marejol, torba de cap, trontoll, atordiment, atarantament, atabalament, amoïnament, cap-rodo
 -n: vesícula biliar, bufeta biliar, bufeta de la bilis, bufeta del fel
+-n: vesícula, veixiga, bufeta, bufa
 -n: vespra, vigília, vetla, vetlla
 -n: vespres, vigílies
 -n: vesta, comparsa
@@ -8207,7 +8211,7 @@
 -v: agafar la traça, dominar, trobar la manera
 -v: agafar, prendre, encaminar-se, enfilar, acarrerar-se, orientar-se
 -v: agafar, prendre, reeixir, prendre peu
--v: agenollar-se, prosternar-se, prostrar-se, reverenciar, reverir, flectar
+-v: agenollar-se, prosternar-se, prostrar-se, reverenciar, reverir, flectar el genoll
 -v: agitar, armar enrenou, armar escàndol, armar la grossa, armar rebombori, armar un cacau, armar un canyaret, armar un cartapell, armar un enrenou, armar un escàndol, armar un sagramental, armar un sarau, armar un sidral, armar un tol·le-tol·le, armar-la, armar-la grossa, avalotar, causar un daltabaix, cercar bregues, escandalitzar, escarotar, escarotar el galliner, esgarrifar, esvalotar, esvalotar el galliner, esverar el galliner, fer tronar i ploure, fer un espectacle, fer una escena, haver-hi un sagramental, moure brega, moure fressa, moure raons, moure un sagramental, moure xivarri, armar un Cristo, tempestejar, tabalejar
 -v: agonitzar, estar a les acaballes, estar morint-se, estar entre la vida i la mort, tenir un peu a la tomba, tenir un peu al clot, tenir un peu al calaix, estar en l'article de la mort, estar en passament, estar leri-leri, estar a les portes de la mort, anar-se'n, estar a les últimes, tenir les hores comptades, estar a les tres pedretes, tenir mala peça al teler
 -v: agradar, al·lucinar (col·loquial), flipar (col·loquial), acontentar, fer goig, delectar, delitar, adelitar, plaure, caure bé, fascinar, enlluernar, encantar, satisfer, seduir, enllepolir, enllaminir, enamorar, atreure, captivar, encativar, venir de grat, venir de gust, abellir, apetir, atraure, tirar, incitar, encisar, solaçar, divertir, entretenir, alegrar, recrear, refocil·lar, animar, entrar per l'ull dret, caure en gràcia, caure en grat, fer gràcia, fer patxoca, llepar-se els bigotis, mirar de bon ull, donar bo, fer bo, temptar, veure amb bons ulls, fer enveja, fer de bon veure, fer de bon mirar, barrufar (col·loquial), desagradar (antònim), #separar
@@ -9699,8 +9703,8 @@
 -v: pledejar, litigar
 -v: plegar, plegar la feina
 -v: plomar, esplomar, esplomissar, desplomar
--v: ploure, descarregar, diluviar, ploure a bots i barrals, entreploure, caure gotes, tempirar, terrabastejar, ploure a semalades, fer un aiguat, fer un xàfec, ploure a poalades
--v (ploure lleugerament): ploure, roinejar, plovisquejar, repixar, espurnejar, gotejar, ploviscar, borrimejar, roinar, brusquejar, brusquinejar, gotellimar, fer xim-xim, plovinejar, plovitejar, emplujar-se, caure quatre gotes, cerndre, llagrimejar
+-v: ploure, descarregar, diluviar, ploure a bots i barrals, entreploure, tempirar, terrabastejar, ploure a semalades, fer un aiguat, fer un xàfec, ploure a poalades
+-v (ploure lleugerament): ploure, roinejar, plovisquejar, repixar, espurnejar, gotejar, ploviscar, borrimejar, roinar, brusquejar, brusquinejar, gotellimar, fer xim-xim, plovinejar, plovitejar, emplujar-se, caure gotes, caure quatre gotes, cerndre, llagrimejar
 -v: ploure sobre banyat, ploure sobre mullat
 -v: poar, pouar, extraure, extreure, bombar, obtenir, traure, treure, manxar, bombejar
 -v: poblar, habitar, residir, viure
