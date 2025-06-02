@@ -1,4 +1,4 @@
-FROM maven:3-jdk-11 as build
+FROM maven:3.9.6-eclipse-temurin-17 as build
 
 COPY server /tmp/server
 

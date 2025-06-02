@@ -483,7 +483,7 @@
 -adj: desitjós, anhelós, àvid, cobejós, cobdiciós, delerós, assedegat, delirós, ansiós, sedec, sedegós, delejant, afamat, llaminer, apetent, ambiciós, ganós, anhelant, adelerat, gelós, caldós
 -adj: desllorigat, desconjuntat, desmanegat, desarticulat, desencaixat, desguitarrat
 -adj: desmaiat, sense sentits, esbalaït
--adj: desmemoriat, distret, desatent, inatent (FEM inatenta), oblidadís, amnèsic, oblidós, descuidat, descurat
+-adj: desmemoriat, distret, desatent, inatent (FEM inatenta), oblidadís, amnèsic, oblidós, descuidat, descurat, despistat
 -adj: desmesurat, de ca l'ample, de cal Déu, de por, de tots els déus, de l'hòstia (col·loquial), de campionat, molt gran
 -adj: desmesurat, enorme, colossal, majúscul, greu, molt gran, garrafal (un error), abismal, com una casa, de l'alçada d'un campanar, com un temple, com una casa de pagès, com una catedral, tremend, descomunal, gegantesc, monstruós, terrible
 -adj: desnatat, descremat
@@ -792,7 +792,7 @@
 -adj: gallinaci, gal·linaci
 -adj: garriguenc, garrigós, silvestre
 -adj (gènere literari): negre, detectivesc, de detectius
--adj: generós, munífic, esplèndid, liberal, munificent, desprès, rumbós, pròdig, altruista, magnànim, caritatiu, llarg, bondadós, despecec (antic), lliberal, donador, llarg en el donar, amic de donar, avar (antònim)
+-adj: generós, munífic, esplèndid, liberal, munificent, desprès, rumbós, pròdig, altruista, magnànim, caritatiu, llarg, bondadós, despecec (antic), lliberal, donador, llarg en el donar, amic de donar, avar (antònim), desinteressat
 -adj: genital, genitori, sexual, generador, reproductiu, veneri
 -adj: geniüt, carrinya, rampellut, colèric, rabiüt, iracund, irascible, de geni fort, del morro fort, furiós, irritable, felló, biliós, violent, atrabiliari
 -adj (genolls junts): camatort, sancallós, genoll valg
@@ -897,6 +897,7 @@
 -adj: impúdic, descarat, insolent, procaç, desvergonyit, atrevit, fresc, impudent, pocapena, llengut, llenguerut, llenguallarg, pocavergonya, desbocat, maldient, irrespectuós, grosser, irreverent, incívic
 -adj: impune, indemne, exempt, lliure, dispensat, impunit, inexpiat, castigat (antònim)
 -adj: imputable, atribuïble, allevadís
+-adj: in crescendo, en augment, creixent, en creixement
 -adj: inacceptable, imbevible, infumable, immenjable, de mala qualitat
 -adj: inacceptable, inadmissible, injustificable, inexcusable, impassable, inadoptable, insostenible, intolerable, infumable, irresistible, vitand
 -adj: inaccessible, inassequible, inassolible, inabastable, inaconseguible, inabordable
@@ -924,6 +925,7 @@
 -adj: increïble, inconcebible, per a llogar-hi cadires, inimaginable, inversemblant, fabulós, impensable, incomprensible, inaudit, insòlit, inoït, ordinari (antònim), creïble (antònim), insostenible
 -adj: inculpat, acusat, delat (antic FEM delada), imputat, culpable, incurs
 -adj: inculte, incultivat, erm, ermós, silvestre, salvatge, agrest, cultivat (antònim)
+-adj: incuriós, desinteressat, displicent
 -adj: indecís, insegur, vacil·lant, hesitant, irresolt, titubejant, dubitatiu, dubtós, incert, confús, irresolut, parat, aturat, indeterminat, cagadubtes, trencallós, resolut (antònim)
 -adj: indígena, natural, nadiu, aborigen, autòcton, oriünd, vernacle, natiu, genuí, vernacular, local, endèmic, tòpic
 -adj: indigerible, impaïble, indigest, indigestible, inassimilable
@@ -1849,7 +1851,7 @@
 -adj/n: menjacapellans, anticlerical
 -adj/n: metziner, emmetzinador, enverinador, intoxicador
 -adj/n: milhomes, milhòmens, gall, gallet, trencapins, fatxenda, fatxender, pinxo, perdonavides, cregut, fanfarró, xulo (col·loquial; castellanisme), provocador, barbamec, fantasma
--adj/n: milionari, capitalista, potentat, adinerat, plutòcrata, multimilionari, ric, acabalat, cabalós, amonedat, opulent, hisendat, benestant, burgès, oligarca, nabab
+-adj/n: milionari, capitalista, potentat, adinerat, plutòcrata, multimilionari, ric, acabalat, cabalós, amonedat, opulent, hisendat, benestant, burgès, oligarca, nabab, folrat (col·loquial)
 -adj/n: minuciós, profund, meticulós, remirat, escrupolós, primmirat, curós, precís, rigorós, detallista, llepafils, ordenancista, formalista, acurat, primfilat, nimi, puntimirat, lligamosques, puntós, conscienciós, perepunyetes, exigent, zelós, perfeccionista, teclós (col·loquial), mirat, tocat, tocat i posat (FEM tocada i posada), repelós, esqueller
 -adj/n: mofeta, mofaire, mofador, burler, burleta, rifaire, burlaner, bromista, plaga, burlador, trufador, foteta (col·loquial)
 -adj/n: moro, magribí, magrebí
@@ -1985,6 +1987,9 @@
 -adv: ad hoc, a propòsit, per a això, expressament
 -adv: ad infinitum, indefinidament, sense límit
 -adv: aferrissadament, amb dents i ungles, a estiracabells, amb totes les armes, amb aferrissament, a punys i a punyades, a punyades i escabellades #a aferrapilla
+-adv: airosament, amb desimboltura, amb aplom, amb seguretat
+-adv: airosament, brillantment, reeixidament, exitosament, victoriosament, triomfalment, amb solvència
+-adv: airosament, elegantment, amb distinció, amb estil, amb gràcia
 -adv: així, d'aquesta manera, doncs, aleshores, llavors, en aquest cas, idò
 -adv: així, de la mateixa manera
 -adv: així, tant, talment, de tal manera
@@ -5946,6 +5951,7 @@
 -n: menstruar, baixar el cos, tenir la regla
 -n: menta (gènere), herba-sana, poliol
 -n: mentida, mentira (valencià), mentirola (col·loquial)
+-n: mentida pietosa, mentida piadosa, mitja veritat, eufemisme, mentida benintencionada
 -n: menudall, menudalla, bocinalla
 -n: menudesa, petitesa, parvitat, exigüitat, tenuïtat, xiquesa, insignificança, irrisorietat, infimitat
 -n: menuts, menuderies, menúncies, menudències, minúcies, vísceres, entranyes, nyítols, butza, ganyil (de la tonyina), ventre, ventresca, coradella, moca, freixura

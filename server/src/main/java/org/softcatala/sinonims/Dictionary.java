@@ -61,7 +61,6 @@ public class Dictionary {
 
   private static JLanguageTool ltCat;
   private static JLanguageTool ltCatVal;
-  private static Language langCatVal;
   private static CatalanTagger tagger;
   private static CatalanSynthesizer synth;
   private static MorfologikMultiSpeller speller;
@@ -276,7 +275,8 @@ public class Dictionary {
       "ressuat", "de can passavia", "bentornat", "flamisell", "opinòleg", "TPV", "satanisme", "pantanada", "clafert",
       "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar", "dana",
       "caiuc", "robinson", "americanet", "Xangri-La", "jogueroi", "bangladeshià", "tucuixi", "temacle", "temarro",
-      "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó");
+      "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó", "en pac de", "qüens",
+      "tito", "ionqui");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -286,24 +286,25 @@ public class Dictionary {
     caCollator.setStrength(Collator.IDENTICAL);
     mainDict = new TreeMap<String, List<Integer>>(caCollator);
 
-    langCatVal = new ValencianCatalan();
-    ltCatVal = new JLanguageTool(langCatVal);
-    ltCat = new JLanguageTool(new Catalan());
+    ltCatVal = new JLanguageTool(ValencianCatalan.getInstance());
+    ltCat = new JLanguageTool(Catalan.getInstance());
+
     ltCat.disableRule("UPPERCASE_SENTENCE_START");
     ltCat.disableRule("MORFOLOGIK_RULE_CA_ES");
     ltCat.disableRule("CA_SIMPLEREPLACE_DIACRITICS_IEC");
     ltCat.disableRule("ALTRE_UN_ALTRE");
     ltCat.disableRule("EXIGEIX_VERBS_CENTRAL");
     ltCat.disableRule("DISFRUTAR");
+    ltCat.disableRule("EXIGEIX_POSSESSIUS_V");
     ltCat.disableCategory(new CategoryId("PUNCTUATION"));
     ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();
     synth = (CatalanSynthesizer) ltCatVal.getLanguage().getSynthesizer();
-    speller = new MorfologikMultiSpeller("/ca/ca-ES-valencia.dict", Collections.<String>emptyList(), null, 1);
+    speller = new MorfologikMultiSpeller("/ca/ca-ES-valencia.dict", Collections.singletonList("/ca/spelling.txt"), null, 1);
 
     ResourceBundle messages = JLanguageTool.getDataBroker().getResourceBundle(JLanguageTool.MESSAGE_BUNDLE,
         new Locale("ca"));
-    morfologikRule = new MorfologikCatalanSpellerRule(messages, langCatVal, null, null);
+    morfologikRule = new MorfologikCatalanSpellerRule(messages, ValencianCatalan.getInstance(), null, null);
 
     ThesaurusServer.log("Reading source and building dictionary.");
     if (conf.production.equalsIgnoreCase("yes")) {
