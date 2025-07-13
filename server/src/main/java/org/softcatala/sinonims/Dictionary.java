@@ -276,7 +276,7 @@ public class Dictionary {
       "de trucalembut", "irrecompensable", "fritfrit", "gaitó", "ram pataplam", "regantellar", "escallimpar", "dana",
       "caiuc", "robinson", "americanet", "Xangri-La", "jogueroi", "bangladeshià", "tucuixi", "temacle", "temarro",
       "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó", "en pac de", "qüens",
-      "tito", "ionqui", "insocial", "community manager", "road manager");
+      "tito", "ionqui", "insocial", "community manager", "road manager", "casota", "esgarradet");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
