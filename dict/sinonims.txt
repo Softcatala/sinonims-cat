@@ -2318,7 +2318,7 @@
 -adv: mot per mot, mot a mot, literalment, exactament, textualment
 -adv: mundialment, universalment, internacionalment, globalment, ecumènicament, generalment, còsmicament
 -adv (música): ritardando (italià), rallentando (italià), retardant, ritenuto (italià)
--adv: mútuament, bilateralment, recíprocament, respectivament, mutualment, a tornajornals, a la recíproca
+-adv: mútuament, bilateralment, recíprocament, respectivament, mutualment, a tornajornals, a tornajornal, a tornallom, a la recíproca
 -adv: negativament, destructivament, perjudicialment, nocivament
 -adv: no, de cap manera, en absolut, en cap cas, per res del món, per cap concepte, mai de la vida, ni en somnis, ni per miracle, ni remotament, ni per pensament, ni per espillera, ni per una espillera, mai dels mais, mai del món, mai per mai, ni per un mal de morir
 -adv: no gens, ni poc ni molt, ni poc ni gaire, absolutament gens
@@ -2703,8 +2703,8 @@
 -n: activitat, agitació, moviment, efervescència, mobilitat, animació, vida, bellugor, bellugadissa, bullidera, ritme, nervi, acció, tràfec, trontoll, furor, tragí, vivacitat, brio (música)
 -n: activitat, diligència, promptitud, rapidesa, rapiditat, dinamisme, velocitat, lleugeresa, vivacitat, celeritat, agilitat, prestesa, cuita, llestesa, acceleració, alacritat, vivesa, vivor, expeditesa, soltesa, hiperactivitat
 -n: activitat, eficàcia, energia, virtut, potència
--n: actor, actriu, partiquí (FEM partiquina), cantatriu, divo
 -n: actor (m), actriu (f), comediant, còmic, intèrpret, histrió, bufó, albardà, galant, col·loquier (FEM col·loquiera), pantomim, mim, humorista, truà (antic FEM truana)
+-n: actor (m), actriu (f), partiquí (FEM partiquina), cantatriu, divo
 -n: actualització, posada al dia, modernització, renovació, restabliment, reciclatge, restauració
 -n: acudit, broma, conya (col·loquial), estirabot, estirabec, gràcia, ocurrència, plasenteria, sortida, eixida, humorada, pensada, dita, facècia, feta, extravagància, folga, absurditat, atzagaiada, gag (anglès), xanxa, verba
 -n: acufen, tinnitus
@@ -2727,8 +2727,8 @@
 -n: adulació, afalac, encensada, llepada, lausengeria (antic), llagot, llagoteria, afalagament, raspallada, ensabonada, blandícia, ditada de mel
 -n: adulador, rentacares, llavacares, llepa (col·loquial), llepacrestes (col·loquial), llepaire (col·loquial), llagoter, besaculs (col·loquial), llepaculs (col·loquial), escolà d'amén, conseller de la cabotada, llepó (col·loquial FEM llepona), llepafigues (col·loquial) #llepabotes és més nou
 -n: adveniment, vinguda, arribada, entrada
--n: advertència, advertiment, avís, escarment, exemple, lliçó, experiència, amonestació, amonestament
 -n: advertència, advertiment, avís, amonestació, amonestament, admonició, requeriment (dret), citació (dret), disposició
+-n: advertència, advertiment, avís, escarment, exemple, lliçó, experiència, amonestació, amonestament
 -n: advocat, defensor, intercessor, campió, paladí, heroi
 -n: advocat, lletrat, causídic (antic), picaplets (despectiu), jurista, jurisconsult, jurisperit, jurisprudent, procurador, matrimonialista, passant
 -n: aerogenerador, aeromotor, molí de vent
@@ -3485,7 +3485,7 @@
 -n: cambra alta, Senat
 -n: cambra baixa, Congrés
 -n: cambra de bany, bany, lavabo
--n: cambra, estança, habitació, peça, sala, saló, gabinet, estudi, bufet, aula, classe, taller, obrador, despatx, local, quadra (antic), divan, dependència, consulta, consultori, oficina, seminari
+-n: cambra, estança, habitació, peça, sala, saló, gabinet, estudi, bufet, aula, classe, taller, obrador, despatx, local, quadra (antic), divan, dependència, consulta, consultori, oficina, seminari, cabina
 -n: cambrer, bàrman, maître, mestre-sala
 -n: cambrer, majordom, domèstic, servent, servidor, grum, ordenança, mosso
 -n: camell, dromedari
@@ -5004,7 +5004,6 @@
 -n: festa, passatemps, diversió, entreteniment, guilindaina, comboi, divertiment, solaç, esbargiment, xala, xalada
 -n: festa, revetlla, revetla, ball, sarau, recepció, galeig, moixiganga, cerimònia, festival
 -n: festassa, festarra, macrofesta, macrobotellada
--n: festeig, nuviatge, prometatge
 -n: fester, correlestotes (col·loquial), sarauista, cràpula, barriler, barrilaire
 -n: fester, festaire
 -n: fester, teiera, teera
@@ -5703,6 +5702,7 @@
 -n: llamàntol, llobregant, grimaldo
 -n: llamenqueria, escrupolositat, delicadesa, mania, escrúpol, aversió, repugnància
 -n: llamp, llampó, llampada, llampec, llampuc, llampuga, esclat, descàrrega, sageta, rellamp, llucet
+-n: llampadissa, llampegadissa
 -n: llampurnetes, pampallugues, llumenetes
 -n: llança, alabarda, asta, atzagaia, dard, pica, relló, ascona, ast
 -n: llançament, projecció, expulsió, ejecció, emissió, impuls, impulsió
@@ -5945,7 +5945,7 @@
 -n: marea sortint, reflux, contramarea
 -n: marès (NOFEM), tosca, serrada, pedra tosca
 -n: mare-selva, lligabosc, santjoanera, xuclamel
--n: maresme, mareny, aiguamoll, sorramoll, marjal, aiguamoix, maresma, aigual, mulladiu, xapull, patamoll, mollera, mollal, aigüerol, aiguamort, marenda
+-n: maresme, mareny, aiguamoll, sorramoll, marjal, aiguamoix, maresma, aigual, mulladiu, xapull, patamoll, mollera, mollal, aigüerol, aiguamort, marenda, schorre (neerlandès)
 -n: marge, margenal, graó, vora, vorada, espona, vorellada, limbe, perifèria, voral
 -n: margener (FEM margenera), marger (FEM marger), margenador (FEM margenador), amargenador (FEM margenadora), paredador (FEM paredadora)
 -n: maridatge, unió, enllaç, maridar, vincle
@@ -5979,7 +5979,7 @@
 -n (matemàtiques): trencat, nombre trencat, nombre fraccionari, fracció
 -n: matí, alba, dematí (col·loquial)
 -n: mató, brossat, recuit, ricotta (italià), brull, formatget
--n: matrimoni, casament, boda, noces, esposalles, enllaç, himeneu, esposori, casori (col·loquial), maridatge (d'una dona), enllaç matrimonial, núpcies, desposori, casamenta (col·loquial), maridar
+-n: matrimoni, casament, boda, noces, enllaç, himeneu, esposori, casori (col·loquial), maridatge (d'una dona), enllaç matrimonial, núpcies, casamenta (col·loquial), maridar
 -n: matrimoni, connubi, conjugi, aliança, unió, unió conjugal, conjunció
 -n: matrimoni, marit i muller, parella, unió de fet
 -n: matxina, martinet
@@ -6234,6 +6234,7 @@
 -n: nàusea, nàusees, basca, basqueig, mareig, ois, oix, arcada, mal de mar, ànsies, angoixa, agonia (valencià), bossera (col·loquial), tragit, vomitera
 -n: nàusea, nàusees, fàstic, repugnància, aversió, repulsió, avorriment, avorrició, ois, oix, aprensió, escrúpol
 -n (nàutica): arborada, arboradura
+-n (nàutica): cabina, cambrot
 -n (nàutica; classes de vela): vela, trinquet, trinqueta, triangle, tercerol (NOFEM), treu, turmentí, velatxo, velisa, tallavent, sobreperroquet, sobremitjana, sobregoneta, sobrecivadera, sobre, seca, salvatot, rastrera, pollacrí, pollacra, petifloc, perroquet, papafiga, messa, guaira, gratacel, goneta, gàbia, floc, faldona (vela deformada), estai, espinàquer, escandalosa, drap, contrafloc, cangrea, boneta, bermudiana, bergantina, baticul, bastarda, artimó, ala
 -n (nàutica): masteler, pal, perroquet
 -n (nàutica): quadrant, sextant, quintant, astrolabi
@@ -6889,7 +6890,7 @@
 -n: postració (forma secundària), prostració
 -n: postres, fruita, llevants, darreries
 -n: postura, oferta, posta
--n: pou mort, pou sec, pou cec, pou negre
+-n: pou mort, pou sec, pou cec, pou negre, fossa sèptica
 -n: pràctica, aplicació, exercici, exerció, conreu, praxi, cultiu
 -n: pràctica, veterania, perícia, experiència, expertesa, destresa, habilitat (f), competència, eficiència, validesa
 -n: pràctiques, pràcticum
@@ -6958,6 +6959,8 @@
 -n (projectil): projectil, bala, plom, bomba, coet, obús, granada, llança, dard, sageta, ascona, atzagaia, fletxa, torpede, bomba volant, míssil, antimíssils, antiginys, antiprojectil, ogiva nuclear, cap nuclear, ogiva
 -n: prole, fillada, fratria, família, progenitura, descendència, progènie, descendents, llocada, niuada, niada, cadellada, covada
 -n: proliferació, abundància, multiplicació, profusió, esplet, abundor, augment
+-n: prometatge, esposalles, esposori, esponsalici, desposori, promesa de matrimoni
+-n: prometatge, festeig, nuviatge
 -n: prominència, protuberància, sortint, elevació, eminència, turgència, gep, altura, relleu, ressalt, bony, cella, ixent, relleix
 -n: promoció, entronització, elevació, ascens, nomenament, proclamació, Assumpció (de la Mare de Déu)
 -n: pronòstic, prognosi, previsió, conjectura, vaticini
