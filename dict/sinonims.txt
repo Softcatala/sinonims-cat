@@ -334,6 +334,7 @@
 -adj: cobejable, desitjable, envejable
 -adj: cobejable, desitjable, llépol, llaminer, abellidor, apetible, atractiu, irresistible, seductor, enllepolidor, enllaminidor #...
 -adj: cobrador, exigible, recuperable, cobrable
+-adj: coccigi, coccigeal
 -adj: coent, picant, ardent, cremant
 -adj: coetani, fedal, equiennal (silvicultura)
 -adj: cohesiu, agregador, enllaçador, aglutinador, aglutinant, unificador
@@ -1947,6 +1948,7 @@
 -adv: a borbollons, a borbolls, a patolls, desordenadament, tumultuosament, a borbollades, a forfollons, a glopades, a la desbandada
 -adv: a collibè, a cavall, cama ací cama allà, al be, a la xirinxina, a becameta, a becoll, a collbotet
 -adv: a contracor, a desgrat, a repèl (ort. pre-2017), a repel, a contrapel, a contrapèl (ort. pre-2017), de mal talent, de mala gana, per força, per obligació, a remà, sense ganes
+-adv: a contrapeu, amb el pas canviat
 -adv: a cop calent, a colp calent, sense reflexionar, en calent, de calent en calent
 -adv: a cop segur, a la curta o a la llarga, de totes passades, a totes passades, caigui qui caigui, costi el que costi, de qualsevol manera, de tota manera, de totes maneres, de tronc o de bronc, en qualsevol cas, en tot cas, immancablement, indefectiblement, mal que bé, mal que mal, més prompte o més tard, necessàriament, passi el que passi, per sí o per no, peti qui peti, prest o tard, sens falta, sense falta, sigui com sigui, sigui com vulgui, tant si plou com si fa sol, tant sí com no, tard o d'hora, més tard o més d'hora, un dia o altre, vingui el que vingui, tant si plou com si no, tant si plou com si no plou, tant si plou com si neva
 -adv: a correu seguit, pel primer correu
@@ -3918,6 +3920,7 @@
 -n: complexió, constitució
 -n: complexitat, dificultat, complicació, embolic, embrolla, enrevessament, tramoia, tripijoc, laberint, embull, intríngulis (col·loquial)
 -n: compra, venda, compravenda, traspàs, transacció
+-n: comprador, adquirent, adquiridor
 -n: comptabilitat, compte d'explotació, estat de comptes, full de càlcul, llibre de caixa, balança comercial, comptes
 -n: comptabilitat, tinguda de llibres, tenidoria, comptes
 -n: comptaquilòmetres, podòmetre, hodòmetre, velocímetre
@@ -4522,7 +4525,7 @@
 -n: embaràs, prenyat, prenyamenta (col·loquial), pseudociesi (embaràs fals), gestació, maternitat, bombo (col·loquial)
 -n: embarbussament, travallengua, joc de paraules, entrebancallengua
 -n (embarcació): balener (NOFEM), barco, bombarda, caçamines, caçatorpeders, cala-xàrcies, carboner (NOFEM), cuirassat, destructor, fragata, galera, galió, guardacostes, guardapesca, liburna, llondro, mercant, metaner, monitor (NOFEM), nau, navili, pesquer, patruller (NOFEM), piròscaf, pollacra, portaaeronaus, portaavions, portabarcasses, portacontenidors, remolcador, transatlàntic, trencagel, vaixell, vapor, embarcació, bastiment, lleny, paquebot, pailebot, goleta, corbeta, bricbarca, bacallaner (NOFEM), balancel·la, bergantí, bergantina, beta, butaner, cabler, canonera, càrava, caravel·la, caro, catamarà, trimarà, cúter, dogre, draga, dragó, fusta (antic), gànguil, iot, junc, llagoster (NOFEM), llagostiner, multibuc, palangrer (NOFEM), pàmfil, panescalm, pescamines, pontó, quetx, quillat, sagetia, sardinalera, sultana, tarida, tartana, torpeder, transbordador, urca (antic), veler (NOFEM), xabec, carraca
--n (embarcació petita): embarcació, barcassa, pastera, bateu, bot, esquif, iota, xalupa, balenera, barca, birrem, caiac, caiot, canoa, canot, catxamarina, clíper, escampavies, faluga, falua, falutx, finn, forabord, gavarra, góndola, gróndola, hidrolliscador, hidroplà, insubmergible, iol, iola, jangada, rai, llanxa, llanxeta, xalana, lugre, llaüt, llagut, monotip, moto aquàtica, navei, optimist, patí, patinador, pinc, piragua, planadora, planxa de vela, sampan, umiac, xata, xaica, gussi, ransal, caïc, caiuc, teranyina, traïnya
+-n (embarcació petita): embarcació, barcassa, pastera, bateu, bot, esquif, iota, xalupa, balenera, barca, birrem, caiac, caiot, canoa, canot, catxamarina, clíper, escampavies, faluga, falua, falutx, finn, forabord, gavarra, góndola, gróndola, hidrolliscador, hidroplà, insubmergible, iol, iola, jangada, rai, llanxa, llanxeta, xalana, lugre, llaüt, llagut, monotip, moto aquàtica, navei, optimist, patí, patinador (NOFEM), pinc, piragua, planadora, planxa de vela, sampan, umiac, xata, xaica, gussi, ransal, caïc, caiuc, teranyina, traïnya
 -n: embassament, pantà, resclosa, presa
 -n: emboçar, boçar, embridar
 -n: embolcall, bolquer, trossa, bolquers
@@ -10017,7 +10020,7 @@
 -v: rinxolar, enrinxolar, caragolar, enrinxar-se, ondar, enroscar, arrissar, rullar
 -v: rinxolar, roncar, ronxar
 -v: ritmar, sincopar, compassar
--v (riure molt): riure, anar a bacs, riure per les butxaques, petar-se de riure, pixar-se de riure, desfer-se de riure, esqueixar-se de riure, clavar-se a riure, desllorigar-se de riure, esbotzar-se de riure, cruixir-se de riure, morir-se de riure, descollonar-se (col·loquial), baquejar-se de riure, trencar-se de riure, caragolar-se de riure, partir-se de riure, rebentar-se de riure, descosir-se de riure, riure pels colzes, petejar-se de riure, esclatar-se de riure
+-v (riure molt): riure, anar a bacs, riure per les butxaques, petar-se de riure, pixar-se de riure, desfer-se de riure, esqueixar-se de riure, clavar-se a riure, desllorigar-se de riure, esbotzar-se de riure, cruixir-se de riure, morir-se de riure, descollonar-se (col·loquial), baquejar-se de riure, trencar-se de riure, caragolar-se de riure, partir-se de riure, rebentar-se de riure, descosir-se de riure, riure pels colzes, petejar-se de riure, esclatar-se de riure, encanar-se, encanar-se de riure
 -v: rivalitzar, competir, emular, contendre, enfrontar-se, lidiar, contrapuntar-se
 -v: robotitzar, automatitzar
 -v: rodar el cap, sentir vertigen, estar marejat, marejar-se, encaparrar-se
