@@ -277,7 +277,8 @@ public class Dictionary {
       "caiuc", "robinson", "americanet", "Xangri-La", "jogueroi", "bangladeshià", "tucuixi", "temacle", "temarro",
       "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó", "en pac de", "qüens",
       "tito", "ionqui", "insocial", "community manager", "road manager", "casota", "esgarradet", "extranatural",
-      "a bocafoscant", "semifalla", "brugar", "superordinat", "superordinació", "topaló");
+      "a bocafoscant", "semifalla", "brugar", "superordinat", "superordinació", "topaló", "nikkei", "ressenyista",
+      "schorre");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
@@ -768,7 +769,10 @@ public class Dictionary {
     entries.add(e);
     Integer position = entries.size() - 1;
     for (Word w : e.synonimWords) {
-      mainIndexSet.add(w.wordString);
+      if (!w.getOriginalComment().contains("antònim")) {
+        // les paraules que només apareixen com a antònims no les volem en l'índex
+        mainIndexSet.add(w.wordString);
+      }
       String wlc = w.wordString.toLowerCase();
       if (mainDict.containsKey(wlc)) {
         List<Integer> l = mainDict.get(wlc);
