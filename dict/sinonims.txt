@@ -1011,6 +1011,7 @@
 -adj: intransmissible, intraspassable, intransferible, inalienable
 -adj: introbable, rar, escàs, infreqüent, insòlit, desacostumat, desusat, desuet, excepcional, inhabitual, clar (en plural), inoït, inaudit, aberrant, anormal, atípic, extraordinari, singular, anòmal, esporàdic, ocasional, inusual, inusitat, peregrí, únic, mai no vist, sense precedents
 -adj: introductori, preliminar, inicial, primer, previ, preparatori, precedent, introductiu, proemial, isagògic
+-adj: introvertit, insociable, esquizoide
 -adj: intrús, paràsit, invasor
 -adj: intrusiu (anglicisme), intrús, indiscret, molest, invasiu, entremetent (FEM entremetenta), entremetedor, invasor
 -adj: inútil, improductiu, estèril, infructífer, eixorc, infecund, àrid, infructuós, infèrtil, erm, va, ociós, ineficaç, malaguanyat, pobre, sec, eixut
@@ -1980,7 +1981,7 @@
 -adv: a la traça, segons es veu, pel que es veu, segons sembla, pel que sembla, aparentment, segons pareix
 -adv: a la vista, sense cobrir, enlaire, a l'aire
 -adv: a l'altra banda, a la banda d'allà, allèn (antic)
--adv: a l'atzar, aleatòriament, a cara o creu, a palletes, a parells o senars, a la sort, a sorts, per sorteig, sortejant
+-adv: a l'atzar, aleatòriament, a cara o creu, a palletes, a parells o senars, a la sort, a sorts, per sorteig, sortejant # a estirapalletes, a busques
 -adv: a l'engròs, en gros, al gros
 -adv: a l'engròs, per sobre, per damunt, en gros, de puntetes, en termes generals, detalladament (antònim), en general
 -adv: a les males, a males, per força, a la força, violentament, amb coerció, forcívolament
@@ -3157,6 +3158,7 @@
 -n: autobús, autocar, òmnibus, autoòmnibus, bus, carraca (col·loquial), tròlei, troleibús, cotxe de línia
 -n: autoestima, amor propi, punt d'honor, desacomplexament
 -n: autoestop, fer dit (col·loquial), fer ganxo (col·loquial)
+-n: autogol, gol en pròpia porta, gol en pròpia porteria
 -n: automatisme, esma, rutina, hàbit
 -n: automatisme, instint, irracionalitat, indeliberació #...
 -n: autonomia, autogovern, franquícia, franquesa, separació, emancipació, llibertat, independència, sobirania, dependència (antònim), subjecció (antònim), autodeterminació
@@ -4487,7 +4489,6 @@
 -n (economia): recessió, crisi, depressió, caiguda, davallada, descens, minva, disminució, decreixement
 -n: edafologia, pedologia
 -n: edat, antiguitat, duració, durada, temps, vida, longevitat, vivent
--n: longevitat, temps de vida, esperança de vida
 -n: edat de discreció, seny, ús de raó, coneixement, sentit comú, trellat
 -n: edat madura, mitjana edat
 -n: edició, impressió, publicació, estampació, tiratge, reedició, reimpressió, estampada, tirada, reproducció
@@ -4825,6 +4826,7 @@
 -n: estatuari, escultor, imatger, imaginaire
 -n: estatuària, escultura, imatgeria
 -n: estatus, estat, condició, posició, classe, casta, categoria, estrat social, capa, rang, classe social, estat social #separar condició/capa
+-n: esteganografia, criptografia, codificació, xifratge
 -n: estel, milotxa, catxerulo, catxirulo, grua, miloca
 -n: estela, monument, monòlit, làpida, pedra, llosa, cenotafi, obelisc, lauda sepulcral, marbre
 -n: estella, esberla, ascla, ascló, esquerda, esquerdill, esquerdís, estellicó, inxa, resquill, tarranc, teia, tea, llesca
@@ -5836,6 +5838,7 @@
 -n: localitat, població, poble, vila, municipi, pobla (històric), vilatge
 -n: locomotora, màquina de tren, màquina de vapor, locomòbil
 -n: locutor, presentador, animador, moderador
+-n: longevitat, temps de vida, esperança de vida
 -n (loteria): bitllet, dècim, participació, apuntació, número
 -n: lumbàlgia, llomadura, àlgia lumbar
 -n: lumpen, lumpenproletariat, pobres, classe baixa, poble menut, baix poble, gent baixa, poble pla
@@ -6493,7 +6496,7 @@
 -n: palada, remada
 -n: paladar dur, cel de la boca, volta del paladar
 -n: paladar moll, paladar bla, vel del paladar
--n: palanca, alçaprem, perpal, barra, suport, braç
+-n: palanca, alçaprem, perpal, barra, suport, braç, perpalina
 -n: paleta, obrer, obrer de vila, obrer de cases, tapaforats (despectiu), manobre, mestre de cases (FEM mestra de cases), mestre d'obres (FEM mestra d'obres), picapedrer (a les Balears)
 -n: pallard, tiarro (col·loquial)
 -n: pallasso, histrió, bufó, albardà, clown, august (NOFEM)
@@ -7076,6 +7079,7 @@
 -n: quincalla, bijuteria, faramalla, requincalla, oripell, cul de got, galindaina, bagatel·la, lluentó, llustrí, quincalleria, bibelot, enganyabadocs, enganyabovos, mirallets de caçar aloses
 -n: quincallaire, quincaller, venedor ambulant, ferroveller
 -n: quintern, quintet, cinquet, quíntuple, quincuncis
+-n: quiròfan, sala d'operacions
 -n: quotidianitat, vida quotidiana, dia a dia
 -n: rabera, ramat, guarda, arment, folc (antic), dula, ramera, ramaderia, bestiar, bestiam
 -n: rabiola, enrabiada, rebequeria, marraneria, criaturada, esclató, reveixinament, enreveixinament, revenxinament, ruc (NOFEM), botó, potra, maliciada, emmaliciada, matxo, rabinada, acalorada, moneia
@@ -7614,7 +7618,7 @@
 -n: supervivència, subsistència, pervivència, permanència, conservació, preservació, desaparició (antònim), mort (antònim)
 -n: suputació, tant alçat, alfarràs, capmàs, preufet, barrisc, escandall, prea, preament, valoració, avaluació
 -n (suro): panna, born
--n: taba (col·loquial), xarrera, xerrameca, rall, xarrola, xerrera, xerrola, xerramenta, xerradissa, xarramenta, xarradissa, xerrim, xarrim (NOFEM), vèrbola, parloteig, claca, garola, tabarra, barbolla, xau-xau, garleries, taral·la, xerroles, xarreta, verba, verbalisme, parleria, logorrea, verborrea, parola (col·loquial)
+-n: taba (col·loquial), xarrera, xerrameca, rall, xarrola, xerrera, xerrola, xerramenta, xerradissa, xarramenta, xarradissa, xerrim, xarrim (NOFEM), vèrbola, parloteig, claca, garola, tabarra, barbolla, xau-xau, garleries, taral·la, xerroles, xarreta, verba, verbalisme, parleria, logorrea, verborrea, parola (col·loquial), bla-bla-bla (onomatopeia)
 -n: tabac, tana, picadura, escafarlata, rapè
 -n: tabacomania, tabaquisme
 -n: tabal, timbal, bateria, bombo, tambor, redoblant, tam-tam, nacra (antic), timbala, tabalet, tamborí
@@ -10147,7 +10151,7 @@
 -v: somriure, riure, enriolar-se, enriallar-se, riatxar-se, riallejar
 -v: sordejar, ser sord
 -v: sorprendre, trobar amb les mans a la pasta, trobar in fraganti, caçar, enganxar, arreplegar, atrapar, agafar, enxampar (col·loquial), sampar (col·loquial), enxarpar, pescar (col·loquial), atrapar al jaç, trobar desprevingut, agafar descuidat, agafar en pilotes (col·loquial), agafar amb els pixats al ventre, trobar amb els pixats al ventre, caçar in fraganti, enxampar in fraganti, pescar in fraganti, sorprendre in fraganti, posar en evidència, atrapar amb les mans al plat
--v: sortejar, rifar #...
+-v: sortejar, rifar, fer a la sort #...
 -v: sortir al pas, eixir al pas, fer-se trobadís, anar a l'encontre, venir a l'encontre, eixir a l'encontre, sortir a l'encontre, sortir a carrera
 -v: sortir amb un ciri trencat, sortir amb estirabots, eixir amb una flautada
 -v: sortir del cor, eixir del cor, ser sincer
