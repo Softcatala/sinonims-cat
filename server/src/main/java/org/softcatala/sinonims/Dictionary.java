@@ -278,7 +278,7 @@ public class Dictionary {
       "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó", "en pac de", "qüens",
       "tito", "ionqui", "insocial", "community manager", "road manager", "casota", "esgarradet", "extranatural",
       "a bocafoscant", "semifalla", "brugar", "superordinat", "superordinació", "topaló", "nikkei", "ressenyista",
-      "schorre", "lladoncs", "lluciferisme");
+      "schorre", "lladoncs", "lluciferisme", "cagueta", "pentura", "posteditor");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
