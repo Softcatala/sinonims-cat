@@ -66,7 +66,7 @@ public class Dictionary {
   private static MorfologikMultiSpeller speller;
 
   private final List<String> grammarCategories = Arrays
-      .asList(new String[] { "n", "adj/n", "adj", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
+      .asList(new String[] { "n", "adj/n", "adj", "adj/adv", "v", "adv", "ij", "det", "indef", "prep", "pron", "conj", "loc", });
 
   private final List<String> stopWords = Arrays.asList(new String[] { "es", "se", "s", "s'", "com", "fer", "de", "a",
       "el", "la", "en", "els", "als", "les", "per", "d", "d'", "del", "l", "l'", "pel", "-", "re", "o", "i", "no", "us",
@@ -278,7 +278,8 @@ public class Dictionary {
       "aquaplàning", "óblast", "franquiciar", "germanoparlant", "túrquic", "encausament", "atzabó", "en pac de", "qüens",
       "tito", "ionqui", "insocial", "community manager", "road manager", "casota", "esgarradet", "extranatural",
       "a bocafoscant", "semifalla", "brugar", "superordinat", "superordinació", "topaló", "nikkei", "ressenyista",
-      "schorre", "lladoncs", "lluciferisme", "cagueta", "pentura", "posteditor");
+      "schorre", "lladoncs", "lluciferisme", "cagueta", "pentura", "posteditor", "bujolada", "pèmpins", "frisbi", "cd",
+      "gamaleu", "safranòria", "forquillada", "mossar", "buldroi", "llauseta", "bosníac", "escarrufador", "priàpic");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
