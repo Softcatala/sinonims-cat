@@ -1237,6 +1237,7 @@
 -adj: nupcial, prenupcial, nuvial, matrimonial, conjugal, connubial, marital
 -adj: nyafegós, brut, llotós, llardós, tacat, untat, sollat, embrutat, safarós, empolsegat, sutjós, empastifat, llantiós, engrudós, potrós, llord, llefre, llardissós, greixós, immund, infecte, suardós, maculat, maculós, contaminat, impur, infectat, merdós, net (antònim), tacós, sutze, sòrdid
 -adj: oblic, esbiaixat, diagonal, inclinat, tort, transversal, recte (antònim)
+-adj: oblidador, oblidable, prescindible
 -adj: oblong, més llarg que ample (FEM més llarga que ampla), rectangular
 -adj: obscè, impúdic, impur, indecent, desvergonyit, indigne, llicenciós, immoral, deshonest, indecorós, verd, viciós, descarat, immund, alegre (col·loquial), pecaminós, inconvenient, escabrós, promiscu, porc (col·loquial), picant, pujat de to (FEM pujada de to)
 -adj: obsequiós, esplèndid, servicial, complimentós, amable, generós
@@ -1531,7 +1532,7 @@
 -adj: rúfol, ennuvolat, orc, gris, núvol, revolt, rebolicat, nuvolós, nuvolat, nebulós, bromós, boirat, neulós, boirós, emboirat, embromat, cobert, emboiregat, brom
 -adj: rull, arrissat, cimatòtric, escarolat, rullat, ondat (FEM ondada), rinxolat (FEM rinxolada), caragolat (FEM caragolada)
 -adj: rus, moscovita, soviètic
--adj: sa, eucràtic, catòlic (col·loquial), bo, malalt (antònim), adret, condret, sedeny (FEM sedenya), sereny, trempat, temprat, fi
+-adj: sa, eucràtic, catòlic (col·loquial), bo, malalt (antònim), adret, condret, sedeny (FEM sedenya), sereny, trempat, temprat, fi, en bon estat, en bona salut
 -adj: sabatí, del dissabte
 -adj: saborós, gustós, deliciós, apetitós, suculent, sàpid, saporífer, saporífic, mengívol, abellidor, llaminer, llépol, fat (antònim), insípid (antònim), bo, exquisit
 -adj: sacramental, sagramentat
@@ -3037,7 +3038,7 @@
 -n: arbre argentat, arbre del paradís, cínamom, arbre de plata, olivera de Bohèmia, olivera del paradís
 -n (arbre): poll, pollancre, xop, pollanc, mudella, cople, clop
 -n: arbre, vegetal, arbust, planta, mata, matoll, herba, arbrissó, arbret, arbrell
--n: arbreda, arboreda, bosc, arbrat, boscatge, boscam, selva, jungla, forest, arbratge, boscúria, floresta, taigà
+-n: arbreda, arboreda, bosc, arbrat, boscatge, boscam, selva, jungla, forest, arbratge, boscúria, floresta, taigà, bosquetó, boscarró
 -n (arbreda): arbreda, pineda, pinar, pinada, avetar, avetosa, carrasclar, fageda, fajosa, omeda, albereda, alzinar, bedollar, carrascar, cedreda, ciprerar, xiprerar, eucaliptar, floresta, freixeneda, lledonar, llorerar, omar, palmerar, pollancar, rebollar, roureda, salzeda, surar, sureda, teixar, telleda, verneda, xopada, xopar, pollancreda, pollar, auleda
 -n (arbust): arçot, espinal negre, espí negre
 -n (arbust): barbadell, tortellatge
@@ -5952,7 +5953,7 @@
 -n: mala sort, desgràcia, desventura, malanança, mala astrugància, mala estrella, mala llet (col·loquial), malastrugança, malaurança, pega, dissort, astrosia (antic), mala estrela, malfat (antic), adversitat, infortuni, infelicitat, maledicció, maleïment, fatalitat, malany, mala fortuna, infortuna
 -n: malalt, pacient, convalescent
 -n: malaltia de transmissió sexual, infecció de transmissió sexual, malaltia venèria, ITS, MTS
--n: malcriança, malacriança, malcriament, aviciadura, condescendència
+-n: malcriança, malacriança, malcriadesa, malcriament, aviciadura, condescendència
 -n: malentès, confusió, error, errada, equivocació, equívoc, incomprensió, quid pro quo
 -n: malesa, brossa, arbusts, herbes, mates, brolla, sotabosc, matoll, matollar
 -n: malestar, discòrdia, maror, mala maror, agitació, mal humor, mar de fons
