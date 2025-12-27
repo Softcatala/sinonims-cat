@@ -1909,7 +1909,7 @@
 -adj/n (nombre): parell, senar (antònim)
 -adj/n (nombre): senar, imparell, desaparellat, parell (antònim)
 -adj/n: norantí, nonagenari, de noranta anys, d'uns noranta anys
--adj/n: nou, novell, novençà, principiant, novici, neòfit, primerenc, verd, inexpert, passerell, experimentat (antònim), versat (antònim), veterà (antònim), debutant, gafarró (col·loquial), pipioli, pipiol, jovenet, bavós, nouvingut, aprenent, tiró, sense experiència
+-adj/n: nou, novell, novençà, principiant, novici, neòfit, primerenc, verd, inexpert, passerell, experimentat (antònim), versat (antònim), veterà (antònim), debutant, gafarró (col·loquial), pipioli, pipiol, jovenet, bavós, nouvingut, aprenent, tiró, sense experiència, colomí
 -adj/n: oportunista, ambiciós, aprofitat (FEM aprofitada), aranya (col·loquial), vividor, arribista, mossega (col·loquial), especulador, grimpaire, grimpador (FEM grimpadora), aventurer, cavall d'indústria (irònic), tafur, pesseter, grimpa (col·loquial), voltor (figuratiu)
 -adj/n: otomà, turc, turquès, túrquic (FEM túrquica), turquesc, turquí (antic)
 -adj/n: paisà, civil, militar (antònim)
@@ -5091,7 +5091,7 @@
 -n: figura, personalitat, personatge, estrella, ídol, as, divo, protagonista, heroi, cap de brot, eminència, cap d'ala, fènix, astre, homenot, patum (pejoratiu), oracle, colós, espasa, primer espasa, primera espasa, referent, número u, autoritat, cap visible
 -n: figurant, extra, comparsa
 -n: fil, tall, ferro, fulla, tallant, escarpell, làmina, tallanta, ganiveta
--n: fila, filera, tira, tirera, filada, rengle, renglera, rua, corrua, cavalcada, processó, línia, alineació, alineament, cua, rècua, rècula, corriolada, ruera, camada (d'arbres), caravana
+-n: fila, filera, tira, tirera, teringa, filada, rengle, renglera, rua, corrua, cavalcada, processó, línia, alineació, alineament, cua, rècua, rècula, corriolada, ruera, camada (d'arbres), caravana
 -n: filferro, cable, fil de ferro, fil metàl·lic, fil, fil d'aram
 -n: filferro espinós, filferro d'espines, filferro de punxes, concertina
 -n: filigrana, marca d'aigua, marca a l'aigua
@@ -5775,7 +5775,7 @@
 -n: llamenqueria, escrupolositat, delicadesa, mania, escrúpol, aversió, repugnància
 -n: llamp, llampó, llampada, llampec, llampuc, llampuga, esclat, descàrrega, sageta, rellamp, llucet
 -n: llampadissa, llampegadissa
--n: llampurnetes, pampallugues, llumenetes
+-n: llampurnetes, pampallugues, llumenetes, bellumes
 -n: llança, alabarda, asta, atzagaia, dard, pica, relló, ascona, ast
 -n: llançament, projecció, expulsió, ejecció, emissió, impuls, impulsió
 -n: llancer, vèlit, alabarder, picador (NOFEM), ulà
@@ -6441,9 +6441,12 @@
 -n (ocell): sit, hortolà, emberízid (família)
 -n (ocell): tisoreta, alcorroc, correu, curroc, estèrnid, estisoreta
 -n (ocell): xarrasclet, roncadell
+-n (ocells): flamenc, flamenc rosat, àlic roig
 -n (ocells): gamarús (NOFEM), caro, gamaleu, busaroca, cabrota, destorbapastors, enganyapastors
 -n (ocells): munta, reclam
 -n (ocells rapinyaires nocturns): òliba, òbila, xibeca, babeca, gamarús (NOFEM), xuta, xupa, mussol, caro, cabrota, xot, gamaleu, estrígid (família), brúfol, cornudet, estrigiforme (ordre)
+-n (ocells): tudó, todó
+-n (ocells): xixella, xixell
 -n: octet, byte
 -n: octet, òctuple
 -n: òcul, ull de bou
@@ -6534,6 +6537,7 @@
 -n (ous): posta, fresa (els peixos), ous
 -n: ovni, plat volador, objecte volador no identificat, UFO
 -n: òxid, rovell
+-n: pa de pessic, bescuit, pa d'en Pou
 -n: pa i circ, panem et circenses (llatí), entreteniment, distracció
 -n (pa): pa, pataqueta, pataca, barra, baguet, barreta, bastó, bescuit, biscot, brètzel, crostó, fogassa, guimbarro, manró, panet, quatreta, rombell, rosca, rosegó, rumbell, tostorro, tinyol, viena, xapata, llonguet, timbarro
 -n: pa, panada, panarra (col·loquial)
@@ -7164,7 +7168,7 @@
 -n: radiografia, radiograma
 -n: ràfec, ràfol, ràfel, ala, barbacana, volada, barbada, caient, canalera, eixida, imbricació, trencaaigües, cornisa, teuladeta
 -n: raier, ganxer (FEM ganxera), navader
--n: rajolí, fil, salic, salicall, raig, raget, regalim, doll, degotall, caramell (glaçat), broll, escorrim, regall, filet, roll
+-n: rajolí, fil, salic, salicall, raig, raget, regalim, doll, degotall, caramell (glaçat), broll, escorrim, regall, filet, roll, xorritada, xurrutada
 -n: ram, manoll, pom, pomell, ramell, manat, garba, toia, xamela (d'espígol)
 -n: ramader, rambler, tractant (de bestiar)
 -n: ramaderia, pastoralisme
@@ -7636,7 +7640,7 @@
 -n: somni, son (m), malson (angoixós), somieig (despert), ensomni
 -n: somriure, riure, somrís
 -n: son (f), somnolència, ensopiment, nyonya, endormiscament, xorra, sopor, narcosi, sobec, hipnosi, modorra, sonera, soneguera, ganes de dormir, adormiment, entreson
--n: son (m), dormida, dormiment, dormició, letargia, sopor, becaina, becada, migdiada, sobec, sonada, sesta, cabotada, capcinada, becarrada, rebeca, clucull, dormir, gaitó
+-n: son (m), dormida, dormiment, dormició, letargia, sopor, becaina, becada, migdiada, sobec, xubec, sonada, sesta, cabotada, capcinada, becarrada, rebeca, clucull, dormir, gaitó
 -n: sonall, sonalla, zing-zing
 -n: sonda, escandall, cala
 -n: sonsònia, cançó, cantarella, salmòdia, mantra, cantussol, musiqueta, lletania
