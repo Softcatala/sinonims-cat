@@ -1234,7 +1234,7 @@
 -adj: nubi (FEM núbia), nubià
 -adj: nul·lípara (f), sense fills
 -adj: numerat, marcat, classificat, ordenat
--adj: nupcial, prenupcial, nuvial, matrimonial, conjugal, connubial, marital
+-adj: nupcial, nuvial, matrimonial, conjugal, connubial, marital
 -adj: nyafegós, brut, llotós, llardós, tacat, untat, sollat, embrutat, safarós, empolsegat, sutjós, empastifat, llantiós, engrudós, potrós, llord, llefre, llardissós, greixós, immund, infecte, suardós, maculat, maculós, contaminat, impur, infectat, merdós, net (antònim), tacós, sutze, sòrdid
 -adj: oblic, esbiaixat, diagonal, inclinat, tort, transversal, recte (antònim)
 -adj: oblidador, oblidable, prescindible
@@ -1384,6 +1384,7 @@
 -adj: predictible, esperable, endevinable, pronosticable, predicible, previsible
 -adj: predictiu, predictor, visionari, profètic, fatídic, augural, premonitori
 -adj: predilecte (FEM predilecta), preferit (FEM preferida), favorit, escollit, preferent, privilegiat (FEM privilegiada), elegit (FEM elegida)
+-adj: prematrimonial, prenupcial
 -adj: preparatori, preparatiu, propedèutic
 -adj: prepotent, superior, hegemònic, predominant, preponderant, prevalent, dominant
 -adj: presagiós, anunciador, vaticinador
@@ -2136,7 +2137,7 @@
 -adv: de iure, de dret
 -adv: de l'any, del temps, d'ara
 -adv: de llarg a llarg, d'extrem a extrem
--adv: de lloguer, a lloguer, per llogar
+-adv: de lloguer, a lloguer, per a llogar
 -adv: de mala manera, a bacs, a bacs i redolons, a empentes i rodolons, a espentes i redolons, a cops i empentes, a empentes, a salts i a bots, a bots i empentes
 -adv: de manera predeterminada, per defecte
 -adv: de matí, al matí
@@ -2645,6 +2646,7 @@
 -loc: sense gaire esforç, amb comoditat, sense despentinar-se, jugant jugant, amb facilitat, fàcilment
 -loc: ser de mata morta, no tenir espenta, no tenir energia, no tenir caràcter
 -loc: ser de vida, ser de bona dent, ser menjador, menjar molt, menjar com una llima, ser un sac de mal profit, tenir bona barra, tenir sempre un budell buit, tenir un bon baixant, ser de bona barra, ser cavall de bona barra
+-loc: ser entremaliat, ser de la pell de Barrabàs, ser de la pell del diable, ser de la pell de Judes, ser un bon element, ser un botavant, dur un dimoni a cada cabell, més dolent que Calet
 -loc: ser l'hòstia (vulgar), ser de pronòstic, ser d'allò que no hi ha, trencar el motlle, ser el súmmum, ser de pel·lícula, ser la pera, ser la pera llimonera, ser un cas, ser un cas com un cabàs, ser massa, ser la repera
 -loc: ser molt fàcil, ser flors i violes, ser bufar i fer ampolles, ser pa i nous, ser peix al cove, ser pa sucat amb oli, ser com donar palla a la mula
 -loc: ser un galimaties, ser inintel·ligible, ser incomprensible
@@ -2932,7 +2934,7 @@
 -n: amic íntim (FEM amiga íntima), amic inseparable (FEM amiga inseparable), alter ego, íntim (FEM íntima)
 -n: amígdala, carnús, tonsil·la
 -n: amigdalectomia, tonsil·lectomia
--n: amigdalitis, tonsil·litis
+-n: amigdalitis, tonsil·litis, glàndules inflamades (impròpiament)
 -n: amímia, inexpressivitat
 -n: amistança, concubinatge, cohabitació, amistançament
 -n: amonestació, exhortació, sermó, predic
@@ -3458,6 +3460,7 @@
 -n: britó, brità
 -n: broc, bec, canó, boca, tot, tòt (ort. pre-2017), galet, gallet, morroll
 -n: broma, farsa, bufonada, arlequinada, sainet, comèdia
+-n: bromatologia, ciència dels aliments
 -n: bromera, escumera, sabonera, escuma, broma, bromerada, espuma
 -n: bronzejador, embrunidor
 -n: broquer, escut, rodella, plastró, darga, adarga, dargó, ancil, ègida, pavés, pavesina, pelta, salvaguarda, tarja #...
@@ -3627,6 +3630,7 @@
 -n: capellina, vel, mocador, toca, mantellina, bandana
 -n: caperó, caperull, caperulla, caputxa, caputxó, lligadura, capellina, capmall, capota, còfia, toca, cuculla
 -n: caperutxa, capirota
+-n: capítols matrimonials, espòlits (Eivissa), contracte prematrimonial
 -n: capoll, poncella, botó, garró (olivera)
 -n: caporal, furrier
 -n: càpsula, caixet, oblia, oblea
@@ -5062,7 +5066,7 @@
 -n: feridura, apoplexia
 -n: ferralla, ferregada, ferrada, ferro vell, ferregot (pejoratiu)
 -n: ferrocarril, via fèrria, via de tren, camí de ferro
--n: ferros (col·loquial), corrector dental
+-n: ferros (col·loquial), corrector dental, bràquets, aparells dentals, aparell d'ortodòncia
 -n: ferros (col·loquial), fòrceps
 -n: fertilitat, feracitat, productivitat, fecunditat, grassor, ubertat (literari), esterilitat (antònim)
 -n: festa, afalac, amanyac, amoreta, carícia, compliment, moixaina, tendresa, manyaga, manyagueria, carantoina, caratussa, carantoines, magarrufa, mangarrufa, caranques, xera
@@ -6330,7 +6334,7 @@
 -n: nedar, nadar, fer crol
 -n: negociació, estira-i-arronsa, estira-i-amolla, gestió, tracte, transacció, comerç, especulació, mercadeig, tràfic, deliberació, discussió, debat
 -n: negociador, mediador, intermediari, representant, interlocutor, mitjancer, intercessor
--n: nenúfar, nimfa
+-n: nenúfar, nimfa, nimfea, cadell
 -n: neocatecumenal, quico (col·loquial)
 -n: neonatòleg, pediatre
 -n: nervi, nirvi
@@ -6396,6 +6400,8 @@
 -n: nus, nuc, baga, llaçada, lligada, llaç, gassa #...
 -n: nuvi, promès, contraent, novençà, casat de poc (FEM casada de poc), noucasat
 -n: núvol, nuvolada, boira, broma, boirat, barda, bromall, bromallada, cabretes, castell, cella, cell, cirrocúmuls, cirroestratus, cirrus, cumulonimbus, cúmulus, embromat, enclusa, escabellat, estrat, estratus, llegany, llisó, nigul, nimboestratus, nimbus, nuu (poètic; f), nuvolat, ennuvolat (NOFEM), altocúmul, altonúvol, bandera, caputxa, cúmul, cumulonimbe, estratocúmul, nimbe, nimboestrat, núvola, nuvolàs, torrelló, tromba, brufada, negror, rufa, atzabó (Mallorca)
+-n: nuvolositat, nebulositat
+-n: nuvolositat, nebulositat, terbolesa, opacitat
 -n: obac, bac, obaga, ombria, ombriu, frescal, ombra, obagor, ombrall
 -n: obertura, desclosa, desplegament, destapament, eclosió
 -n: obertura, forat, via d'aigua, escletxa
@@ -6426,6 +6432,7 @@
 -n (ocell): canari (NOFEM), caderner (híbrid de cadernera i canari), fringíl·lid (família)
 -n (ocell): capsigrany, capser, capsot
 -n (ocell): cigonya, ganta
+-n (ocell): corb de mar, corb marí gros, cormorà
 -n (ocell): cornella, cucala
 -n (ocell): cucut, cuquella
 -n (ocell): cueta, cuereta
@@ -6444,6 +6451,7 @@
 -n (ocell): rupit, ropit, pit-roig
 -n (ocell): sit, hortolà, emberízid (família)
 -n (ocell): tisoreta, alcorroc, correu, curroc, estèrnid, estisoreta
+-n (ocell): torlit, sebel·lí
 -n (ocell): xarrasclet, roncadell
 -n (ocells): flamenc, flamenc rosat, àlic roig
 -n (ocells): gamarús (NOFEM), caro, gamaleu, busaroca, cabrota, destorbapastors, enganyapastors
@@ -6490,6 +6498,7 @@
 -n: onanisme, masturbació, palla (col·loquial), pecat solitari
 -n: oncle (FEM tia), tio (FEM tia), tiet (col·loquial FEM tieta)
 -n: onomàstica, sant (NOFEM), nom, dia onomàstic, festa onomàstica
+-n: onze, equip de futbol
 -n: opacitat, intransparència
 -n: opi, meconi
 -n: opinant, opinador, opinaire, opinòleg (irònic FEM opinòloga)
@@ -7143,7 +7152,7 @@
 -n (que ven carn): carnisser, taller
 -n: queimada, cremat
 -n: queixal del seny, queixal de l'enteniment, extremer (NOFEM), queixal extremer
--n: qüern, quartet, quarteta, tètrada, quàdruple, quatern, quaterna
+-n: qüern, quartet, quarteta, tètrada, quàdruple, quatern, quaterna, tetralogia
 -n: qüestionari, formulari, examen, prova, test, control, enquesta, preguntes
 -n: quilo, quilogram, kilogram, kg
 -n: quilòmetre, kilòmetre, km
@@ -7954,7 +7963,7 @@
 -n: trena, cua (de cabells), forc (d'alls o cebes), gavatxí (de cotó), aixareta (espart), llata, picacancell, rasta, trenella, treneta
 -n: trenta, trentena
 -n: tres anys, trienni
--n: tres, tern, terna, triple, triplet, tripleta, trio, tercet, tríada, trinca, treset, secança (cartes)
+-n: tres, tern, terna, triple, triplet, tripleta, trio, tercet, tríada, trinca, treset, secança (cartes), trilogia
 -n: tresorer, vicetresorer, bosser, caixer, comptador, cofrer, habilitat (FEM habilitada), clauer, clavari, pagador, administrador
 -n: tresoreria, caixa, administració
 -n: trespeus, trípode
@@ -8169,6 +8178,7 @@
 -n: viudetat, viduatge, viduïtat, viudesa
 -n: viudo, vidu, escanyamullers
 -n: viure, vida, existència
+-n: viviparisme, viviparitat
 -n: vivisecció, dissecció
 -n: vol, volada
 -n: vol, volada, bandada, ramada, voladissa, esbart, volior, ocellam, escamot, serrada, molada, ocellada, moixonada, novellada, eixam, avifauna, estol
