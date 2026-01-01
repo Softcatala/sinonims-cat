@@ -92,6 +92,7 @@ public class Dictionary {
   private static Map<String, String> commonErrors = new HashMap<>();
   static {
     commonErrors.put("anel", "anhel");
+    commonErrors.put("escarbat", "escarabat");
     commonErrors.put("desitx", "desig");
     commonErrors.put("desitg", "desig");
     commonErrors.put("insertar", "inserir");
