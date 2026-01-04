@@ -843,6 +843,7 @@
 -adj: guit, indòmit, indomable, indòcil, rebec, repropi, reguitnós, repropiós
 -adj (gust): amarg, amargant, amargós, agre, aspre, astringent
 -adj: hedonista, sensual, refinat, epicuri, mundà, voluptuós, bon vivant (francès)
+-adj: heràldic, nobiliari, emblemàtic
 -adj: herbaci, herbós, herbat
 -adj: herbívor, vegetarià, frugívor
 -adj: hereditari, congènit, genètic
@@ -1123,6 +1124,7 @@
 -adj: mariner, marí, nàutic
 -adj: masegat, macat, rebregat, batut
 -adj: mastoide, mamiforme
+-adj: masturbador, masturbatori
 -adj: mateix, idèntic, igual, exacte, equivalent, clavat, semblant, afí, anàleg, similar, paregut, pastat, tal, aital (antic), consemblant, parió, parell, germà, equipol·lent, cagat (col·loquial), sinònim, diferent (antònim), distint (antònim), coincident, homogeni, bessó, simètric, pareller, bisimètric, ressemblant, indistingible, tallat pel mateix patró, fet i pastat, fet i plantat, del mateix motlle
 -adj: matemàtic, aritmètic, geomètric, algebraic
 -adj: materialista, consumista, de consum
@@ -2867,7 +2869,7 @@
 -n: algòleg (FEM algòloga), ficòleg (FEM ficòloga)
 -n: algologia, ficologia
 -n: algoritme, algorisme, procediment, fórmula, mètode, sistema, protocol, pla, rutina, programa, subrutina, funció, aplicació, regla, recepta
--n: algutzir, esbirro, galifardeu, alguatzil, agutzil, vergueta
+-n: algutzir, esbirro, galifardeu, galavardeu, alguatzil, agutzil, vergueta
 -n: alicatat, mosaic, ceràmica, trencadís (NOFEM), tessel·les
 -n: alifat, alfabet àrab
 -n: aligot, aguilot
@@ -3009,6 +3011,7 @@
 -n: anvers, cara, dret, endret, obvers, creu (antònim)
 -n: anxova, aladroc, seitó
 -n: any, anyada, curs, primavera, temporada, castanya (col·loquial)
+-n: any bixest, any bissextil, any de traspàs
 -n: anys, anyades, edat, temps, existència, experiència
 -n: apagafocs, bomber, antiincendis
 -n: apaivagament, assossegament, mitigació, conciliació, contemporització
@@ -5351,6 +5354,7 @@
 -n: glotònim, glossònim
 -n: gnoseologia, epistemologia, teoria del coneixement
 -n: gogó, animador
+-n: gojat, xicot (NOFEM)
 -n: gola, gargamella, gorja, coll, faringe, canyó, ganyot, davallador (col·loquial), davallant (col·loquial), garganxó #...
 -n: gola, golosia, golafreria, voracitat, apetit, apetència, glotonia (antic), gormanderia, goluderia, gòmia
 -n: golejada, cabàs de gols
@@ -5447,6 +5451,7 @@
 -n: hemorràgia, efusió de sang, sangfluix, fluix de sang, sangada
 -n: hemorroides, morenes
 -n: herald, missatger, capdavanter
+-n: heràldica, armoria, emblemàtica, blasó
 -n (heràldica): bitlleta, cartell
 -n (herba): gram, agram, gramera
 -n: herba, verd, herbatge, herbam, herbei, redall, brossa, gespa, dall, gramera
@@ -5745,6 +5750,7 @@
 -n (licor sense força): aiguarelles, pixarelles, aiguota, aigüeta, pixats de burra
 -n: lideratge, mestratge, guiatge, comandament, direcció, govern, pilotatge, regnes, pòndol
 -n: like (anglès), m'agrada, agradament
+-n: lila, lilà, liler
 -n: liler, lilà
 -n: limitació, obligació, servitud, restricció, constrenyiment
 -n: limpidesa, limpiditat, nitidesa, diafanitat, transparència, netedat, translucidesa, opacitat (antònim)
@@ -6302,7 +6308,7 @@
 -n (música): tuba, bombardí, bombardó, eufoni
 -n: musicologia, organologia
 -n: mutualitat, mútua
--n: nabiu (planta i fruit), nabinera (planta), mirtil (planta i fruit), avajonera (planta), avajó (fruit), gerd silvestre (fruit), gerdera silvestre (planta)
+-n: nabiu (planta i fruit), nabinera (planta), mirtil (planta i fruit), avajonera (planta), avajó (fruit)
 -n: nacionalisme, patriotisme, civisme, ciutadania, civilitat
 -n: naftalina, càmfora (impròpiament)
 -n: nahua, nàhuatl, asteca
@@ -6348,7 +6354,7 @@
 -n: nevera, geladora, congelador, refrigerador, frigorífic, cambra frigorífica
 -n: nevera, gelera, pou de neu, pou de glaç, cava
 -n: nictitació, parpelleig
--n: niell, carrall, tosca dentària, tosca dental
+-n: niell, carrall, tosca dentària, tosca dental, càlcul dental
 -n: nina, nineta, figureta, nino (col·loquial), peluix, pepa
 -n: nina russa, matrioixca
 -n: ninou, cap d'any, any nou, entrada d'any
@@ -6364,7 +6370,7 @@
 -n: node, punt
 -n: noguer, noguera, nouer, nouera, anouer, anouera
 -n: noguerar, noguereda, nogassar, anouerar
--n: noi, xicot, al·lot, minyó, xic, jove, adolescent, efebus, efeb, jovencell, bordegàs, arlot, galifardeu, mosso (FEM mossa), fadrí, brivall, ganàpia, bergant, fadrinel·lo (FEM fadrinel·la), macip, trinxeraire, grandolàs, grandàs, mossard, xaval, sagal, vailet, xicon (FEM xicona), xicó (FEM xicona), ninoi, xitxarel·lo, ganassa, monyicot # separar?
+-n: noi, xicot, al·lot, minyó, xic, jove, adolescent, efebus, efeb, jovencell, jovençol (FEM jovençola), bordegàs, arlot, galifardeu, mosso (FEM mossa), fadrí, brivall, ganàpia, bergant, fadrinel·lo (FEM fadrinel·la), macip, trinxeraire, grandolàs, grandàs, mossard, xaval, sagal, vailet, xicon (FEM xicona), xicó (FEM xicona), ninoi, xitxarel·lo, ganassa, monyicot, galavardeu # separar?
 -n: nom, apel·lació, denominació, qualificatiu, epítet, títol, apel·latiu
 -n (nom de llengua): afganès (NOFEM), paixtu
 -n: nom, prenom, nom de pila, nom de fonts, nom de bateig, nom de baptisme
