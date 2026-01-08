@@ -2407,7 +2407,7 @@
 -adv: preferentment, preu per preu, pel mateix preu, tant per tant, mal per mal, cap per cap
 -adv: pregonament, profundament, fins al moll de l'os, del tot
 -adv: prematurament, abans d'hora, massa aviat, massa prompte, massa d'hora
--adv: primer, abans, primerament, prèviament, en primer lloc, primer de tot, per començar, primer que res, abans de tot, abans de res, d'antuvi, de bell antuvi, de primer antuvi, d'arribada, d'entrada, de bell principi, de bon començament, de bon principi, de moment, de primer, de primer moment, inicialment, a l'entrant, a la primeria, de primeries
+-adv: primer, abans, primerament, prèviament, en primer lloc, primer de tot, per començar, primer que res, abans de tot, abans de res, abans que res, d'antuvi, de bell antuvi, de primer antuvi, d'arribada, d'entrada, de bell principi, de bon començament, de bon principi, de moment, de primer, de primer moment, inicialment, a l'entrant, a la primeria, de primeries
 -adv: privadament, en privat, a soles, entre nosaltres, en cambra, a porta tancada, confidencialment, a cau d'orella, en confiança
 -adv: probablement, segurament, possiblement, eventualment, presumiblement, presumptivament, previsiblement, fàcilment, creïblement, versemblantment, gairebé segur, a bon compte
 -adv: profundament, a fons, en cos i ànima, absolutament, fondament, pregonament
@@ -3413,7 +3413,7 @@
 -n (botànica): évol, matacans
 -n (botànica): fabàcia, lleguminosa, papilionàcia
 -n (botànica): falguera, falzia, falzilla, capil·lera, falguerola
--n (botànica): fenassar, fenar, fenalar, fenaleda, fenassosa, fener, fenosa
+-n (botànica): fenassar, fenar, fenalar, fenaleda, fenassosa, fener, fenosa, camp de fenc
 -n (botànica): ferla, canyaferla
 -n: botànica, fitologia
 -n (botànica): flor robí, ninoi (NOFEM)
@@ -3905,7 +3905,7 @@
 -n: codony, codonya, codonyer (arbre), codonyeta, codonyar (plantació), codonyerar (plantació)
 -n: coet, retrocoet, propulsor
 -n: coeter, pirotècnic, polvorista
--n: cofoisme, autocomplaença, complaença, satisfacció, envaniment, rebentisme (antònim)
+-n: cofoisme, autocomplaença, satisfacció, envaniment, suficiència rebentisme (antònim)
 -n: cogombre, cogombret, alficòs, xeringa, cogombrar (camp), cogombrera (planta)
 -n: cohabitant, convivent
 -n: coherència, cohesió, coordinació, connexió, contacte, entrellat, il·lació, continuïtat, nexe, unió, llaç, relació, associació, afinitat, correspondència, lligam, vincle, vinculació, analogia, connexitat, fil, concomitància, coincidència, correlació, congruència, conveniència, lògica, compaginació, sincronització, harmonització, concertació, enllaç, maridatge, conjunció #separar?
@@ -4249,7 +4249,8 @@
 -n: datàfon, TPV, terminal punt de venda
 -n: dau, cub, biprisma, cuboide, hipercub, hexaedre, hexàedre
 -n: dau fals, dau carregat, dau de milloria
--n: davallada, descens, caiguda, baixada, davallament, descendiment, aterratge, decreixement
+-n: davallada, descens, caiguda, baixada, davallament, descendiment, aterratge # caiguda, baixada física
+-n: davallada, descens, caiguda, baixada, decreixement, decrement (matemàtiques), disminució, minva, minvament
 -n: davallada, ocàs, posta, decadència, declivi, descens, degeneració, caducitat, vellesa, decaïment, degradació, crepuscle, capvespre, decrepitud
 -n: davantal, mandil, manil, badana, bata
 -n (de cabells): ble, floc, manyoc, grenya, metxa (col·loquial), rull, rínxol, caragol, ris, tirabuixó, bucle, remolí #...
@@ -4539,7 +4540,7 @@
 -n: ecogastronomia, menjar lent, slow food (anglès)
 -n (economia): cost irrecuperable, cost enfonsat
 -n (economia): inversor, inversionista, subscriptor
--n (economia): recessió, crisi, depressió, caiguda, davallada, descens, minva, disminució, decreixement
+-n (economia): recessió, crisi, depressió, caiguda, davallada, descens, minva, decreixement
 -n: edafologia, pedologia
 -n: edat, antiguitat, duració, durada, temps, vida, longevitat, vivent
 -n: edat de discreció, seny, ús de raó, coneixement, sentit comú, trellat
@@ -5050,7 +5051,7 @@
 -n: fe (f), creença, credo, religió, doctrina, dogma, veritat, article de fe
 -n: fe (f), fidelitat, lleialtat, noblesa, nobilitat, noblia (antic)
 -n: fe (f), paraula, prometença, testimoniatge, testimoni, paraula d'honor, assegurança
--n: fe (m), fenc #...
+-n: fe (m), fenc, fenàs #...
 -n: febre, febrada, temperatura, hipertèrmia, hiperpirèxia, febra, febrícula, febronada (col·loquial), apirèxia (antònim), nonana, quartana, terciana
 -n: fecundació, gestació, creació, procreació, engendrament, fertilització, generació, concepció, concebiment
 -n: fecundació, pol·linització, fertilització, autopol·linització, casmogàmia, clistogàmia, entomofília, gitonogàmia, hidrofília, quiropterofília
@@ -5084,6 +5085,7 @@
 -n: fester, festaire
 -n: fester, teiera, teera
 -n: fet #...
+-n: fet, esdeveniment, fenomen, realitat
 -n: feta, proesa, gesta, acció, heroïcitat
 -n: fetus, avortó, avortí
 -n: fetus, concebut (NOFEM), nasciturus
@@ -5594,6 +5596,7 @@
 -n: informe, report, dossier, balanç, peritatge, ponència, referències, memorial, memòria, comunicació
 -n: infraestructura, base, servei, instal·lació, estructura, sistema, equip, fonament, servei públic, xarxa, xarxa de serveis públics, proveïment, substrat
 -n: infravaloració, subestimació, infraestimació, rebaixa
+-n: infreqüència, poca freqüència, raresa, raritat
 -n: infusió, tisana, decocció, decuit, herbes
 -n: ingestió, consum, absorció, empassada, enviada, engolida, succió, absorbiment, deglució, deglutició, gorjada, engorjada, ingurgitació
 -n: ingredient, element, droga, part integrant, component, constituent, additiu (NOFEM)
@@ -6638,7 +6641,7 @@
 -n: paret mitgera, mitjanera
 -n: parlament, congrés, hemicicle
 -n: parlera, xarrera, xerrera, claquera, ganes de parlar
--n: parotiditis, galteres, paperes, paps
+-n: parotiditis, galteres, paperes, paps # tacons, gotornons
 -n: paroxisme, exacerbació, exaltació, extrem, intensificació, extremitat, intensitat, summitat, postremitat
 -n: parpella, tapa de l'ull, parpalla (col·loquial), parpall (col·loquial), palpebra, pipella
 -n: parquedat, eixutesa, brevetat, justesa, concisió, sumarietat, curtesa, exigüitat, curtedat
@@ -6711,6 +6714,7 @@
 -n (patologia): induració, enduriment, nodositat
 -n (patologia): inflor, tumefacció, infladura, inflamació, tumescència, tumiditat, embotiment, entumiment, embotornament, botinflament, edema, tumor, goll, flemó, nodositat
 -n (patologia): malgrà, malabua, gra maligne
+-n (patologia): orquitis, testitis
 -n (patologia): penelló, perelló, prunyó (valencià), tumefacció
 -n (patologia): voltadits, cercadits, rodadits, panadís
 -n: patriota, nacionalista
@@ -7223,7 +7227,7 @@
 -n: rebosteria, pastissos, dolços, postres, llevants
 -n: rebotiga, magatzem, laboratori, oficina
 -n: rebrec, rebuig, deixalla, saldo, rebutjall, repussall, retall, triadures, desferra
--n: rebuig, escòria, carrall
+-n: rebuig, escòria, carrall, cagaferro
 -n: rebut, rebuda, recepció, carta de pagament, tiquet, lliurament, albarà, resguard, àpoca, coneixement, contrarebut, quitança, quitament, quitació
 -n: recaptera, carmanyola, tàper
 -n: receptari, formulari
@@ -7836,7 +7840,7 @@
 -n: terratrèmol, tremolament de terra, sisme, macrosisme, microsisme, moviment sísmic, sismisme
 -n: terregada, menudall, carbonissa, pols, turo, carrall
 -n: terrenalitat, mundanitat, temporalitat, materialitat
--n (terreny): pastura, pasturatge, pastiu, agostador (NOFEM), agostejador (NOFEM)
+-n (terreny): pastura, pasturatge, pastiu, agostador (NOFEM), agostejador (NOFEM), armentera, devesa
 -n: terreta, terra d'escudelles, terra d'escurar
 -n: terrissaire, terrisser, ollaire, oller
 -n: territori, paisatge, geografia
