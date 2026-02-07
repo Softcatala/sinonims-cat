@@ -95,7 +95,7 @@
 -adj: ambientalista, ecologista, verd
 -adj: ambigu, de doble sentit, imprecís, equívoc, vague, inconcret, ambivalent
 -adj: ambrat, ambarí, ambre
--adj: amenaçador, comminatori, constrenyedor, coactiu, coercitiu, imperiós, intimatori (dret), intimidador, intimidatori, dissuasiu
+-adj: amenaçador, comminatori, constrenyedor, coactiu, coercitiu, imperiós, intimatori (dret), intimidador, intimidatori, dissuasiu, dissuasori
 -adj: amenaçador, hostil, ofensiu, assassí
 -adj: amenaçador, sinistre, funest, infaust, atziac
 -adj: amigable (informàtica), comprensible, fàcil, manejable
@@ -360,6 +360,7 @@
 -adj: comprensiu, complectiu, envolupant, abraçador, embolcallant, encerclador, envoltant
 -adj: comprensiu, englobador, abraçador
 -adj: comprensiu, tolerant, indulgent, transigent, condescendent, benèvol, obert, receptiu, comportívol, pacient, de la màniga ampla, sofert (FEM soferta), sofrit (FEM sofrida)
+-adj: compressible, comprimible
 -adj: comptador, comptable
 -adj: compulsiu, irresistible, irreprimible, invencible, incontenible
 -adj: còncau, ensellat, concavat, buit, acassolat
@@ -480,6 +481,8 @@
 -adj: descalç, a peu descalç, a peu nu, a soleta de mitja, calçat (antònim)
 -adj: descastat, desnaturalitzat, desnaturat, embastardit, embordonit, degenerat, rebordonit
 -adj: descol·locat, desconcertat, desorientat, desubicat, venut
+-adj: descomponible, analitzable, divisible, separable, reductible
+-adj: descomponible, degradable, biodegradable, putrescible, corruptible
 -adj: desconegut, ignot, incògnit, obscur, misteriós, inconegut, estrany, inexplorat, anònim, secret, ignorat, indocumentat, insabut
 -adj: descontent, cara de pomes agres, cara llarga, cara de mal atzar, cara de mal conhort, cara de prunes agres, cara de circumstàncies, amb un pam de morros, cara estirada
 -adj: descoratjador, desanimador, desmoralitzant, desmoralitzador, desesperant, desesperador, depriment, dissuasiu, encoratjador (antònim)
@@ -939,6 +942,7 @@
 -adj: incòmode, inconfortable, desagradable, desagradós, ingrat, molest, violent, comprometedor, compromès # embarassós...
 -adj: incomparable, incommensurable, únic, immesurable, sense parió, irrepetible, extraordinari, inigualable, inimitable
 -adj: incompetent, de riure, de per riure, de pa sucat amb oli, de secà
+-adj: incomprimible, incompressible.
 -adj: inconcús, incontestable, incontrovertible, indiscutible, indisputable, indubtable, inequívoc, innegable, inqüestionable, inapel·lable, irrebatible, irrefutable, ferm, indiscutit, incontestat, segur, cert, determinat, qüestionable (antònim), inopugnable, inexpugnable, inatacable, flagrant, concloent, irrefragable
 -adj: inconnex, deslligat, trencat, desunit
 -adj: inconsútil, d'una peça, sense costura
@@ -2971,7 +2975,7 @@
 -n (anatomia): peroné, fíbula
 -n (anatomia): timus, tim
 -n (anatomia): tou del dit, polpa del dit, polpís del dit, palpís del dit
--n: anca, natja, galta del cul, gropa, besanca, culata, maluc
+-n: anca, natja, galta del cul, gropa, besanca, culata, maluc, amaluc
 -n: àncora de salvació, recurs suprem
 -n: andana, moll, plataforma
 -n: ànec, tiró, anedó (poll), ànega, aneguet, ànet, ànnera, piuló, tirona #...
@@ -3412,6 +3416,7 @@
 -n (botànica): càrritx, faió, carç, carcera, carritxera
 -n (botànica): dulcamara, dolçamara, vidalbí, morella emborratxadora
 -n (botànica): espaseta, garagot, pimpineta, pipirigall, trepadella, esparcet, esparceta
+-n (botànica): eufòrbia, lletera, lleterosa, lleterola
 -n (botànica): évol, matacans
 -n (botànica): fabàcia, lleguminosa, papilionàcia
 -n (botànica): falguera, falzia, falzilla, capil·lera, falguerola
@@ -4487,6 +4492,7 @@
 -n: dotze, dotzena
 -n: doula, assistent al part, comare, llevador (FEM llevadora), infermer obstetricoginecològic (FEM infermera obstetricoginecològica)
 -n: dovella, clau (dovella central)
+-n: dragamines, pescamines, caçamines
 -n: dragó, andragó (col·loquial), dragolí, dragonet
 -n: drap, llenç, roba, teixit, tela, feltre, burell, burat, blonda, bèrnia, tissú, pella (història), peia (història), filempua, gasa, glassa
 -n: drap, parrac, esquinçall, esqueixall, pellingot, escassigall, estrassa, pedaç
@@ -4655,6 +4661,7 @@
 -n: encobriment, ocultació, amagament, escondiment (antic), entaforament, obrepció (dret), subrepció (dret), dissimulació
 -n: encuny, encunyació
 -n: encunyació, encunyament, batement
+-n: endarreriatges, endarreriments, deutes endarrerits, deutes pendents, deutes
 -n: endemà, sendemà
 -n: endemisme, paleoendemisme
 -n: enderroc, derroc, runa, esfondrall, ruïnes, restes, enderrocs, vestigis, calçobre, calcinobre, algepsot, detritus, detrit, quera, guixot, desferra
@@ -5970,6 +5977,7 @@
 -n: mal geni, mala hòstia (vulgar), mal humor
 -n: mal, malaltia, malura, pesta, xacra, malestar, indisposició, molèstia, plaga, patologia (medicina), afecció, morbositat, patiment, diàcrisi, alifac, tecla (col·loquial), dolentia (antic), insanitat, infecció
 -n: mal, maldat, malícia, perversitat, dolenteria, malignitat, roïnesa, perfídia, vilesa, viltat, vilania, abjecció, malesa, iniquitat, mala fe, mala intenció, innocència (antònim), avolesa (antic), mala voluntat, roïndat, mala ànima, dolentia, dol (dret)
+-n: mal servei, trist servei, servei ben galdós (irònic), desservei
 -n: mala cara, morros, malcaratge
 -n: mala intenció, mala llet (vulgar), mala hòstia (vulgar), mala bava, malignitat
 -n: mala persona, mala pell, dolent, roí (FEM roïna), roín (FEM roïna), escurçó, mal sorge, mala ànima, mala bèstia, mala peça, mala pècora, mala pua, bona pua, pua, sacre, malvat
@@ -6065,6 +6073,7 @@
 -n: mastegada, mastegament, masticació
 -n: mastografia, mamografia
 -n: matalàs, màrfega, matalaf, matalap, traspontí, futon
+-n: mata-rates, raticida, verí
 -n: mata-sogres, espanta-sogres
 -n: matemàtica, matemàtiques, àlgebra, geometria, aritmètica
 -n (matemàtiques): addend, sumand, augend
@@ -6546,6 +6555,7 @@
 -n: orgasme, escorreguda (col·loquial), clímax, correguda (col·loquial)
 -n (orgue): teclat, eco, pedaler, consola
 -n: orient, est, llevant, sol ixent
+-n: origami, papiroflèxia
 -n: original, font, ètim (lingüística)
 -n: orina, pixum (col·loquial), pipí (infantil), evacuació, orins, pixat, pix (infantil), necessitat
 -n: orinal, bací, basseta, gibrelleta, moixina, bacineta, cossiol, llibrelleta, porró, terràs
@@ -7504,6 +7514,7 @@
 -n: satisfacció, reparació, compensació, indemnització, indemnitat, rescabalament, liquidació
 -n: sautor, creu de Santa Eulàlia, creu de Sant Vicenç, creu de Sant Andreu, creu de Borgonya
 -n: savi (FEM sàvia), científic, filòsof, intel·lectual, il·lustrat, tècnic
+-n: seca, mongeta seca, fesol sec
 -n: secada, sequera, seca, eixutada, eixutor, eixutina, sequina
 -n: secció, intersecció, pla, tall
 -n: secessió, independència, separació, alliberament
