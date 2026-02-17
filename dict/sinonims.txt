@@ -86,6 +86,7 @@
 -adj: alt, llarguerut, llargarut, espigat, samarro (col·loquial)
 -adj: altre, diferent, restant, segon
 -adj: alzireny, alzirenc
+-adj: amagable, ocultable
 -adj: amanós, manual, manejable, manejadís, manós, maner, manerós, manegívol, portable, tractable
 -adj: amatat, apinyat, acopat
 -adj: amb una mà al davant i una altra al darrere, sense recursos, pobre, sense res
@@ -926,6 +927,7 @@
 -adj: inaccessible, inassequible, inassolible, inabastable, inaconseguible, inabordable
 -adj: inaccessible, infranquejable, insuperable, impracticable, insalvable, impassable
 -adj: inadaptat, inconformista, solitari, individualista, descontent, insociable
+-adj: inamagable, inocultable
 -adj: inanimat, mort (FEM morta), insensible, exànime, sense vida
 -adj: inapetent, desganat, anorèctic, desmenjat, destalentat, malmenjador (FEM malmenjadora)
 -adj: inaprofitable, inútil, inservible, inusable, inutilitzable, invàlid, nul, útil (antònim), aprofitable (antònim)
@@ -1927,7 +1929,7 @@
 -adj/n: parent, familiar, consanguini, ascendent, descendent, pròxim, cognat, agnat, propparent, entreparent, propinc, col·lateral
 -adj/n: pària, infeliç, marginat, vil, discriminat, bandejat, exclòs, indesitjable, intocable, ilota
 -adj/n: participant, partícip, col·laborador, parçoner, coparticipant, porcioner, concursant, interessat, copartícip, cooperatiu, cooperador, còmplice, participatiu
--adj/n: pedant, pedantesc, saberut, doctor, dotor, intel·lectualoide, mestretites, setciències, sabut, esnob
+-adj/n: pedant, pedantesc, saberut, doctor, dotor, intel·lectualoide, mestretites, setciències, sabut, esnob, setsabers
 -adj/n (pejoratiu): nou-ric (FEM nou-rica), nouvingut, parvenu (francès)
 -adj/n: pèl-roig, cap de panotxa, roig
 -adj/n: persecutor, perseguidor
@@ -3093,7 +3095,7 @@
 -n: arracada, orellal
 -n: arrambada, arrimada
 -n: arrap, esgarrapada, esgarrany, esgarrinxada, esgratinyada, rascada, ratllada, unglada, esgarrap, grapada, arrapada, arpada, urpada, esgarriny, esgratinyadura, esgarrapall, gratall, arrapó (NOFEM), esgarranyada, rascanyada
--n: arreglador de parròquies (FEM arregladora de parròquies), arreglador de processó (FEM arregladora de processó), advocat de cuina (FEM advocada de cuina), diputat de cuina (FEM diputada de cuina), advocat de marge (FEM advocada de marge), advocat de secà (FEM advocada de secà), arreglador (FEM arregladora), saberut, dotor, mestretites, setciències, sabut, advocat dels pobres (FEM advocada dels pobres), arreglaparròquies
+-n: arreglador de parròquies (FEM arregladora de parròquies), arreglador de processó (FEM arregladora de processó), advocat de cuina (FEM advocada de cuina), diputat de cuina (FEM diputada de cuina), advocat de marge (FEM advocada de marge), advocat de secà (FEM advocada de secà), arreglador (FEM arregladora), saberut, dotor, mestretites, setciències, setsabers, sabut, advocat dels pobres (FEM advocada dels pobres), arreglaparròquies
 -n: arrelament, arrelada, afermament, establiment, radicació
 -n: arrendador, sotsarrendador, border, llogador, propietari, amo (NOFEM), mestressa
 -n: arrendament, lloguer, locació, cessió, sotsarrendament, llogament, inquilinat, noliejament (d'un mitjà de transport)
@@ -4122,7 +4124,7 @@
 -n: cordó umbilical, vidiella, badiella
 -n: coriandre, celiandre
 -n: cornucòpia, corn de l'abundància
--n: corona de llorer, làurea, laurèola
+-n: corona de llorer, làurea (art), laurèola
 -n: corona, diadema, tiara, garlanda
 -n: coronament, acabament, rematada, remat, colofó
 -n: corporativisme, gremialisme, amiguisme, sectarisme, esperit de cos
