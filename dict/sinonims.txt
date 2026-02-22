@@ -208,7 +208,7 @@
 -adj: barceloní, barcelonès, xava (despectiu), camacu (despectiu), pixapins (despectiu), de can Fanga (despectiu)
 -adj: baronívol, viril, homenívol, masculí, mascle (FEM mascla)
 -adj: basc, èuscar
--adj: bast, ordinari, xaró, xavacà (castellanisme)
+-adj: bast, ordinari, xaró, xavacà (castellanisme), grofollut
 -adj: bastant, suficient, nombrós, prou, força, considerable, mant, molt
 -adj: beat, purità, escrupolós, beguí, estret (col·loquial), colltort
 -adj: beatíssim, deípara, marià
@@ -4365,7 +4365,7 @@
 -n: desnonament, expropiació, llançament, expulsió, desheretament, desheret (antic)
 -n: desordre, malendreç, confusió, embolic, desconcert, desorganització, caos, desgavell, maremàgnum, desori, barreja, batibull, bullit, esgavell, poti-poti, torb, convulsió, desgavellament, samfaina, garbuix, pastell, descontrol, ordre (antònim), voràgine, confusionisme, galimaties, merder (col·loquial), bollitori (pejoratiu)
 -n (despectiu): pagès, pagerol, aixafaterrossos, esclafaterrossos, camalluent, terròs, corbellot, llauro
--n: desplaçament, moviment, trasllat, transport, transferiment, transferència, trànsit, viatge, translació, locomoció, tràfic, tràfec, tragí, mudança, mobilització, conducció, duta, portada
+-n: desplaçament, moviment, trasllat, transport, transferiment, transferència, trànsit, viatge, translació, locomoció, tràfic, tràfec, tragí, mudança, mobilització, conducció, duta, portada, carreteig, traginada
 -n: despoblació, despoblament
 -n: despropòsit, desencert, malencert, indiscreció, relliscada, patinada, planxa, inconveniència, extemporaneïtat, atzagaiada
 -n: despullament, nuesa, nuditat, striptease, nudisme
@@ -4493,7 +4493,7 @@
 -n: dotació, tripulació, marineria, rol
 -n: dotze, dotzena
 -n: doula, assistent al part, comare, llevador (FEM llevadora), infermer obstetricoginecològic (FEM infermera obstetricoginecològica)
--n: dovella, clau (dovella central)
+-n: dovella, clau (dovella central), contraclau
 -n: dragamines, pescamines, caçamines
 -n: dragó, andragó (col·loquial), dragolí, dragonet
 -n: drap, llenç, roba, teixit, tela, feltre, burell, burat, blonda, bèrnia, tissú, pella (història), peia (història), filempua, gasa, glassa
@@ -5658,7 +5658,7 @@
 -n (instrumentista): flauta, flautista, flabioler
 -n (instrumentista): guitarra, guitarrista
 -n (instrumentista): saxo, saxòfon, saxofon, saxofonista
--n (instrumentista): violí, violinista, viola, violoncel·lista, violoncel, gambista, contrabaixista, contrabaix
+-n (instrumentista): violí, violinista, viola, violoncel·lista, violoncel, gambista, contrabaixista, contrabaix, violinaire
 -n (instruments de corda): diapasó, batedor (NOFEM)
 -n (instruments de teclat): orgue, teclat, positiu, piano, sintetitzador, manubri, clavecí, clavicordi, celesta, carilló, melòdica, espineta, manicord, virginal
 -n (instument musical): flauta, caramella, flabiol, flautí, octaví, pifre, flauta dolça, flauta travessera, flauta de bec, piccolo (italià)
@@ -6285,6 +6285,7 @@
 -n: muntanya, munt, mont (en topònims), serra, serralada, massís, serrat, contrafort, morro, morrot, cim, cimal, cresta, pic, agudell, tuc, punta, monticle, muntijol, puig, tossal, turó, promontori, tossa, coma, alt (NOFEM), elevació, pujol, respatller, respatler, eminència, alteró, coll, collada, alturó, serral, tossol, carena, lloma, mota, duna
 -n: muntanyar, dunes, sistema dunar
 -n: muntatge, construcció, fabricació, instal·lació, muntament, acoblament, muntura
+-n: munyiment, munyida
 -n: murmuració, xafardeig, xafarderia, comareig, comaratge, safareig
 -n: murrieria, puteria (col·loquial), sagacitat, astúcia, malícia, pilleria, trapelleria, picardia
 -n: murta, murter, mirtiforme (adjectiu), mirtàcia (família), murtera, murtó (fruit), murtra (forma secundària), murtrer (forma secundària), murtrera (forma secundària)
@@ -7578,8 +7579,8 @@
 -n: sèrie, successió, gamma, seqüència, seguit, cadena, bateria, assortiment, conjunt, repertori, joc, rast, rest, rastell, rastellera, tirallonga, tanda, tongada, tandada, ratxa, reguitzell, reguitzer, tirada, lletania, enumeració, encadenament, connexió, càfila, enfilall, carrell, dena, panòplia, serrerada, carrusel, ventall
 -n: sermó, homilia, prèdica, predicació, predic
 -n: serp, serpent, colobra, escurçó, ofidi, rèptil, amfisbena (mitologia), vibra, boid, boa, pitó, anaconda, àspid, sacre
--n: serrada, serradura
--n: serradures, serradissa, serradís
+-n: serrada, serradura, tall, tallada
+-n: serradures, serradissa, serradís, serrill
 -n: serralada, muntanyam, cadena, massís, preserralada, serra, serrat (NOFEM), orografia (impròpiament)
 -n: serraller, manyà, ferrer
 -n: serralleria, manyeria, obrador de manyà
@@ -7899,6 +7900,7 @@
 -n: tir, tàndem
 -n: tirada, inclinació, jaient, tendència, inclinança, propensió, vocació, proclivitat, predisposició, tirat, instint, decantament, predilecció, clim
 -n: tirador (NOFEM), tiragomes, fona, mandró, bassetja
+-n: tirallet, mamadora
 -n: tirants, elàstics
 -n: tísic, ètic, hèctic, tuberculós, tuberculòtic # fímic
 -n: tisorada, estisorada, tallada, retallada, escurçament, escurçada, retallament
@@ -8099,7 +8101,7 @@
 -n (varietats de quars): quars, àgata, ònix, calcedònia, cornalina, corniola, sarda, sardònica, sardònix
 -n: vas, recipient, polsera, test, jardinera, sorrera, torratxa, arenera, cossiol, torreta #...
 -n: vas sanguini, artèria, vena, capil·lar, conducte, canal (m)
--n: veça, bordanya
+-n: veça, bordanya, arvella, garrofí, llegumet, garranda, pesolina, pesolinera (planta), vecera (planta)
 -n: vegada, camí, cop, pic, volta, ocasió, viatge, oportunitat, tanda, torn, avinentesa, volt, passada, saó
 -n: vegetació, flora, regne vegetal
 -n: vegetarianisme, frugivorisme, veganisme, ovovegetarianisme, piscivegetarianisme, ovolactovegetarianisme, avipiscivegetarianisme, lactovegetarianisme, avivegetarianisme, apivegetarianisme, crudivegetarianisme, crudiveganisme
