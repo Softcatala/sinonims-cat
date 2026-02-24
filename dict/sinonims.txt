@@ -133,7 +133,7 @@
 -adj: apaivagador, calmant, tranquil·litzant, tranquil·litzador, alleujador, assossegador, mitigador, atenuant, pal·liatiu
 -adj: apartat, distant, lluny, llunyà, remot, llunyedà, retirat, allunyat
 -adj: apassionat, abrandat, cec, fanàtic, addicte, forassenyat (FEM forassenyada), desassenyat, inconscient, obcecat, encegat, vehement, impulsiu, alienat, ofuscat, embriac, pertorbat, foll, boig, ardent, arrauxat, esbojarrat, enamorat, desconeixementat (FEM desconeixementada)
--adj: apàtic, distant, fred, indiferent, insensible, desanimat, impassible, serè, flegmàtic, impertorbable, reservat, impertèrrit, immutable, inalterable, calmós, impermeable, glacial, apassionat (antònim), tebi, mesell, de pedra, dur de pell, de suro, inexpressiu, sense expressió, impàvid, sec, sord (sentit figurat), immune
+-adj: apàtic, distant, fred, indiferent, insensible, desanimat, impassible, serè, flegmàtic, impertorbable, reservat, impertèrrit, immutable, inalterable, calmós, calmut, impermeable, glacial, apassionat (antònim), tebi, mesell, de pedra, dur de pell, de suro, inexpressiu, sense expressió, impàvid, sec, sord (sentit figurat), immune
 -adj: apelfat, vellutat
 -adj: aplegadís, arreplegadís, adventici
 -adj: aplicable, implantable, executable, practicable, realitzable, efectuable, desenvolupable, implementable (informàtica), funcional, aplicatiu, usable, utilitzable
@@ -744,7 +744,7 @@
 -adj: febril, febrós, pirètic, piretogen, pirogènic, enfebrat
 -adj: feixuc, greu, pesant, pesat, gràvid, llastat, lleuger (antònim)
 -adj: felí, fèlid, lleoní, moixí
--adj: feliç, despreocupat, tranquil, fresc, flegmàtic, calmós, impertèrrit, indiferent, impermeable, desansiat
+-adj: feliç, despreocupat, tranquil, fresc, flegmàtic, calmós, calmut, impertèrrit, indiferent, impermeable, desansiat
 -adj: femenívol, donívol, feminal, femellenc, femení, homenívol (antònim)
 -adj: fer, ferotge, feroç, salvatge, ferest, feréstec, indòmit, brau, salvatgí, feral, assilvestrat
 -adj: ferit, fet un Cristo (feta un Cristo), fet un sant Llàtzer (feta un sant Llàtzer), lesionat, tocat, accidentat, contusionat
@@ -762,7 +762,7 @@
 -adj: fi, superfí, prim, lleuger, lleu, transparent, subtil, vaporós, tènue, gros (antònim), eteri, delicat, intangible, impalpable, aeri, gasós, evanescent, volàtil, ingràvid
 -adj: fiable, confiable, de confiança, de tota confiança, fiat, segur, lleial, honest, noble, digne de confiança, fidedigne, generós, fefaent, acreditat
 -adj: figurat, simulat, imaginat, imaginari, aparent, fictici, inventat, irreal, suposat, il·lusori, fingit, apòcrif, ficte (antic), autèntic (antònim), supositici, inautèntic
--adj: fílmic, cinematogràfic
+-adj: fílmic, cinematogràfic, pel·liculesc (FEM pel·liculesca)
 -adj: final, darrer, últim, extrem, terminal, postrem, cuer, saguer, darrerà (antic)
 -adj: fiscal, impositiu, tributari, contributiu
 -adj: fisiològic, anatòmic, animal, carnal, corporal, material, físic, somàtic, biològic
@@ -10050,6 +10050,7 @@
 -v: prosperar, créixer, progressar, reeixir, surar, florir, boiar
 -v: provenir, procedir, sortir, eixir, dimanar, originar-se, generar-se, néixer, nàixer, emanar, venir
 -v: provocar, encendre el vesper, punyir el vesper, enverinar el vesper, encendre foc, armar bregues, moure brega, cercar bregues, buscar soroll, moure baralles
+-v: publicar-se, aparèixer
 -v: quallar, coagular, solidificar, espessir, espesseir, amatonar, agrumollar, aglevar, densificar
 -v: quedar amb un peu enlaire, quedar d'una peça, quedar de pedra, quedar glaçat, quedar mort, quedar parat, quedar sense paraula, quedar sense resposta, quedar verd, restar amb la boca oberta, restar sense respiració, quedar sense respiració, restar de pedra, sorprendre's, quedar espaterrat (col·loquial), quedar espatarrat (col·loquial)
 -v: quintar, sortejar, reclutar, llevar
