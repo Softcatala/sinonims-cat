@@ -297,7 +297,7 @@
 -adj: cara-roig (FEM cara-roja), caravermell (FEM caravermella), enrojolat, enrogit, ruboritzat, ruborós
 -adj: carnívor, carner, carnisser
 -adj: carronyer, carronyaire
--adj: casador, púber, núbil, maridadora, maridable
+-adj: casador, púber, núbil, maridadora, maridable, mullerable
 -adj: casat (FEM casada), mullerat (un home), amullerat (un home), maridada (una dona)
 -adj: castany, terrós, bru, marró, marronós, marronenc
 -adj: castellanoparlant, castellà, espanyol, hispà, hispànic
@@ -808,6 +808,7 @@
 -adj: funerari, funeral, fúnebre, mortuori, necrològic, obituari, sepulcral, tombal
 -adj: furient, impetuós, furiós, torrencial, violent, desfermat, desenfrenat, torrentós, abrivat
 -adj: gallinaci, gal·linaci
+-adj: gal·lòfil (FEM gal·lòfila), francòfil
 -adj: garriguenc, garrigós, silvestre
 -adj (gènere literari): negre, detectivesc, de detectius
 -adj: generós, munífic, esplèndid, liberal, munificent, desprès, rumbós, pròdig, altruista, magnànim, caritatiu, llarg, bondadós, despecec (antic), lliberal, donador, llarg en el donar, amic de donar, avar (antònim), desinteressat
@@ -1754,7 +1755,7 @@
 -adj: vaccínic, vacunal
 -adj: vagarós, ociós, de lleure, d'oci
 -adj: valencià, valencianesc (antic), valentí (de la ciutat de València), regnícola (del Regne de València)
--adj: valuós, preciós, inestimable, inapreciable, impagable, irrecompensable, de gran valor, de gran mèrit
+-adj: valuós, preciós, inestimable, inapreciable, impagable, irrecompensable, de gran valor, de gran mèrit, impreciable
 -adj: vandàlic, vàndal
 -adj: variant, canviant, mutable, variable, camaleònic, canviador, inestable, mudable, inconstant, mudadís, volàtil, canviable, proteic, proteïforme
 -adj: variat, divers, multiforme, mixt, vari, heterogeni, diferent, múltiple, complex, plural, desigual, igual (antònim), homogeni (antònim), polièdric, coral, polifònic, polimorf, polimòrfic, polifacètic, polivalent, bigarrat, variegat, multifacètic, calidoscòpic
@@ -2564,6 +2565,7 @@
 -loc: a bona hora, a bona hora surt el sol, a bona hora ix el sol, a bona hora te'n recordes, a estes hores pilotes noves
 -loc: a cal ferrer\, ganivet de fusta, en casa del ferrer\, ganivet de fusta, a cal sabater\, sabates de paper, en casa del ferrer és de fusta el ganivet, el sabater és qui va més mal calçat, cap sabater calça bé, ningú va més mal calçat que el sabater, el sabater duu les sabates més dolentes, els fills del sabater van descalços
 -loc: a mig pal, a mitja asta
+-loc: a parer seu, al seu entendre, al seu parer, segons (algú)
 -loc: a sants i a minyons no els prometis que no els dons, qui promet s'obliga, qui promet ha de complir, cosa promesa\, sia atesa, tractes són tractes, el que és promès sigui atès
 -loc: a tal cap\, tal barret, a tals bodes\, tals coques, de cabra\, cabrit, de mal cep no pot sortir bon sarment, de mal corb\, mal ou, de pare músic\, fill ballador, de tal buc\, tal eixam, de tal riu\, tal aigua, de tal senyor\, tal servidor, el fill de la cabra ha de ser cabrit, el fill de la gata\, rates mata, els testos s'assemblen a les olles, les estelles s'assemblen als troncs, qui és fill del gat\, se li assembla de la cua o del cap, si el pare és comerciant\, el fill és cabaler, tal pare\, tal fill, tant és Alí com Camalí
 -loc (agraïment): gràcies, beneït sia Déu, lloat sia Déu, gràcies a Déu, mercè a Déu
@@ -3543,7 +3545,7 @@
 -n: calderada, perolada, caldera
 -n: calefactor, calfador, escalfador, estoreta elèctrica, estufa, termos, termo
 -n: calendari, almanac, epacta (litúrgic), llunari, pronòstic, santoral, efemèrides, cronologia, agenda
--n: calitja, calima, boirina, borrim, bromitja, boirim, neula, neulia, boirada, boirassa, broma, bromassa, bromada, pixotera, fumassola
+-n: calitja, calima, boirina, borrim, bromitja, boirim, neula, neulia, boirada, boirassa, broma, bromassa, bromada, pixotera, fumassola, boiregada
 -n: caliu, brasa, cendra viva, brasada, brasquer, caliuada, caliuera
 -n: call, jueria, aljama, sinagoga, gueto
 -n: callista, pedicur (FEM pedicura), podòleg
@@ -4733,7 +4735,7 @@
 -n: era, sequer, eral
 -n: erecció, construcció, elevació, alçament, edificació, aixecament
 -n: erecció, redreçament, elevació
--n: erecció, trempera (col·loquial), priapisme (patologia)
+-n: erecció, trempera (col·loquial), priapisme (patologia), priapitis (patologia)
 -n: eriçó, eriçó de mar, castanya de mar, bogamarí, bogo, capellanet, equinoïdeu (classe), garoina, garota, paparinell
 -n: eritrèmia, eritrocitosi
 -n: erm, ermàs, ermot, desert, saladar, sorral, arenal, landa
@@ -6075,6 +6077,7 @@
 -n: mastegada, mastegament, masticació
 -n: mastografia, mamografia
 -n: matalàs, màrfega, matalaf, matalap, traspontí, futon
+-n: matapersones, tràngol, calvari, suplici, viacrucis, tasca feixuga
 -n: mata-rates, raticida, verí
 -n: mata-sogres, espanta-sogres
 -n: matemàtica, matemàtiques, àlgebra, geometria, aritmètica
@@ -8037,6 +8040,7 @@
 -n: tuiter (FEM tuitera), piulador (FEM piuladora), tuitaire
 -n: tupinada, frau electoral, manipulació, falsejament
 -n: tur, turo, tosca, carrall
+-n: turibulari (FEM turibulària), turiferari (FEM turiferària)
 -n: turisme, vacances, vacacions, estiueig, estiuada, caravàning
 -n: turista, visitant, viatger, guiri (col·loquial), excursionista
 -n: turmell, garró, clavilla, clavillar, torterol
@@ -8247,7 +8251,7 @@
 -n: wolframi, tungstè
 -n: xafada, aixafada, calcigada, calcigament, trepitjada, xafó, esclafament, esclafada
 -n: xafarder, bugader, embolicaire, embolicador, comare, xerraire, murmurador, portanoves, portaplatets, novitxer (FEM novitxera), novatxer (FEM novatxera), esqueller
--n: xafogor, calda, botorn, xardor, calitja (valencià), basca, calor, calorada, bovo (NOFEM), ofegor, estuba, sufocació, canícula, angoixa, bovor, escalfor, escalf, calentor, calfor, ardència, calidesa, roentor, incandescència, torridesa, temperatura, febre, febrada, flamerada, flamarada, ardentor, cremor, caliu, caliditat, estovor, bullentor, fitor, onada de calor, colp de calor, cop de calor, calorassa, calorota, caloreta, blamor
+-n: xafogor, calda, botorn, xardor, calitja (valencià), basca, calor, calorada, bovo (NOFEM), ofegor, estuba, sufocació, canícula, angoixa, bovor, escalfor, escalf, calentor, calfor, ardència, calidesa, roentor, incandescència, torridesa, temperatura, febre, febrada, flamerada, flamarada, ardentor, cremor, caliu, caliditat, estovor, bullentor, fitor, onada de calor, colp de calor, cop de calor, calorassa, calorota, caloreta, blamor, somorda
 -n: xai, be, anyell, corder (FEM cordera), ovella, moltó, marrec, marrà, anyí, lletó, recordí, xot, pècora, feda, toís (NOFEM), toïssa
 -n: xaloc, penagall, vent del sud-est
 -n: xaloc, sud-est
@@ -8297,7 +8301,7 @@
 -prep: a força de, a còpia de, a cop de, a colp de
 -prep: a la manera de, a la moda de, a l'estil de
 -prep: a la recerca de, en cerca de, a la percaça de, a la cerca de, cercant, a la caça de
--prep: a l'arbitri de, a coneguda de, segons, a coneixença de
+-prep: a l'arbitri de, a la mercè de, a l'albir de, a discreció de, a ordenació de
 -prep: a l'empara de, a l'abric de, al caliu de, a cavall de, a coll de, gràcies a
 -prep: a l'espera de, en espera de, esperant
 -prep: a mitjan, a mig, a la meitat de, a mitjans de
@@ -8348,6 +8352,7 @@
 -prep: mitjançant, a cop de, a costa de, per mitjà de, gràcies a, a preu de, a través de, per via de, mercès a, per obra i gràcia de, per conducte de
 -prep: pensant en, amb vista a, de cara a
 -prep: per, multiplicat per
+-prep: segons, a coneguda de, a coneixença de, a parer de, a judici de
 -prep (seguit d'infinitiu): per, pendent de
 -prep: sense, sens, privat de, mancat de, faltat de, exempt de, desproveït de, amb (antònim)
 -prep: sobre, damunt
@@ -9078,6 +9083,7 @@
 -v: diversificar, variar, expandir, ramificar, ampliar, estendre
 -v: divertir-se, borrasquejar, disbauxar-se
 -v: divinitzar, deïficar, consagrar
+-v: divorciar, descasar, desmullerar, desmaridar, separar
 -v: divulgar-se, transcendir, difondre's, repercutir, propagar-se, propalar-se, saber-se, expandir-se, escampar-se, rumorejar-se, tenir eco, tenir ressò
 -v: doblar, duplicar, geminar, multiplicar
 -v: doblegar, flexionar, flectir, plegar, corbar, torçar, tòrcer, vinclar, guerxar, plisar, prisar, blegar, atavellar, flectar (els genolls), entortolligar, entortillar
@@ -9655,6 +9661,7 @@
 -v: impacientar-se, frisar, frisar-se, neguitejar-se, consumir-se, desficiar-se, exasperar-se, no tenir espera, posar-se nerviós, enervar-se, despacientar-se, perdre la paciència, corcorcar-se, grifar-se
 -v: impel·lir, impulsar, empènyer, propulsar, espentar, empentar, moure, incitar, invitar, convidar, despertar, induir, provocar, suscitar, estimular, desvetllar, desvetlar, animar, agullonar, esperonar, promoure, generar, engegar, instigar, burxar, fomentar, atiar, excitar, avivar, potenciar, incentivar, alimentar, nodrir, activar, motivar, emmenar, menar, donar anses, encórrer, concitar, inflamar, encoratjar, donar ales, exhortar, patrocinar, promocionar, brocar, suggerir, infondre, il·luminar, inspirar, insinuar, dictar, comboiar, donar peix al gat, tirar llenya al foc, afegir llenya al foc, engrescar, catalitzar #separar sentit figurat i no
 -v: impel·lir, impulsar, empènyer, propulsar, espentar, empentar, moure, tirar, transportar, espitjar, propel·lir
+-v: impermeabilitzar, hidrofugar
 -v: implementar (informàtica), aplicar, implantar, executar, posar en pràctica, dur a terme, portar a cap, portar a terme, fer, realitzar, efectuar, acomplir, desenvolupar, operar, materialitzar, plasmar, portar a la pràctica, practicar, fer real
 -v: impossibilitar, boicotejar, boicotar, tallar les ales, tallar els braços, tallar les cames, tancar les portes, tancar tots els camins, bloquejar, blocar, lligar de braços, lligar de mans, segar l'herba sota els peus, segar l'herba davall dels peus, barrar, impedir, obstruir, encallar, empantanegar, travar, atallar, empantanar, eixalar
 -v: imprecar, maleir, blasfemar, blastomar, flastomar, renegar, jurar, dir juraments, cagar-se en (vulgar), tirar llamps i pestes
