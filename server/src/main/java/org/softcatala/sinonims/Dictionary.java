@@ -280,7 +280,8 @@ public class Dictionary {
       "tito", "ionqui", "insocial", "community manager", "road manager", "casota", "esgarradet", "extranatural",
       "a bocafoscant", "semifalla", "brugar", "superordinat", "superordinació", "topaló", "nikkei", "ressenyista",
       "schorre", "lladoncs", "lluciferisme", "cagueta", "pentura", "posteditor", "bujolada", "pèmpins", "frisbi", "cd",
-      "gamaleu", "safranòria", "forquillada", "mossar", "buldroi", "llauseta", "bosníac", "escarrufador", "priàpic");
+      "gamaleu", "safranòria", "forquillada", "mossar", "buldroi", "llauseta", "bosníac", "escarrufador", "priàpic",
+      "amagable", "boscarró", "lleterosa", "espòlits", "cri-cri", "violinaire", "gatillop", "comunot");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
