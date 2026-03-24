@@ -3154,6 +3154,7 @@
 -n: assossec, calma, pau (f), silenci, tranquil·litat, quietud, pausa, repòs, placidesa, serenor, serenitat, alleugeriment, inacció, inactivitat
 -n: assumpció, acceptació, admissió
 -n: assumpció, presa de possessió
+-n: assumpte, afer, ocupació, quefer
 -n: asta, pal de bandera
 -n (astrologia): càncer, cranc
 -n (astrologia): escorpió, escorpí
@@ -3975,7 +3976,6 @@
 -n: combregar, viàtic, darrers sagraments
 -n: comèdia de disbarats, comèdia d'embolics, sainet, vodevil
 -n: comentarista, jutge, àrbitre, escoliasta, recensor, crític, criticastre (pejoratiu), exegeta, comentador, ressenyista, ressenyador (FEM ressenyadora)
--n: comesa, deure, encàrrec, feina, faena, labor, quefer, tasca, treball, comanda, feinada, faenada, bugada (col·loquial), missió, comissió, faenassa, feinassa, jornalada, jornal, fato
 -n: comiat, acomiadament, adéu (ort. pre-2017), adéu-siau (ort. pre-2017), arreveure, partida, partença, adeu, adeu-siau, benanada
 -n: còmic (NOFEM), tebeo, historieta, historieta il·lustrada, patufet (NOFEM), manga (japonès), novel·la gràfica, auca, història
 -n: comís, decomís, mercaderies de contraban, partida
@@ -5079,6 +5079,8 @@
 -n: feedback (anglès), informació de retorn, comentaris, observacions, reaccions, impressions, sensacions, suggeriments
 -n: feedback (anglès), retroacció, realimentació, retroalimentació
 -n: feina de negres, treball de benedictí, treball de formigueta, feinada, faenada, feinassa, faenassa, tragí
+-n: feina, faena, comesa, deure, encàrrec, labor, quefer, tasca, comanda, missió, comissió, funció, paper, rol
+-n: feina, faena, feinada, faenada, faenassa, feinassa, jornalada, jornal, fato (col·loquial), bugada (col·loquial), treball, labor, tasca
 -n: feix, feixina, garba, garbó, gavell, gavella, costal, garbera, garberada, braçat, aixama
 -n: felí, pantera, gat, lleó, tigre, jaguar, lleopard, ocelot, puma
 -n: felicitació, postal, nadala, dècima
@@ -5258,7 +5260,7 @@
 -n: fullaraca, garbís, palla, virosta, fullaca, fullam, pampolam, pampolatge, brossa, fulla, fullac, fullareda, pinassa, faramalla
 -n: fullatge, fullam, fullareda, fronda, brostada, brosta, brostam, pampolada, brostatge, ramatge, fullac
 -n: fullet, full, prospecte, volant
--n: fum, fumada, fumarada, fumera, fumerri, fumerol, fumarel·la, fumeguera, fumassa, fumerada, fumaguera, fumarrina, fumegueral
+-n: fum, fumada, fumarada, fumera, fumerri, fumerol, fumarel·la, fumeguera, fumassa, fumerada, fumaguera, fumarrina, fumegueral, torterol
 -n: fums, vanitat, altivesa, presumpció, presumptuositat, orgull, inflor, fatxenda, fanfarroneria, jactància, bafanada, fanfàrria, petulància, fatuïtat, fatxenderia, modèstia (antònim), ínfules, pretensió, envaniment, infatuació, suficiència, ventolera, enfaristolament, immodèstia, supèrbia, urc, arrogància, pedanteria, estufera, megalomania, tafarra (col·loquial), do de pit
 -n: funcionament, actuació, joc, moviment, funció, marxa, mecanisme, mecànica
 -n: funcionari, visir (en països islàmics)
@@ -5358,7 +5360,7 @@
 -n: germanastre, mig germà (FEM mig germana)
 -n: gerra, alfàbia, tenalla, carner, doll, dorca, gerró, gerronet, gerrot, orsa, orseta, tramostera, urcèola, àmfora, albúrnia, búrnia
 -n: gesmiler, gesmil, llessamí, mosqueta, gesminer, gessamí
--n: gest, comportament, conducta, capteniment, actitud, aire, posa, posat, expressió
+-n: gest, comportament, conducta, capteniment, actitud, aire, posa, posat, expressió, paper
 -n: gestació subrogada, gestació per substitució, ventre de lloguer (col·loquial), maternitat subrogada
 -n: gesticulació, braceig, maneig, mímica, manoteig, gest, escarafalls, pantomima, monades (col·loquial), monos (col·loquial), posat, jutipiris
 -n: gestor (FEM gestora), directiu (FEM directiva), executiu (FEM executiva), dirigent, administrador, cap, director, gerent, quadre, mànager, responsable, coordinador
@@ -6684,7 +6686,7 @@
 -n: part (f), component, membre, sector, divisió, departament, secció, tram
 -n: part (f), lloc, punt, indret, posició, situació, emplaçament, post (m; militar), posta (militar), ubicació
 -n: part (f), partícula, mica, engruna, espurna, guspira, pessic, pols (m), polsada, polset, borrall, punt, gota, gra, bri, busca, volva, brossa, palleta, sospir, resquitx, esquitx, infinitèsim (matemàtiques), esguit
--n: part (f), personatge, paper
+-n: part (f), personatge, paper, rol
 -n: part (f), pledejant, querellant, causant, demandant, pledejador
 -n: part (f), porció, tros, fracció, fragment, bocí, peça, segment, mos, péntol, padellàs, teulís, derna, tella
 -n: part (f), porció, tros, fracció, fragment, bocí, segment, parcel·la, tram, secció
@@ -7433,6 +7435,7 @@
 -n: rodal, sotagot, posagots
 -n: rodapeu, entornpeu, sòcol, repeu, peu
 -n: rogle, cercle, redona, rodona, rotlat, rotlle, rotllana, rotllat, rotllo, redol, disc, aurèola, nimbe, halo, rodal, bucle, circumferència, rodell, rodella, roda, rodanxa, plat, corona, anell, dònut
+-n: rol, model
 -n: Roma, ciutat eterna
 -n: romanços, camàndules, orgues, raons, excuses, subterfugis, cançons, explicacions, històries, dilacions, endergues, embolics, patolla, andròmines, males arts, andarivells, embulls, manies, empatoll, brocs, musiqueries, gaites, cançoneria, mandangues (col·loquial)
 -n: romaní, romer
