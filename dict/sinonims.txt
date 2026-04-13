@@ -103,6 +103,7 @@
 -adj: amorós, amorosenc, amatori, romàntic, passional
 -adj: amorós, eròtic, sexual, carnal, veneri, amatori
 -adj: ampli, complet, global, col·lectiu, comunal, comú, general, públic, universal, freqüent, usual, corrent, ordinari, total, ecumènic, genèric, unànime, normal, habitual, rutinari, establit (FEM establida), establert (FEM establerta), vulgar, estàndard, catòlic, omnímode, transversal
+-adj: ampliable, expansible, extensible # contràctil (antònim)
 -adj: anacrònic, incongruent, desplaçat, obsolet, desfasat, antiquat, desusat, desuet, desmodat, ahistòric, fòssil, endarrerit, ressagat, extemporani
 -adj: analògic, continu
 -adj (anatomia): vascular, cardiovascular, circulatori
@@ -1310,7 +1311,7 @@
 -adj (paraula): grosser, groller, malsonant, vulgar, barroer, insultant, obscè, bròfec, blasfem, impertinent, irreverent, inconvenient, insolent, ofensiu, indecent, indelicat, atrevit, desvergonyit, fort, gruixut, impietós, brut
 -adj: parc, sobri, frugal, auster, moderat, flixat
 -adj: parenteral, intravenós, intramuscular, injectat
--adj: partible, compartible, divisible, bipartible, físsil
+-adj: partible, compartible, divisible, bipartible, físsil, fissible, fissionable
 -adj: participatiu, col·laboratiu, col·lectiu, cooperatiu, interactiu
 -adj: passador, passable, acceptable, tolerable, admissible, permissible, consentidor, suportable, comportívol, sofrible, aguantable, resistible, presentable
 -adj: pastoral, bucòlic, pastorívol, idíl·lic, arcàdic
@@ -4828,6 +4829,7 @@
 -n: espectador, teleespectador, televident, públic (conjunt d'espectadors)
 -n: espectador, testimoni, concurrent, present, assistent, circumstant
 -n: espera, esperada
+-n: esperit afí, ànima bessona, ànima germana
 -n: esperit, ànima, cor, ment, psique
 -n: espetarrecs, esclafits, crepitació # espeternecs
 -n: espeternecs, espernetecs, garrejada
@@ -4859,6 +4861,7 @@
 -n (esport): remat, rematada, esmaixada, mat #esmaix (?DNV)
 -n: esportista, atleta, corredor, jugador, escaquista, futbolista, tenista, batedor, campista, carambolista, carriler, davanter, defensa, esmaixador, feridor, galotxer, golejador, interior, lateral, lliure, manillaire, migcampista, mitger, mitjapunta, palista, paquet (jugador mediocre; col·loquial), pilotari, pingponguista, pitxitxi, pivot, placador, polista, porter, punter, raquetista, raspoter, reboter, rebotador, receptor, regatejador, driblador, rematador, reserva, restador, tallador, titular, traedor, xutador, alpinista, esprintador, fondista, halterofilista, medallista, migfondista, mundialista, olímpic, perxista, recordista, regatista, velocista, basquetbolista, gimnasta
 -n: esportivitat, bon comportament, correcció, noblesa, netedat, decència, honradesa, honestedat, bona fe
+-n (esports de pilota): restada, devolució, tornada de servei, tornada, rest
 -n (esports): decatló, prova combinada, triatló, biatló, duatló, heptatló, hexatló, pentatló, tetratló
 -n (esports): volea, bolei, boleia
 -n: esprai, aerosol
@@ -4960,6 +4963,7 @@
 -n: etiqueta, adhesiu, gomet
 -n: ètnia, poble, nació, nacionalitat, raça, pàtria
 -n: etnografia, folklore, costumari, rondallística, refranyer
+-n: etnòleg, sociòleg, antropòleg
 -n (etnologia): capgròs, nan, nano, cabut
 -n: eucaliptus, febrer
 -n: eucaristia, comunió, mannà celeste, el pa i el vi, viàtic (NOFEM), oblat (NOFEM), Nostramo, Jesucrist (sagramentat), Santíssim Sagrament, aliment espiritual
@@ -5185,6 +5189,7 @@
 -n: foguera, fogata, foc
 -n (folklore): muixeranga, moixiganga, ball de valencians
 -n (folklore): patum, víbria, brívia, cuca fera, tarasca
+-n: folklorista, etnògraf, etnomusicòleg
 -n: follet #...
 -n: follet, gnom, esperit, donyet, barrufet, barruguet, nan, elf
 -n: foment, impuls, promoció, estímul, fomentació, protecció, conreu, cultiu, afavoriment, mecenatge, auxili, patrocini
@@ -6460,7 +6465,7 @@
 -n: obscurantisme, ignorantisme, endarreriment, retrocés, il·lustració (antònim), ignorància, subdesenvolupament
 -n: observador, buscapromeses, cercapromeses, buscatalents, cercatalents, caçatalents, vistaire
 -n: observatori, estació, talaia
--n: obsessió, fixació, preocupació, idea fixa, mania, monomania, dèria, cabòria, ceba (col·loquial), fal·lera, taleia, prejudici, enrònia, complex, cavil·lació, curolla, verera # verera (castellanisme)
+-n: obsessió, fixació, preocupació, idea fixa, mania, monomania, dèria, cabòria, ceba (col·loquial), fal·lera, taleia, prejudici, enrònia, complex, cavil·lació, curolla, verera, quimera # verera (castellanisme)
 -n: obstruccionisme, sabotatge
 -n: oca, oc, tirona
 -n: ocàs, posta, solpostada, posta de sol, sol post, sol colgat, solpost
@@ -6510,6 +6515,8 @@
 -n: odissea, aventura, peripècia, periple, viatge
 -n: odontàlgia, mal de queixal
 -n: ofec, anhelació, dispnea, embufec, ranera, panteix, pantaix, respiració (dificultosa), bleix, ruflet
+-n: ofegament, escanyament, estrangulació, estrangulament, asfíxia
+-n: ofegament, sufocació, ofegor, asfíxia
 -n (ofici): rodellaire, cercolaire, roder, cercoler, rodeller
 -n: oficial, funcionari, burot, consumer, duaner
 -n: oficial, operari, fadrí
@@ -6938,7 +6945,7 @@
 -n (planta): meló, melonera, sindriera, síndria
 -n (planta): zitzània, jull
 -n: planter, plantació, plançonada, plançoneda, herbari, viver
--n: plat, plata, plàtera, platera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas, font
+-n: plat, plata, plàtera, platera, greal (antic), gresal (antic), grial (antic), escudella, pàtera (arqueologia), bací (barbers), fruitera, plegador (NOFEM), bacina, safata, captiri, bol, enciamera, vas, font, encisamera, ensaladera
 -n: plat, platerada, ració, platada
 -n: plat, platet, patena, plateret
 -n: plata, argent
@@ -9405,6 +9412,7 @@
 -v (esport): rebutjar, refusar, allunyar, enviar lluny
 -v (esport): servir, sacar, traure, treure, posar en joc
 -v (esport): xiular, assenyalar, indicar
+-v (esports de pilota): restar, tornar
 -v: esprémer, escórrer, extraure, extreure, espunyir, traure el suc, treure el suc
 -v: esqueixar, espencar, esgarrar
 -v: esquerdar, clevillar (valencià), aclevillar (valencià), badocar, aclivellar, clivellar, clavillar (valencià), cruiar (balear), esquerdissar, esventar-se, esventrar, pelltrencar-se, tallar-se (els llavis)
@@ -9718,11 +9726,13 @@
 -v: interessar, absorbir, apassionar, atreure, atraure, captivar, encativar, excitar, impressionar, encuriosir, intrigar, emocionar, corprendre, temptar, subjugar
 -v: interessar, afectar, concernir, incumbir, tocar, importar, implicar, comprometre, involucrar, repercutir, pesar, condicionar, influir, influenciar, incidir, impregnar
 -v: interposar (llenguatge jurídic), presentar
+-v: interrompre, trencar el dir, tallar el dir, deixar amb la paraula a la boca, tallar el fil, tallar en sec, tallar el vent, trencar l'oremus, trencar les oracions, trencar el revessí
 -v: intersecar-se, tallar-se
 -v: intubar, entubar (col·loquial)
 -v: inventar, imaginar, fabular
 -v: involucrar, embolicar, enredar, ficar, mesclar, enredrar, envescar, enviscar, emmerdar (col·loquial), complicar, embrollar, empastifar, enfangar, enllardar, enllefiscar, embrocar, ficar en un embolic, enjoncar, enganxar, embarcar, embullar, embardissar, comprometre
 -v: irritar, indignar, endenyar (antic) #...
+-v (irritar): molestar, enutjar, irritar, recremar, exacerbar, emprenyar (col·loquial), empipar, empixonar, incomodar, ofendre, fer la punyeta, fer l'esqueta, tocar la pera, cremar, donar la llanda, donar la tabarra, donar la murga, donar quefer, pegar la vara, fer la llesca, fer la guitza, fer el borinot, borinotejar, clavar la tabarra, donar creu, donar destret, donar guerra, donar mala vida, donar la llauna, provocar, punxar, burxar, agullonar, assetjar, traure de polleguera, fer eixir de polleguera, treure de polleguera, fer sortir de polleguera, exasperar, xeringar, donar-ne per a salar, causar maldecaps, tocar la tafarra (col·loquial), picar una mosca (a algú), fer bullir l'enteniment, treure de mare, treure de botador, cremar les sangs (a algú), crispar els nervis, encendre la sang, crispar, ser un plom (col·loquial), destorbar, donar malany # dividir?
 -v: jeure, jaure, ajaure's, ajeure's, gitar-se, ficar-se al llit, colgar-se, ajaçar-se, enllitar-se, allitar-se, allargassar-se, allargar-se, estirar-se # tombar-se (DNV; DCVB)
 -v: jubilar-se, retirar-se, penjar els hàbits, penjar les botes, abandonar, deixar, penjar els hàbits a la figuera, abaixar veles, plegar el ram, plegar veles, plegar banderes, aixecar el camp, tancar la botiga
 -v: jugar a l'acuit, jugar a fet, jugar a conillets a amagar, jugar a la cluca, jugar a amagar-se
@@ -9771,7 +9781,7 @@
 -v: malavejar, feinejar, treballotejar, faenejar, cuinejar (a la cuina), trastejar, trafegar, trafeguejar, treballuscar
 -v: malaxar, pastar, fonyar, maurar, empastar, fènyer, funyir, masegar, fonyegar, pitjar, prémer, afaiçonar
 -v: malcasar, malmullerar, malmaridar
--v: malgastar, balafiar, malbaratar, dilapidar, prodigar, dissipar, malversar, despecegar, desaprofitar, llençar, gastar, polir-se (col·loquial), fondre, cremar, tirar la casa per la finestra, allargar més els peus que el llençol, estirar més els peus que la flassada, estirar més el braç que la màniga, tirar de veta, tenir la mà foradada, viure al dia, ficar l'olla gran dins de la xica, matar el vedell gras, no estar-se de res, disbauxar, allargar més el peu que la sabata
+-v (malgastar): malgastar, balafiar, malbaratar, dilapidar, prodigar, dissipar, malversar, despecegar, desaprofitar, llençar, gastar, polir-se (col·loquial), fondre, cremar, tirar la casa per la finestra, allargar més els peus que el llençol, estirar més els peus que la flassada, estirar més el braç que la màniga, tirar de veta, tenir la mà foradada, viure al dia, ficar l'olla gran dins de la xica, matar el vedell gras, no estar-se de res, disbauxar, allargar més el peu que la sabata
 -v: malinterpretar, malentendre, confondre, malfixar-se, agafar el rave per les fulles, agafar la figa pel capoll
 -v: malviure, viure malament, sobreviure
 -v: manar, dominar, controlar, tallar el bacallà, tenir la paella pel mànec, remenar l'olla, remenar les cireres, moure els fils, menar la dansa, tallar l'abadejo, ser l'amo del ball, portar la batuta, portar la veu cantant, portar els pantalons, fer i desfer, pastar i fènyer, tenir les regnes, tenir el timó, portar la bandera, portar el rem, dominar el galliner, portar el timó, portar les regnes, ser de l'olla, governar, intervenir, manejar, dirigir, tenir la manilla en la mà
@@ -9816,7 +9826,6 @@
 -v: modular #...
 -v: moldre, molinar, capolar, tallar, esmicolar, picar, trossejar, fragmentar, triturar, matxucar, emmatxucar, maçolar, trinxar, trullar (les olives), picolar, esbocinar, esmicar, espedaçar, especejar, estrinxolar, esquarterar, fer a trossos, engrunar, fer dernes, estifollar, concassar, laminar, ratllar
 -v: molestar, cansar, fatigar, agreujar, fer nosa, saturar, enutjar, embafar, empipar, importunar, amoïnar, carregar, incomodar, avorrir, emprenyar (col·loquial), empudegar, fastiguejar, enfastidir, donar pena, donar caguera (col·loquial), boixar, fer escudella
--v: molestar, enutjar, irritar, recremar, exacerbar, emprenyar (col·loquial), empipar, empixonar, incomodar, ofendre, fer la punyeta, fer l'esqueta, tocar la pera, cremar, donar la llanda, donar la tabarra, donar la murga, donar quefer, pegar la vara, fer la llesca, fer la guitza, fer el borinot, borinotejar, clavar la tabarra, donar creu, donar destret, donar guerra, donar mala vida, donar la llauna, provocar, punxar, burxar, agullonar, assetjar, traure de polleguera, fer eixir de polleguera, treure de polleguera, fer sortir de polleguera, exasperar, xeringar, donar-ne per a salar, causar maldecaps, tocar la tafarra (col·loquial), picar una mosca (a algú), fer bullir l'enteniment, treure de mare, treure de botador, cremar les sangs (a algú), crispar els nervis, encendre la sang, crispar, ser un plom (col·loquial), destorbar, donar malany # dividir?
 -v: molestar, mortificar, incomodar, vexar, humiliar, rebentar, fer la guitza, fer la vida impossible, maltractar, putejar (col·loquial), fer patir, atracallar, fastiguejar, tocar els collons (col·loquial), tocar els ous (col·loquial), tocar la pera, tocar allò que no sona, tocar el botet, fotre (col·loquial), emprenyar (col·loquial), no deixar viure, empixonar, fer la mà (col·loquial)
 -v: molinar, nocar, batanar
 -v: mol·lificar, estovar, ablanir, suavitzar, assuaujar, amollir, aflonjar, atupar, reblanir, remollir, esponjar, amollegar, entendrir, desempedreir, malaxar, amorosir
