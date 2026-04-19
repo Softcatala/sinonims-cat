@@ -159,7 +159,7 @@
 -adj: ascètic, sobri, frugal, auster, espartà, parc
 -adj: asenc, asiní
 -adj: asfixiant, sufocant, irrespirable, viciat, enrarit, ofegós, claustrofòbic, dens, carregat, respirable (antònim), ofegador
--adj: asmat, sense alè, desalenat
+-adj: asmat, sense alè, desalenat, amb la llengua fora
 -adj: aspre, aspriu, rude, selvàtic, asprós, arrapós, esgarrapós, escrú, desagradable, desagradós, sec, brusc, rústec, fi (antònim), polit (antònim), malagradós, agrest, cantellut
 -adj: aspre, raspós, rugós, asprós, esgarrapós, arrapós, insuau, suau (antònim)
 -adj: assaciat, sadollat, satisfet, tip, fart, desganat, desmenjat, insatisfet (antònim) #...
@@ -1711,7 +1711,7 @@
 -adj: tot (FEM tota), enter, sencer, complet, complit (FEM complida), total, íntegre, integral, entregue (valencià), general, global, holístic, d'una peça #separar diferents sentits?
 -adj: totpoderós, omnipotent
 -adj: tradicional, consuetudinari, inveterat, avial, usual, històric, vell, pairal, habitual, ancestral, establit, establert, antic, acostumat, consagrat, clàssic, típic, de sempre, convencional
--adj: tranquil, asserenat, quiet, calm, encalmat, assossegat, serè # mar...
+-adj: tranquil, asserenat, quiet, calm, encalmat, assossegat, serè, com una bassa d'oli # mar...
 -adj: transcendent, metafísic, transcendental, transient, elevat, sublim, numinós (FEM numinosa), espiritual, diví
 -adj: transcendental, decisiu, vital, determinant, de gran importància, essencial
 -adj: transferible, alienable, renunciable
@@ -2655,6 +2655,7 @@
 -loc: qui no s'arrisca no pisca, qui vulgui peix que es mulli el cul, si vols peix\, al mar en creix, qui no aventura no té ventura, qui vulga peixet que es banye el culet
 -loc: qui paga mana, qui té diners sempre té raó, pagant\, sant Pere canta, qui té diners vola, amb diners\, torrons, amb diners\, carxofes
 -loc: reciprocitat, avui per tu demà per mi, avui per mi demà per tu, favor que et faig favor que em deus, favor per favor, quid pro quo (anglicisme), do ut des (llatí), una mà renta l'altra
+-loc: remei eficaç, oli en un llum, oli en un cresol
 -loc (resposta a un agraïment): de res, no es mereixen, només faltaria, no s'ho val, a Déu sien dades, en vida teva, en vida de tots, vostè les té totes # dubtoses: no faltaria més, no faltava més
 -loc: saber de lletra, estar instruït, saber llegir, saber llegir i escriure, tenir estudis
 -loc: saldat, en paus, en pau, tants a tants, cama a cama, sense deutes, amb els comptes arreglats
@@ -5388,7 +5389,7 @@
 -n: gnoseologia, epistemologia, teoria del coneixement
 -n: gogó, animador
 -n: gojat, xicot (NOFEM)
--n: gola, gargamella, gorja, coll, faringe, canyó, ganyot, davallador (col·loquial), davallant (col·loquial), garganxó #...
+-n: gola, gargamella, gorja, coll, faringe, canyó, ganyot, davallador (col·loquial), davallant (col·loquial), garganxó, carcanyell, carcabòs #...
 -n: gola, golosia, golafreria, voracitat, apetit, apetència, glotonia (antic), gormanderia, goluderia, gòmia
 -n: golejada, cabàs de gols
 -n: golfa, golfes, andana, algorfa, porxi, porxe, porxo, cambra, falsa, sostremort, sostre, mansarda
@@ -6054,6 +6055,7 @@
 -n: maquiavel·lisme, astúcia, duplicitat, mala fe, engany, hipocresia, mònita, mauleria, raboseria, fariseisme, dol (dret)
 -n: màquina de guerra, giny de guerra, catapulta, balista, pedrer (NOFEM), espingarda
 -n: maquineta de fer punta, maquineta, afilamines
+-n: mar calma, mar llisa, bassa d'oli
 -n: mar de fons, mar forana, mar llarguera, mar de lleva, mar de lluny
 -n: mar, oceà, pèlag, mar gran, mar oceana
 -n: maracujà, fruita de la passió, granadilla
@@ -7050,7 +7052,7 @@
 -n: pràctica, aplicació, exercici, exerció, conreu, praxi, cultiu
 -n: pràctica, veterania, perícia, experiència, expertesa, destresa, habilitat (f), competència, eficiència, validesa
 -n: pràctiques, pràcticum
--n: prebenda, bicoca, renda, canongia, sinecura, benefici, privilegi, ganga, ocasió, oportunitat, profit, moma, avantatge, menjadora, càrrec, bon passament, bon passar
+-n: prebenda, bicoca, renda, canongia, sinecura, benefici, privilegi, ganga, ocasió, oportunitat, profit, moma, avantatge, menjadora, càrrec, bon passament, bon passar # pessebre, pesebre ?
 -n: precarietat, inestabilitat, caducitat, labilitat
 -n: precaució, compte, cautela, atenció, respecte, circumspecció, prudència, prevenció, cura, previsió, mirament, vigilància
 -n: precinte, lligat, lligatge, cinta, filferro, segell
@@ -8521,7 +8523,7 @@
 -v: alegrar-se, congratular-se, gratular-se, rabejar-se, gaubar-se (antic)
 -v: alfabetitzar, ordenar, posar per ordre, posar en ordre, arranjar
 -v: alfarrassar, barriscar
--v: alimentar, nodrir, péixer, peixar, encarcanyar, empapussar, engargamellar, engorjar, ataquinar, sustentar, saginar, encebar, engreixar, atipar, afartar, engordir, acevar, engavatxar, donar a menjar, criar, apeixir, avidar, esquerar, apeixar, donar menjar
+-v: alimentar, nodrir, péixer, peixar, encarcanyar, empapussar, engargamellar, engorjar, ataquinar, sustentar, saginar, encebar, engreixar, atipar, afartar, engordir, acevar, engavatxar, donar a menjar, criar, apeixir, avidar, esquerar, apeixar, donar menjar, engargallar, engargullar, fer empassar # dividir sentit neutre "alimentar" i el forçat "engargamellar"
 -v: alletar, lactar, criar, donar a mamar, donar mamar, donar el pit, nodrir, alimentar, enconar, deslletar (antònim)
 -v: allongar, allargar, prolongar, perllongar
 -v: allotjar, acollir, albergar, estatjar, aposentar, aixoplugar, rebre, soplujar, emparar, hostatjar
@@ -9001,6 +9003,7 @@
 -v: desemmascarar, descobrir, desemboscar, evidenciar, treure la careta, traure la careta, destapar, revelar, desvelar
 -v: desempallegar-se, desllepissar-se, desenllepissar-se, escapolir-se, deslliurar-se, desfer-se, estalviar-se, alliberar-se, esmunyir-se, despellugar-se
 -v: desempaquetar, desembolicar, desembolcallar, desembolcar, desempacar, desembalar, desembalatjar, desencapsar, desencaixonar, desenfardar, desenfardellar
+-v: desempedrar, despavimentar
 -v: desempenyorar, rescatar, recobrar, recuperar, redimir, alliberar, afranquir
 -v: desempolsar, desempolsegar, espolsar, llevar la pols
 -v: desencadenar, desfermar, precipitar
@@ -10285,7 +10288,7 @@
 -v: ser permès, ser llegut
 -v (ser pobre): ser pobre, anar blau, anar curt de calés, anar fluix d'armilla, anar prim de butxaca, anar prim de calés, ballar-la magra, ballar-la prima, estar a la barra, no arribar els cordons (a algú), no poder tirar pilota a l'olla, no tenir blanca, no tenir de què fer estelles, no tenir dos diners per a fer cantar un cec, no tenir més que la capa al muscle, no tenir ni una malla, no tenir on caure mort, no tenir per a fer cantar un cec, no tenir un clau, no tenir un cèntim, no tenir un sacre, no tenir una creu, no tenir una creu per a tapar-se un ull, no tenir-ne ni cinc, no tindre més que el sol que li pega a la cara, no tindre un qüe, passar misèria, passar necessitat, passar-la magra, passar-la prima, restar sense una creu, ser més pobre que un Déu te'n do, ser ric com un grill, tenir l'armilla malalta, ballar els goigs de sant Prim, ballar el ball de sant Prim, passar estretor
 -v: ser preferible, valdre més, ser millor
--v (ser ric): ser ric, abillar-la, anar calent d'armilla, anar cosit d'or, anar cosit de bitllets, anar en gran, anar folrat d'armilla, anar fort d'armilla, anar gros, ballar-la grassa, estar arreglat, estar bé, estar com un rei, fer pans de crostons els arbres, granejar, lligar els gossos amb llonganisses, nadar amb carabasses, nedar en l'abundància, nedar en la prosperitat, ploure truites, tenir bon ronyó, tenir el ronyó cobert, viure bé, viure en l'abundància
+-v (ser ric): ser ric, abillar-la, bitllar-la, anar calent d'armilla, anar cosit d'or, anar cosit de bitllets, anar en gran, anar folrat d'armilla, anar fort d'armilla, anar gros, ballar-la grassa, estar arreglat, estar bé, estar com un rei, fer pans de crostons els arbres, granejar, lligar els gossos amb llonganisses, nadar amb carabasses, nedar en l'abundància, nedar en la prosperitat, ploure truites, tenir bon ronyó, tenir el ronyó cobert, viure bé, viure en l'abundància
 -v: ser tot cor, tenir el cor tendre, ser sensible
 -v: ser un bon escolà, ser un bon peix, ser un gat vell, ser un punt, ser un puta (col·loquial), ser una arna, ser una bona pua, ser una mala pua, saber-la llarga
 -v: ser un cas perdut, no tenir cura, ser irrecuperable, ser incorregible
