@@ -2610,6 +2610,7 @@
 -loc: el que plau no pesa, el que ve de gust no mata, val més pa sec amb gust que del dia amb disgust, el que no mata engreixa, càrrega a gust no pesa
 -loc: el sant de més lluny fa més miracles, ningú és profeta a casa seva, ningú és profeta a la seva terra
 -loc: empatat, cama a cama, tants a tants, taules, empat
+-loc: en bon seny, en el seu seny
 -loc: en el millor dels casos, anant bé, si tot va bé
 -loc: errare humanum est, qui té boca s'equivoca, qui molt parla molt erra
 -loc: estar palplantat, fer el faristol
@@ -2962,7 +2963,8 @@
 -n: ampolleta, rellotge d'arena
 -n: amputació, apòcope, mutilació, extirpació, ablació, abscisió, tall, separació, supressió, escissió, reamputació, resecció, excisió, truncament, exèresi (medicina)
 -n: amulet, talismà, mascota, fetitxe, escarabeu (egipci), tòtem, ídol, símbol, abraxas, abracadabra, abrasax, filacteri
--n: amuntegament, apilotament, aplegament, grapat, acumulament, cúmul, apilament, muntanya, pinya, estiba, muntó, càrrega, carregament, pilot, aglomeració, pila, rima, rimer, acumulació, atapeïment, amassament, munt, caramull, amuntonament, remolí, pilera, pilotera, serrera, carrell, entatxonament, claper
+-n: amuntegament, apilotament, aplegament, acumulament, acumulació, apilament, aglomeració, cúmul, pila, pilot, grapat, muntó, muntanya, pinya, estiba, càrrega, rima, rimer, munt, caramull, amuntonament, remolí, pilera, pilotera, serrera, carrell, entatxonament, claper #efecte d'amuntegar
+-n: amuntegament, apilotament, aplegament, acumulament, acumulació, apilament, carregament, aglomeració, atapeïment, amassament, amuntonament, entatxonament, acreció #acció d'amuntegar
 -n: anacoreta, eremita, ermità (FEM ermitana), morabit (islam), marabut (islam), monjo
 -n: anades i vingudes, passos, diligències, tràmits, paperassa (despectiu)
 -n: anadípsia, set, assedegament, adípsia (antònim)
@@ -4735,7 +4737,7 @@
 -n: epistaxi, hemorràgia nasal, rinorràgia
 -n: epitafi, inscripció, epígraf, rètol, llegenda, lauda sepulcral
 -n: equilibri, balança, indecisió
--n: equip, conjunt, formació, ardada, ardat, colla, collada, cercle, grup, banda, basca (col·loquial), bolitjada, cacera (de caçadors), càfila (pejoratiu), camarada, cataifa, cohort, diablera, dula, penya (col·loquial), quadrilla, exèrcit, estol, escamot, escarot, esbart, caterva, companyia, legió, bàndol, soldadesca (pejoratiu), col·lectiu, fauna (pejoratiu), missió, cos (de ball), tall (pejoratiu), falange, comparsa, flota
+-n: equip, conjunt, formació, ardada, ardat, colla, collada, cercle, grup, banda, basca (col·loquial), bolitjada, cacera (de caçadors), càfila (pejoratiu), camarada, cataifa, cohort, diablera, dula, penya (col·loquial), quadrilla, exèrcit, estol, escamot, escarot, esbart, caterva, companyia, legió, bàndol, soldadesca (pejoratiu), col·lectiu, fauna (pejoratiu), missió, cos (de ball), tall (pejoratiu), falange, comparsa, flota, flotó
 -n: equip, equipament, bagatge, equipatge, impedimenta, indumentària, vestuari, pertret, equipació, fato
 -n: equip, equipament, equipatge, indumentària, vestuari, equipació, uniforme, vestit, modelet, model, roba, vestimenta, indument, lliurea, esmòquing, xandall, mallot, abillament, conjunt, tutú
 -n: equiuroïdeu, equiür
@@ -5426,7 +5428,7 @@
 -n: granadura, granissa, grans de vidre, vidrets, grans
 -n: granellada, granissada, granullada, erupció, borradura, borronadura, urticària, granulla, èczema, exantema, eritema, dermatosi, brià, impetigen
 -n: graner, blader, comerciant, formenter
--n: granera, raspall, raspalla, escombra, escombreta, granereta, agraner, baleja, escombrador, escombrall, ramàs, escampa
+-n: granera, raspall, raspalla, escombra, escombreta, granereta, agraner, baleja, escombrador, escombrall, ramàs, escampa, esteranyinador, desenteranyinador, plomall, plomer
 -n: graníssol, granissol, bruixó, calabruixa, calabruixó, calamarsa, calamarsó, granís, granissa, granissó, matacabra, calabruix, calabruixada, granissada, granissolada, pedregada, calabruixonada, bruixonada, calamarsada, pedruscada, pedra
 -n: granja, vivàrium, criador (NOFEM)
 -n: granota, rànid (família)
@@ -8686,7 +8688,7 @@
 -v: batre, batollar
 -v: bavar, bavejar, salivar, salivejar
 -v (bé o malament): escaure, venir, resultar, parar, estar, caure
--v: belluguejar, bellugar-se, renouejar, agitar-se
+-v: belluguejar, bellugar-se, renouejar, agitar-se, rebaldir
 -v: beneficiar-se, aprofitar-se, valdre's, treure profit, traure profit, espletar, prevaldre's, prevaler-se, rendibilitzar, clavar mos, capitalitzar, treure nyapa
 -v: beneficiar-se, explotar, fer negoci, treure el suc, treure partit, mullar, sucar, treure profit
 -v: berenar, espertinar (català septentrional)
@@ -9262,7 +9264,7 @@
 -v: endolar, cobrir de dol, posar dol
 -v: endossar, encolomar, encarranquinar, passar el mort, encomanar, encarregar, endinyar (col·loquial), carregar els neulers, posar l'albarda, passar la patata calenta, passar la pilota, carregar el mort, endossar el mort, carregar les culpes, responsabilitzar, fer pagar els neulers, fer pagar la festa, fer pagar els plats trencats
 -v: enfadar, enutjar, enrabiar, sulfurar, enfurismar, enfurir, enfuriar
--v: enfadar-se, enutjar-se, emprenyar-se (col·loquial), empipar-se, irritar-se, molestar-se, ofendre's, enreveixinar-se, cremar-se, picar-se, regirar-se la bilis, enrabiar-se, enfaristolar-se, sulfurar-se, indisposar-se, incomodar-se, enfurismar-se, enfurir-se, enfuriar-se, enquimerar-se, emmurriar-se, emmorronar-se, rebotar-se (col·loquial), arravatar-se, treure salivera, treure foc pels queixals, exaltar-se, encrespar-se, encolerir-se, agitar-se, pujar-se'n a la figuereta, pujar la mosca al nas (a algú), aïrar-se, irèixer-se (antic), posar-se fet una fúria, posar-se fet una fera, calfar-se la tafarra (col·loquial), pujar-se'n per les parets, enfilar-se per les parets, bullir la sang (a algú), pujar la sang al cap (a algú), sortir de mare, sortir de polleguera, treure el geni, enfilar-se
+-v: enfadar-se, enutjar-se, emprenyar-se (col·loquial), empipar-se, irritar-se, molestar-se, ofendre's, enreveixinar-se, cremar-se, picar-se, regirar-se la bilis, enrabiar-se, enfaristolar-se, sulfurar-se, indisposar-se, incomodar-se, enfurismar-se, enfutismar-se (vulgar), enfurir-se, enfuriar-se, enquimerar-se, emmurriar-se, emmorronar-se, rebotar-se (col·loquial), arravatar-se, treure salivera, treure foc pels queixals, exaltar-se, encrespar-se, encolerir-se, agitar-se, pujar-se'n a la figuereta, pujar la mosca al nas (a algú), aïrar-se, irèixer-se (antic), posar-se fet una fúria, posar-se fet una fera, calfar-se la tafarra (col·loquial), pujar-se'n per les parets, enfilar-se per les parets, bullir la sang (a algú), pujar la sang al cap (a algú), sortir de mare, sortir de polleguera, treure el geni, enfilar-se
 -v: enfarfegar, enforfoguir, embaldragar, farcir, recarregar, afeixugar, llastar, enfardissar, enfardar
 -v: enfebrar-se, agafar febre, venir la febre, tenir un accés de febre, agafar una febrada, tenir una febrada, desenfebrar-se (antònim), escalfeir-se, escalfir-se
 -v: enferestir, ensalvatgir
