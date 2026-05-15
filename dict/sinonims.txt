@@ -922,7 +922,7 @@
 -adj: impracticable, impassable, inaccessible, incomunicat, isolat, aïllat, impenetrable, desavinent, allunyat, apartat, perdut, fora mà
 -adj: imprecís, vague, vagarós, inexacte, imperfecte, inconcret, difús, borrós, boirós, incert, indefinit, indeterminat, informe, desdibuixat, esborrat, aorístic (lingüística), confús, tèrbol, ambigu, dubtós, equívoc, mig figa mig raïm, ni carn ni peix, ambivalent, promiscu, indefinible, erràtic
 -adj: impredictible, imprevisible, insospitable, impensable, improvís, inimaginable, increïble, inaudit, insòlit, inesperable
--adj: impropi, desavinent, extemporani, fora de lloc, fora de propòsit, fora de temps, impertinent, importú, imprevist, inadequat, inconvenient, incòmode, inescaient, inesperat, inoportú, intempestiu, sense venir a tomb, sobtat, inapropiat, desaconsellable #TODO: dividir?
+-adj: impropi, desavinent, extemporani, fora de lloc, fora de propòsit, fora de temps, fora de to, impertinent, importú, imprevist, inadequat, inconvenient, incòmode, inescaient, inesperat, inoportú, intempestiu, sense venir a tomb, sobtat, inapropiat, desaconsellable #TODO: dividir?
 -adj: improrrogable, indiferible, fix, definitiu, inajornable
 -adj: impúdic, descarat, insolent, procaç, desvergonyit, atrevit, fresc, impudent, pocapena, llengut, llenguerut, llenguallarg, pocavergonya, desbocat, maldient, irrespectuós, grosser, irreverent, incívic
 -adj: impune, indemne, exempt, lliure, dispensat, impunit, inexpiat, castigat (antònim)
@@ -1535,7 +1535,7 @@
 -adj: rodó, redó, ovat, cilíndric, esfèric, anular, semianular, rodonenc, redonenc, rom, circular, ovalat, corb, arrodonit, arredonit, tornejat, oval, malrodó, malredó, curvilini, apomat, ovoide, orbicular, globós, globular
 -adj: rodó, redó, sense fraccions, complet, just
 -adj: rogatori, rogatiu, suplicatori
--adj: roí, roín, dolent, mal, malvat, maligne, malèvol, malèfic, inic, pervers, maleït, maleit, malintencionat, maliciós, pèrfid, àvol (antic), nefand, mala bua, garneu, insidiós, malànima, cruel, inhumà, reconsagrat, canallesc, rebordonit
+-adj: roí, roín, dolent, mal, malvat, maligne, malèvol, malèfic, inic, pervers, maleït, maleit, malintencionat, maliciós, pèrfid, àvol (antic), nefand, mala bua, garneu, insidiós, malànima, cruel, inhumà, reconsagrat, canallesc, rebordonit, ímprobe, improbiós
 -adj: roí, roín, dolent, menyspreable, indigne, baix, vil, abjecte, sòrdid, mesquí, innoble, detestable, infame, lleig, ofensiu, immoral, deshonrat, deshonest, blasmable, execrable, miserable, vitand, tinyós #separar i repartir en altres?
 -adj: roí, roín, dolent, pèssim, mal
 -adj: romà, catòlic, romà catòlic
@@ -1745,6 +1745,7 @@
 -adj: ullcluc, amb els ulls clucs, amb els ulls tancats
 -adj: ullerut (FEM ulleruda), amb ulleres, quatre ulls
 -adj (un braç): en cabestrell, en congrell, enguixat, escaiolat, embenat
+-adj (un treball): ímprobe, tenaç, excessiu, continuat, persistent, afanyós
 -adj (una terra): productiu, fructuós, fruitós, fèrtil, fecund, feraç, ubèrrim, fructífer, rendible, ric, bo, esplèndid, gras, generós, retent, prolífic, prolífer, prolíger, pròdig, abundant
 -adj: unilingüe, monolingüe
 -adj: untuós, llepissós, apegalós, seuós
@@ -1905,6 +1906,7 @@
 -adj/n: invasor, conqueridor, conquistador, subjugador, colonitzador
 -adj/n: ivori, vori, marfil, eburni (adjectiu)
 -adj/n: japonès, nipó, del sol naixent, nikkei (emigrat)
+-adj/n: jiddisch, ídix, judeoalemany
 -adj/n: jueu, judaic, juïc (antic), xueta (convers), hebreu, hebraic, israelita, sefardita (a la península Ibèrica)
 -adj/n (lateralitat): dretà, dreter, esquerrà (antònim), esquerrer (antònim)
 -adj/n (lateralitat): esquerrà, esquerrer, guerxer, dretà (antònim), dreter (antònim)
@@ -1963,6 +1965,7 @@
 -adj/n (seguidor de Pirró): aporètic, escèptic, zetètic, efèctic
 -adj/n: seixantí, sexagenari, de seixanta anys, d'uns seixanta anys
 -adj/n: semita, semític, jueu, àrab
+-adj/n: senier, sinier
 -adj/n: setantí, septuagenari, de setanta anys, d'uns setanta anys
 -adj/n: siamès, monòmfal, unit
 -adj/n: somiador, somiejador, malsonyós (que té malsons), somniador, somiós
@@ -2005,7 +2008,7 @@
 -adv: a gotes, de gota en gota, amb comptagotes, intermitentment
 -adv: a granel, sense envasar, sense empaquetar
 -adv: a gratcient, deliberadament, intencionadament, a dretcient, a posta, expressament, acordadament, a postes, a propòsit, voluntàriament, a dretes, amb plena consciència, exprés, ex professo (llatí), volent
--adv: a hora foscant, cap al tard, al tardet, a boca de fosc, a entrada de fosc, a hora baixa, a la caiguda del dia, a la caiguda del sol, a posta de sol, a sol baix, a sol colgat, a sol post, al capvespre, al caient del sol, al primer foscant, entre dos foscants, entre dos llostres, entre dues fosques, entre dues llums, al vespre, de vespre, de vespres, a toc d'oració, a boqueta de nit, a la poca nit, a poqueta nit, a poca nit, a boca de nit, entre dues clarors, a horabaixa, a sol ponent, a sol colgant, a bocafoscant # separar sol ponent/sol post
+-adv: a hora foscant, al foscant, cap al tard, al tardet, a boca de fosc, a entrada de fosc, a hora baixa, a la caiguda del dia, a la caiguda del sol, a posta de sol, a sol baix, a sol colgat, a sol post, al capvespre, al caient del sol, al primer foscant, entre dos foscants, entre dos llostres, entre dues fosques, entre dues llums, al vespre, de vespre, de vespres, a toc d'oració, a boqueta de nit, a la poca nit, a poqueta nit, a poca nit, a boca de nit, entre dues clarors, a horabaixa, a sol ponent, a sol colgant, a bocafoscant, a ranvespre # separar sol ponent/sol post
 -adv: a hora horada, en l'últim moment, just a temps, a última hora, a darrera hora
 -adv: a la bestreta, anticipadament, per endavant, a compte, abans d'hora, amb temps, per anticipat, amb antelació, a priori, de bestreta, anteriorment, abans, per avançat, amb anticipació, a l'avançada, prèviament
 -adv: a la clara, a les clares, a la vista, a plena llum, al viu, categòricament, clar i català, clar i llampant, clar i net, clar i ras, clarament, de llis, de pla, declaradament, distintament, en una paraula, llis i ras, manifestament, net i cru, net i pelat, netament, nu i cru, obertament, ras i curt, sense ambages, sense circumloquis, sense embuts, sense pèls a la llengua, sense subterfugis, tot ras, de ple
@@ -2252,6 +2255,7 @@
 -adv: enlaire, en joli, en sopols, a pols, a mà alçada
 -adv: enlaire, pendent, sense resoldre
 -adv: enlloc, en cap banda, en cap part, ni en palla ni pols, ni en forat ni en finestra, enlloc del món, almon, en cap lloc
+-adv: entre dos foscants, entre dos llostres, entre dos llustres, entre dues llums, entre dues clarors
 -adv: entremig, al mig, enmig
 -adv: esbojarradament, arrauxadament, apassionadament, abrandadament, follament, bojament, impulsivament, ardentment, cegament, desassenyadament, forassenyadament, sense solta ni volta, sense trellat, sense trellat ni forrellat, sense seny, destrellatadament, desficaciadament
 -adv: específicament, particularment, individualment, singularment, pròpiament, privativament, característicament, típicament, especialment, peculiarment, intrínsecament, distintivament, inherentment, essencialment
@@ -5091,7 +5095,7 @@
 -n: feina, faena, comesa, deure, encàrrec, labor, quefer, tasca, comanda, missió, comissió, funció, paper, rol
 -n: feina, faena, feinada, faenada, faenassa, feinassa, jornalada, jornal, fato (col·loquial), bugada (col·loquial), treball, labor, tasca
 -n: feix, feixina, garba, garbó, gavell, gavella, costal, garbera, garberada, braçat, aixama
--n: felí, pantera, gat, lleó, tigre, jaguar, lleopard, ocelot, puma
+-n: felí, pantera, gat, lleó, tigre, jaguar, lleopard, ocelot, puma, onça
 -n: felicitació, postal, nadala, dècima
 -n: fel·lació, mamada (col·loquial), francès (col·loquial NOFEM)
 -n: femellam, donam, dones, femelles
@@ -5788,6 +5792,7 @@
 -n: libèl·lula, espiadimonis, parotet, maroteta, cabot, cavallet, cavallet del dimoni, damisel·la, marota, parecabotes, parot, pixaví, libel·lúlid
 -n (licor sense força): aiguarelles, pixarelles, aiguota, aigüeta, pixats de burra
 -n: lideratge, mestratge, guiatge, comandament, direcció, govern, pilotatge, regnes, pòndol
+-n: Lies, Liàsic (NOFEM)
 -n: like (anglès), m'agrada, agradament
 -n: lila, lilà, liler
 -n: liler, lilà
@@ -5928,7 +5933,7 @@
 -n: llossada, cullerada
 -n: llostre, crepuscle, llustre
 -n: llostre, llustre, alba, albada, albor, aurora, primera hora, punta de dia, matinada
--n: lluc, rebrot, rebroll, tany, ull, verduc, borró, verdanc, brot, grill, fillol (NOFEM), grella, renou, plançó, guaix, refillol
+-n: lluc, rebrot, rebroll, tany, ull, verduc, borró, verdanc, brot, grill, fillol (NOFEM), grella, renou, plançó, guaix, refillol, renís
 -n: lluentó, llustrí
 -n: llufa, càguila, ninot
 -n: lluïment, lluïdesa, reeiximent, èxit, brillantor, excel·lència
@@ -6365,6 +6370,7 @@
 -n (narrativa): analepsi, salt enrere, retrocés, flashback (anglès)
 -n: natalici, aniversari
 -n: nativitat, Nadal, naixement
+-n: natró, sosa
 -n: naturalista, botànic, zoòleg, biòleg, ambientòleg, ecòleg, etòleg
 -n: naturalitat, espontaneïtat, ingenuïtat, franquesa, sinceritat, senzillesa, simplicitat, impulsivitat, desimboltura
 -n: nau, cosmonau, astronau, mòdul, aeronau, coet, transbordador espacial, llançadora espacial
@@ -7568,6 +7574,7 @@
 -n: seixanta, seixantena
 -n: selectivitat, prova de selectivitat, PAU, prova d'accés a la universitat, selectiu (NOFEM)
 -n: selfie, autofoto
+-n: seller (NOFEM), selleter (NOFEM), corretger (NOFEM), baster (NOFEM)
 -n: semal, portadora, semala, semaló
 -n: semblança, retrat, biografia, autobiografia, hagiografia, vida, perfil, bio (col·loquial), memòries, biopic (anglès), anecdotari
 -n: semblança, similitud, analogia, retirada, retirança, afinitat, consanguinitat (genètica), convergència, dissemblança (antònim), fanzella, iconicitat, paral·lelisme, ressemblança, ressemble, tirat
