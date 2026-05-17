@@ -183,7 +183,7 @@
 -adj: auditiu, òtic
 -adj: auditiu, sonor
 -adj: augustià, augustal
--adj: auri, bo, boníssim, celestial, eminent, excels, preexcels, excel·lent, extraordinari, ideal, idoni, immillorable, insuperable, insuperat, magistral, meravellós, mestre, millor, perfecte, preciós, pur, sublim, superior, òptim, millorable (antònim), transcendent, ric, imperial, august, de traca i mocador, suprem, primicer, sobrebò, de mà de mestre
+-adj: auri, bo, boníssim, celestial, eminent, excels, preexcels, excel·lent, preexcel·lent, extraordinari, ideal, idoni, immillorable, insuperable, insuperat, magistral, meravellós, mestre, millor, perfecte, preciós, pur, sublim, superior, òptim, millorable (antònim), transcendent, ric, imperial, august, de traca i mocador, suprem, primicer, sobrebò, de mà de mestre
 -adj: auri, d'or, aurífic, preciós, àuric
 -adj: aurífer, aurífic, d'or, àuric
 -adj: autàrquic, autosuficient
@@ -840,7 +840,7 @@
 -adj: gratuït, innecessari, immotivat, infundat, arbitrari, hipotètic
 -adj: gratuït, regalat, de favor, graciós, gratis, de franc, debades
 -adj: graval, gravós, gravenc
--adj: gregari, arramadat, afolcat #...
+-adj: gregari, arramadat, afolcat, aflotonat #...
 -adj: greixós, llardós, gras, mantegós, oliós, adipós, untós, llardissós, llefardós, llefiscós, seuós
 -adj: grenyal, al dente (italià; pasta), poc cuit (FEM poc cuita)
 -adj: grimpador, grimpaire, enfilador, enfiladís (planta)
@@ -2295,7 +2295,7 @@
 -adv: greument, críticament, seriosament, transcendentalment, crucialment
 -adv: greument, seriosament, formalment, solemnement, circumspectament
 -adv: hostilment, a les males, barallant-se, de mala manera, de qualsevol manera, per força, violentament
--adv: i escaig, i busques, i pocs, i tants, i les dents, i repicó, i remitjó, i tacó
+-adv: i escaig, i busques, i pocs, i tants, i les dents, i repicó, i remitjó, i tacó, i passeres
 -adv: immediatament, tot seguit, seguidament, encontinent (antic), de seguida, de mantinent (antic), tantost (antic), de pressa, corrents, llampant, ràpidament, a l'acte, a cop calent, a colp calent, al moment, en un dir amén, en un instant, en un alè, instantàniament, a l'instant, en un no res, en un moment, arreu, d'una hora lluny, a tot córrer, en un bell en sec, d'un bell en sec, en un bot, en un salt, en un tres i no res, en un girar d'ulls, en un batre d'ulls, en un tancar i obrir d'ulls, en un punt, en un dir Jesús, en un ai, en un pensament, en un bufit, en una exhalació, en una escapada, en un vol, ipso facto, en continent (antic), de continent (antic), en una escorribanda, en una corredissa, en un llamp, d'un dia a l'altre, avui per demà, en un sopols # es podria separar diferents sentits
 -adv: impassiblement, com si res, com si tal cosa, com qui sent ploure, com aquell qui res
 -adv: improvisadament, a rajaploma (escriure), tal com raja, sense mirament, pel broc gros, de qualsevol manera, tal com cau, tal com surt, tal com sona
@@ -4165,7 +4165,7 @@
 -n: cosmopolitisme, universalime, globalisme
 -n: costa, costera, coster, pujada, pujant, baixada, baixant, pendent (m), pendís, rost, rossola, vessant (m), falda, faldar, rampa, talús, pujadeta, repetjó, ascensió, davallada, davallament, empit, rampant, aiguavés, aiguavessant, socoster, baixest, caient, rossolera, esgolador, barda
 -n: costa, costera, litoral, riba, ribera, ribatge, marina, platja, vora
--n: costellam, costellada
+-n: costellam, costellada, costelles, carré (francès)
 -n: costelles, costat, costa (antic)
 -n: costum, folklore, tradició, ús, consuetud, usança, estil, experiència
 -n: costum, pràctica, rutina, moda, ús, estil, gust
@@ -4516,7 +4516,7 @@
 -n: dragó, andragó (col·loquial), dragolí, dragonet
 -n: drap, llenç, roba, teixit, tela, feltre, burell, burat, blonda, bèrnia, tissú, pella (història), peia (història), filempua, gasa, glassa
 -n: drap, parrac, esquinçall, esqueixall, pellingot, escassigall, estrassa, pedaç
--n: drapaire, parraquer, pedacer, parracaire, robavellaire, robaveller (FEM robavellera), escassigallaire, trastaire
+-n: drapaire, parraquer, pedacer, parracaire, robavellaire, robaveller (FEM robavellera), escassigallaire, trastaire, revenedor, antiquari
 -n: drassana, dipòsit, hangar, local, magatzem, nau, mestrança, grada, doc
 -n: drecera, travessa, trencall, atall, camí travesser
 -n (dret): acusat, defensa, acusació (antònim)
@@ -4885,6 +4885,7 @@
 -n: esquinç, esquinçada, esquinçament
 -n: esquinçall, estripall, esqueixall, parrac, esparrac, pellingot, cassigall, escassigall, péntol, esgarro, esgarrall, pendó, pelleringa
 -n: esquirol, farda, esciúrid (família)
+-n: esquirol, trencavagues
 -n: esquitx, esguit, escarritx, escatxic, esguitó, esquit, esquitxell, esquitxoteig, fangada (de fang), garró (de fang), perdigó (de saliva), xarbot, esguitada, esquitxada, gallota (de fang), samarroca (de fang)
 -n: ésser, ésser creat, creatura (llatinisme), criatura
 -n: ésser, ser, entitat, ens, organisme, exemplar
@@ -5936,7 +5937,7 @@
 -n: lluc, rebrot, rebroll, tany, ull, verduc, borró, verdanc, brot, grill, fillol (NOFEM), grella, renou, plançó, guaix, refillol, renís
 -n: lluentó, llustrí
 -n: llufa, càguila, ninot
--n: lluïment, lluïdesa, reeiximent, èxit, brillantor, excel·lència
+-n: lluïment, lluïdesa, reeiximent, èxit, brillantor, excel·lència, preexcel·lència
 -n: llum (m), bombeta (incandescent; elèctrica), pera (incandescent; elèctrica), llàntia (de combustible), làmpada (usos especialitzats), focus, flexo, led
 -n: lluminositat, brillantor
 -n: lluna creixent, quart creixent
@@ -7706,7 +7707,7 @@
 -n: solc, canal (f), estria, galze, rodera, rega, regata, reguerot, regató (NOFEM), regatera, canalera
 -n: solc, traça, rastre, senyal, deixant, ròssec, cua, deixalla, recialla, reguera, regueró
 -n: soldat de peu, peó, infant, soldat d'infanteria
--n: soldat ras (FEM soldada rasa), gregari
+-n: soldat ras (NOFEM), gregari
 -n: soldat, recluta, allistat, sorge, quinto
 -n: solera, empostissat, basament, estrada, tarima, taulat, plataforma
 -n: solera, fons, sòl
@@ -7753,7 +7754,7 @@
 -n: subdivisió, ramificació, divisió
 -n: subjectador (NOFEM), pinça, gafa, grapa, brida
 -n: sublimació, idealització, exaltació, enaltiment
--n: sublimitat, perfecció, excelsitud, magnificència, exquisidesa, superioritat, elevació, noblesa, nobilitat, glòria, celsitud, excel·lència, altesa, dignitat
+-n: sublimitat, perfecció, excelsitud, magnificència, exquisidesa, superioritat, elevació, noblesa, nobilitat, glòria, celsitud, excel·lència, preexcel·lència, altesa, dignitat
 -n: submarí, submergible, batiscaf
 -n: submarinista, home granota, bus (NOFEM), bussejador
 -n: subordinació, supeditació, submissió, subjecció, dependència, lligam, condicionament
@@ -8274,6 +8275,8 @@
 -n: vorada, rastell #arriola, riola (Benissa?)
 -n: voravia, vorera, andana
 -n: vot, decisió, votació, sufragi, elecció, tria, escolliment, escollida, referèndum, plebiscit, consulta, comicis, eleccions
+-n: voyeur, escopòfil
+-n: voyeurisme, escopofília
 -n: vuit anys, huit anys, octaetèride
 -n: vuit, huit
 -n: vuitanta, huitanta, vuitantena, huitantena
