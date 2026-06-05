@@ -128,6 +128,7 @@
 -adj: anticonceptiu, contraceptiu, anticoncepcional
 -adj: antinatural, contranatural, artificial, desnaturalitzat, natural (antònim)
 -adj: antisèptic, desinfectant, higienitzant, antibacterià, hidroalcohòlic
+-adj: antitussigen, bèquic
 -adj: antològic, inoblidable, extraordinari, excepcional, memorable, històric, singular, notable, remarcable, mític
 -adj: anual, anyal
 -adj: anur, escuat, descuat, sense cua
@@ -458,6 +459,7 @@
 -adj: dedicat, consagrat
 -adj: deductiu, analític, calculador, eductiu
 -adj: defectuós, imperfecte, incorrecte, impur, viciós, coix, curt, tarat, deficient, incomplet, esguerrat, deforme, mutilat, espatllat, espatlat #...
+-adj: deficitari, en números vermells, rendible (antònim)
 -adj: deficitari, escàs, insuficient, pobre, esquifit, excedentari (antònim)
 -adj: definitori, definidor, determinant
 -adj: degradable, biodegradable #...
@@ -1005,6 +1007,8 @@
 -adj: insociable, intractable, misantròpic, misantrop, misàntrop, eremític, taciturn, malmirrós, sec, eixut, sorrut, tancat, sornut, esquerp, esquiu, esquívol, feréstec, adust, aspre, isard, retret, saturn, mussol, orc, clos, desagradable, desagradós, sull, tros de rusca, jovial (antònim)
 -adj: insoluble, indissoluble
 -adj: insoluble, irresoluble, inextricable, intractable
+-adj: en números vermells, insolvent
+-adj: en números vermells, en descobert
 -adj: insomne, desensonyat, desvetllat, despert, desvetlat
 -adj: insular, illenc
 -adj: insuportable, inaguantable, intractable, malagradós, impossible (col·loquial), insofrible, pesat, carregós, irresistible, intolerable
@@ -1311,6 +1315,8 @@
 -adj: pantanós, marjalenc, paludós, lacustre, empantanat, palúdic, palustre
 -adj: panxacontent, tranquil, cofoi, satisfet, conformista
 -adj: paradigmàtic, per antonomàsia
+-adj: paranoic, desconfiat
+-adj: paranoic, paranoide
 -adj: paranormal, anormal
 -adj: paranormal, sobrenatural, extranatural, metafísic, inexplicable, misteriós, enigmàtic
 -adj (paraula): grosser, groller, malsonant, vulgar, barroer, insultant, obscè, bròfec, blasfem, impertinent, irreverent, inconvenient, insolent, ofensiu, indecent, indelicat, atrevit, desvergonyit, fort, gruixut, impietós, brut
@@ -1663,6 +1669,7 @@
 -adj: superflu, innecessari, inútil, inoportú, inessencial, prescindible, sobrant, sobrer, fútil, sobrancer, excedent, zero a l'esquerra, redundant
 -adj: supersònic, ultrasònic
 -adj: supervivent, subsistent, persistent, existent, vivent, viu, sobrevivent, relicte, pervivent
+-adj: susceptible, capaç, apte, subjecte, obert # susceptible de millora...
 -adj: susdit, damunt dit, esmentat, mencionat, citat, precitat, dessusdit (FEM dessusdita), propdit, dit abans (FEM dita abans), sobredit (FEM sobredita)
 -adj: suspecte, sospitós, reguardós (antic)
 -adj: suspicaç, desconfiat, recelós, maliciós, malfiat, difident, incrèdul, malpensat, escèptic, desfiat, reüllós, aprensiu, gelós
@@ -2773,7 +2780,7 @@
 -n: activació, engegada, posada en marxa, connexió
 -n: activista, agitador, militant, propagandista
 -n: activitat, acció, actuació, acte, fet, obra, operació, moviment, funció, gest, procediment
--n: activitat, agitació, moviment, efervescència, mobilitat, animació, vida, bellugor, bellugadissa, bullidera, ritme, nervi, acció, tràfec, trontoll, furor, tragí, vivacitat, brio (música)
+-n: activitat, agitació, moviment, efervescència, ebullició, mobilitat, animació, vida, bellugor, bellugadissa, bullidera, ritme, nervi, acció, tràfec, trontoll, furor, tragí, vivacitat, brio (música)
 -n: activitat, diligència, promptitud, rapidesa, rapiditat, dinamisme, velocitat, lleugeresa, vivacitat, celeritat, agilitat, prestesa, cuita, llestesa, acceleració, alacritat, vivesa, vivor, expeditesa, soltesa, hiperactivitat
 -n: activitat, eficàcia, energia, virtut, potència
 -n: actor (m), actriu (f), comediant, còmic, intèrpret, histrió, bufó, albardà, galant, col·loquier (FEM col·loquiera), pantomim, mim, humorista, truà (antic FEM truana)
@@ -3214,7 +3221,7 @@
 -n: augment, ampliació, ascens, pujada, creixement, creixença, increment, multiplicació, creiximoni, acreixement, acrementició, dilatació, alça, encariment, puja, recàrrec, suplement, intensificació, agudització, engrandiment, millora, adjunció, afegiment, agregació, aportació, crescuda, eixampla, eixample, escreix, incorporació, augmentació, incrementació, allargament, creixent, creixa (del nivell de l'aigua), estira, enriquiment, engrossiment, amplificació, agreujament, redoblament, recrudescència, extensió, elevació, sobrepreu, sobrepuig, carregada, sobrecreix, sobrecàrrega, carregament, plusvàlua (economia), inflació (economia), crescendo (italià; música), disminució (antònim), repunt, boom (anglès) #separar
 -n: aula prefabricada, mòdul prefabricat, caragolera (col·loquial), barracó (col·loquial; castellanisme)
 -n: auleda, alzinar, aulet, alzineda, alzinera
--n: aurèola, halo, corona, nimbe
+-n: aurèola, halo, corona, nimbe, gloriola
 -n: auricular, orellera
 -n: auriculars, cascos, cascs
 -n: auró, plàtan fals, erable, blada, rotaboc, negundo, aceràcia (família)
@@ -3693,6 +3700,7 @@
 -n: carena, crestall, cresta, aresta, quilla (d'un vaixell)
 -n: carener, cavalló, esquena d'ase
 -n: caricatura, paròdia, exageració, imitació, bufonada, burleria, escarni, escarn, ridiculització
+-n: caricaturar, caricaturitzar, parodiar, escarnir, ridiculitzar, satiritzar
 -n: càries, corc, corcadura, picadura, dent corcada
 -n: carisma, do, qualitat, idoneïtat, lideratge, capacitat (f), dot, talent
 -n: carn, cos, còrpora, físic (NOFEM), organisme, corpenta
@@ -5016,6 +5024,7 @@
 -n: exhumació, desenterrament, descobriment, extracció
 -n: exigència, necessitat, obligació, urgència, requisit
 -n: exiliat (FEM exiliada), expatriat (FEM expatriada), immigrat (FEM immigrada), emigrat (FEM emigrada), desplaçat (FEM desplaçada)
+-n: exogàmia, matrimoni mixt
 -n: exostosi, sobreòs
 -n: experiència, taules, desimboltura, veterania
 -n: experiència, vivència, món, saviesa, vida
@@ -7127,6 +7136,7 @@
 -n: prioritat, anterioritat, primacia, prelació, preferència, precedència, preeminència, superioritat
 -n: priorització, jerarquització, ordenació, seqüenciació, arranjament, classificació, puntuació, avaluació, tria, triada, selecció, graduació
 -n: prisma, poliedre, políedre (forma secundària)
+-n: proa, tallamar, roda, davantera
 -n: problema, dilema, dubte, dificultat, disjuntiva, alternativa, cruïlla
 -n: problemàtica, problemes, dificultats
 -n: procés, causa, sumari, plet, litigi, judici, juí, procediment, vista
@@ -7933,6 +7943,7 @@
 -n: tetràgon, quadrilàter, paral·lelogram, rectangle, quadrat, quadrangle, trapezi, trapezoide, escac, quadrilong
 -n: tetramorf, els quatre vivents, evangelistes
 -n: teulada, teulat, coberta, sostre, llosat, llenat, cobertor
+-n (tèxtil): cotí, terliç, cussolí
 -n (tèxtil): galta, lliç
 -n (tèxtil): llama, lamé, tissú
 -n: textura, factura, disposició, ordre, composició, estructura, trama, contextura, configuració
@@ -9217,6 +9228,8 @@
 -v (els astres): pondre's, caure, ocultar-se, tramuntar, aponentar-se, amagar-se
 -v (els cereals): carbonar-se, neular-se, rovellar-se
 -v (els peixos): brivar, bornar, envestir
+-v (els ulls): clucar, aclucar, cloure, tancar
+-v (els ulls): desclucar, obrir, esparpellar, descloure, esbatanar
 -v (els ulls): entretancar, mig aclucar
 -v: emancipar, independitzar, alliberar, deslliurar, redimir, afranquir, llicenciar, llibertar, alforrar (història), rescatar, manumetre
 -v: embadallar, entretancar, ajustar, ajuntar
@@ -9480,7 +9493,7 @@
 -v: estar-se, abstenir-se, privar-se, retenir-se, flixar-se
 -v: estar-se, parar
 -v: estellar, asclar, esquerdar, esquerdillar, esquerdissar
--v: estendre, propagar, difondre, irradiar, propalar, escampar, esventar, esbombar, fer córrer, espargir, divulgar, disseminar, esparpallar, distribuir, posar en circulació, emetre, radiar, exhalar, transmetre, ressonar, popularitzar, socialitzar, expandir, generalitzar, publicitar, cridar als quatre vents, donar veus, donar bombo, fer tam-tam, espampolar
+-v: estendre, propagar, difondre, irradiar, propalar, escampar, esventar, esbombar, fer córrer, espargir, divulgar, disseminar, esparpallar, distribuir, posar en circulació, emetre, radiar, exhalar, transmetre, ressonar, popularitzar, socialitzar, expandir, generalitzar, publicitar, cridar als quatre vents, donar veus, llançar veus, donar bombo, fer tam-tam, espampolar
 -v: estendre's, allargar-se
 -v: estendre's, ocupar, omplir
 -v: esternudar, estufornar, uïssar, eixavuirar, fer uís
