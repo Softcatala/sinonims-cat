@@ -335,8 +335,12 @@
 -adj: clar, aigualit, desllavassat, fluid, prim, esclarissat (FEM esclarissada), dens (antònim), espès (antònim FEM espessa), atapeït (antònim), aigualós, aiguós
 -adj: clar, brillant, polit, blanc, ters, llis
 -adj: clar, despert, lúcid, agut, perspicaç, viu, ocurrent
+-adj: clar, discernible, perceptible, precís, explícit, transparent, palès, patent, evident, diàfan, manifest, obvi, perspicu, confús (antònim), obscur (antònim)
 -adj: clar, distint, distingible, definit, marcat, nítid, precís, net, inconfusible, inequívoc, indubtable, destacat
+-adj: clar, fàcil, planer, pla, accessible, assequible, senzill, a l'abast
+-adj: clar, intel·ligible, entenedor, comprensible, copsable
 -adj: clar, límpid, pur, transparent, cristal·lí, net, nítid, tèrbol (antònim), virginal
+-adj: clar, natural, fluid, fàcil, planer, senzill, simple, afectat (antònim)
 -adj: clar, serè, lluminós, diàfan, il·luminat, ras, estritllat, tranquil, asserenat, bell, quiet, calmós # temps, oratge, dia
 -adj: clar, sincer, franc, obert, veraç, noble
 -adj: clàssic, tradicional, exemplar, formal, modèlic, típic, paradigmàtic, acadèmic
@@ -789,6 +793,7 @@
 -adj: florit, adornat, ornat, ornamentat, randat, musicat
 -adj: florit, ric, esponerós, ufanós, florent, exuberant, abundant, ufà, florescent
 -adj: flotant, surant, ensurat, insubmergible
+-adj: fluent, fluid
 -adj: fluix, en to menor, amb sordina, descafeïnat, rebaixat, decaigut
 -adj: fluix, lax, fofo, desinflat, tou, bla, flonjo, moll, suau, esponjós, tofenc, mòrbid, blanenc, flàccid, tendre, mollenc, tovenc
 -adj: folgat, balder, ample, sobrat, gran, obert, solt, desajustat, sobrer
@@ -1017,7 +1022,6 @@
 -adj: integralment, tot d'una peça
 -adj: integrant, constituent, integral, constitutiu
 -adj: intel·lectual, mental, racional, intel·lectiu, especulatiu, teòric, cerebral, científic, contemplatiu, espiritual, cognitiu, cognoscitiu
--adj: intel·ligible, clar, fàcil, entenedor, discernible, perceptible, precís, explícit, planer, pla, comprensible, accessible, assequible, copsable, perspicu, transparent, palès, patent, evident, senzill, diàfan, manifest, obvi, confús (antònim), obscur (antònim), coherent, a l'abast
 -adj: intens, acusat, accentuat, elevat
 -adj: interessant, al·lucinant, al·lucinador, apassionant, captivador, curiós, embriagador, engrescador, entusiasmador, excitant, intrigant, palpitant, suggestiu, suggerent, suggeridor, atractiu, prometedor, incitant, incitador, estimulant, estimulador, original, encisador, fascinador, fascinant, important, inspirador
 -adj: interessant, ric, variat, divers
@@ -6587,7 +6591,7 @@
 -n: oliva, grossala, grossal, olivó
 -n: olla exprés, olla de pressió
 -n: olleta, tupí, ansat, nansat
--n: om, oma, ulmàcia (família)
+-n: om, olm, oma, ulmàcia (família)
 -n: oment, epipló, mesenteri, mantellina
 -n: omissió, excepció, exclusió, exempció, preterició
 -n: omnipresència, ubiqüitat
@@ -7622,7 +7626,7 @@
 -n: semen, semença, llet (col·loquial), esperma, licor seminal, líquid seminal, lletada (col·loquial), emissió seminal, espermatorrea
 -n: semental, eguasser (NOFEM), guarà
 -n: semental, llavorer
--n: semental, verro (NOFEM), marrà (NOFEM)
+-n: semental, verro (NOFEM), marrà (NOFEM), porc (NOFEM)
 -n: semicercle, hemicicle
 -n: semidéu, heroi (NOFEM)
 -n: semidéu, sàtir
@@ -8335,7 +8339,7 @@
 -n: xafada, aixafada, calcigada, calcigament, trepitjada, xafó, esclafament, esclafada
 -n: xafarder, bugader, embolicaire, embolicador, comare, xerraire, murmurador, portanoves, portaplatets, novitxer (FEM novitxera), novatxer (FEM novatxera), esqueller
 -n: xafogor, calda, botorn, xardor, calitja (valencià), basca, calor, calorada, bovo (NOFEM), ofegor, estuba, sufocació, canícula, angoixa, bovor, escalfor, escalf, calentor, calfor, ardència, calidesa, roentor, incandescència, torridesa, temperatura, febre, febrada, flamerada, flamarada, ardentor, cremor, caliu, caliditat, estovor, bullentor, fitor, onada de calor, colp de calor, cop de calor, calorassa, calorota, caloreta, blamor, somorda
--n: xai, be, anyell, corder (FEM cordera), ovella, moltó, marrec, marrà, anyí, lletó, recordí, xot, pècora, feda, toís (NOFEM), toïssa
+-n: xai, be, anyell, corder (FEM cordera), ovella, moltó, marrec, marrà (NOFEM), mardà, anyí, lletó, recordí, xot, pècora, feda, toís (NOFEM), toïssa
 -n: xaloc, penagall, vent del sud-est
 -n: xaloc, sud-est
 -n: xampany, cava, escumós, brut
