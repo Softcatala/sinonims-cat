@@ -1594,7 +1594,7 @@
 -adj: seglar, secular, civil, laic, profà, mundà, temporal, terrenal, mundanal
 -adj: següent, subsegüent, subseqüent, immediat, posterior, pròxim, proper, futur, successiu, altre, consecutiu, successor, succedent, ulterior, vinent, entrant, propvinent, contigu, propinc, venidor
 -adj: selectiu, avaluador, classificador, triador, garbellador, destriador
--adj: semental, llavorer
+-adj: semental, llavorer, de llavor
 -adj: semestral, bianual, dues vegades a l'any
 -adj: semicircular, semianular
 -adj: semidesnatat, semidescremat
@@ -2140,7 +2140,7 @@
 -adv: col·loquialment, familiarment, vulgarment
 -adv: com més aviat millor, al més aviat possible, al més aviat, com més prompte millor
 -adv: com sempre, com de costum
--adv: completament, enterament, complidament, totalment, a pèl i a repèl (ort. pre-2017), a pèl i a repel, plenament, a ple, de ple, amb tots els quatre quartos, d'un cap a l'altre, de cap a cap, de cap a peus, de dalt a baix, del tot, pam a pam, de mig a mig, de pla, de pla en pla, de tot en tot, de tot punt, per complet, de totes totes, sense faltar-hi res, amb tots els ets i uts, absolutament, fil per randa, cent per cent, íntegrament, de soca-rel, al cent per cent, a fons
+-adv: completament, enterament, complidament, totalment, a pèl i a repèl (ort. pre-2017), a pèl i a repel, plenament, a ple, de ple, amb tots els quatre quartos, d'un cap a l'altre, de cap a cap, de cap a peus, de dalt a baix, del tot, pam a pam, de mig a mig, de pla, de pla en pla, de tot en tot, de tot punt, per complet, de totes totes, sense faltar-hi res, amb tots els ets i uts, absolutament, fil per randa, cent per cent, íntegrament, de soca-rel, al cent per cent, a fons, en tot i per tot
 -adv: comunament, generalment, freqüentment, sovint, usualment, correntment, ordinàriament, normalment, habitualment
 -adv: concretament, en concret, precisament, en especial, en particular
 -adv: confiadament, a ulls clucs, a cegues, sense reserves, amb el cor a la mà, a peus junts, absolutament
@@ -2326,7 +2326,7 @@
 -adv: incansablement, sense cansar-se
 -adv: incidentalment, d'esquitllada, al vol, de llampada, de passada, de pas
 -adv: incondicionalment, a tot preu, costi el que costi, passi el que passi, tant sí com no, a les bones o a les males, peti qui peti
--adv: incondicionalment, completament, absolutament, del tot, en tot i per tot, en cos i ànima, sense reserves, en absolut, sense condicions, enterament
+-adv: incondicionalment, sense condicions, sense reserves, en cos i ànima, absolutament, en tot i per tot
 -adv: independentment, amb independència, pel seu compte, per lliure, lliurement
 -adv: indiscriminadament, indistintament, sense distinció, sense discriminació, arreu
 -adv: inesperadament, a la impensada, de cop i volta, de colp i volta, de trascantó, a boca de canó, de bot i volea
@@ -3821,9 +3821,10 @@
 -n: cau, amagatall, lloriguera, catxapera, catau, catabalma, forat, antre, formiguer, conillera, llobera, talpera, niu, enfonyall, entaforall, balm, racó, tut, xibiu, cova
 -n: cau, cofurna, habitacle, habitació, tuguri, estudi, racó, tut
 -n: cau, tuguri, antre, enfony, catau, cova de lladres, xibiu, lloriguera, niu, amagatall, enfonyall, entaforall, lladronera, tut, cova, catxapera
--n: cavall, cavalcadura, muntura, corser, destrer, haca, hacanea, haveria, palafrè, pollí, poltre, poni, rossí, sobreany, solípede, tatà (infantil), terçó, cavalleria, cavallot, bèstia, bístia, atzembla, egua, euga, equí (subfamília), èquid (família), semental, bridó, pegàs (mitologia)
+-n: cavall, cavalcadura, muntura, corser, destrer, haca, hacanea, haveria, palafrè, pollí, poltre, poni, rossí, sobreany, solípede, tatà (infantil), tatano (infantil), terçó, cavalleria, cavallot, bèstia, bístia, atzembla, egua, euga, equí (subfamília), èquid (família), semental, bridó, pegàs (mitologia)
 -n: cavall, cavaller, genet, amazona
 -n (cavall): dessuador, dessuadora, suera
+-n: cavall semental, cavall llavorer, cavall de llavor, cavall sencer
 -n: cavall, suport, biga, cavallet
 -n (cavall): ulleres, clucales, aclucalls, ventalles
 -n: cavallet de mar, cavall marí, hipocamp
@@ -5348,6 +5349,7 @@
 -n: ganga, oferta, descompte, rebaixa, rebaix #...
 -n: ganivet, acorador, bisturí, llanceta, capadora, coltell, degollador (NOFEM), desoperculador (apicultura), dolador (NOFEM), escalpel, escorxador (NOFEM), faca, falçó, furgadents (col·loquial), ganiveta, matxet, navalla, obrecartes, obricartes, sevillana, tallaplomes, trinxet, xafarot, punyal, puntilla, estilet, misericòrdia, punyalet, raor, navaixa (valencià), cúter, fitora (col·loquial), falcilla, corbellot, falceta, llimella, veremall, falç, corbella, podadora, podall, dall
 -n: ganivetada, espasada, esplanissada, estocada, mandret, punyalada, revés, sabrada, trau (col·loquial), facada, falçada, fitorada, navallada, coltellada, dallada
+-n: ganxet, punt de ganxo, pilarets, cadeneta, punt de cadeneta
 -n: ganxo, enganxall , croc, garfi, gafa, gafet, ham, penjador, desenformador (calcer), furgonyer, ganxa, giratroncs, lleves, llévens, llevants, arpis (pesca), arpiots (pesca), cercapous, cercapoals, rafi (pesca), tirabotes (calcer), elefant
 -n: ganyota, carassa, ganyot, babarota, carota, carotxa, carussa, momo, visòria, llengot, llengota, llenguota, llenguot, rictus, contorsió, ganya # sovint en plural
 -n: garantia, aval, cobertura, caplleuta (antic), caució, fermança, fiança, gatge, manlleuta (antic), penyora, ferma, assegurança, vitalici (NOFEM), consignació
@@ -8639,6 +8641,7 @@
 -v: anostrar, assimilar, apropiar-se, fer seu, fer propi
 -v: anquejar, culejar, remenar el cul, remenar les anques
 -v: antecedir, precedir, anar abans
+-v: antropitzar, humanitzar
 -v: apagar, extingir, sufocar, ofegar, esmorteir, matar, enforfoguir, calmar, apaivagar, amainar, reprimir, eclipsar, dissipar, aplacar, amortar, amortir, esvair
 -v: aparellar, apariar, emparellar, acoblar
 -v: aparellar, aparionar, emparellar, acoblar
