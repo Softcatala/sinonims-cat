@@ -1230,7 +1230,7 @@
 -adj (música): concertat, instrumentat, acompanyat
 -adj (música): incidental, d'acompanyament, de fons
 -adj (música): melismàtic, ornat, ornamentat #...
--adj: musical, harmoniós, melodiós, cadenciós, rítmic
+-adj: musical, harmoniós, melodiós, cadenciós, rítmic, timbrat (FEM timbrada) # són diferents aspectes musicals barrejats
 -adj: mutu, mutual, bilateral, recíproc, comú, respectiu, sinal·lagmàtic, interactiu
 -adj: nadalenc, de Nadal
 -adj: narcòtic, soporífic, soporífer, letàrgic, hipnòtic, comatós, soporós, endormiscador (FEM endormiscadora), adormidor, cloroformitzador (FEM cloroformitzadora), anestesiador (FEM anestesiadora)
@@ -1584,7 +1584,7 @@
 -adj: secà, secaner, secallós, sec
 -adj: secret, ocult, criptogràfic, codificat, xifrat, encriptat, confidencial, privat
 -adj: secret, ocult, misteriós, arcà, impenetrable, insondable, inescrutable, recòndit, esotèric, amagat, celat, enigmàtic, críptic, ignot, hermètic, invisible, cabalístic, tenebrós, abstrús, sibil·lí
--adj: secret, ocult, privat, confidencial, reservat, clandestí, furtiu, amagat, callat, anònim, invisible, ultrasecret (FEM ultrasecreta), inidentificat (FEM inidentificada), encobert, infiltrat, subreptici, emboscat
+-adj: secret, ocult, privat, confidencial, reservat, clandestí, furtiu, amagat, callat, anònim, invisible, ultrasecret (FEM ultrasecreta), inidentificat (FEM inidentificada), encobert, infiltrat, subreptici, emboscat, dissimulat
 -adj: secundari, accessori, auxiliar, subsidiari, circumstancial, col·lateral, marginal, incident, incidental, anecdòtic, acompanyant, concomitant, episòdic, accidental
 -adj: sedenc, sedeny, de seda, sedós
 -adj: sedent, assegut
@@ -1644,6 +1644,7 @@
 -adj: somníloc, somniloqüent
 -adj: somrient, rialler, riallós, afable
 -adj: son (FEM sa), el seu (FEM la seva), el seu (FEM la seua), llur (d'ells)
+-adj: sonor, sonorós, sonable, sonant, ressonant, vibrant, estentori
 -adj: soper, sopaller
 -adj: sòpit, endormiscat, abaltit, adormit, ensopit, somnolent, ensonyat, sonós, letàrgic, soporós, insomne (antònim)
 -adj: sord, àfon, mut, insonor
@@ -3149,8 +3150,9 @@
 -n: art, sistema, normativa, preceptiva
 -n: artesà, artífex, menestral
 -n: article, apartat, capítol, títol, epígraf, divisió, secció, clàusula, disposició, episodi, part (f)
--n: article, mercaderia, manufactura, gènere, producte
+-n: article, mercaderia, manufactura, producte
 -n: article, reportatge, crònica, gasetilla, col·laboració, nota, notícia, columna, editorial (m), assaig
+-n: articles, mercaderia, manufactura, gènere, producte, producció
 -n: articulació, conjuntura, desllorigador, juntura, artell, unió, joc, jugament, frontissa (col·loquial), xarnera, nus, nuc
 -n: artigaire, artiguer, arrabassador, arrabassaire, eixermataire, rompudaire, roter
 -n: artista, bohemi
@@ -3454,7 +3456,7 @@
 -n (botànica): boga, balca
 -n (botànica): bruguerola, bronsa, sap, xipell, ericàcia (família), bruga
 -n (botànica): canabassa, lladracà
--n (botànica): canyís, senill, senís
+-n (botànica): canyís, senill, senís, milloca
 -n (botànica): càrritx, faió, carç, carcera, carritxera
 -n (botànica): corneller, sanguinyol, pelabou
 -n (botànica): dulcamara, dolçamara, vidalbí, morella emborratxadora
@@ -4629,7 +4631,7 @@
 -n: el que faltava per al duro, la gota que fa vessar el got
 -n: el sexe fort (en desús), els homes
 -n (el temps): passar, transcórrer, escolar-se, córrer, fluir
--n: elaboració, afaiçonament, composició, confecció, constitució, construcció, creació, fabricació, formació, generació, gestació, manufactura, obtenció, preparació, realització, transformació, plasmació
+-n: elaboració, afaiçonament, composició, confecció, constitució, construcció, creació, fabricació, formació, generació, gestació, manufactura, obtenció, preparació, realització, transformació, plasmació, producció # TODO: -n: Procés manual o industrial: fabricació, manufactura, confecció, afaiçonament, construcció. -n: Origen i gènesi: creació, generació, gestació, formació, constitució. -n: Planificació i execució: elaboració, realització, preparació, composició. -n: Transformació i resultat: plasmació, obtenció, transformació, producció.
 -n: elector, votant, compromissari
 -n: electoralisme, demagògia, propaganda, oportunisme, populisme
 -n: electoralisme, partidisme
@@ -4671,6 +4673,7 @@
 -n: eminència grisa, conseller privat, conseller a l'ombra
 -n: emissari, missatger, correu, ordinari, propi, posta, exprés, carter, troter
 -n: emissari (NOFEM), claveguera, conducte, conducció, canal (m), canal (f), rec, desaigüe, desguàs, anguilera, canaló, contracanal, desaiguament, efluent, aqüeducte, gàrgola
+-n: emissió, producció
 -n: emissió, programa, transmissió
 -n: emissor, difusor, retransmissor
 -n: emissor, remitent
@@ -5431,6 +5434,7 @@
 -n: gladiador, reciari, púgil, lluitador, agonista
 -n: gland, cabota (col·loquial), fava (col·loquial)
 -n: glavi (poètic), espasa, basalard (antic), bastarda, bordó, bran, daga, floret, sabre, espasí, estoc, falcata, glai (antic), mandret (antic), muntant, xafarot, alfange, iatagan, simitarra, gumia, copagorja, fitora (col·loquial), ferro, arma blanca, bastó (antic), baioneta, espuntó, catana (japonesa), acer
+-n: glicèmia, glucèmia
 -n: globalització, mundialització
 -n: globus sonda, baló sonda
 -n: glotònim, glossònim
@@ -6385,6 +6389,7 @@
 -n (música): figura, nota, fusa, semifusa, corxera, semicorxera, negra, blanca, rodona, redona, quadrada, garrapatea, semigarrapatea, tactus, tacte
 -n (música): improvisació, impromptu
 -n (música): interval, segona, tercera, quarta, quinta, sexta, sèptima, octava, novena, onzena, tretzena
+-n (música): llengüeta, canya, inxa
 -n: música, melodia, tonada, aire, composició, concert, harmonia, línia, melopea, arranjament, sintonia, concent, cant
 -n (música): mestre, director
 -n (música): música, banda, xaranga, fanfara, fanfàrria, orquestra, conjunt, xim-xim, cobla, batucada, capella, duo, trio, quartet, quintet, sextet, septet, octet, nonet, cor, coral, gamelan, joglaria, metall, murga, percussió, rondalla
@@ -10428,7 +10433,7 @@
 -v: subjaure, ser darrere, ser davall
 -v: substituir, suplir, rellevar, suplantar, desbancar, canviar, representar, mudar, subrogar, reemplaçar, desplaçar
 -v: succeir-se, encadenar-se, seguir-se, entreseguir-se
--v: suïcidar-se, matar-se, immolar-se, sacrificar-se, posar fi als seus dies, donar-se la mort, obrir-se les venes, volar-se el cap, fer-se l'harakiri, llevar-se la vida
+-v: suïcidar-se, matar-se, immolar-se, sacrificar-se, posar fi als seus dies, donar-se la mort, obrir-se les venes, volar-se el cap, fer-se l'harakiri, llevar-se la vida, llevar-se d'enmig, llevar-se d'aquest món
 -v: supervisar, vigilar, inspeccionar, controlar, examinar, revisar, repassar, reexaminar, comprovar, compulsar, reveure, revistar, passar revista, corregir, contrastar, monitorar, passar els ulls, fiscalitzar, auditar, mirar amb quatre ulls
 -v: suportar, endurar, aguantar, sofrir, tolerar, comportar, consentir, admetre, pair, resistir, encórrer, tirar, anar tirant, anar fent, durar, fotre's (vulgar), fer-se fotre (vulgar), fer-se fúmer, fer-se retratar, fer-se ganyir, no posar-se pedres al fetge, tenir el fetge gros, tenir molt de fetge, tenir un bon fetge, aguantar el xàfec, capejar, desafiar
 -v: suportar, sostenir, aguantar, subjectar, estintolar, estantolar, estontolar, cossolar, sustentar, mantenir, estalonar, apuntalar
