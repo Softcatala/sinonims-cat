@@ -1822,7 +1822,7 @@
 -adj: sord, dur d'orella (FEM dura d'orella), sord com una tàpia (FEM sorda com una tàpia), sord com una campana (FEM sorda com una campana), sordmut
 -adj: sord, àfon, mut, insonor
 -adj: sorn, calmós, calmut, cançoner, gansoner, lent, maimó, morós, parsimoniós, pausat, romancer, ronsa, ronsejaire, ronser, tranquil, triganer, ganso, sòmines, tardador, tardà, tardaner, tocatardà, grandier, impuntual, camanduler
--adj: sorollós, bramaire, bramador, brogidor, renouer, xisclaire, escandalós, clamorós, cridaire, vociferant, esvalotador, xisclador, remorós, bulliciós, gatzarós, borrasquer, fresser, cridaner, espinguet
+-adj: sorollós, bramaire, bramador, brogidor, brogent, renouer, xisclaire, escandalós, clamorós, cridaire, vociferant, esvalotador, xisclador, remorós, bulliciós, gatzarós, borrasquer, fresser, cridaner, espinguet, brunzent, brument # potser cal separar-ho
 -adj: sorollós, estentori, estrident, escandalós, fort, eixordador, estrepitós, ensordidor, cridaner, baladrer, clamorós, turbulent, detonant, horríson, retronador, retronant # atronador
 -adj: sorprenent, inesperat, singular, estrany, rar, xocant, desconcertant, extraordinari, brutal (col·loquial), abracadabrant, increïble, colpidor, dramàtic, impressionant, emocionant, tremend, sobrenatural, indescriptible, fenomenal, esbalaïdor, enlluernador, espatarrant (col·loquial), espaterrant (col·loquial), fascinador, fascinant, inefable, sensacional, formidable, dantesc, grandiós, espectacular, estupefaent, impactant
 -adj: sorrenc, arenós, arenaci, sorrós, saulonenc, saulós, arenulós, sorrencós, sabulós
@@ -1831,6 +1831,7 @@
 -adj: suat, entresuat, suós, suorós, humit, moll
 -adj: suat, gastat, fressat, barat (col·loquial), tòpic, ressuat (FEM ressuada) #original(antònim)
 -adj: subjectiu, individual, personal, singular, íntim, particular, objectiu (antònim)
+-adj: subjugat, sotmès, dominat, fascinat, captivat, seduït, embadalit, entregat, lliurat
 -adj: submarí, subaquàtic
 -adj: subordinat, sotmès, subjugat, subaltern, dependent, supeditat, subsidiari, tributari, subjecte
 -adj: subornable, venal, corruptible
@@ -2430,6 +2431,7 @@
 -adv: per caritat, per l'amor de Déu, per la glòria, de franc
 -adv: per casualitat, per atzar, per carambola, de carambola, casualment, incidentalment, per incidència, fortuïtament, accidentalment, d'esquitllada, per miracle, miraculosament, de miracle
 -adv: per compromís, per a eixir del pas, de moment
+-adv: per desgràcia, desgraciadament, per dissort, per desastre, per mala sort
 -adv: per encàrrec, a la carta, segons comanda
 -adv: per excepció, excepcionalment, cosa rara, esporàdicament
 -adv: per igual, per un igual, igualment, de la mateixa manera, exactament, d'igual manera, idènticament, ni més ni menys, tal qual
@@ -2821,6 +2823,7 @@
 -n (botànica): canyís, senill, senís, milloca
 -n (botànica): corneller, sanguinyol, pelabou
 -n (botànica): càrritx, faió, carç, carcera, carritxera
+-n (botànica): didal, cúpula
 -n (botànica): dulcamara, dolçamara, vidalbí, morella emborratxadora
 -n (botànica): eci, ecidi
 -n (botànica): espaseta, garagot, pimpineta, pipirigall, trepadella, esparcet, esparceta
@@ -3274,6 +3277,7 @@
 -n (pejoratiu): verdulaire, verduler, marmanyer, embolicaire, embolicador, xarrador, xerraire, cridaner
 -n (per a espantar ocells): espantall, espaventall, espantaocells, espantapardals, babarota, baboia, babota, bubota, bujot, espantador, estaquirot, madoganya, carassa
 -n (per a flors): gerro, pitxer, búcar, florer, florera
+-n (per als cabells): ret, barriola, gandalla (història)
 -n (perdre l'erecció): arronsada (col·loquial), misto (col·loquial), destrempada
 -n (persona alta): espàrrec, espigall, aligot, pallanga, gànguil, girafa (col·loquial), llargarut, llarguerut
 -n (persona corpulenta): pallard (FEM pallarda), tiarro (col·loquial FEM tiarra), samarro (col·loquial FEM samarra), arrancapins, arrencapins, galavardeu, tros d'home, tros de dona
@@ -7000,6 +7004,7 @@
 -n: pentinat, pentinada, pentinament, pentinatge
 -n: penyal, peny, penya, roca
 -n: peonada, infanteria
+-n: peple, pèplum
 -n: percebe, peu de cabra
 -n: percentatge, tant per cent, fracció, proporció, ràtio, relació, part (f), interès, taxa, tipus, tant
 -n: percepció, visió, impressió, sensació
@@ -7331,6 +7336,7 @@
 -n: pàgina, plana, foli, full #...
 -n: pàgina, portada, frontispici, portadella
 -n: pèndol, pèndola, compensador (NOFEM)
+-n: pèplum, pel·lícula de romans
 -n: pèrgola, emparrat, parral, umbracle, enramada, cobricel, enreixat, pavelló
 -n: pèsol, xítxero
 -n: píling, decapatge
@@ -9957,6 +9963,7 @@
 -v: lligar, teixir, entrelligar, entreteixir, entrellaçar, tramar, llaçar, ordir
 -v: lliscar, llenegar, escolar-se, esmunyir-se, escórrer-se, relliscar, esquitllar-se, esvarar, esvarar-se, esbarrar, patinar, resquitllar, esgolar-se
 -v: llistar, enumerar, detallar, apuntar
+-v: lliurar batalla, entaular batalla, lliurar combat, entaular combat, lluitar, combatre
 -v: lluitar, esforçar-se, bregar, maldar, contendir, pugnar
 -v: llunyejar, distar, ser lluny, estar lluny
 -v: lubrificar, lubricar, untar, greixar, oliar, enseuar
