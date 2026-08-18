@@ -4905,7 +4905,7 @@
 -n: diamant, brillant, pedra preciosa
 -n: diana, blanc (NOFEM), objectiu, fitó, rodella
 -n: diana, despertada, despertament
--n: diarrea, cagarrines, cagarina (col·loquial), caguetes (col·loquial), corrípies (col·loquial), còlic, corrença (col·loquial), corrences (col·loquial), cagarel·la (col·loquial), ventrellada, cagueta (col·loquial)
+-n: diarrea, cagarrines, cagarina (col·loquial), caguetes (col·loquial), corrípies (col·loquial), còlic, corrença (col·loquial), corrences (col·loquial), cagarel·la (col·loquial), ventrellada, cagueta (col·loquial), cambres clares
 -n: dibuix, croquis, esbós, canemàs, apunt, perfil, disseny, traç, traçat
 -n: dibuix, pintada, imatge, grafit, grafiti, inscripció
 -n: dibuixant, delineant, projectista, dissenyador
@@ -5388,7 +5388,6 @@
 -n: eucaliptus, febrer
 -n: eucaristia, comunió, mannà celeste, el pa i el vi, viàtic (NOFEM), oblat (NOFEM), Nostramo, Jesucrist (sagramentat), Santíssim Sagrament, aliment espiritual
 -n: eulògia, pa beneït, pa beneit
--n: evacuació, dejecció, ejecció
 -n: evaporació, vaporització, volatilització, gasificació, sublimació
 -n: evidència, certesa, claredat, transparència, obvietat, veritat, veracitat, certitud, autenticitat, irrefutabilitat, diafanitat
 -n: exacció, malversació, concussió
@@ -5397,7 +5396,8 @@
 -n: exclamació, crit, veu, clam, clamor, interjecció, ai (onomatopeia)
 -n: excomunió, anatema, reprovació, execració
 -n: excoriació, pelada, arrapada, rascada, esgarrapada, escorxadura, escorxament
--n: excrement, evacuació, necessitat, defecació, deposició, cambres, fem, femada, femerada, femta, gatxull, excreta, fallega (de conill), fòllega (de conill), fressada (de conill), gallinassa (de gallina), merda (col·loquial), matèries fecals, bonyigada (de cavall o bou), bonyigo (de cavall o bou), bovina (de bou), cascàrries (del bestiar), cascarres (del bestiar), buina (de cavall o bou), bonyiga (de cavall o bou), colomassa (de colom), colomina (de colom), dejecció
+-n: excreció, excreta, expulsió, ejecció, emissió, evacuació, dejecció
+-n: excrement, evacuació, necessitat, defecació, deposició, cambres, fem, femada, femerada, femta, gatxull, excreta, excreció, fallega (de conill), fòllega (de conill), fressada (de conill), gallinassa (de gallina), merda (col·loquial), matèries fecals, bonyigada (de cavall o bou), bonyigo (de cavall o bou), bovina (de bou), cascàrries (del bestiar), cascarres (del bestiar), buina (de cavall o bou), bonyiga (de cavall o bou), colomassa (de colom), colomina (de colom), dejecció, caca (infantil)
 -n: excrescència, carnús, carnot
 -n: excursionisme, muntanyisme, senderisme, alpinisme, escalada, espeleologia, acampada, marxa, pirineisme, andinisme, himalaisme
 -n: excusa, atenuant, exculpació, descàrrec, disculpa, justificació, disculpació, eximent, explicació, satisfacció
@@ -6515,6 +6515,7 @@
 -n: misèria i companyia, poca cosa, insignificança, misèria, xavalla
 -n: mitja volta, tomb, viratge, girada, gir, tombada
 -n: mitjó, calcetí (valencià)
+-n: mitocondri, mitocòndria, condriosoma
 -n: mitra, bisbat, arquebisbat
 -n: mnemotècnia, art mnemònica, mnemònica
 -n: mobiliari, mobles, moblatge, moblam, trastos, trastam, andròmines
