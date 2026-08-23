@@ -53,7 +53,7 @@
 -adj (música): melismàtic, ornat, ornamentat #...
 -adj (oratge): bonancenc, calmat, tranquil, suau, serè, ras, assolellat, calorós, plàcid
 -adj (oratge): fred, rigorós, inclement, hivernal
--adj (paraula): grosser, groller, malsonant, vulgar, barroer, insultant, obscè, bròfec, blasfem, impertinent, irreverent, inconvenient, insolent, ofensiu, indecent, indelicat, atrevit, desvergonyit, fort, gruixut, impietós, brut
+-adj (paraula): grosser, groller, malsonant, vulgar, barroer, insultant, obscè, bròfec, blasfem, impertinent, irreverent, inconvenient, insolent, ofensiu, indecent, indelicat, atrevit, desvergonyit, fort, gruixut, impietós, brut, desconsiderat
 -adj (privat de drets): incapacitat (FEM incapacitada), inhabilitat (FEM inhabilitada)
 -adj (que conté arena): sorrenc, arenós, sorrencós, sabulós
 -adj (que fa ombra): ombrós, ombriu, ombrívol, ombradís
@@ -405,6 +405,7 @@
 -adj: atenès, atenenc
 -adj: atordit, zombi, grogui, torbat, esmaperdut, esmeperdut, atarantat, esbalaït
 -adj: atroç, violent, intens, fort, fortíssim, rabiós #...
+-adj: atàctic, descoordinat, incoordinat, irregular
 -adj: atòmic, nuclear, corpuscular
 -adj: audaç, agosarat, valent, audaciós, atrevit, arriscat, gosat, intrèpid, estrenu, ardit, abrivat, valerós, decidit, coratjós, temerari, brau, baronívol, gallard, esperitós, animós, viril, destemençat, determinat, resolut, impàvid, sense por, aventurer, impetuós, aferrissat, heroic
 -adj: audible, oïble, perceptible
@@ -447,7 +448,7 @@
 -adj: beat, purità, escrupolós, beguí, estret (col·loquial), colltort
 -adj: beatíssim, deípara, marià
 -adj: bec-roig, becvermell
--adj: bell, bonic, bufó, galanxó, guapo, joliu, polit, preciós, formós, esplèndid, estupend, agraciat, afavorit, ben plantat, gentil, maco (col·loquial), ferm, delicat, superb, sublim, fi, esvelt, gràcil, lleig (antònim), graciós, garrit, atractiu, exquisit, gallard, pito (col·loquial), temprat, escultural, galà, templat (valencià), trempat, ben tallat (FEM ben tallada), ben fet (FEM ben feta), de bona figura, plantós, xaire, elegant, airós #separar
+-adj: bell, venust, bonic, bufó, galanxó, guapo, joliu, polit, preciós, formós, esplèndid, estupend, agraciat, afavorit, ben plantat, gentil, maco (col·loquial), ferm, delicat, superb, sublim, fi, esvelt, gràcil, lleig (antònim), graciós, garrit, atractiu, exquisit, gallard, pito (col·loquial), temprat, escultural, galà, templat (valencià), trempat, ben tallat (FEM ben tallada), ben fet (FEM ben feta), de bona figura, plantós, xaire, elegant, airós #separar
 -adj: benemèrit, digne, meritíssim, benmereixent
 -adj: benet, benedictí
 -adj: benet, beneït
@@ -986,7 +987,7 @@
 -adj: figurat, simulat, imaginat, imaginari, aparent, fictici, inventat, irreal, suposat, il·lusori, fingit, apòcrif, ficte (antic), autèntic (antònim), supositici, inautèntic
 -adj: final, darrer, últim, extrem, terminal, postrem, cuer, saguer, darrerà (antic)
 -adj: fiscal, impositiu, tributari, contributiu
--adj: fisiològic, anatòmic, animal, carnal, corporal, material, físic, somàtic, biològic
+-adj: fisiològic, anatòmic, animal, carnal, corporal, material, físic, somàtic, biològic, biòtic
 -adj: fissa, cantonera
 -adj: fixat, lligat, determinat, enganxat, fit, subjecte, fix, agafat, clavat, inamovible, irremovible
 -adj: flamenc, eixerit, airós, viu, desimbolt
@@ -1060,7 +1061,7 @@
 -adj: grimpador, grimpaire, enfilador, enfiladís (planta)
 -adj: gris, grisenc, grisós, cendrós, burell, plomós, marengo, agrisat, canós, canut, plumbós, cendrosenc, beix
 -adj: groc, groguinós, groguenc, groguís, grogós, esgrogueït, esgroguissat, or, ros, lleonat, citrí, ocre, ambrat, color de palla, llimona, llima, groguissó, flavescent, crema, crem, callol, ocrós, ocraci, saur, melat, daurat, ambre
--adj: grosser, groller, bròfec, bast, ordinari, vulgar, barroer, esqueixat, matusser, descortès, incivil, maleducat, ineducat, rude, rústic, cafre, vilà, morral (col·loquial), aspre, brusc, sec, tosc, malagradós, ruquerol, potiner, destraler, xapot, rudimentari, cantellut, bàrbar, incívic, inelegant, parrandó (FEM parrandona), ravaler (FEM ravalera), tafarrut (FEM tafarruda) #separar
+-adj: grosser, groller, bròfec, bast, ordinari, vulgar, barroer, esqueixat, matusser, descortès, incivil, maleducat, ineducat, rude, rústic, cafre, vilà, morral (col·loquial), aspre, brusc, sec, tosc, malagradós, ruquerol, potiner, destraler, xapot, rudimentari, cantellut, bàrbar, incívic, inelegant, parrandó (FEM parrandona), ravaler (FEM ravalera), tafarrut (FEM tafarruda), desconsiderat, irreverent #TODO: separar
 -adj: gruixut, cras, sòlid, doble, revingut, gros, corpulent, ple, ample, voluminós, boterut, obès, gras, gotzo, panxarrut, panxut, inflat, unflat, ventrut, ventrellut, gord, betzarrut, rabassut, rodanxó, carnut, carnós, molsut, polpós, pencut, fardassa, sacsonut, sacsoner, botit, grossal (un fruit), pícnic, massís, grassonet (FEM grassoneta), botinflat, redó, rodó, llustrós, de bon any
 -adj: grupal, de grup, en grup, comunitari, col·lectiu, comú, social, comunal, d'equip, en equip
 -adj: guai (col·loquial), divertit, ben parit (col·loquial FEM ben parida), molt ben parit (col·loquial FEM molt ben parida), fabulós, fantàstic, magnífic, collonut (col·loquial), extraordinari, espatarrant (col·loquial), espaterrant (col·loquial), de conya, fascinant, genial, boníssim (FEM boníssima), d'allò que no hi ha, de primera, que fa goig, de traca i mocador
@@ -1547,7 +1548,7 @@
 -adj: pestífer, pestilent, pestilencial, empestat, infecte
 -adj: petaire, peter, petaner
 -adj: petit, menut, xicotet, xic, diminut, esquifit (FEM esquifida), exigu, minúscul, reduït, microscòpic, insignificant, lil·liputenc, imperceptible, inapreciable, mínim, ínfim, curt, baix, negligible, indistingible, modest, nimi, irrisori, indiscernible, atòmic, corpuscular, nuclear, xicarró, infinitesimal, mengo, xaparro
--adj: picallós, despitós, susceptible, excitable, irritable
+-adj: picallós, despitós, susceptible, excitable, irritable, puntós
 -adj: pietós, piadós, devot, creient, religiós, practicant, espiritual, eclesiàstic, clerical, capellanesc, místic, ascètic, monàstic, cenobític, teocràtic, fraresc, cultual, contemplatiu, missaire (despectiu)
 -adj: pilós, pelut, vellós, cabellut, barbat, borrallut, pelós, tofut, cerrut, hirsut
 -adj: pirinenc, pirenaic, dels Pirineus
@@ -1714,6 +1715,7 @@
 -adj: reticent, refractari, renitent, contrari, oposat, repropi, repatani, repatà, resistent, irreductible, poc inclinat (FEM poc inclinada), al·lèrgic (sentit figurat)
 -adj: retornable, reutilitzable, reciclable, no retornable (antònim)
 -adj: retràctil, retractable, termoretractable
+-adj: reverent, reverenciós, respectuós, considerat, deferent, irrespectuós (antònim)
 -adj: revolucionari, tumultuós, revolt, turbulent, agitat, avalotador, revolter, subversiu, agitador, tumultuari, facciós, incendiari, remorer, bullangós, avalotat, impetuós, trepidant, volcànic, violent, convuls, abrivat
 -adj: rialler, riallós, jovial, festiu, alegre, gai, rioler, xiroi, graciós, faceciós, jocós, rient, jocund, enriolat
 -adj: ric #...
@@ -2087,7 +2089,7 @@
 -adv: a tot tardar, al més tard, a tot estirar, com a màxim, tirant llarg, a tot allargar
 -adv: a trenc d'alba, al rompent de l'alba, al cant del gall, al gall cantant, a punta de dia, a punta d'alba, en rompre el dia, a trenc de dia, a l'aurora, a punta de sol, al primer llustre
 -adv: a trompades, a empentes, a tomballons, a batzegades, a bacs, a espentes
--adv: a ull, a barrisc
+-adv: a ull, a barrisc, a bell ull, aproximadament, al ras, més o menys
 -adv: abans, adés, ans, ahir, antany, anteriorment, antigament, en temps passat, en l'antigor, en el temps que les bèsties parlaven, d'antic, en altre temps, en aquell temps, en l'antic, en temps primer, temps enrere, temps era temps, temps ha, antanyasses, anys enrere, temps arrere, anys arrere
 -adv: abundantment, com pa beneit, amb gran facilitat, fàcilment, ràpidament
 -adv: abundosament, en abundància, en gran abundància, a manta, a mansalva, a betzef, a caramull, a carretades, a desdir, a feixos, a forfollons, a rolls, a gavadals, a la baldor, a la plena, a punta pala, a raig de bot, a raig, a tentipotenti, a més no poder, sobre manera, a tot drap, a tot estrop, a trompons, d'allò més, cosa de no dir, una cosa de no dir, en orri, a orri, a balquena, a dojo, a dolls, a doll, a doll fet, en quantitat, a cabassos, a palades, a grapats, a muntó, a munts, a caramulls, a cafissos, a mans plenes, generosament, abundantment, a braçats, a poalades, a manats, per a donar i per a vendre, bona cosa, més que un foc no en cremaria, a senalles, a garbellades, a bondó, per a parar un tren, a la gana, a cabassades
@@ -2971,7 +2973,7 @@
 -n (dit d'una persona): tifa (col·loquial), mitja merda (col·loquial), poca cosa, mitjacerilla (col·loquial), no ningú
 -n (dit): hàl·lux, dit gros del peu
 -n (dit): polze, dit gros
--n (dona jove i bella): sirena, nimfa, fada, colombina (comèdia de l'art), sílfide, hurí (islam), model (f), miss, venus
+-n (dona jove i bella): sirena, nimfa, fada, colombina (comèdia de l'art), sílfide, hurí (islam), model (f), miss, venus, bellesa, beutat (antic)
 -n (dona malvada): bruixa, harpia, fúria, gorgona
 -n (dret): acusat, defensa, acusació (antònim)
 -n (dret): bé semovent, animal
@@ -3273,6 +3275,8 @@
 -n (peix): vaca, torpede, tremolenca, tremoló, tremoloia, tremolosa
 -n (peix): vaca, tremolosa
 -n (peix): verat, cavalla
+-n (peixos): rèmol empetxinat, turbot
+-n (peixos): rèmol, rom
 -n (pejoratiu): tropa, baixúrria, briva, brivalla, feram, xusma, gentola, gent de tro, gentalla, gentegassa, genterola, genteta, gentussa, púrria, purrialla, xurma, taülalla, bretolalla, bordissalla, terregada, pleballa, plebs, patuleia, turba, turbamulta, populatxo, poble baix, poble menut, horda, morralla, escòria, rampoina, pobretalla, pobrissalla, gent baixa, lumpen, trepa, marinatge, rostoll, gentota
 -n (pejoratiu): verdulaire, verduler, marmanyer, embolicaire, embolicador, xarrador, xerraire, cridaner
 -n (per a espantar ocells): espantall, espaventall, espantaocells, espantapardals, babarota, baboia, babota, bubota, bujot, espantador, estaquirot, madoganya, carassa
@@ -3400,7 +3404,7 @@
 -n: Venus, estel del matí, estel del dia, estel del vespre, estel de l'alba, estrella de l'alba, estrella de pastor, diana (poètic)
 -n: Via Làctica, camí de Sant Jaume, carrera de Sant Jaume
 -n: abacà, cànem de Manila
--n: abadessa, priora, superiora, mare, prefecta, guardiana, rectora, provincial
+-n: abadessa, priora, superiora, mare, prefecta, guardiana, rectora, provincial, reverenda
 -n: abadia, rectoria
 -n: abaixament, inclinació, ajupiment, acotament, agemoliment
 -n: abandonament, cessió, dimissió, renúncia, abdicació, abandó
@@ -3698,7 +3702,8 @@
 -n: aplaudiment, batimans, picament de mans, ovació, palmineta (infantil), bravo, aclamació
 -n: aplom, autodomini, circumspecció, domini, enteniment, equilibri, fermesa, fermetat, formalitat, gravetat, impassibilitat, impavidesa, impertorbabilitat, mesura, moderació, ponderació, prudència, racionalitat, sang freda, seguretat, senderi, sensatesa, seny, serenitat, temperància, tranquil·litat, trellat, calma, parsimònia, flegma, flema, ataràxia, unció, maduresa, filosofia, equanimitat, enteresa, coradella
 -n: apoderament, acreditació, autorització, comissió, delegació, llicència, mandat
--n: apogeu, plenitud, súmmum, zenit, culminació, punt culminant, pinacle, cim, caramull, acme, auge, esplendor, apoteosi, quinta essència, non plus ultra, cúspide, ocàs (antònim)
+-n: apogeu, plenitud, súmmum, zenit, culminació, punt culminant, pinacle, cim, caramull, acme, auge, esplendor, apoteosi, non plus ultra, cúspide, ocàs (antònim)
+-n: apogeu, regnat, imperi, auge, esplendor, plenitud.
 -n: apostasia, ardit, astúcia, defecció, deserció, deslleialtat, falsedat, falsia, infidelitat, mala fe, perfídia, perjuri, traïció, traïda, traïdoria, traïment, vilania, vilesa, viltat, raboseria
 -n: apostolat, missió, propagació, evangelització, proselitisme, catequesi
 -n: apoteosi, deïficació, glorificació, exaltació, divinització
@@ -3772,6 +3777,7 @@
 -n: artigaire, artiguer, arrabassador, arrabassaire, eixermataire, rompudaire, roter
 -n: artista, bohemi
 -n: arxiu, dipòsit, depòsit, registre, col·lecció, protocol, cedulari, cartulari
+-n: arxiver, arxivista, bibliotecari
 -n: arítjol, arínjol, aritja, matavelles, sarsa, sarsaparrella
 -n: as a la màniga, roc a la faixa, arma secreta
 -n: asbest, amiant
@@ -4271,6 +4277,7 @@
 -n: carrilada, carrerany, carril, clapera, llinya, rodera, solc
 -n: carronyer, carronyaire, voltor
 -n: carta blanca, llum verd, via lliure, camp lliure, autorització, permís, xec en blanc, llicència, patent de cors
+-n: carta, llista, catàleg, menú
 -n: carta, naip
 -n: cartera, bitlletera, targeter, portamonedes, moneder
 -n: cartutxera, canana
@@ -4648,6 +4655,7 @@
 -n: coronament, acabament, rematada, remat, colofó
 -n: corporativisme, gremialisme, amiguisme, sectarisme, esperit de cos
 -n: corporeïtat, fisicitat
+-n: corpus, conjunt, recull, col·lecció, recopilació, compilació, catàleg
 -n: correcames, coet borratxo
 -n: corrent, llimerol, correntia #...
 -n: corresponsalia, delegació, subdelegació
@@ -5063,7 +5071,7 @@
 -n: embalbiment, embalbament, entumiment, adormiment
 -n: embalum, embaràs, baluerna, nosa, fardell, pilot, pila, mola, armatost, carraca, carcassa
 -n: embarbussament, travallengua, joc de paraules, entrebancallengua
--n: embaràs, prenyat, prenyamenta (col·loquial), pseudociesi (embaràs fals), gestació, maternitat, bombo (col·loquial)
+-n: embaràs, prenyat, prenyamenta (col·loquial), pseudociesi (embaràs fals), gestació, maternitat, bombo (col·loquial), parteratge
 -n: embassament, pantà, resclosa, presa
 -n: embolcall, bolquer, trossa, bolquers, braga, bandola
 -n: embolcall, embenatge, bena, embenat, tira, banda, faixa, cinta
@@ -5356,6 +5364,7 @@
 -n: estrebada, estiró, robatori, furt, robament, lladronici, lladrocini, latrocini, bandidatge, saqueig, depredació, sostracció, cisa, pillatge, roberia, lladregueig, lladreria, lladruny, despossessió, espoliació, espoli, estafa, defraudació, rapinya, extorsió, roba (antic), lladregada, expilació, pirateria, estafada, desfalc, desfalcament, sostreta, escamoteig, rapte, explotació, frau (m), malversació, exacció, peculat, usurpació, apropiació, apropiació indeguda, atracament, cop (col·loquial), colp (col·loquial), afaitada, afanada
 -n: estrella polar, estel polar, estel del nord
 -n: estrella, estel, estrela, estela (antic), estrel, asterisc (escriptura)
+-n: estrena, primera representació, debut, començament, inici, presentació, inauguració
 -n: estrenyedor, premsa, abraçadora, congreny, congrell
 -n: estrep, pedistíbul
 -n: estressor, factor d'estrès
@@ -5397,7 +5406,7 @@
 -n: excomunió, anatema, reprovació, execració
 -n: excoriació, pelada, arrapada, rascada, esgarrapada, escorxadura, escorxament
 -n: excreció, excreta, expulsió, ejecció, emissió, evacuació, dejecció
--n: excrement, evacuació, necessitat, defecació, deposició, cambres, fem, femada, femerada, femta, gatxull, excreta, excreció, fallega (de conill), fòllega (de conill), fressada (de conill), gallinassa (de gallina), merda (col·loquial), matèries fecals, bonyigada (de cavall o bou), bonyigo (de cavall o bou), bovina (de bou), cascàrries (del bestiar), cascarres (del bestiar), buina (de cavall o bou), bonyiga (de cavall o bou), colomassa (de colom), colomina (de colom), dejecció, caca (infantil)
+-n: excrement, evacuació, necessitat, defecació, deposició, cambres, fem, femada, femerada, femta, gatxull, excreta, excreció, fallega (de conill), fòllega (de conill), fressada (de conill), gallinassa (de gallina), merda (col·loquial), matèria fecal, bonyigada (de cavall o bou), bonyigo (de cavall o bou), bovina (de bou), cascàrries (del bestiar), cascarres (del bestiar), buina (de cavall o bou), bonyiga (de cavall o bou), colomassa (de colom), colomina (de colom), dejecció, caca (infantil)
 -n: excrescència, carnús, carnot
 -n: excursionisme, muntanyisme, senderisme, alpinisme, escalada, espeleologia, acampada, marxa, pirineisme, andinisme, himalaisme
 -n: excusa, atenuant, exculpació, descàrrec, disculpa, justificació, disculpació, eximent, explicació, satisfacció
@@ -5837,7 +5846,7 @@
 -n: gruix, gruixària, gros, grossària, través
 -n: grumer, medusa, borm, born, moca # borm (DNV), born (DIEC)
 -n: gràcia, absolució, amnistia, clemència, exculpació, indulgència, indult, perdonança, perdó, remissió, vènia, jubileu, condonació, commutació, butlla, butla, descàrrec, exoneració
--n: gràcia, bellesa, polidesa, galanesa, atractiu, encant, glamur, airositat, encís, amenitat, galania, gentilesa, elegància, esveltesa, boniquesa, graciositat, xamor, bonicor, lletgesa (antònim), distinció, preciositat, formosor, bellor, atracció, plantositat
+-n: gràcia, bellesa, beutat (antic), venustat, polidesa, galanesa, atractiu, encant, glamur, airositat, encís, amenitat, galania, gentilesa, elegància, esveltesa, boniquesa, graciositat, xamor, bonicor, lletgesa (antònim), distinció, preciositat, formosor, bellor, atracció, plantositat
 -n: gràcia, habilitat (f), facilitat (NOFEM), espontaneïtat, traça, do, naturalitat, simpatia
 -n: gràfic (NOFEM), gràfica, diagrama, esquema, representació, cartograma
 -n: guaiaba (fruit), guaiaber (arbre)
@@ -6121,7 +6130,7 @@
 -n: leucòcit, glòbul blanc
 -n: libel, difamació
 -n: libèl·lula, espiadimonis, parotet, maroteta, cabot, cavallet, cavallet del dimoni, damisel·la, marota, parecabotes, parot, pixaví, libel·lúlid
--n: lideratge, mestratge, guiatge, comandament, direcció, govern, pilotatge, regnes, pòndol
+-n: lideratge, mestratge, cabdillatge, guiatge, comandament, direcció, govern, pilotatge, regnes, pòndol
 -n: like (anglès), m'agrada, agradament
 -n: lila, lilà, liler
 -n: liler, lilà
@@ -6338,6 +6347,7 @@
 -n: mancança, privació, carència, absència, escassesa, escassetat, insuficiència, falta, poquesa, exigüitat, parvitat, esquifidesa, carestia, manca, dèficit, poquedat, inexistència, defecte, fretura, deficiència, desproveïment, desabastiment
 -n: mandarí, pontífex, capitost, patriarca
 -n: mandarí, xinès estàndard
+-n: mandat, regnat, pontificat, episcopat, virregnat, presidència, consolat, tribunat, magistratura, prefectura, governació, priorat, abadiat, cacicat, vicepresidència
 -n: mandioca, iuca, tapioca (fècula)
 -n: mandonguilla, pilota, pilotilla, bola de picolat, farcidura, tarongeta, figatell
 -n: mandra, peresa, galvana, nyonya, xorra, apatia, atonia, accídia, nyerra, pigrícia, os (en sentit figurat), os bertran, os guillem, vessa, gossera (col·loquial), xitxo (col·loquial), gos (NOFEM col·loquial), ganduleria, vagància, mol·lície, blandícia, emperesiment, enganduliment, emmandriment, endropiment, empoltroniment, engorroniment, droperia, poltroneria, indolència, galloferia, desgana, goda (rossellonès), llei del mínim esforç
@@ -6446,6 +6456,7 @@
 -n: menuts, menuderies, menúncies, menudències, minúcies, vísceres, entranyes, nyítols, butza, ganyil (de la tonyina), ventre, ventresca, coradella, moca, freixura
 -n: menyspreu, desdeny, indiferència, desatenció, desestima, desaire, desconsideració, supèrbia, altivesa, menyspreament, menyspreança (antic), menysteniment, menysestimació, miquel, vilipendi, viltinença, ignomínia, conculcació, desestimació, refús, retret, humiliació
 -n: menyspreu, desdeny, indiferència, desatenció, fredor, gelor
+-n: menú, cobert, menjar, àpat, servei
 -n: meravella, miracle, prodigi, portent, fenomen
 -n: meravella, preciositat, cosa meravellosa, encant, cosa encantadora, encantall, monada (col·loquial) #...
 -n: mercat, comerç, intercanvi, tràfic, mercadeig, compravenda
@@ -6578,6 +6589,7 @@
 -n: mucositat, mucus, secreció, flegma, moc, flema (DNV)
 -n: mugit, mugiment, bruel, bramul, bram, bruelament, braol, mu (onomatopeia)
 -n: mugró, mamil·la # pitó
+-n: mullena, mullim, banyer (NOFEM), remullada, banyadura
 -n: multitud, munió, gentada, generació, gernació, concurrència, concurs, aglomeració, bandada, caterva, catèrvola, afluència, exèrcit, turba, turbamulta, tropell, horda, formiguer, patoll, patolla, eixam, marabunta, tracalada, collada, riuada
 -n: muntanya, munt, mont (en topònims), serra, serralada, massís, serrat, contrafort, morro, morrot, cim, cimal, cresta, pic, agudell, tuc, punta, monticle, muntijol, puig, tossal, turó, promontori, tossa, coma, alt (NOFEM), elevació, pujol, respatller, respatler, eminència, alteró, coll, collada, alturó, serral, tossol, carena, lloma, mota, duna
 -n: muntanyar, dunes, sistema dunar
@@ -6657,8 +6669,9 @@
 -n: niu, nieró, niera, nial, alacranera (d'alacrans), pardalera, pigotera, termiter (de tèrmits), vesper (de vespes)
 -n: no, negativa, negació, prohibició, refús, rebuig, declinació, interdicció
 -n: no-res, absència, buidor, nul·litat, buit, zero
+-n: nobilitat, senyoriu
 -n: noble, cavaller, prohom, pròcer, gentilhome, aristòcrata, patrici (FEM patrícia), senyor, cortesà, gran, lord, milord, duc (FEM duquessa), comte (FEM comtessa), vescomte (FEM vescomtessa), marquès, baró (FEM baronessa), feudatari, arrais (sarraí), ras (sarraí), dàimio (Japó)
--n: noblesa, noblia (antic), aristocràcia, patriciat, senyoralla
+-n: noblesa, noblia (antic), aristocràcia, patriciat, senyoralla, senyoriu
 -n: node, punt
 -n: noguer, noguera, nouer, nouera, anouer, anouera
 -n: noguerar, noguereda, nogassar, anouerar
@@ -7133,7 +7146,7 @@
 -n: podaire, podador (FEM podadora), esporgador (FEM esporgadora)
 -n: poder, autorització, permís, llicència, aquiescència, beneplàcit, llibertat, potestat, vènia, dispensa
 -n: poder, capacitat (f), força, facultat, potència, prepotència, omnipotència, energia, fortalesa, habilitat (f), resiliència, alè, potencial, potencialitat
--n: poder, domini, influència, influx, autoritat, puixança, potència, imperi, sobirania, fèrula, govern, administració, estat, règim, lideratge, comandament, direcció, manament, gestió, cosmocràcia
+-n: poder, domini, influència, influx, autoritat, puixança, potència, imperi, sobirania, fèrula, govern, administració, estat, règim, lideratge, comandament, direcció, manament, gestió, cosmocràcia, senyoriu
 -n: poder, jurisdicció, potestat, autoritat, competència, atribució, responsabilitat, mandat
 -n: poder, ordre establit, ordre establert, establishment (anglès), elit, nomenclatura (en alguns països comunistes), poders fàctics
 -n: poder, possessió, tinença
@@ -7195,6 +7208,7 @@
 -n: postració (forma secundària), prostració
 -n: postres, fruita, llevants, darreries
 -n: postura, oferta, posta
+-n: pot, fons comú
 -n: pou mort, pou sec, pou cec, pou negre, fossa sèptica
 -n: prebenda, bicoca, renda, canongia, sinecura, benefici, privilegi, ganga, ocasió, oportunitat, profit, moma, avantatge, menjadora, càrrec, bon passament, bon passar # pessebre, pesebre ?
 -n: precarietat, inestabilitat, caducitat, labilitat
@@ -7289,7 +7303,7 @@
 -n: prova, intent, temptativa, assaig, provatura, tempteig, experiència, conat, propòsit, primers passos, tempteigs
 -n: proveïdor, provisor, subministrador, abastador, fornidor
 -n: proveïment, subministrament, aprovisionament, avituallament, abastament, provisió, abast, abastiment
--n: província, colònia, domini, territori
+-n: província, colònia, domini, territori, senyoriu, ducat, principat, comtat, vescomtat
 -n: província, departament, territori, districte, comarca, regió, vegueria, circumscripció, demarcació, zona, barri, sector, terme, pedania, estat, land (Alemanya; Àustria), enclavament, governació, óblast (Rússia), comtat (EUA; Regne Unit; Canadà)
 -n: proïsme, els altres, altri, els nostres semblants, els semblants
 -n: pruna, sebest, prunyó, cascavellic, clàudia, diaprea, icac, mirabolà, nectarina
@@ -7366,7 +7380,7 @@
 -n: quotidianitat, vida quotidiana, dia a dia
 -n: qüern, quartet, quarteta, tètrada, quàdruple, quatern, quaterna, tetralogia
 -n: qüestionari, formulari, examen, prova, test, control, enquesta, preguntes
--n: rabera, ramat, guarda, arment, folc (antic), dula, ramera, ramaderia, bestiar, bestiam
+-n: rabera, ramat, guarda, arment, folc (antic), folcat (antic), dula, ramera, ramaderia, bestiar, bestiam
 -n: rabiola, enrabiada, rebequeria, marraneria, criaturada, esclató, reveixinament, enreveixinament, revenxinament, ruc (NOFEM), botó, potra, maliciada, emmaliciada, matxo, rabinada, acalorada, moneia
 -n: rabosa, guineu, guilla, guinarda (antic), renard (antic), guillot, rabosot
 -n: racionalitat #...
@@ -7456,6 +7470,9 @@
 -n: regenerador capil·lar, loció regeneradora
 -n: regirament, remoguda, removiment, remoció remoguda, remenament, remenada, regiró, moviment, trasbals, trasbalsament, capgirament, commoció, tempestat
 -n: regla, principi, màxima, axioma, postulat, veritat, dogma, norma, directriu, guia, pauta, criteri, patró (NOFEM)
+-n: regnat, imperi, domini
+-n: regnat, imperi, mandat, govern
+-n: regnat, regència
 -n: regne, corona, monarquia, reialme, país, nació, estat, principat, ducat, taifa (f)
 -n: reguera, reguerall, regueró, reguerol, xaragall, aragall, regall, escorranc, còrrec, xòrrec, corregall, escòrrec, escorrentia, escorrentiu, escorriment, reguerot, corranc
 -n: regulació, administració, gestió, estandardització, normalització, norma, regla, reglamentació, reglament, regularització, codificació, legislació, costumari
@@ -7467,7 +7484,7 @@
 -n: reincidència, repetició, recidiva, recaiguda, retornada, reaparició
 -n: reixa, reixat, filat, xarxa de filferro, tanca de filferro, tanca metàl·lica
 -n: reixa, reixat, tanca, clos, barrots, enreixat, ballesta, encanyissat, barri, barrera
--n: religiós (NOFEM), germà (NOFEM), frare, clergue, fra, monge (antic), monjo (NOFEM), donat (NOFEM), seglar (antònim), capellà, eclesiàstic (NOFEM), mossèn, prevere, sacerdot, vicari (NOFEM), cenobita, contemplatiu (NOFEM), pare, rector (NOFEM), coadjutor (NOFEM), canonge, beneficiat, diaca, ardiaca, subdiaca, ordenat, levita, pastor, rabí, braman, imam, druida, hierofanta, xaman, muetzí, sacerdotessa, ministre, ministre de Déu, ministre de l'Església, ministre de l'altar, ministre sagrat, ministre del sagrament, flamen (Roma)
+-n: religiós (NOFEM), germà (NOFEM), frare, clergue, fra, monge (antic), monjo (NOFEM), donat (NOFEM), seglar (antònim), capellà, eclesiàstic (NOFEM), mossèn, prevere, sacerdot, vicari (NOFEM), cenobita, contemplatiu (NOFEM), pare, rector (NOFEM), coadjutor (NOFEM), canonge, beneficiat, diaca, ardiaca, subdiaca, ordenat, levita, pastor, rabí, braman, imam, druida, hierofanta, xaman, muetzí, sacerdotessa, ministre, ministre de Déu, ministre de l'Església, ministre de l'altar, ministre sagrat, ministre del sagrament, flamen (Roma), reverend (NOFEM)
 -n: relleu, orografia
 -n: relligadura, enquadernació
 -n: relliscada, esvarada, patinada, lliscada, resquitllada, esquitllada, llenegada
@@ -7586,7 +7603,7 @@
 -n: rondinaire, carrinya, remugador, remugaire, botzinador, botzinaire, mastegatatxes, mastegueres, picatatxes, remugó (FEM remugona), reganyaire, reganyós, renegaire, renegador, criticaire, criticador
 -n: ronyons, ronyonada, reble (col·loquial), renyons, renyonada
 -n: ronyó, renyó
--n: rosada, ros, rou, serena, serení, aigualera, aiguatge, aigualada, mullenada, rellent
+-n: rosada, ros, rou, serena, serení, aigualera, aiguatge, aigualera, aigualada, mullenada, rellent
 -n: rosari de l'esquena, rosari, espinada, columna vertebral, espina dorsal, bigal, raquis, biga de l'esquena, fil de l'esquena
 -n: rosari, pregària, paternòsters (antic), corona, saltiri
 -n: rosariaire, rosarier (FEM rosariera)
@@ -7614,7 +7631,6 @@
 -n: ràfec, ràfol, ràfel, ala, barbacana, volada, barbada, caient, canalera, eixida, imbricació, trencaaigües, cornisa, teuladeta
 -n: rànquing, classificació, llista
 -n: rècord, marca, plusmarca, resultat
--n: rèmol, turbot, rom
 -n: rèptil, estegosaure, ofidi, plesiosaure, riptoglòs, saure, sauròpode, serp, teròpode
 -n: rèquiem, missa de difunts, ofici de difunts, missa de rèquiem
 -n: ròssa (ort. pre-2017), rossa, perranya, rossí, cavall vell, mul vell
@@ -7634,6 +7650,7 @@
 -n: sagrari, tabernacle
 -n: sagristà, escolà, apagaciris
 -n: saig (història), executor
+-n: sajolida, saborija
 -n: sala de vetlla, sala de vetla, vetllador, vetlador, vetllatori, vetlatori
 -n: saladura, salaó, salat, salada
 -n: salanc, salobre
@@ -7749,7 +7766,7 @@
 -n: si, badia, cala, rada, calanca
 -n: si, cavitat, depressió, concavitat, profunditat, carcau, foia
 -n: si, matriu, úter, ventre, entranyes, claustre matern, entràmenes (antic)
--n: si, nucli, interior, cor, dins, dintre, tripa, dedins, intimitat, profunditat, quinta essència, retret
+-n: si, nucli, interior, cor, dins, dintre, tripa, dedins, intimitat, profunditat, quinta essència, essència
 -n: sicari, esbirro, torturador, turmentador
 -n: sigil sacramental, secret de confessió
 -n: sigil, reserva, discreció, secret, circumspecció, precaució, compte, indiscreció (antònim), diplomàcia, confidencialitat, prudència
@@ -7794,6 +7811,7 @@
 -n: socorrista, salvavides
 -n: soda, aigua carbònica, sifó, gínger, gasosa, aigua gasificada, aigua de seltz, aigua amb gas
 -n: software (anglès), programari, programes informàtics, aplicacions informàtiques, suport lògic, programa, aplicació
+-n: sol ixent, sol naixent, sortida de sol, eixida de sol, orto, ortus, ixent
 -n: sol, llum (f), claror, il·luminació, entreclaror, besllum, entrellum, contraclaror, dia
 -n: sola #...
 -n: solar, descampat, pati, predi, parcel·la, terreny
@@ -7875,7 +7893,7 @@
 -n: supervisió, vigilància, inspecció, control, examen, revisió, repàs, repassada, comprovació, monitoratge
 -n: supervivència, subsistència, pervivència, permanència, conservació, preservació, desaparició (antònim), mort (antònim)
 -n: superàvit, excedent, excés, sobrant, romanent, resta, dèficit (antònim)
--n: suputació, tant alçat, alfarràs, capmàs, preufet, barrisc, escandall, prea, preament, valoració, avaluació
+-n: suputació, tant alçat, alfarràs, capmàs, preufet, barrisc, escandall, prea, preada, preament, valoració, avaluació
 -n: suèter, jersei, rebeca, pul·lòver, dessuadora, càrdigan, jaqueta
 -n: suïcida, kamikaze
 -n: sàlvia, labiada (família)
@@ -8015,7 +8033,7 @@
 -n: tifus groc, febre groga
 -n: tija, ast
 -n: til·ler, tell, tillol, farot
--n: timba, precipici, barranc, abisme, abís, estimball, cingle, espadat, penya-segat, balç, esbalçader, despenyador, espenyador, aspriu, basera, baser, escarpament, enderrocador (NOFEM), penyater, timbera, fall, profunditat, fossa
+-n: timba, precipici, barranc, abisme, abís, estimball, cingle, cinglera, espadat, penya-segat, balç, esbalçader, despenyador, espenyador, aspriu, basera, baser, escarpament, enderrocador (NOFEM), penyater, timbera, fall, profunditat, fossa
 -n: timoner, pràctic, nauxer, pilot
 -n: timó, governall, direcció, platós #...
 -n: tintoreria, bugaderia, llavaneria (valencià)
@@ -8028,6 +8046,7 @@
 -n: tirada, inclinació, jaient, tendència, inclinança, propensió, vocació, proclivitat, predisposició, tirat, instint, decantament, predilecció, clim
 -n: tirador (NOFEM), tiragomes, fona, mandró, bassetja
 -n: tirallet, mamadora
+-n: tirania, cacicat, dictadura, cabdillatge
 -n: tirants, elàstics
 -n: tisorada, estisorada, tallada, retallada, escurçament, escurçada, retallament
 -n: titella, fantotxe, ninot, putxinel·li, testaferro, home de palla (FEM dona de palla), comparsa, figurant
@@ -8059,7 +8078,7 @@
 -n: torrada de Santa Teresa, rosca en ou, llesca en ou, rosta de Santa Teresa, torradeta de Santa Teresa
 -n: torrada, barbacoa, graellada, carn a la brasa, costellada, rostida, carnada
 -n: torrada, torradeta, pa torrat, llesca, rosta, tostó
--n: torre, torrelló, torreta, minaret, talaia, torratxa, campanar, cloquer #...
+-n: torre, torrelló, torreta, minaret, talaia, torratxa, campanar, cloquer, miralla (antic) #...
 -n: torsió, torçada, torta, torcedura, torciment, distorsió, caragolament, cargolament, contorsió, torçament, revinclada, vinclament, retorçó, retorciment, acaragolament, revencillada
 -n: tort (NOFEM), abús, greuge, injustícia, desraó, sobreria, iniquitat, abusió (antic), forfet (dret), malifeta, cacicada, arbitrarietat
 -n: torticoli, torcecoll
@@ -8140,7 +8159,7 @@
 -n: trompa, probòscide
 -n: trompeta, fiscorn, clarí, corneta, nafil, anafil, tururut (onomatopeia)
 -n: trompetista, trompeter, trompeta, trompet, corneta
--n: tron, monarquia, reialesa, sobirania, poder, ceptre, regne, reialme, imperi, soli
+-n: tron, monarquia, reialesa, sobirania, poder, autoritat, ceptre, regne, reialme, imperi, soli
 -n: trona, ambó, púlpit
 -n: tronera, sagetera, barbacana, obertura, forat
 -n: trontoll, vacil·lació, oscil·lació, sondroll, tentines, trontolleig, tremolor, agitació, tremoló, tremolí, fremiment, tremor
@@ -8304,6 +8323,8 @@
 -n: violó, contrabaix, verra (col·loquial)
 -n: virago, gallimarsot (col·loquial), dona homenenca, homenot
 -n: virilitat, masculinitat, homenia, efeminament (antònim), feminitat (antònim)
+-n: virosi, malaltia vírica
+-n: virtuosisme, virtuositat, habilitat, facilitat, mestria, domini, perícia, pràctica
 -n: vis còmica, comicitat, gràcia, agudesa, picantor, sal, jocositat, amenitat
 -n: vis, caragol, clau de rosca, tirafons
 -n: visera, ala
@@ -8586,7 +8607,7 @@
 -v (les festes): observar, guardar, santificar, coldre (antic)
 -v (lingüística): conjugar (un verb), flexionar, declinar
 -v (lògica): induir, inferir, generalitzar
--v (malgastar): malgastar, balafiar, malbaratar, dilapidar, prodigar, dissipar, malversar, despecegar, desaprofitar, llençar, gastar, polir-se (col·loquial), fondre, cremar, tirar la casa per la finestra, allargar més els peus que el llençol, estirar més els peus que la flassada, estirar més el braç que la màniga, tirar de veta, tenir la mà foradada, viure al dia, ficar l'olla gran dins de la xica, matar el vedell gras, no estar-se de res, disbauxar, allargar més el peu que la sabata
+-v (malgastar): malgastar, balafiar, malbaratar, dilapidar, prodigar, dissipar, malversar, despecegar, desaprofitar, llençar, gastar, polir-se (col·loquial), fondre, cremar, tirar la casa per la finestra, allargar més els peus que el llençol, estirar més els peus que la flassada, estirar més el braç que la màniga, tirar de veta, tenir la mà foradada, viure al dia, ficar l'olla grossa dins de la xica, matar el vedell gras, no estar-se de res, disbauxar, allargar més el peu que la sabata
 -v (matemàtiques): cubicar, elevar al cub
 -v (matemàtiques): quadrar, elevar al quadrat
 -v (medicina): intervenir, operar
@@ -9857,7 +9878,7 @@
 -v: guanyar, vèncer, derrotar, superar, batre, desfer, posar el peu al coll, destrossar, aterrar, deixar fora de combat, deixar fora de joc, posar en vençó (antic), deixar KO (anglès), debel·lar, desconfir (antic), esclafar
 -v: guardar, retenir, quedar-se, confitar-se (irònicament)
 -v: guarir, sanar, curar, restablir, posar bo, tornar la salut, restituir la salut, remeiar
--v: guerrejar, lluitar, fer guerra, barallar-se, batre's, batallar, combatre, justar, junyir, júnyer, opugnar, contendir, contendre, disputar, tornejar, lliurar combat, bregar, pugnar, bornar
+-v: guerrejar, lluitar, fer guerra, barallar-se, batre's, batallar, combatre, justar, junyir, júnyer, opugnar, contendir, contendre, disputar, tornejar, lliurar combat, bregar, pugnar, bornar, lliurar batalla, entaular batalla, entaular combat
 -v: guillar-se, grillar-se, embogir, perdre el cap, esbojarrar-se, enfollir, perdre la raó, tornar boig, tocar-se, trastocar-se, trastornar-se, alienar-se, no tocar-hi, desballestar-se, desbaratar-se, perdre l'enteniment, pirar-se (col·loquial), desficaciar-se, perdre el trellat, beure's el cervell, beure's el seny, beure's l'enteniment, descontrolar-se, perdre l'oremus, perdre els estreps, perdre la xaveta, tornar-se carabassa, tornar-se boig, perdre el coneixement, anar-se'n del cap, tornar-se aigua el cervell, perdre el senderi, perdre el seny, tocar-se de l'ala, tocar-se del bolet, trabucar-se l'enteniment (a algú), xalar-se (col·loquial)
 -v: guinyolar, udolar, ganyolar, carinar, fer udols
 -v: guitar, reguitnar, tirar guitzes, pegar coces, cocejar
@@ -9964,7 +9985,6 @@
 -v: lligar, teixir, entrelligar, entreteixir, entrellaçar, tramar, llaçar, ordir
 -v: lliscar, llenegar, escolar-se, esmunyir-se, escórrer-se, relliscar, esquitllar-se, esvarar, esvarar-se, esbarrar, patinar, resquitllar, esgolar-se
 -v: llistar, enumerar, detallar, apuntar
--v: lliurar batalla, entaular batalla, lliurar combat, entaular combat, lluitar, combatre
 -v: lluitar, esforçar-se, bregar, maldar, contendir, pugnar
 -v: llunyejar, distar, ser lluny, estar lluny
 -v: lubrificar, lubricar, untar, greixar, oliar, enseuar
