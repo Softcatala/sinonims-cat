@@ -282,7 +282,8 @@ public class Dictionary {
       "schorre", "lladoncs", "lluciferisme", "cagueta", "pentura", "posteditor", "bujolada", "pèmpins", "frisbi", "cd",
       "gamaleu", "safranòria", "forquillada", "mossar", "buldroi", "llauseta", "bosníac", "escarrufador", "priàpic",
       "amagable", "boscarró", "lleterosa", "espòlits", "cri-cri", "violinaire", "gatillop", "comunot", "boni",
-      "despavimentar", "aficadís", "carré", "dia cominal", "trencavagues");
+      "despavimentar", "aficadís", "carré", "dia cominal", "trencavagues", "tatano", "fisicitat", "nuassa",
+      "meteotsunami", "antropitzar");
 
   Dictionary(ThesaurusConfig configuration) throws IOException {
 
