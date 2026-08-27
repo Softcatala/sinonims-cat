@@ -5555,7 +5555,7 @@
 -n: figura, forma, aspecte, aparença, físic (NOFEM), exterior, presència, planta, semblant, semblança, fesomia, fisonomia, cara, pinta, fatxa, fila, aire, carés, caire, color, encuny, impressió, parar, port, posat, posa, expressió, caient, jaient, faceta, conspecte
 -n: figura, personalitat, personatge, estrella, ídol, as, divo, protagonista, heroi, cap de brot, eminència, cap d'ala, fènix, astre, homenot, patum (pejoratiu), oracle, colós, espasa, primer espasa, primera espasa, referent, número u, autoritat, cap visible
 -n: figurant, extra, comparsa
--n: fil, tall, ferro, fulla, tallant, escarpell, làmina, tallanta, ganiveta
+-n: fil, tall, ferro, fulla, tallant, escarpell, làmina, tallanta, ganiveta, llos
 -n: fila, filera, tira, tirera, teringa, filada, rengle, renglera, rua, corrua, cavalcada, processó, línia, alineació, alineament, cua, rècua, rècula, corriolada, ruera, camada (d'arbres), caravana
 -n: filferro espinós, filferro d'espines, filferro de punxes, concertina
 -n: filferro, cable, fil de ferro, fil metàl·lic, fil, fil d'aram
@@ -6076,6 +6076,7 @@
 -n: irrigable, regable
 -n: irrupció, entrada, incursió, intrusió, invasió, envaïment, escomesa, entrada de cavall sicilià, ràtzia, assalt, cavalcada, correguda, atac, abordatge
 -n: islam, mitja lluna, islamisme, mahometisme
+-n: isme, moviment, corrent, teoria, doctrina, ideologia
 -n: istme, llengua de terra
 -n: jardineria, jardinatge, paisatgisme
 -n: jardí, hort, parc, verger, fruiterar, hivernacle, umbracle, roserar, parterre, rocalla, floresta, platabanda
@@ -6377,6 +6378,7 @@
 -n: maquineta de fer punta, maquineta, afilamines
 -n: mar calma, mar llisa, bassa d'oli
 -n: mar de fons, mar de fora, mar forana, mar llarguera, mar de lleva, mar de lluny
+-n: mar grossa, maregassa
 -n: mar, oceà, pèlag, mar gran, mar oceana
 -n: maracujà, fruita de la passió, granadilla
 -n: marbre, cipolí, buscarró
@@ -7931,6 +7933,7 @@
 -n: tafarra, rabasta, retranca
 -n: tafurer, papadiners, escurabutxaques, espolsabutxaques, estafa, estafador, afaitapagesos, tafur
 -n: tall, tallada, ració, llenca, llesca, penca, timbarro, tros, làmina, rodella, rodanxa, llonza, pellanc, porció, tinyol, panna, fragment, rodalanya (de suro o fusta), talló
+-n: tallacircuit, disjuntor, interruptor automàtic
 -n: tallada de cabells, esquilada, pelada, rapada
 -n: tallarina, veta, tallarí (DNV), espagueti, fideu
 -n: talleruca, talladura, retall, escaig, tros, escapoló, escapçadura
@@ -9747,7 +9750,7 @@
 -v: fer callar, emmordassar, tapar la boca, silenciar, tancar la boca, reduir al silenci
 -v: fer callar, tancar la boca, tapar la boca, tallar en sec, posar a la muda, cloure la boca, posar palla a l'esquella, reduir al silenci
 -v: fer clic, clicar, prémer, pitjar, picar, tocar
--v: fer compte (d'algú), comptar (amb algú), confiar (en algú), deixar en les mans (d'algú), donar un vot de confiança (a algú), fer un acte de fe, tenir la paraula (d'algú)
+-v: fer compte (d'algú o alguna cosa), comptar (amb algú o alguna cosa), confiar (en algú o alguna cosa), deixar en les mans (d'algú), donar un vot de confiança (a algú), fer un acte de fe (en algú o alguna cosa), tenir la paraula (d'algú), fer paga (d'algú o alguna cosa), fer pagues (d'algú o alguna cosa) # també: fer-se paga/pagues
 -v: fer curt, tallar curt, no arribar
 -v: fer denteta, fer enveja, engelosir, fer glatir, fer gruar, fer babarotes, fer miroies, fer mirallets, fer venir aigua a la boca, fer dentetes, fer dents, ballar l'aigua als ulls, fer venir salivera, fer les dents llargues, temptar, fer gola, excitar, fer saliva, fer ensalivar
 -v: fer drecera, atallar
@@ -10135,7 +10138,7 @@
 -v: particularitzar, distingir, singularitzar, diferenciar, destacar, caracteritzar, marcar, especialitzar
 -v: particularitzar-se, distingir-se, singularitzar-se, diferenciar-se, destacar-se, caracteritzar-se, especialitzar-se
 -v: passar al davant, doblar, superar, remuntar, passar, avançar, colar-se (col·loquial)
--v: passar comptes, comptar, calcular
+-v: passar comptes, comptar, calcular, fer comptes, computar, traure comptes, treure comptes, fer números
 -v: passar comptes, reptar, retraure, retreure, aclarir, passar factura
 -v: passar de mida, passar de taca d'oli, passar de la ratlla, no tenir mida, no tenir mesura, ser molt bèstia
 -v: passar el plat, acaptar, demanar, parar la mà, demanar caritat, demanar almoina, allargar la mà, pidolar, almoinar (antic), pidolejar, captar, mendicar, postular, passar la gorra, passar el plateret, passar el platet, passar la bacina, passar el barret, fer col·lecta
