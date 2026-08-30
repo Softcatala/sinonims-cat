@@ -3164,7 +3164,6 @@
 -n (música): barra de compàs, línia divisòria, tanqueta
 -n (música): calderó, fermata
 -n (música): composició, obra, suite, simfonia, sonata, fuga, opus, concert, preludi, intermezzo, duo, trio, quartet, quintet, sextet, septet, octet, nonet, coral, cantata, oratori, òpera, tocata, peça
--n (música): oratori, cantata
 -n (música): corn, nacra, caragol
 -n (música): diesi, sostingut (NOFEM)
 -n (música): do de pit, nota aguda, pinyol (col·loquial)
@@ -3181,6 +3180,7 @@
 -n (música): mestre, director
 -n (música): música de cambra, música de conjunt
 -n (música): música, banda, xaranga, fanfara, fanfàrria, orquestra, conjunt, xim-xim, cobla, batucada, capella, duo, trio, quartet, quintet, sextet, septet, octet, nonet, cor, coral, gamelan, joglaria, metall, murga, percussió, rondalla
+-n (música): oratori, cantata
 -n (música): pandereta, alduf, aret, pandero
 -n (música): platerets, plats, címbals
 -n (música): plectre, pua
@@ -3903,7 +3903,7 @@
 -n: balança, bàscula, romana, canastró, trabuquet, tirabuquet, pesacartes, microbalança, pes, quiratador, variòmetre, pesabebès, pesainfants
 -n: balcó, galeria, tribuna, badador, llotja, mirador, obertura, veranda, balcona, miranda, balconada, eixidor, eixida, badiu, terrassa, talaia, badador (NOFEM), belvedere (italià)
 -n: balda, baldó, baldeta, baldelló, baldovell, bernat, ferroparet, tanca, barra, cadellet, baldufell
--n: baldufa, giroscopi, trompa, burot
+-n: baldufa, giroscopi, trompa, burot, trompitxol, balladora
 -n: balena, cetaci (ordre), rorqual, beluga, catxalot, narval, orca, iubarta
 -n: ball, dansa, ballada, ballarugues (col·loquial), dansada, ballet, coreografia, balla
 -n: ballador, dansaire, ballarí, ballaire
@@ -4575,7 +4575,7 @@
 -n: conjunt, lot (m), kit (anglès), joc, col·lecció, estoig, equip, caixa, capsa, assortiment
 -n: conjunt, lot (m), paquet, bateria, assortiment, repertori, grup, flota
 -n: conjunt, suma, agregat
--n: conjur, conjurament, conjuració, sortilegi, invocació, exorcisme, deprecació, prec, súplica, imprecació, maledicció, maleïment, execració, evocació
+-n: conjur, conjurament, conjura, conjuració, sortilegi, invocació, exorcisme, deprecació, prec, súplica, imprecació, maledicció, maleïment, execració, evocació
 -n: connector, aplic, endoll, presa de corrent, dolla
 -n: connexió, encadenament, contacte, fil
 -n: connexió, encadenament, contacte, fil, unió, junció, soldadura, empalmament
@@ -5924,6 +5924,7 @@
 -n: història, narració, narrativa, novel·la, conte, contalla, contarella, llegenda, relat, rondalla, crònica, relació, romanç, episodi, ficció, apòleg, historieta, epopeia, mite, tradició, faula, romanço (col·loquial)
 -n: hivernada, eixivernada, eixiverniu, hivern
 -n: hobby, afició, passatemps, entreteniment, divertiment
+-n: holotúria, cogombre de mar, espardenya de mar
 -n: home, baró, mascle, senyor (NOFEM)
 -n: homenatge, submissió, veneració, vassallatge, acatament, subordinació, reverència, besamà, besamans
 -n: homeòstasi, equilibri, equilibrament
@@ -8112,7 +8113,7 @@
 -n: tragineria, arrieria
 -n: tram, ram, ram d'escala
 -n: trama, argument, guió, fil, faula, tramoia
--n: trama, maquinació, intriga, confabulació, conxorxa, tuacte, tuàutem, càbala, complot, conspiració, maniobra, contuberni, traïció, cofisimofis, maneig, trafica, muntatge, consòrcia, conciliàbul, sabotatge
+-n: trama, maquinació, intriga, confabulació, conxorxa, tuacte, tuàutem, càbala, complot, conspiració, maniobra, contuberni, traïció, cofisimofis, maneig, trafica, muntatge, consòrcia, conciliàbul, sabotatge, conjura, conjuració
 -n: trama, tramat, entreteixit, lligam, teixim, ordit, ordidura, ordissatge, canemàs, entramat
 -n: tramoia (teatre), mecanisme, artefacte, maquinària
 -n: tramoista, maquinista
@@ -10713,7 +10714,7 @@
 -v: volar, escapolir-se, esquitllar-se, pirar, escapar, fugir, enfugir-se, guillar, anar-se'n, córrer, fer-se escàpol, evadir-se, esconillar-se, fer-se fonedís, desaparèixer, tocar el dos, espitxar-se (col·loquial), pegar a fugir, arrencar a córrer, arrancar a córrer, escapar a córrer, cucar-se-la, escampar el poll, picar sola, picar de sola, alçar el vol, tocar pirandó, tocar el pirandó, fondre's, esfumar-se, girar cara
 -v: volar, voleiar, voletejar, planar, sostenir-se, revolar, enventar-se, alejar, aletejar
 -v: voler, admetre, concedir, acceptar, assumir, rebre
--v: voler, amar, estimar, adorar, apreciar
+-v: voler, amar, estimar, adorar, apreciar, estar molt (d'algú o alguna cosa), tenir en estima, tenir en gran valor
 -v: voler, anhelar, desitjar, delir-se, ambicionar, pretendre, ansiar, ansiejar, cobejar, sedegar, aspirar, esperar, gruar, frisar, frisar-se, envejar, delejar, glatir, anar darrere, tenir en cor, anar a la saga, sospirar, fondre's
 -v: voletejar, revolar, papallonejar, trescar (les abelles), oronejar
 -v: vomitar, orxegar, boçar, bossar, gitar, canviar la pesseta, buidar, treure, traure, perbocar, vomitejar, giterar, llançar, relleitar, retrencar
