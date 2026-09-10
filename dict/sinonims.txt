@@ -2488,7 +2488,7 @@
 -adj: íntim, entranyable, estret, proper, pròxim
 -adj: íntim, intern, secret, ocult, privat, confidencial, reservat, amagat, callat, invisible
 -adj: íntim, pregon, profund, intens, arrelat, visceral
--adj: útil, profitós, beneficiós, eficaç, eficient, productiu, lucratiu, rendible, reditici, redituable, proficu, remunerador, saludable, retent, florent, pròsper, avantatjós, que surt a compte, que ix a compte, prosperós
+-adj: útil, profitós, beneficiós, eficaç, eficient, productiu, lucratiu, rendible, reditici, redituable, proficu, remunerador, saludable, retent, florent, pròsper, avantatjós, que surt a compte, que ix a compte, prosperós # comercial=rendible? (DNV), una mica forçat
 -adj: útil, utilós, utilitzable, aprofitable, usable, disponible, a punt
 -adv (en frases negatives): gens, gota, brot, mica, gens ni gota, gens ni mica, ni poc ni gaire, ni poc ni gens, ni poc ni molt, ni semença, ni senyal, ni una iota, ni un bri, ni una engruna, ni un pèl, ni una mica
 -adv (en frases negatives): res, brot
@@ -4904,6 +4904,7 @@
 -n: calderada, perolada, caldera
 -n: calefactor, calfador, escalfador, estoreta elèctrica, estufa, termos, termo
 -n: calendari, almanac, epacta (litúrgic), llunari, pronòstic, santoral, efemèrides, cronologia, agenda
+-n: calendari, cronograma, planificació
 -n: calibrador, comparador
 -n: calitja, calima, boirina, borrim, bromitja, boirim, neula, neulia, boirada, boirassa, broma, bromassa, bromada, pixotera, fumassola, boiregada
 -n: caliu, brasa, cendra viva, brasada, brasquer, caliuada, caliuera
@@ -5438,7 +5439,7 @@
 -n: connotació, significació, significat, valor, indicació, denotació, implicació, suggeriment, sentit, intenció
 -n: conquesta, conquista, ocupació, domini, invasió, presa, expugnació, reconquesta, reconquista, subjugació, dominació, apoderament, ensenyoriment, annexió
 -n: conquistador (NOFEM), seductor (NOFEM), bombó (col·loquial), trencacors (col·loquial), Don Joan, casanova, saltamarges, abusador (NOFEM), galant (NOFEM), festejador (NOFEM), correlestotes, triomfador (NOFEM), gigoló
--n: conquistadora, seductora, bombó (col·loquial), trencacors (col·loquial), tigressa (col·loquial), vampiressa, triomfadora, femme fatale (francès)
+-n: conquistadora, seductora, bombó (col·loquial), trencacors (col·loquial), tigressa (col·loquial), vampiressa, triomfadora, femme fatale (francès), dona fatal
 -n: conreu, cultiu, cultura
 -n: consagració, dedicació, benedicció, coronament, sacralització, coronació
 -n: consagrar, dedicar, beneir
@@ -5606,6 +5607,7 @@
 -n: crit d'alerta, crit d'atenció, avís
 -n: croada, guerra santa, expedició, incursió
 -n: cromatró, cromoscopi
+-n: cronometratge, mesurament, còmput, crono (col·loquial)
 -n: crosta, crostera, pell morta
 -n: crucificació, crucifixió
 -n: crudivorisme, crudivegetarianisme, crudiveganisme
@@ -6844,6 +6846,7 @@
 -n: gallinaire, galliner (FEM gallinera), pollastraire, pollastrer (FEM pollastrera), pollater (FEM pollatera), pollataire, cocouer
 -n: gallufa, boixerola
 -n: galta, costat, cara, pòmul
+-n: galvanització, galvanisme, electroteràpia
 -n: galvanografia, electrotípia
 -n: galvanotípia, electrotípia
 -n: galvanòlisi, electròlisi
@@ -8435,7 +8438,7 @@
 -n: patenta, quintada, broma pesada
 -n: paternalisme, sobreprotecció
 -n: paternitat, autoria
--n: pati, atri, claustre, porxada, esgambi
+-n: pati, atri, claustre, porxada
 -n: patognomonia, patognòmia
 -n: patogènesi, fitopatogènesi
 -n: patriota, nacionalista
@@ -9095,7 +9098,7 @@
 -n: relligadura, enquadernació
 -n: relliscada, esvarada, patinada, lliscada, resquitllada, esquitllada, llenegada
 -n: rellotge d'arena, ampolleta, ampolleta d'hores
--n: rellotge, cronòmetre, cronògraf, temporitzador, despertador, ampolleta, clepsidra, tic-tac, carilló, quadrant solar, quadrant
+-n: rellotge, cronòmetre, crono (col·loquial), cronògraf, temporitzador, despertador, ampolleta, clepsidra, tic-tac, carilló, quadrant solar, quadrant
 -n: relé, interruptor, regulador, distribuïdor, commutador, disjuntor
 -n: relíquia, escapulari
 -n: rematant, fustaire
