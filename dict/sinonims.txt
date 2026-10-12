@@ -116,7 +116,7 @@
 -adj/n: belluguet, malestatger, cul de mal seient, bellugadís, argent viu, bellugós, ballaruga, faluga
 -adj/n: benaventurat, feliç, beat, benaurat
 -adj/n: berber, amazic (FEM amaziga)
--adj/n: boig, foll, orat, sonat, insà, trastornat, pertorbat, al·lucinat (col·loquial), alienat, com una gàbia (col·loquial), gàbia (col·loquial), trastocat, pirat (col·loquial), guillat, grillat, dement, psicòpata, volat (col·loquial), tocat (col·loquial), tocat de l'ala (FEM tocada de l'ala), tocat del bolet (FEM tocada del bolet), tocat del perol (FEM tocada del perol), tronat (col·loquial), torrat (col·loquial), desequilibrat, maníac, com un cabàs de gats, llampat, xalat (col·loquial)
+-adj/n: boig, foll, orat, sonat, insà, trastornat, pertorbat, al·lucinat (col·loquial), alienat, com una gàbia (col·loquial), gàbia (col·loquial), trastocat, pirat (col·loquial), guillat, grillat, dement, psicòpata, volat (col·loquial), tocat (col·loquial), tocat de l'ala (FEM tocada de l'ala), tocat del bolet (FEM tocada del bolet), tocat del perol (FEM tocada del perol), tronat (col·loquial), torrat (col·loquial), desequilibrat, maníac, com un cabàs de gats, llampat, xalat (col·loquial), boiet (col·loquial)
 -adj/n: bonàs, tros de pa, bonatxàs (FEM bonatxassa), jan, bon jan, janot, de pa d'àngel, bona persona, ben entranyat (FEM ben entranyada), de bona pasta, de bon natural, de bon geni, pacífic, càndid, albat (NOFEM), innocent, pobre d'esperit, candi (FEM càndia), tros de carn batejada, bajoc, bajoca, fava, bonastre, bonifaci, malvat (antònim), beneit, beneitó, infeliç
 -adj/n: borrianer, borrianenc
 -adj/n: bosnià (FEM bosniana), bosníac (bosnià musulmà FEM bosníaca)
@@ -4427,6 +4427,7 @@
 -n: arruixadora, arruixador (NOFEM), brufador (NOFEM), regadora, ruixador (NOFEM), aspersor (NOFEM)
 -n: arròs a banda, arròs del senyoret
 -n: arròs al forn, arròs passejat, arròs amb crosta
+-n: arsenal, dipòsit, magatzem, armeria, polvorí, parc, santabàrbara
 -n: arseni, arsènic
 -n: arsina, àrsia
 -n: art, destresa, habilitat (f), manya, mestria, tècnica, traça, aptitud, enginy, perícia, aptesa, tranc, indústria, astúcia, professionalitat, capacitat (f), disposició, vocació, solvència, grapa
@@ -5955,7 +5956,7 @@
 -n: drap, llenç, roba, teixit, tela, feltre, burell, burat, blonda, bèrnia, tissú, pella (història), peia (història), filempua, gasa, glassa
 -n: drap, parrac, esquinçall, esqueixall, pellingot, escassigall, estrassa, pedaç
 -n: drapaire, parraquer, pedacer, parracaire, robavellaire, robaveller (FEM robavellera), escassigallaire, trastaire, revenedor, antiquari
--n: drassana, dipòsit, hangar, local, magatzem, nau, mestrança, grada, doc
+-n: drassana, dipòsit, hangar, local, magatzem, nau, mestrança, grada, doc, arsenal
 -n: drecera, travessa, trencall, atall, camí travesser
 -n: dret consuetudinari, usos, costums, usatges
 -n: dret, facultat, poder, llibertat, prerrogativa, potestat, atribut, atribució, fur, privilegi, competència, llicència, autorització
@@ -7093,6 +7094,7 @@
 -n: heliotropina, piperonal
 -n: helmintosi, helmintiasi, verminosi
 -n: hemaglutinació, hemoaglutinació
+-n: hematohidrosi, suor sanguinolenta # hemohidrosi, hematidrosi (DNV)
 -n: hematoma, hemorràgia, vessament
 -n: hemeralopia, ceguetat nocturna, ceguetat crepuscular, ambliopia crepuscular
 -n: hemeroteca, premsa, publicacions periòdiques
@@ -7319,7 +7321,7 @@
 -n: investigador, recercador, científic, estudiós
 -n: invitació, convocatòria, cita, citació, convocació
 -n: inòpia, desconeixement, distracció #comprovar, només en el DNV
--n: iodització, ieisme
+-n: iodització (històric), ieisme
 -n: iperita, yperita
 -n: ira, còlera (f), ràbia, indignació, fellonia, irritació, fúria, furor, exasperació, iracúndia, enuig, despit, enfuriment, bilis, exaltació, violència
 -n: iracúndia, irritabilitat
@@ -9219,6 +9221,7 @@
 -n: robot, bot, agent
 -n: robí, carboncle, balaix
 -n: robòtica, automatització, robotització, domòtica
+-n: roda dentada, pinyó, plat
 -n: rodable, tiràs
 -n: rodal, sotagot, posagots
 -n: rodapeu, entornpeu, sòcol, repeu, peu
@@ -9488,6 +9491,7 @@
 -n: sistema bancari, banca
 -n: sistema de posicionament global, GPS
 -n: sitiet, llassa, capçana, estalvis, maruà, tenidor (NOFEM), descansador, posador (NOFEM)
+-n: sitja, celler, bodega, cava, pallol
 -n: sitja, graner
 -n: sitra, bidó, llanda, llauna
 -n: sivina, savina
