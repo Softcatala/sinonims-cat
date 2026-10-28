@@ -303,6 +303,7 @@ public class Dictionary {
     ltCat.disableRule("EXIGEIX_VERBS_CENTRAL");
     ltCat.disableRule("DISFRUTAR");
     ltCat.disableRule("EXIGEIX_POSSESSIUS_V");
+    ltCat.disabledRule("FRASE_INFINITIU");
     ltCat.disableCategory(new CategoryId("PUNCTUATION"));
     ltCatVal.disableRule("UPPERCASE_SENTENCE_START");
     tagger = (CatalanTagger) ltCatVal.getLanguage().getTagger();

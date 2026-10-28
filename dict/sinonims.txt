@@ -1287,6 +1287,7 @@
 -adj: generós, munífic, esplèndid, liberal, munificent, desprès, rumbós, pròdig, altruista, magnànim, caritatiu, llarg, bondadós, despecec (antic), lliberal, donador, llarg en el donar, amic de donar, avar (antònim), desinteressat
 -adj: genital, genitori, sexual, generador, reproductiu, veneri
 -adj: geniüt, carrinya, rampellut, colèric, rabiüt, iracund, irascible, de geni fort, del morro fort, furiós, irritable, felló, biliós, violent, atrabiliari
+-adj: geosincrònic, geosíncron (FEM geosíncrona)
 -adj: geperut, gibós, deforme, mal fet, gepic
 -adj: germanoparlant, germanòfon
 -adj: germà, bessó
@@ -2384,7 +2385,7 @@
 -adj: tècnic, tecnològic, científic, especialitzat
 -adj: tímid, pusil·lànime, feble, dèbil, d'ànim flac, ànima de càntir, pobre d'esperit
 -adj: tímid, vergonyant, apocat, ruborós, encongit, vergonyós, retret, silenciós, mut, pusil·lànime, poruc, temorec, timorat, escrupolós, torbat, avergonyit, confús, empegueït, indecís, clos, pobre d'esperit, mancat d'esperit, d'ànim flac, introvertit, tancat, extravertit (antònim), reservat, aprensiu, ànima de càntir
--adj: ubic, omnipresent
+-adj: ubic, omnipresent, universal
 -adj: udolador, udolaire
 -adj: ufanós, esponerós, abundant, copiós, fresc, tofut, espès (FEM espessa), frondós, bledà, exuberant, gemat, florescent, mústic (antònim), ufà, verd
 -adj: ullcluc, amb els ulls clucs, amb els ulls tancats
@@ -2619,7 +2620,7 @@
 -adv: baix de tot, a baix de tot, al capdavall, al peu, al fons
 -adv: baix, en veu baixa, a sota veu, a mitja veu, a la sordina, a la sorda, fluix, suaument, a cau d'orella, de baix en baix, baix-baix
 -adv: balandrim-balandram, balandrejant
--adv: barroerament, incurosament, grollerament, toscament, descurosament, desacuradament, potinerament, a cops de puny, de qualsevol manera, a arraps, arreu, barrip-barrap, barrim-barram, a la babalà, sense mirament, atrafegadament, atropelladament, pengim-penjam, a la bona de Déu, descuradament
+-adv: barroerament, incurosament, grollerament, toscament, descurosament, desacuradament, potinerament, a cops de puny, de qualsevol manera, a arraps, arreu, barrip-barrap, barrim-barram, a la babalà, sense mirament, atrafegadament, atropelladament, pengim-penjam, a la bona de Déu, descuradament, a trossos i mossos
 -adv: bis, una altra vegada, una altra volta
 -adv: breument, succintament, ràpidament, concisament, sumàriament, lacònicament, compendiosament, sòbriament, parcament, resumidament, amb quatre pinzellades, en quatre ratlles, en una paraula, telegràficament
 -adv: bruscament, a sac, a raig, pel broc gros, sense engaltar, sense embuts, a boca de canó, tal com raja, sense miraments, sense mirar prim, a la desfeta, a la descosida, sense circumloquis
@@ -3088,7 +3089,8 @@
 -conj (causal): perquè, car, ja que, puix, puix que, per tal com, com sigui que, pel fet que, atès que, del moment que
 -conj (final): perquè, per tal que, a fi que, a fi i efecte que
 -conj: a mesura que, mentre
--conj: així com, i també
+-conj: així com, de la mateixa manera que, tal com
+-conj: així com, i també, com també, i
 -conj: atès que, considerant que, tenint en compte que, havent esguard que, vist que, en vista que
 -conj: com ara, com per exemple, semblant a, semblantment a, com és ara
 -conj: com, com que, pel fet que, sent així que
@@ -3097,7 +3099,7 @@
 -conj: en la mesura que, tant com, en la proporció que
 -conj: en tant que, en la mesura que, en la proporció que, en quant # sempre que
 -conj: encara sort que, encara rai que, i bo que, sort que, encara com que, valga que
--conj: malgrat que, a pesar que, per bé que, encara que, bé que, tot i que, si bé, quan, amb tot i que, per molt que, per més que, per... que sigui, baldament, mal que
+-conj: malgrat que, a pesar que, per bé que, encara que, bé que, tot i que, si bé, quan, amb tot i que, per molt que, per més que, per... que sigui, baldament, mal que, així com
 -conj: mentre, mentrimentres, mentres (DNV), dementre (antic)
 -conj: no... sinó, no... més que, no... excepte, tan solament, tan sols
 -conj: o, o bé, sia... sia..., bé... bé..., sia... o...
@@ -4985,6 +4987,7 @@
 -n: cantúria, cantiri, cants, canticela, canturel·la, cançons, cantadissa
 -n: canudera, canuguera
 -n: canut, palla, canya, palleta, canyeta, canonet, tub, cilindre
+-n: canvi d'escala, escalatge
 -n: canvi, bescanvi, intercanvi, barata, permuta, troc, barat, tracte, escanvi, truca
 -n: canvi, mutació, transformació, transmutació, modificació, variació, alteració, metamorfosi, trabucament, transposició, inversió, capgirament, capgirell, capgirada, tombada, evolució, progrés, innovació, millora, novetat, reforma, commutació, mudament, mudança, muda, afecció, crisi, trànsit, desplaçament, revolució, trasmudança
 -n: canvista, canviador (antic)
@@ -5527,7 +5530,7 @@
 -n: corona, diadema, tiara, garlanda
 -n: coronament, acabament, rematada, remat, colofó
 -n: corporativisme, gremialisme, amiguisme, sectarisme, esperit de cos
--n: corporeïtat, fisicitat
+-n: corporeïtat, fisicitat, corporalitat
 -n: corpus, conjunt, recull, col·lecció, recopilació, compilació, catàleg
 -n: correcames, coet borratxo
 -n: correig, eixanguer
